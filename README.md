@@ -26,7 +26,7 @@ export class IntegDefault extends cdk.Construct {
     // Use this way.
     role.addManagedPolicy(iam.ManagedPolicy.fromAwsManagedPolicyName(AWSManagedPolicies.AMAZON_SSM_MANAGED_INSTANCE_CORE));
 
-    //Not this way.
+    // Not this way.
     role.addManagedPolicy(iam.ManagedPolicy.fromAwsManagedPolicyName('AmazonSSMManagedInstanceCore'));
   }
 }
