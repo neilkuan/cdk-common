@@ -108,6 +108,16 @@
       "type": "peer"
     },
     {
+      "name": "@aws-cdk/aws-lambda",
+      "version": "^1.125.0",
+      "type": "peer"
+    },
+    {
+      "name": "@aws-cdk/aws-s3",
+      "version": "^1.125.0",
+      "type": "peer"
+    },
+    {
       "name": "@aws-cdk/core",
       "version": "^1.125.0",
       "type": "peer"
@@ -124,6 +134,16 @@
     },
     {
       "name": "@aws-cdk/aws-iam",
+      "version": "^1.125.0",
+      "type": "runtime"
+    },
+    {
+      "name": "@aws-cdk/aws-lambda",
+      "version": "^1.125.0",
+      "type": "runtime"
+    },
+    {
+      "name": "@aws-cdk/aws-s3",
       "version": "^1.125.0",
       "type": "runtime"
     },
