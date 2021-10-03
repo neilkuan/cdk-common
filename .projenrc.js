@@ -1,5 +1,5 @@
 const constant = require('case').constant;
-const { AwsCdkConstructLibrary, DependenciesUpgradeMechanism, SourceCode, FileBase } = require('projen');
+const { AwsCdkConstructLibrary, SourceCode, FileBase } = require('projen');
 
 const PROJECT_NAME = 'cdk-common';
 const PROJECT_DESCRIPTION = 'Common AWS CDK librarys.';
@@ -27,13 +27,13 @@ const project = new AwsCdkConstructLibrary({
     '@aws-cdk/core',
   ],
   autoDetectBin: false,
-  depsUpgrade: DependenciesUpgradeMechanism.githubWorkflow({
+  depsUpgradeOptions: {
     ignoreProjen: false,
     workflowOptions: {
       labels: ['auto-approve'],
       secret: 'AUTOMATION_GITHUB_TOKEN',
     },
-  }),
+  },
   autoApproveOptions: {
     secret: 'GITHUB_TOKEN',
     allowedUsernames: ['neilkuan'],
@@ -51,7 +51,7 @@ const project = new AwsCdkConstructLibrary({
     'case',
   ],
 });
-const common_exclude = ['cdk.out', 'cdk.context.json', 'yarn-error.log', 'coverage', 'venv'];
+const common_exclude = ['cdk.out', 'cdk.context.json', 'yarn-error.log', 'coverage'];
 project.gitignore.exclude(...common_exclude);
 
 project.npmignore.exclude(...common_exclude, 'image');
