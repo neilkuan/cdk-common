@@ -53,6 +53,5 @@ cdk.out
 cdk.context.json
 yarn-error.log
 coverage
-venv
 !/src/managed-policies.ts
 !/.github/workflows/release.yml
