@@ -148,7 +148,22 @@ Use this property to acknowledge this limitation and still place the function in
 
 ---
 
-##### `architectures`<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.architectures"></a>
+##### `architecture`<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.architecture"></a>
+
+```typescript
+public readonly architecture: Architecture;
+```
+
+- *Type:* [`@aws-cdk/aws-lambda.Architecture`](#@aws-cdk/aws-lambda.Architecture)
+- *Default:* Architecture.X86_64
+
+The system architectures compatible with this lambda function.
+
+---
+
+##### ~~`architectures`~~<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.architectures"></a>
+
+- *Deprecated:* use `architecture`
 
 ```typescript
 public readonly architectures: Architecture[];
@@ -157,7 +172,7 @@ public readonly architectures: Architecture[];
 - *Type:* [`@aws-cdk/aws-lambda.Architecture`](#@aws-cdk/aws-lambda.Architecture)[]
 - *Default:* [Architecture.X86_64]
 
-The system architectures compatible with this lambda function.
+DEPRECATED.
 
 ---
 
