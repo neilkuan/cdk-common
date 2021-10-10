@@ -3419,6 +3419,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_RDS_CUSTOM_PREVIEW_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_RDS_CUSTOM_PREVIEW_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AMAZON_ROUTE53_RECOVERY_CONTROL_CONFIG_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_ROUTE53_RECOVERY_CONTROL_CONFIG_READ_ONLY_ACCESS"></a>
 
 ---
@@ -3585,6 +3590,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `HEALTH_ORGANIZATIONSSERVICEROLEPOLICY` <a name="cdk-common.AWSManagedPolicies.HEALTH_ORGANIZATIONSSERVICEROLEPOLICY"></a>
+
+---
+
+
+#### `AMAZON_RDS_CUSTOM_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_RDS_CUSTOM_SERVICE_ROLE_POLICY"></a>
 
 ---
 
@@ -3865,6 +3875,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSIO_T_DEVICE_DEFENDER_ADD_THINGS_TO_THING_GROUP_MITIGATION_ACTION` <a name="cdk-common.AWSManagedPolicies.AWSIO_T_DEVICE_DEFENDER_ADD_THINGS_TO_THING_GROUP_MITIGATION_ACTION"></a>
+
+---
+
+
+#### `AMAZON_MEMORY_DB_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_MEMORY_DB_READ_ONLY_ACCESS"></a>
 
 ---
 
@@ -4370,6 +4385,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSAPPLICATION_MIGRATION_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSAPPLICATION_MIGRATION_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AMAZON_MEMORY_DB_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_MEMORY_DB_FULL_ACCESS"></a>
 
 ---
 
