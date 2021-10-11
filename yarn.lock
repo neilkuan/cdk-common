@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@aws-cdk/assert@^1.125.0":
+"@aws-cdk/assert@^1.127.0":
   version "1.127.0"
   resolved "https://registry.yarnpkg.com/@aws-cdk/assert/-/assert-1.127.0.tgz#7a3756def9ed8b4d298079bdb4e3be05aa2524c1"
   integrity sha512-sZDURrPbLaS+Fadul1MX5Xy/l2K5QvbS7poomnwD1Ejs+1chgksVWBqRehjjAmDTIy1zNb4K+8qm9oFtdw3VmQ==
@@ -59,7 +59,7 @@
     "@aws-cdk/core" "1.127.0"
     constructs "^3.3.69"
 
-"@aws-cdk/aws-ec2@1.127.0", "@aws-cdk/aws-ec2@^1.125.0":
+"@aws-cdk/aws-ec2@1.127.0", "@aws-cdk/aws-ec2@^1.127.0":
   version "1.127.0"
   resolved "https://registry.yarnpkg.com/@aws-cdk/aws-ec2/-/aws-ec2-1.127.0.tgz#6cfa1c030be921e897fba7a17423239a0e0049ca"
   integrity sha512-IEedoIggElQykS6shFTHyQedG8dXVPoyX6xOQTgvfgMJti1gtstFc85ZABRQhLqNWrJJR80zI04LhDy8denUjw==
@@ -123,7 +123,7 @@
     "@aws-cdk/core" "1.127.0"
     constructs "^3.3.69"
 
-"@aws-cdk/aws-iam@1.127.0", "@aws-cdk/aws-iam@^1.125.0":
+"@aws-cdk/aws-iam@1.127.0", "@aws-cdk/aws-iam@^1.127.0":
   version "1.127.0"
   resolved "https://registry.yarnpkg.com/@aws-cdk/aws-iam/-/aws-iam-1.127.0.tgz#04f47e1cd6d71bf05975e400f9bbf100db57388b"
   integrity sha512-JPbf69uj3LmE9nM2Y1vVGO6zMIu9mWGKq3k21PFGLbxExvRiSYrmYFt1qqDNIcSgOubN6kQa8dD4R5j8QPlpDg==
@@ -143,7 +143,7 @@
     "@aws-cdk/cx-api" "1.127.0"
     constructs "^3.3.69"
 
-"@aws-cdk/aws-lambda@^1.125.0":
+"@aws-cdk/aws-lambda@^1.127.0":
   version "1.127.0"
   resolved "https://registry.yarnpkg.com/@aws-cdk/aws-lambda/-/aws-lambda-1.127.0.tgz#a65ecbec841676df96e266dab23909d573c378cd"
   integrity sha512-OPYaBYDqPyuqOY9Q/UWMiNSGu3envS5Gn6qEc0O6sW7s1GKgVNNbPBn+LDeeIbp+inwdCNOSFQRy/hTIfQctVg==
@@ -193,7 +193,7 @@
     "@aws-cdk/cx-api" "1.127.0"
     constructs "^3.3.69"
 
-"@aws-cdk/aws-s3@1.127.0", "@aws-cdk/aws-s3@^1.125.0":
+"@aws-cdk/aws-s3@1.127.0", "@aws-cdk/aws-s3@^1.127.0":
   version "1.127.0"
   resolved "https://registry.yarnpkg.com/@aws-cdk/aws-s3/-/aws-s3-1.127.0.tgz#5a12e50b246a628a59260f415e7fa2d8f9bd9ba9"
   integrity sha512-PbmbY52MaN12H76U8K3ytdHTlC1uFa3aC9RyQ8hZR1RMThxXEzrrn8SznoPyLIQyaaXDiI0ptKyo3nDvMM43tQ==
@@ -263,7 +263,7 @@
     string-width "^4.2.3"
     table "^6.7.2"
 
-"@aws-cdk/core@1.127.0", "@aws-cdk/core@^1.125.0":
+"@aws-cdk/core@1.127.0", "@aws-cdk/core@^1.127.0":
   version "1.127.0"
   resolved "https://registry.yarnpkg.com/@aws-cdk/core/-/core-1.127.0.tgz#175a1b8de80c4abc560de142d5c82a29cf106fd4"
   integrity sha512-1Q+KogP+wsHIj9xItA6RVBAwF9gDcdXfGl2qks1TRJu9ekhswSY5cd6LfW4rxGg7JrrwKLipZRvVoOeG5hQNag==
