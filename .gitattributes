@@ -18,6 +18,5 @@
 /LICENSE                           	linguist-generated
 /package.json                      	linguist-generated
 /src/managed-policies.ts           	linguist-generated
-/tsconfig.eslint.json              	linguist-generated
-/tsconfig.jest.json                	linguist-generated
+/tsconfig.dev.json                 	linguist-generated
 /yarn.lock                         	linguist-generated
