@@ -38,7 +38,7 @@ const project = new AwsCdkConstructLibrary({
     secret: 'GITHUB_TOKEN',
     allowedUsernames: ['neilkuan'],
   },
-  python: {
+  publishToPypi: {
     distName: 'cdk-common',
     module: 'cdk_common',
   },
