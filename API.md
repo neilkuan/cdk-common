@@ -3594,6 +3594,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSMIGRATION_HUB_STRATEGY_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSMIGRATION_HUB_STRATEGY_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AMAZON_RDS_CUSTOM_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_RDS_CUSTOM_SERVICE_ROLE_POLICY"></a>
 
 ---
@@ -4399,6 +4404,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSMIGRATION_HUB_STRATEGY_COLLECTOR` <a name="cdk-common.AWSManagedPolicies.AWSMIGRATION_HUB_STRATEGY_COLLECTOR"></a>
+
+---
+
+
 #### `CLOUD_FORMATION_STACK_SETS_ORG_MEMBER_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.CLOUD_FORMATION_STACK_SETS_ORG_MEMBER_SERVICE_ROLE_POLICY"></a>
 
 ---
@@ -4730,6 +4740,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_E_C2_ROLEFOR_AWS_CODE_DEPLOY_LIMITED` <a name="cdk-common.AWSManagedPolicies.AMAZON_E_C2_ROLEFOR_AWS_CODE_DEPLOY_LIMITED"></a>
+
+---
+
+
+#### `AWSMIGRATION_HUB_STRATEGY_CONSOLE_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSMIGRATION_HUB_STRATEGY_CONSOLE_FULL_ACCESS"></a>
 
 ---
 
