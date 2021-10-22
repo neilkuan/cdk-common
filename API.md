@@ -342,7 +342,7 @@ public readonly insightsVersion: LambdaInsightsVersion;
 
 Specify the version of CloudWatch Lambda insights to use for monitoring.
 
-> https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Lambda-Insights.html
+> https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Lambda-Insights-Getting-Started-docker.html
 
 ---
 
@@ -3244,6 +3244,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSPANORAMA_SERVICE_LINKED_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSPANORAMA_SERVICE_LINKED_ROLE_POLICY"></a>
+
+---
+
+
 #### `AMAZON_DEV_OPS_GURU_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_DEV_OPS_GURU_FULL_ACCESS"></a>
 
 ---
@@ -4765,6 +4770,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSPANORAMA_SAGE_MAKER_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSPANORAMA_SAGE_MAKER_ROLE_POLICY"></a>
+
+---
+
+
+#### `AWSPANORAMA_APPLIANCE_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSPANORAMA_APPLIANCE_SERVICE_ROLE_POLICY"></a>
 
 ---
 
