@@ -3204,6 +3204,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSMARKETPLACE_PURCHASE_ORDERS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSMARKETPLACE_PURCHASE_ORDERS_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AMAZON_KENDRA_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_KENDRA_FULL_ACCESS"></a>
 
 ---
@@ -3909,6 +3914,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSDEEP_RACER_ACCOUNT_ADMIN_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSDEEP_RACER_ACCOUNT_ADMIN_ACCESS"></a>
+
+---
+
+
 #### `AWSEC2_CAPACITY_RESERVATION_FLEET_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSEC2_CAPACITY_RESERVATION_FLEET_ROLE_POLICY"></a>
 
 ---
@@ -3990,6 +4000,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSCHATBOT_SERVICE_LINKED_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSCHATBOT_SERVICE_LINKED_ROLE_POLICY"></a>
+
+---
+
+
+#### `AWSDEEP_RACER_DEFAULT_MULTI_USER_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSDEEP_RACER_DEFAULT_MULTI_USER_ACCESS"></a>
 
 ---
 
