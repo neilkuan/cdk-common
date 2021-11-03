@@ -4349,6 +4349,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSCOST_AND_USAGE_REPORT_AUTOMATION_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSCOST_AND_USAGE_REPORT_AUTOMATION_POLICY"></a>
+
+---
+
+
 #### `MEMORY_DB_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.MEMORY_DB_SERVICE_ROLE_POLICY"></a>
 
 ---
