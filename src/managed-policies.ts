@@ -739,6 +739,7 @@ export enum AWSManagedPolicies {
   'AMAZON_WORK_SPACES_SERVICE_ACCESS' = 'AmazonWorkSpacesServiceAccess',
   'AWSSECURITY_HUB_ORGANIZATIONS_ACCESS' = 'AWSSecurityHubOrganizationsAccess',
   'AMAZON_ELASTIC_FILE_SYSTEMS_UTILS' = 'AmazonElasticFileSystemsUtils',
+  'AWSCOST_AND_USAGE_REPORT_AUTOMATION_POLICY' = 'AWSCostAndUsageReportAutomationPolicy',
   'MEMORY_DB_SERVICE_ROLE_POLICY' = 'MemoryDBServiceRolePolicy',
   'AWSLICENSE_MANAGER_CONSUMPTION_POLICY' = 'AWSLicenseManagerConsumptionPolicy',
   'AWSTRANSFER_CONSOLE_FULL_ACCESS' = 'AWSTransferConsoleFullAccess',
