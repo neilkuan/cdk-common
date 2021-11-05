@@ -608,6 +608,7 @@ export enum AWSManagedPolicies {
   'AMAZON_SAGE_MAKER_PIPELINES_INTEGRATIONS' = 'AmazonSageMakerPipelinesIntegrations',
   'APP_RUNNER_SERVICE_ROLE_POLICY' = 'AppRunnerServiceRolePolicy',
   'AWSTHINKBOX_DEADLINE_RESOURCE_TRACKER_ADMIN_POLICY' = 'AWSThinkboxDeadlineResourceTrackerAdminPolicy',
+  'AMAZON_REDSHIFT_ALL_COMMANDS_FULL_ACCESS' = 'AmazonRedshiftAllCommandsFullAccess',
   'IAMACCESS_ADVISOR_READ_ONLY' = 'IAMAccessAdvisorReadOnly',
   'AMAZON_SAGE_MAKER_FEATURE_STORE_ACCESS' = 'AmazonSageMakerFeatureStoreAccess',
   'AMAZON_CODE_GURU_REVIEWER_READ_ONLY_ACCESS' = 'AmazonCodeGuruReviewerReadOnlyAccess',
