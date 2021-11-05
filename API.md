@@ -3694,6 +3694,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_REDSHIFT_ALL_COMMANDS_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_REDSHIFT_ALL_COMMANDS_FULL_ACCESS"></a>
+
+---
+
+
 #### `IAMACCESS_ADVISOR_READ_ONLY` <a name="cdk-common.AWSManagedPolicies.IAMACCESS_ADVISOR_READ_ONLY"></a>
 
 ---
