@@ -3609,6 +3609,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSAPPLICATION_MIGRATION_V_CENTER_CLIENT_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSAPPLICATION_MIGRATION_V_CENTER_CLIENT_POLICY"></a>
+
+---
+
+
 #### `AMAZON_RDS_CUSTOM_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_RDS_CUSTOM_SERVICE_ROLE_POLICY"></a>
 
 ---
