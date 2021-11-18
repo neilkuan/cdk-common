@@ -511,6 +511,7 @@ export enum AWSManagedPolicies {
   'AMAZON_EVENT_BRIDGE_READ_ONLY_ACCESS' = 'AmazonEventBridgeReadOnlyAccess',
   'AWSCODE_STAR_NOTIFICATIONS_SERVICE_ROLE_POLICY' = 'AWSCodeStarNotificationsServiceRolePolicy',
   'AWSMARKETPLACE_PURCHASE_ORDERS_SERVICE_ROLE_POLICY' = 'AWSMarketplacePurchaseOrdersServiceRolePolicy',
+  'AMAZON_INSPECTOR2_SERVICE_ROLE_POLICY' = 'AmazonInspector2ServiceRolePolicy',
   'AMAZON_KENDRA_FULL_ACCESS' = 'AmazonKendraFullAccess',
   'AMAZONEMRFULLACCESSPOLICY_V2' = 'AmazonEMRFullAccessPolicy_v2',
   'AMAZON_S3_OUTPOSTS_FULL_ACCESS' = 'AmazonS3OutpostsFullAccess',
