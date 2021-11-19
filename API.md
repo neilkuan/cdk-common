@@ -3069,6 +3069,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSELASTIC_DISASTER_RECOVERY_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSELASTIC_DISASTER_RECOVERY_READ_ONLY_ACCESS"></a>
+
+---
+
+
 #### `AMAZON_FRAUD_DETECTOR_FULL_ACCESS_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_FRAUD_DETECTOR_FULL_ACCESS_POLICY"></a>
 
 ---
@@ -3729,6 +3734,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSELASTIC_DISASTER_RECOVERY_FAILBACK_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSELASTIC_DISASTER_RECOVERY_FAILBACK_POLICY"></a>
+
+---
+
+
 #### `AWSAPPLICATION_AUTOSCALING_KAFKA_CLUSTER_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSAPPLICATION_AUTOSCALING_KAFKA_CLUSTER_POLICY"></a>
 
 ---
@@ -3809,6 +3819,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSELASTIC_DISASTER_RECOVERY_CONVERSION_SERVER_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSELASTIC_DISASTER_RECOVERY_CONVERSION_SERVER_POLICY"></a>
+
+---
+
+
 #### `AMAZONEMRREADONLYACCESSPOLICY_V2` <a name="cdk-common.AWSManagedPolicies.AMAZONEMRREADONLYACCESSPOLICY_V2"></a>
 
 ---
@@ -3854,6 +3869,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_CLOUD_WATCH_RUM_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_CLOUD_WATCH_RUM_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AMAZON_EVENT_BRIDGE_SCHEMAS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_EVENT_BRIDGE_SCHEMAS_SERVICE_ROLE_POLICY"></a>
 
 ---
@@ -3890,6 +3910,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_ELASTIC_FILE_SYSTEM_CLIENT_READ_WRITE_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_ELASTIC_FILE_SYSTEM_CLIENT_READ_WRITE_ACCESS"></a>
+
+---
+
+
+#### `AWSELASTIC_DISASTER_RECOVERY_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSELASTIC_DISASTER_RECOVERY_SERVICE_ROLE_POLICY"></a>
 
 ---
 
@@ -4064,6 +4089,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSELASTIC_DISASTER_RECOVERY_AGENT_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSELASTIC_DISASTER_RECOVERY_AGENT_POLICY"></a>
+
+---
+
+
 #### `AWSCLOUD9_SSM_INSTANCE_PROFILE` <a name="cdk-common.AWSManagedPolicies.AWSCLOUD9_SSM_INSTANCE_PROFILE"></a>
 
 ---
@@ -4230,6 +4260,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSQUICKSIGHT_OPEN_SEARCH_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSQUICKSIGHT_OPEN_SEARCH_POLICY"></a>
+
+---
+
+
+#### `AWSELASTIC_DISASTER_RECOVERY_FAILBACK_INSTALLATION_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSELASTIC_DISASTER_RECOVERY_FAILBACK_INSTALLATION_POLICY"></a>
 
 ---
 
@@ -4419,6 +4454,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSELASTIC_DISASTER_RECOVERY_CONSOLE_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSELASTIC_DISASTER_RECOVERY_CONSOLE_FULL_ACCESS"></a>
+
+---
+
+
 #### `AMAZON_COGNITO_IDP_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_COGNITO_IDP_SERVICE_ROLE_POLICY"></a>
 
 ---
@@ -4440,6 +4480,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_KEYSPACES_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_KEYSPACES_READ_ONLY_ACCESS"></a>
+
+---
+
+
+#### `AWSELASTIC_DISASTER_RECOVERY_AGENT_INSTALLATION_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSELASTIC_DISASTER_RECOVERY_AGENT_INSTALLATION_POLICY"></a>
 
 ---
 
@@ -4500,6 +4545,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `ELEMENTAL_ACTIVATIONS_GENERATE_LICENSES` <a name="cdk-common.AWSManagedPolicies.ELEMENTAL_ACTIVATIONS_GENERATE_LICENSES"></a>
+
+---
+
+
+#### `AWSSHIELD_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSSHIELD_SERVICE_ROLE_POLICY"></a>
 
 ---
 
@@ -4730,6 +4780,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSSERVICE_ROLE_FOR_IMAGE_BUILDER` <a name="cdk-common.AWSManagedPolicies.AWSSERVICE_ROLE_FOR_IMAGE_BUILDER"></a>
+
+---
+
+
+#### `AWSELASTIC_DISASTER_RECOVERY_RECOVERY_INSTANCE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSELASTIC_DISASTER_RECOVERY_RECOVERY_INSTANCE_POLICY"></a>
 
 ---
 
@@ -5000,6 +5055,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_APP_FLOW_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_APP_FLOW_FULL_ACCESS"></a>
+
+---
+
+
+#### `AWSELASTIC_DISASTER_RECOVERY_REPLICATION_SERVER_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSELASTIC_DISASTER_RECOVERY_REPLICATION_SERVER_POLICY"></a>
 
 ---
 
