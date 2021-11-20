@@ -630,6 +630,7 @@ export enum AWSManagedPolicies {
   'AMAZONNIMBLESTUDIO_LAUNCHPROFILEWORKER' = 'AmazonNimbleStudio-LaunchProfileWorker',
   'AWSELASTIC_BEANSTALK_ROLE_CW_L' = 'AWSElasticBeanstalkRoleCWL',
   'DYNAMO_DB_CLOUD_WATCH_CONTRIBUTOR_INSIGHTS_SERVICE_ROLE_POLICY' = 'DynamoDBCloudWatchContributorInsightsServiceRolePolicy',
+  'AMAZON_DETECTIVE_SERVICE_LINKED_ROLE_POLICY' = 'AmazonDetectiveServiceLinkedRolePolicy',
   'AWSELASTIC_BEANSTALK_ROLE_RD_S' = 'AWSElasticBeanstalkRoleRDS',
   'AMAZON_REDSHIFT_QUERY_EDITOR_V2_READ_SHARING' = 'AmazonRedshiftQueryEditorV2ReadSharing',
   'AWSPANORAMA_SERVICE_ROLE_POLICY' = 'AWSPanoramaServiceRolePolicy',
