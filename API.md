@@ -3214,6 +3214,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSELEMENTAL_MEDIA_TAILOR_READ_ONLY` <a name="cdk-common.AWSManagedPolicies.AWSELEMENTAL_MEDIA_TAILOR_READ_ONLY"></a>
+
+---
+
+
 #### `AMAZON_INSPECTOR2_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_INSPECTOR2_SERVICE_ROLE_POLICY"></a>
 
 ---
@@ -3865,6 +3870,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `MEDIA_PACKAGE_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.MEDIA_PACKAGE_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AMAZON_GRAFANA_ATHENA_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_GRAFANA_ATHENA_ACCESS"></a>
 
 ---
 
@@ -4845,6 +4855,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_E_C2_ROLEFOR_AWS_CODE_DEPLOY_LIMITED` <a name="cdk-common.AWSManagedPolicies.AMAZON_E_C2_ROLEFOR_AWS_CODE_DEPLOY_LIMITED"></a>
+
+---
+
+
+#### `AWSELEMENTAL_MEDIA_TAILOR_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSELEMENTAL_MEDIA_TAILOR_FULL_ACCESS"></a>
 
 ---
 
