@@ -3924,6 +3924,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSPROTON_SYNC_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSPROTON_SYNC_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AMAZON_ELASTIC_FILE_SYSTEM_CLIENT_READ_WRITE_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_ELASTIC_FILE_SYSTEM_CLIENT_READ_WRITE_ACCESS"></a>
 
 ---
@@ -4085,6 +4090,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSAPP_SYNC_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSAPP_SYNC_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AWSECRPULL_THROUGH_CACHE_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSECRPULL_THROUGH_CACHE_SERVICE_ROLE_POLICY"></a>
 
 ---
 
