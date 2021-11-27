@@ -688,7 +688,6 @@ export enum AWSManagedPolicies {
   'S3_STORAGE_LENS_SERVICE_ROLE_POLICY' = 'S3StorageLensServiceRolePolicy',
   'SERVER_MIGRATION_SERVICE_CONSOLE_FULL_ACCESS' = 'ServerMigrationServiceConsoleFullAccess',
   'AWSAPP_SYNC_SERVICE_ROLE_POLICY' = 'AWSAppSyncServiceRolePolicy',
-  'AWSECRPULL_THROUGH_CACHE_SERVICE_ROLE_POLICY' = 'AWSECRPullThroughCacheServiceRolePolicy',
   'AWSAPP_MESH_FULL_ACCESS' = 'AWSAppMeshFullAccess',
   'AWSINCIDENT_MANAGER_SERVICE_ROLE_POLICY' = 'AWSIncidentManagerServiceRolePolicy',
   'AWSPROTON_FULL_ACCESS' = 'AWSProtonFullAccess',

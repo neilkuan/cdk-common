@@ -4094,11 +4094,6 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
-#### `AWSECRPULL_THROUGH_CACHE_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSECRPULL_THROUGH_CACHE_SERVICE_ROLE_POLICY"></a>
-
----
-
-
 #### `AWSAPP_MESH_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSAPP_MESH_FULL_ACCESS"></a>
 
 ---
