@@ -3339,6 +3339,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_BRAKET_JOBS_EXECUTION_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_BRAKET_JOBS_EXECUTION_POLICY"></a>
+
+---
+
+
 #### `AMAZON_E_C2_ROLE_POLICY_FOR_LAUNCH_WIZARD` <a name="cdk-common.AWSManagedPolicies.AMAZON_E_C2_ROLE_POLICY_FOR_LAUNCH_WIZARD"></a>
 
 ---
@@ -3824,6 +3829,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSECRPULLTHROUGHCACHE_SERVICEROLEPOLICY` <a name="cdk-common.AWSManagedPolicies.AWSECRPULLTHROUGHCACHE_SERVICEROLEPOLICY"></a>
+
+---
+
+
 #### `AWSPANORAMA_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSPANORAMA_SERVICE_ROLE_POLICY"></a>
 
 ---
@@ -3855,6 +3865,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_PROMETHEUS_QUERY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_PROMETHEUS_QUERY_ACCESS"></a>
+
+---
+
+
+#### `AMAZON_GRAFANA_REDSHIFT_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_GRAFANA_REDSHIFT_ACCESS"></a>
 
 ---
 
