@@ -3379,6 +3379,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_INSPECTOR2_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_INSPECTOR2_FULL_ACCESS"></a>
+
+---
+
+
 #### `ELEMENTAL_APPLIANCES_SOFTWARE_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.ELEMENTAL_APPLIANCES_SOFTWARE_READ_ONLY_ACCESS"></a>
 
 ---
@@ -3485,6 +3490,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_LOOKOUT_EQUIPMENT_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_LOOKOUT_EQUIPMENT_READ_ONLY_ACCESS"></a>
+
+---
+
+
+#### `AMAZON_CLOUD_WATCH_RUM_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_CLOUD_WATCH_RUM_FULL_ACCESS"></a>
 
 ---
 
@@ -3600,6 +3610,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSCERTIFICATE_MANAGER_PRIVATE_CA_PRIVILEGED_USER` <a name="cdk-common.AWSManagedPolicies.AWSCERTIFICATE_MANAGER_PRIVATE_CA_PRIVILEGED_USER"></a>
+
+---
+
+
+#### `AMAZON_CLOUD_WATCH_EVIDENTLY_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_CLOUD_WATCH_EVIDENTLY_READ_ONLY_ACCESS"></a>
 
 ---
 
@@ -3984,6 +3999,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_WORK_SPACES_WEB_READ_ONLY` <a name="cdk-common.AWSManagedPolicies.AMAZON_WORK_SPACES_WEB_READ_ONLY"></a>
+
+---
+
+
 #### `AMAZON_AUGMENTED_AI_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_AUGMENTED_AI_FULL_ACCESS"></a>
 
 ---
@@ -4179,6 +4199,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSIOT_ROBO_RUNNER_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSIOT_ROBO_RUNNER_FULL_ACCESS"></a>
+
+---
+
+
 #### `ELEMENTAL_ACTIVATIONS_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.ELEMENTAL_ACTIVATIONS_FULL_ACCESS"></a>
 
 ---
@@ -4210,6 +4235,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `CLOUD_FORMATION_STACK_SETS_ORG_ADMIN_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.CLOUD_FORMATION_STACK_SETS_ORG_ADMIN_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AWSIPAMSERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSIPAMSERVICE_ROLE_POLICY"></a>
 
 ---
 
@@ -4294,6 +4324,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_WORK_SPACES_WEB_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_WORK_SPACES_WEB_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AWSQUICKSIGHT_OPEN_SEARCH_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSQUICKSIGHT_OPEN_SEARCH_POLICY"></a>
 
 ---
@@ -4370,6 +4405,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSBACKUP_OPERATOR_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSBACKUP_OPERATOR_ACCESS"></a>
+
+---
+
+
+#### `AWSMIGRATION_HUB_REFACTOR_SPACES_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSMIGRATION_HUB_REFACTOR_SPACES_SERVICE_ROLE_POLICY"></a>
 
 ---
 
@@ -4709,6 +4749,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_CLOUD_WATCH_RUM_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_CLOUD_WATCH_RUM_READ_ONLY_ACCESS"></a>
+
+---
+
+
 #### `AWSTHINKBOX_DEADLINE_SPOT_EVENT_PLUGIN_ADMIN_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSTHINKBOX_DEADLINE_SPOT_EVENT_PLUGIN_ADMIN_POLICY"></a>
 
 ---
@@ -4889,6 +4934,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSIOT_ROBO_RUNNER_READ_ONLY` <a name="cdk-common.AWSManagedPolicies.AWSIOT_ROBO_RUNNER_READ_ONLY"></a>
+
+---
+
+
 #### `ECRREPLICATION_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.ECRREPLICATION_SERVICE_ROLE_POLICY"></a>
 
 ---
@@ -4925,6 +4975,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSAPPLICATION_MIGRATION_E_C2_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSAPPLICATION_MIGRATION_E_C2_ACCESS"></a>
+
+---
+
+
+#### `AMAZON_CLOUD_WATCH_EVIDENTLY_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_CLOUD_WATCH_EVIDENTLY_FULL_ACCESS"></a>
 
 ---
 
@@ -4980,6 +5035,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSSAVINGS_PLANS_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSSAVINGS_PLANS_READ_ONLY_ACCESS"></a>
+
+---
+
+
+#### `AWSMIGRATION_HUB_REFACTOR_SPACES_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSMIGRATION_HUB_REFACTOR_SPACES_FULL_ACCESS"></a>
 
 ---
 
