@@ -1,15 +1,15 @@
 const constant = require('case').constant;
-const { AwsCdkConstructLibrary, SourceCode, FileBase } = require('projen');
+const { awscdk, SourceCode, FileBase } = require('projen');
 
 const PROJECT_NAME = 'cdk-common';
 const PROJECT_DESCRIPTION = 'Common AWS CDK librarys.';
 
-const project = new AwsCdkConstructLibrary({
+const project = new awscdk.AwsCdkConstructLibrary({
   name: PROJECT_NAME,
   description: PROJECT_DESCRIPTION,
   author: 'Neil Kuan',
   authorAddress: 'guan840912@gmail.com',
-  cdkVersion: '1.127.0',
+  cdkVersion: '1.134.0',
   defaultReleaseBranch: 'main',
   repositoryUrl: 'https://github.com/neilkuan/cdk-common.git',
   keywords: ['aws', 'common', 'lib', 'aws-cdk'],
