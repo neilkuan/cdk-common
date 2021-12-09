@@ -9,15 +9,22 @@
 # Welcome to `cdk-common`
 This Constructs Library will collection of useful `function` and `class` for AWS CDK.
 
+## !!! Usage Note !!!
+cdk-common before version: 0.0.68, support aws-cdk version: 1.xxx.xxx.
+
+cdk-common start at version: 2.x.x, support aws-cdk version: 2.xxx.xxx.
+
 ### AWS Managed Policies `enum`
 ```ts
+import * as cdk from 'aws-cdk-lib';
 import { AWSManagedPolicies } from 'cdk-common';
+import { Construct } from 'constructs';
 const app = new cdk.App();
 
 const stack = new cdk.Stack(app, 'integ-default', { env });
 
-export class IntegDefault extends cdk.Construct {
-  constructor(scope: cdk.Construct, id: string ) {
+export class IntegDefault extends Construct {
+  constructor(scope: Construct, id: string ) {
     super(scope, id);
 
     const role = new iam.Role(this, 'iamrole', {

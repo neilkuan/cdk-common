@@ -9,7 +9,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   description: PROJECT_DESCRIPTION,
   author: 'Neil Kuan',
   authorAddress: 'guan840912@gmail.com',
-  cdkVersion: '1.134.0',
+  cdkVersion: '2.1.0',
   defaultReleaseBranch: 'main',
   repositoryUrl: 'https://github.com/neilkuan/cdk-common.git',
   keywords: ['aws', 'common', 'lib', 'aws-cdk'],
@@ -19,13 +19,6 @@ const project = new awscdk.AwsCdkConstructLibrary({
   },
   compat: true,
   stability: 'experimental',
-  cdkDependencies: [
-    '@aws-cdk/aws-iam',
-    '@aws-cdk/aws-ec2',
-    '@aws-cdk/aws-s3',
-    '@aws-cdk/aws-lambda',
-    '@aws-cdk/core',
-  ],
   autoDetectBin: false,
   depsUpgradeOptions: {
     ignoreProjen: false,
@@ -34,6 +27,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
       secret: 'AUTOMATION_GITHUB_TOKEN',
     },
   },
+  workflowNodeVersion: '^14.17.0',
   autoApproveOptions: {
     secret: 'GITHUB_TOKEN',
     allowedUsernames: ['neilkuan'],
@@ -47,6 +41,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
     'case',
   ],
   bundledDeps: [
+    '@aws-cdk/assert',
     'sync-request',
     'case',
   ],

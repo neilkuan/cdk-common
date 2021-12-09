@@ -1,13 +1,13 @@
-import * as lambda from '@aws-cdk/aws-lambda';
-import * as cdk from '@aws-cdk/core';
-
+import * as cdk from 'aws-cdk-lib';
+import * as lambda from 'aws-cdk-lib/aws-lambda';
+import { Construct } from 'constructs';
 export interface LambdaArmFunctionProps extends lambda.FunctionProps {
 
 }
 
-export class LambdaArmFunction extends cdk.Construct {
+export class LambdaArmFunction extends Construct {
   public readonly lambdaFunction: lambda.Function;
-  constructor(scope: cdk.Construct, id: string, props:LambdaArmFunctionProps) {
+  constructor(scope: Construct, id: string, props:LambdaArmFunctionProps) {
     super(scope, id);
 
     if (props.runtime === lambda.Runtime.NODEJS_12_X) {
@@ -30,6 +30,6 @@ export class LambdaArmFunction extends cdk.Construct {
       throw new Error(`Invalid Runtime ${props.runtime} at ARM, See https://docs.aws.amazon.com/lambda/latest/dg/foundation-arch.html?icmpid=docs_lambda_rss`);
     }
 
-    this.lambdaFunction = new lambda.Function(this, 'LambdaFunction', { architectures: [lambda.Architecture.ARM_64], ...props });
+    this.lambdaFunction = new lambda.Function(this, 'LambdaFunction', { architecture: lambda.Architecture.ARM_64, ...props });
   }
 }
