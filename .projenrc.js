@@ -9,7 +9,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   description: PROJECT_DESCRIPTION,
   author: 'Neil Kuan',
   authorAddress: 'guan840912@gmail.com',
-  cdkVersion: '2.1.0',
+  cdkVersion: '1.134.0',
   /**
    * we default release the main branch(cdkv2) with major version 2.
    */
@@ -50,11 +50,19 @@ const project = new awscdk.AwsCdkConstructLibrary({
   deps: [
     'sync-request',
     'case',
+    '@aws-cdk/aws-s3@^1.134.0',
+    '@aws-cdk/core@^1.134.0',
+    '@aws-cdk/aws-iam@^1.134.0',
+    '@aws-cdk/aws-lambda@^1.134.0',
   ],
   bundledDeps: [
     '@aws-cdk/assert',
     'sync-request',
     'case',
+  ],
+  peerDeps: [
+    '@aws-cdk/core@^1.134.0',
+    '@aws-cdk/aws-lambda@^1.134.0',
   ],
 });
 const common_exclude = ['cdk.out', 'cdk.context.json', 'yarn-error.log', 'coverage'];

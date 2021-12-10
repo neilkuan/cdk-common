@@ -1,13 +1,12 @@
-import * as cdk from 'aws-cdk-lib';
-import * as lambda from 'aws-cdk-lib/aws-lambda';
-import { Construct } from 'constructs';
+import * as lambda from '@aws-cdk/aws-lambda';
+import * as cdk from '@aws-cdk/core';
 export interface LambdaArmFunctionProps extends lambda.FunctionProps {
 
 }
 
-export class LambdaArmFunction extends Construct {
+export class LambdaArmFunction extends cdk.Construct {
   public readonly lambdaFunction: lambda.Function;
-  constructor(scope: Construct, id: string, props:LambdaArmFunctionProps) {
+  constructor(scope: cdk.Construct, id: string, props:LambdaArmFunctionProps) {
     super(scope, id);
 
     if (props.runtime === lambda.Runtime.NODEJS_12_X) {

@@ -14,7 +14,7 @@ new LambdaArmFunction(scope: Construct, id: string, props: LambdaArmFunctionProp
 
 ##### `scope`<sup>Required</sup> <a name="cdk-common.LambdaArmFunction.parameter.scope"></a>
 
-- *Type:* [`constructs.Construct`](#constructs.Construct)
+- *Type:* [`@aws-cdk/core.Construct`](#@aws-cdk/core.Construct)
 
 ---
 
@@ -40,7 +40,7 @@ new LambdaArmFunction(scope: Construct, id: string, props: LambdaArmFunctionProp
 public readonly lambdaFunction: Function;
 ```
 
-- *Type:* [`aws-cdk-lib.aws_lambda.Function`](#aws-cdk-lib.aws_lambda.Function)
+- *Type:* [`@aws-cdk/aws-lambda.Function`](#@aws-cdk/aws-lambda.Function)
 
 ---
 
@@ -63,7 +63,7 @@ const lambdaArmFunctionProps: LambdaArmFunctionProps = { ... }
 public readonly maxEventAge: Duration;
 ```
 
-- *Type:* [`aws-cdk-lib.Duration`](#aws-cdk-lib.Duration)
+- *Type:* [`@aws-cdk/core.Duration`](#@aws-cdk/core.Duration)
 - *Default:* Duration.hours(6)
 
 The maximum age of a request that Lambda sends to a function for processing.
@@ -79,7 +79,7 @@ Maximum: 6 hours
 public readonly onFailure: IDestination;
 ```
 
-- *Type:* [`aws-cdk-lib.aws_lambda.IDestination`](#aws-cdk-lib.aws_lambda.IDestination)
+- *Type:* [`@aws-cdk/aws-lambda.IDestination`](#@aws-cdk/aws-lambda.IDestination)
 - *Default:* no destination
 
 The destination for failed invocations.
@@ -92,7 +92,7 @@ The destination for failed invocations.
 public readonly onSuccess: IDestination;
 ```
 
-- *Type:* [`aws-cdk-lib.aws_lambda.IDestination`](#aws-cdk-lib.aws_lambda.IDestination)
+- *Type:* [`@aws-cdk/aws-lambda.IDestination`](#@aws-cdk/aws-lambda.IDestination)
 - *Default:* no destination
 
 The destination for successful invocations.
@@ -154,10 +154,25 @@ Use this property to acknowledge this limitation and still place the function in
 public readonly architecture: Architecture;
 ```
 
-- *Type:* [`aws-cdk-lib.aws_lambda.Architecture`](#aws-cdk-lib.aws_lambda.Architecture)
+- *Type:* [`@aws-cdk/aws-lambda.Architecture`](#@aws-cdk/aws-lambda.Architecture)
 - *Default:* Architecture.X86_64
 
 The system architectures compatible with this lambda function.
+
+---
+
+##### ~~`architectures`~~<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.architectures"></a>
+
+- *Deprecated:* use `architecture`
+
+```typescript
+public readonly architectures: Architecture[];
+```
+
+- *Type:* [`@aws-cdk/aws-lambda.Architecture`](#@aws-cdk/aws-lambda.Architecture)[]
+- *Default:* [Architecture.X86_64]
+
+DEPRECATED.
 
 ---
 
@@ -167,7 +182,7 @@ The system architectures compatible with this lambda function.
 public readonly codeSigningConfig: ICodeSigningConfig;
 ```
 
-- *Type:* [`aws-cdk-lib.aws_lambda.ICodeSigningConfig`](#aws-cdk-lib.aws_lambda.ICodeSigningConfig)
+- *Type:* [`@aws-cdk/aws-lambda.ICodeSigningConfig`](#@aws-cdk/aws-lambda.ICodeSigningConfig)
 - *Default:* Not Sign the Code
 
 Code signing config associated with this function.
@@ -180,7 +195,7 @@ Code signing config associated with this function.
 public readonly currentVersionOptions: VersionOptions;
 ```
 
-- *Type:* [`aws-cdk-lib.aws_lambda.VersionOptions`](#aws-cdk-lib.aws_lambda.VersionOptions)
+- *Type:* [`@aws-cdk/aws-lambda.VersionOptions`](#@aws-cdk/aws-lambda.VersionOptions)
 - *Default:* default options as described in `VersionOptions`
 
 Options for the `lambda.Version` resource automatically created by the `fn.currentVersion` method.
@@ -193,7 +208,7 @@ Options for the `lambda.Version` resource automatically created by the `fn.curre
 public readonly deadLetterQueue: IQueue;
 ```
 
-- *Type:* [`aws-cdk-lib.aws_sqs.IQueue`](#aws-cdk-lib.aws_sqs.IQueue)
+- *Type:* [`@aws-cdk/aws-sqs.IQueue`](#@aws-cdk/aws-sqs.IQueue)
 - *Default:* SQS queue with 14 day retention period if `deadLetterQueueEnabled` is `true`
 
 The SQS queue to use if DLQ is enabled.
@@ -252,7 +267,7 @@ Lambda function source code.
 public readonly environmentEncryption: IKey;
 ```
 
-- *Type:* [`aws-cdk-lib.aws_kms.IKey`](#aws-cdk-lib.aws_kms.IKey)
+- *Type:* [`@aws-cdk/aws-kms.IKey`](#@aws-cdk/aws-kms.IKey)
 - *Default:* AWS Lambda creates and uses an AWS managed customer master key (CMK).
 
 The AWS KMS key that's used to encrypt your function's environment variables.
@@ -265,7 +280,7 @@ The AWS KMS key that's used to encrypt your function's environment variables.
 public readonly events: IEventSource[];
 ```
 
-- *Type:* [`aws-cdk-lib.aws_lambda.IEventSource`](#aws-cdk-lib.aws_lambda.IEventSource)[]
+- *Type:* [`@aws-cdk/aws-lambda.IEventSource`](#@aws-cdk/aws-lambda.IEventSource)[]
 - *Default:* No event sources.
 
 Event sources for this function.
@@ -280,7 +295,7 @@ You can also add event sources using `addEventSource`.
 public readonly filesystem: FileSystem;
 ```
 
-- *Type:* [`aws-cdk-lib.aws_lambda.FileSystem`](#aws-cdk-lib.aws_lambda.FileSystem)
+- *Type:* [`@aws-cdk/aws-lambda.FileSystem`](#@aws-cdk/aws-lambda.FileSystem)
 - *Default:* will not mount any filesystem
 
 The filesystem configuration for the lambda function.
@@ -307,7 +322,7 @@ A name for the function.
 public readonly initialPolicy: PolicyStatement[];
 ```
 
-- *Type:* [`aws-cdk-lib.aws_iam.PolicyStatement`](#aws-cdk-lib.aws_iam.PolicyStatement)[]
+- *Type:* [`@aws-cdk/aws-iam.PolicyStatement`](#@aws-cdk/aws-iam.PolicyStatement)[]
 - *Default:* No policy statements are added to the created Lambda role.
 
 Initial policy statements to add to the created Lambda Role.
@@ -322,7 +337,7 @@ You can call `addToRolePolicy` to the created lambda to add statements post crea
 public readonly insightsVersion: LambdaInsightsVersion;
 ```
 
-- *Type:* [`aws-cdk-lib.aws_lambda.LambdaInsightsVersion`](#aws-cdk-lib.aws_lambda.LambdaInsightsVersion)
+- *Type:* [`@aws-cdk/aws-lambda.LambdaInsightsVersion`](#@aws-cdk/aws-lambda.LambdaInsightsVersion)
 - *Default:* No Lambda Insights
 
 Specify the version of CloudWatch Lambda insights to use for monitoring.
@@ -337,7 +352,7 @@ Specify the version of CloudWatch Lambda insights to use for monitoring.
 public readonly layers: ILayerVersion[];
 ```
 
-- *Type:* [`aws-cdk-lib.aws_lambda.ILayerVersion`](#aws-cdk-lib.aws_lambda.ILayerVersion)[]
+- *Type:* [`@aws-cdk/aws-lambda.ILayerVersion`](#@aws-cdk/aws-lambda.ILayerVersion)[]
 - *Default:* No layers.
 
 A list of layers to add to the function's execution environment.
@@ -354,7 +369,7 @@ that can be used by multiple functions.
 public readonly logRetention: RetentionDays;
 ```
 
-- *Type:* [`aws-cdk-lib.aws_logs.RetentionDays`](#aws-cdk-lib.aws_logs.RetentionDays)
+- *Type:* [`@aws-cdk/aws-logs.RetentionDays`](#@aws-cdk/aws-logs.RetentionDays)
 - *Default:* logs.RetentionDays.INFINITE
 
 The number of days log events are kept in CloudWatch Logs.
@@ -371,7 +386,7 @@ remove the retention policy, set the value to `INFINITE`.
 public readonly logRetentionRetryOptions: LogRetentionRetryOptions;
 ```
 
-- *Type:* [`aws-cdk-lib.aws_lambda.LogRetentionRetryOptions`](#aws-cdk-lib.aws_lambda.LogRetentionRetryOptions)
+- *Type:* [`@aws-cdk/aws-lambda.LogRetentionRetryOptions`](#@aws-cdk/aws-lambda.LogRetentionRetryOptions)
 - *Default:* Default AWS SDK retry options.
 
 When log retention is specified, a custom resource attempts to create the CloudWatch log group.
@@ -386,7 +401,7 @@ These options control the retry policy when interacting with CloudWatch APIs.
 public readonly logRetentionRole: IRole;
 ```
 
-- *Type:* [`aws-cdk-lib.aws_iam.IRole`](#aws-cdk-lib.aws_iam.IRole)
+- *Type:* [`@aws-cdk/aws-iam.IRole`](#@aws-cdk/aws-iam.IRole)
 - *Default:* A new role is created.
 
 The IAM role for the Lambda function associated with the custom resource that sets the retention policy.
@@ -431,7 +446,7 @@ Enable profiling.
 public readonly profilingGroup: IProfilingGroup;
 ```
 
-- *Type:* [`aws-cdk-lib.aws_codeguruprofiler.IProfilingGroup`](#aws-cdk-lib.aws_codeguruprofiler.IProfilingGroup)
+- *Type:* [`@aws-cdk/aws-codeguruprofiler.IProfilingGroup`](#@aws-cdk/aws-codeguruprofiler.IProfilingGroup)
 - *Default:* A new profiling group will be created if `profiling` is set.
 
 Profiling Group.
@@ -461,7 +476,7 @@ The maximum of concurrent executions you want to reserve for the function.
 public readonly role: IRole;
 ```
 
-- *Type:* [`aws-cdk-lib.aws_iam.IRole`](#aws-cdk-lib.aws_iam.IRole)
+- *Type:* [`@aws-cdk/aws-iam.IRole`](#@aws-cdk/aws-iam.IRole)
 - *Default:* A unique role will be generated for this lambda function.
 Both supplied and generated roles can always be changed by calling `addToRolePolicy`.
 
@@ -479,13 +494,35 @@ The relevant managed policies are "service-role/AWSLambdaBasicExecutionRole" and
 
 ---
 
+##### ~~`securityGroup`~~<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.securityGroup"></a>
+
+- *Deprecated:* - This property is deprecated, use securityGroups instead
+
+```typescript
+public readonly securityGroup: ISecurityGroup;
+```
+
+- *Type:* [`@aws-cdk/aws-ec2.ISecurityGroup`](#@aws-cdk/aws-ec2.ISecurityGroup)
+- *Default:* If the function is placed within a VPC and a security group is
+not specified, either by this or securityGroups prop, a dedicated security
+group will be created for this function.
+
+What security group to associate with the Lambda's network interfaces. This property is being deprecated, consider using securityGroups instead.
+
+Only used if 'vpc' is supplied.
+
+Use securityGroups property instead.
+Function constructor will throw an error if both are specified.
+
+---
+
 ##### `securityGroups`<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.securityGroups"></a>
 
 ```typescript
 public readonly securityGroups: ISecurityGroup[];
 ```
 
-- *Type:* [`aws-cdk-lib.aws_ec2.ISecurityGroup`](#aws-cdk-lib.aws_ec2.ISecurityGroup)[]
+- *Type:* [`@aws-cdk/aws-ec2.ISecurityGroup`](#@aws-cdk/aws-ec2.ISecurityGroup)[]
 - *Default:* If the function is placed within a VPC and a security group is
 not specified, either by this or securityGroup prop, a dedicated security
 group will be created for this function.
@@ -502,7 +539,7 @@ Only used if 'vpc' is supplied.
 public readonly timeout: Duration;
 ```
 
-- *Type:* [`aws-cdk-lib.Duration`](#aws-cdk-lib.Duration)
+- *Type:* [`@aws-cdk/core.Duration`](#@aws-cdk/core.Duration)
 - *Default:* Duration.seconds(3)
 
 The function execution time (in seconds) after which Lambda terminates the function.
@@ -518,7 +555,7 @@ based on the function's expected execution time.
 public readonly tracing: Tracing;
 ```
 
-- *Type:* [`aws-cdk-lib.aws_lambda.Tracing`](#aws-cdk-lib.aws_lambda.Tracing)
+- *Type:* [`@aws-cdk/aws-lambda.Tracing`](#@aws-cdk/aws-lambda.Tracing)
 - *Default:* Tracing.Disabled
 
 Enable AWS X-Ray Tracing for Lambda Function.
@@ -531,7 +568,7 @@ Enable AWS X-Ray Tracing for Lambda Function.
 public readonly vpc: IVpc;
 ```
 
-- *Type:* [`aws-cdk-lib.aws_ec2.IVpc`](#aws-cdk-lib.aws_ec2.IVpc)
+- *Type:* [`@aws-cdk/aws-ec2.IVpc`](#@aws-cdk/aws-ec2.IVpc)
 - *Default:* Function is not placed within a VPC.
 
 VPC network to place Lambda network interfaces.
@@ -546,7 +583,7 @@ Specify this if the Lambda function needs to access resources in a VPC.
 public readonly vpcSubnets: SubnetSelection;
 ```
 
-- *Type:* [`aws-cdk-lib.aws_ec2.SubnetSelection`](#aws-cdk-lib.aws_ec2.SubnetSelection)
+- *Type:* [`@aws-cdk/aws-ec2.SubnetSelection`](#@aws-cdk/aws-ec2.SubnetSelection)
 - *Default:* the Vpc default strategy if not specified
 
 Where to place the network interfaces within the VPC.
@@ -562,7 +599,7 @@ requires a NAT gateway, so picking Public subnets is not allowed.
 public readonly code: Code;
 ```
 
-- *Type:* [`aws-cdk-lib.aws_lambda.Code`](#aws-cdk-lib.aws_lambda.Code)
+- *Type:* [`@aws-cdk/aws-lambda.Code`](#@aws-cdk/aws-lambda.Code)
 
 The source code of your Lambda function.
 
@@ -600,7 +637,7 @@ the handler.
 public readonly runtime: Runtime;
 ```
 
-- *Type:* [`aws-cdk-lib.aws_lambda.Runtime`](#aws-cdk-lib.aws_lambda.Runtime)
+- *Type:* [`@aws-cdk/aws-lambda.Runtime`](#@aws-cdk/aws-lambda.Runtime)
 
 The runtime environment for the Lambda function that you are uploading.
 

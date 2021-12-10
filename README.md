@@ -22,19 +22,16 @@ npm install cdk-common@latest
 npm install cdk-common@cdkv1
 ```
 
-💡💡💡 please click [here](https://github.com/neilkuan/cdk-common/tree/cdkv1#readme), if you are using aws-cdk v1.x.x version.💡💡💡
-
 ### AWS Managed Policies `enum`
 ```ts
-import * as cdk from 'aws-cdk-lib';
+import * as cdk from '@aws-cdk/core';
 import { AWSManagedPolicies } from 'cdk-common';
-import { Construct } from 'constructs';
 const app = new cdk.App();
 
 const stack = new cdk.Stack(app, 'integ-default', { env });
 
-export class IntegDefault extends Construct {
-  constructor(scope: Construct, id: string ) {
+export class IntegDefault extends cdk.Construct {
+  constructor(scope: cdk.Construct, id: string ) {
     super(scope, id);
 
     const role = new iam.Role(this, 'iamrole', {

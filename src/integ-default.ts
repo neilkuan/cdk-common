@@ -1,7 +1,6 @@
-import * as cdk from 'aws-cdk-lib';
-import * as iam from 'aws-cdk-lib/aws-iam';
-import * as lambda from 'aws-cdk-lib/aws-lambda';
-import { Construct } from 'constructs';
+import * as iam from '@aws-cdk/aws-iam';
+import * as lambda from '@aws-cdk/aws-lambda';
+import * as cdk from '@aws-cdk/core';
 import { AWSManagedPolicies, LambdaArmFunction } from '.';
 
 const env = {
@@ -12,8 +11,8 @@ const app = new cdk.App();
 
 const stack = new cdk.Stack(app, 'integ-default', { env });
 
-export class IntegDefault extends Construct {
-  constructor(scope: Construct, id: string ) {
+export class IntegDefault extends cdk.Construct {
+  constructor(scope: cdk.Construct, id: string ) {
     super(scope, id);
 
     const role = new iam.Role(this, 'iamrole', {
