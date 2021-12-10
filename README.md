@@ -9,10 +9,20 @@
 # Welcome to `cdk-common`
 This Constructs Library will collection of useful `function` and `class` for AWS CDK.
 
-## !!! Usage Note !!!
-cdk-common before version: 0.0.68, support aws-cdk version: 1.xxx.xxx.
+## Install
+```bash
+Use the npm dist tag to opt in CDKv1 or CDKv2:
 
-cdk-common start at version: 2.x.x, support aws-cdk version: 2.xxx.xxx.
+// for CDKv2
+npm install cdk-common
+or
+npm install cdk-common@latest
+
+// for CDKv1
+npm install cdk-common@cdkv1
+```
+
+💡💡💡 please click [here](https://github.com/neilkuan/cdk-common/tree/cdkv1#readme), if you are using aws-cdk v1.x.x version.💡💡💡
 
 ### AWS Managed Policies `enum`
 ```ts

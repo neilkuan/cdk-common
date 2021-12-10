@@ -1,8 +1,8 @@
 import * as cdk from 'aws-cdk-lib';
+import * as assertions from 'aws-cdk-lib/assertions';
 import * as iam from 'aws-cdk-lib/aws-iam';
 import * as lambda from 'aws-cdk-lib/aws-lambda';
 import * as s3 from 'aws-cdk-lib/aws-s3';
-import '@aws-cdk/assert/jest';
 import { AWSManagedPolicies, LambdaArmFunction } from '../src/index';
 
 test('Has Role Attach Managed Role', () => {
@@ -25,26 +25,10 @@ test('Has Role Attach Managed Role', () => {
     });
   });
 
-  expect(stack).toHaveResource('AWS::S3::Bucket');
-  expect(stack).toHaveResource('AWS::Lambda::Function', {
+  assertions.Template.fromStack(stack).findResources('AWS::S3::Bucket');
+  assertions.Template.fromStack(stack).hasResourceProperties('AWS::Lambda::Function', {
     Architectures: [
       'arm64',
     ],
   });
-});
-
-test('fail use go runtime on arm', () => {
-  const mockApp = new cdk.App();
-  const stack = new cdk.Stack(mockApp, 'testing-stack');
-  expect(()=>{
-    new LambdaArmFunction(stack, 'aaa', {
-      runtime: lambda.Runtime.GO_1_X,
-      handler: 'index.handler',
-      code: lambda.Code.fromInline(`
-import platform
-def handler(event, contexts):
-    arch = platform.system()
-    return { "arch": str(arch)}`),
-    });
-  }).toThrowError('Invalid Runtime go1.x at ARM, See https://docs.aws.amazon.com/lambda/latest/dg/foundation-arch.html?icmpid=docs_lambda_rss');
 });
