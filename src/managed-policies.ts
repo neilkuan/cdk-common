@@ -692,6 +692,7 @@ export enum AWSManagedPolicies {
   'AWSDEEP_RACER_DEFAULT_MULTI_USER_ACCESS' = 'AWSDeepRacerDefaultMultiUserAccess',
   'AWSLAMBDA_READONLYACCESS' = 'AWSLambda_ReadOnlyAccess',
   'AWSCODEPIPELINE_READONLYACCESS' = 'AWSCodePipeline_ReadOnlyAccess',
+  'AWSPRIVATE_NETWORKS_SERVICE_ROLE_POLICY' = 'AWSPrivateNetworksServiceRolePolicy',
   'S3_STORAGE_LENS_SERVICE_ROLE_POLICY' = 'S3StorageLensServiceRolePolicy',
   'SERVER_MIGRATION_SERVICE_CONSOLE_FULL_ACCESS' = 'ServerMigrationServiceConsoleFullAccess',
   'AWSAPP_SYNC_SERVICE_ROLE_POLICY' = 'AWSAppSyncServiceRolePolicy',

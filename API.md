@@ -4114,6 +4114,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSPRIVATE_NETWORKS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSPRIVATE_NETWORKS_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `S3_STORAGE_LENS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.S3_STORAGE_LENS_SERVICE_ROLE_POLICY"></a>
 
 ---
