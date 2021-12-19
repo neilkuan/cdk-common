@@ -3852,6 +3852,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_DEV_OPS_GURU_CONSOLE_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_DEV_OPS_GURU_CONSOLE_FULL_ACCESS"></a>
+
+---
+
+
 #### `AMAZON_WORK_DOCS_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_WORK_DOCS_FULL_ACCESS"></a>
 
 ---
