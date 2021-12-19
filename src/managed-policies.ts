@@ -647,6 +647,7 @@ export enum AWSManagedPolicies {
   'AMAZON_CHIME_VOICE_CONNECTOR_SERVICE_LINKED_ROLE_POLICY' = 'AmazonChimeVoiceConnectorServiceLinkedRolePolicy',
   'AMAZON_PROMETHEUS_QUERY_ACCESS' = 'AmazonPrometheusQueryAccess',
   'AMAZON_GRAFANA_REDSHIFT_ACCESS' = 'AmazonGrafanaRedshiftAccess',
+  'AMAZON_DEV_OPS_GURU_CONSOLE_FULL_ACCESS' = 'AmazonDevOpsGuruConsoleFullAccess',
   'AMAZON_WORK_DOCS_FULL_ACCESS' = 'AmazonWorkDocsFullAccess',
   'AMAZON_HONEYCODE_WORKBOOK_READ_ONLY_ACCESS' = 'AmazonHoneycodeWorkbookReadOnlyAccess',
   'MEDIA_PACKAGE_SERVICE_ROLE_POLICY' = 'MediaPackageServiceRolePolicy',
