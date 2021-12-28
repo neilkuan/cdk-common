@@ -32,7 +32,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   stability: 'experimental',
   autoDetectBin: false,
   depsUpgradeOptions: {
-    ignoreProjen: false,
+    ignoreProjen: true,
     workflowOptions: {
       labels: ['auto-approve'],
       secret: 'AUTOMATION_GITHUB_TOKEN',
