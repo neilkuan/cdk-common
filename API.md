@@ -3342,6 +3342,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSAPP_RUNNER_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSAPP_RUNNER_FULL_ACCESS"></a>
+
+---
+
+
 #### `AMAZON_INSPECTOR2_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_INSPECTOR2_FULL_ACCESS"></a>
 
 ---
@@ -5098,6 +5103,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSELASTIC_BEANSTALK_ROLE_SN_S` <a name="cdk-common.AWSManagedPolicies.AWSELASTIC_BEANSTALK_ROLE_SN_S"></a>
+
+---
+
+
+#### `EC2_FAST_LAUNCH_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.EC2_FAST_LAUNCH_SERVICE_ROLE_POLICY"></a>
 
 ---
 
