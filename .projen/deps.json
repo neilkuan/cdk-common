@@ -88,10 +88,6 @@
       "type": "build"
     },
     {
-      "name": "@aws-cdk/assert",
-      "type": "bundled"
-    },
-    {
       "name": "case",
       "type": "bundled"
     },

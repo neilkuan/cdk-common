@@ -63,7 +63,6 @@
     "constructs": "^3.2.27"
   },
   "dependencies": {
-    "@aws-cdk/assert": "^2.5.0",
     "@aws-cdk/aws-iam": "^1.134.0",
     "@aws-cdk/aws-lambda": "^1.134.0",
     "@aws-cdk/aws-s3": "^1.134.0",
@@ -72,7 +71,6 @@
     "sync-request": "^6.1.0"
   },
   "bundledDependencies": [
-    "@aws-cdk/assert",
     "case",
     "sync-request"
   ],

@@ -35,7 +35,6 @@ const project = new awscdk.AwsCdkConstructLibrary({
     ignoreProjen: true,
     workflowOptions: {
       labels: ['auto-approve'],
-      secret: 'AUTOMATION_GITHUB_TOKEN',
     },
   },
   workflowNodeVersion: '^14.17.0',
@@ -56,7 +55,6 @@ const project = new awscdk.AwsCdkConstructLibrary({
     '@aws-cdk/aws-lambda@^1.134.0',
   ],
   bundledDeps: [
-    '@aws-cdk/assert',
     'sync-request',
     'case',
   ],
