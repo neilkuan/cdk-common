@@ -3239,6 +3239,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `APP_RUNNER_NETWORKING_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.APP_RUNNER_NETWORKING_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AMAZON_REDSHIFT_QUERY_EDITOR_V2_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_REDSHIFT_QUERY_EDITOR_V2_FULL_ACCESS"></a>
 
 ---

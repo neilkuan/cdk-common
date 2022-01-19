@@ -517,6 +517,7 @@ export enum AWSManagedPolicies {
   'AMAZON_KENDRA_FULL_ACCESS' = 'AmazonKendraFullAccess',
   'AMAZONEMRFULLACCESSPOLICY_V2' = 'AmazonEMRFullAccessPolicy_v2',
   'AMAZON_S3_OUTPOSTS_FULL_ACCESS' = 'AmazonS3OutpostsFullAccess',
+  'APP_RUNNER_NETWORKING_SERVICE_ROLE_POLICY' = 'AppRunnerNetworkingServiceRolePolicy',
   'AMAZON_REDSHIFT_QUERY_EDITOR_V2_FULL_ACCESS' = 'AmazonRedshiftQueryEditorV2FullAccess',
   'AWSQUICK_SIGHT_ELASTICSEARCH_POLICY' = 'AWSQuickSightElasticsearchPolicy',
   'AMAZON_ROUTE53_RECOVERY_CONTROL_CONFIG_FULL_ACCESS' = 'AmazonRoute53RecoveryControlConfigFullAccess',
