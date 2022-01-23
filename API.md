@@ -4067,6 +4067,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_INSPECTOR2_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_INSPECTOR2_READ_ONLY_ACCESS"></a>
+
+---
+
+
 #### `AMAZON_QLDB_READ_ONLY` <a name="cdk-common.AWSManagedPolicies.AMAZON_QLDB_READ_ONLY"></a>
 
 ---
