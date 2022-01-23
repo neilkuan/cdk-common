@@ -32,6 +32,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   stability: 'experimental',
   autoDetectBin: false,
   depsUpgradeOptions: {
+    ignoreProjen: false,
     workflowOptions: {
       labels: ['auto-approve'],
     },
