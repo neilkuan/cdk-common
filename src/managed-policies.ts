@@ -690,6 +690,7 @@ export enum AWSManagedPolicies {
   'AMAZON_OPEN_SEARCH_SERVICE_COGNITO_ACCESS' = 'AmazonOpenSearchServiceCognitoAccess',
   'AMAZON_TIMESTREAM_READ_ONLY_ACCESS' = 'AmazonTimestreamReadOnlyAccess',
   'AWSPANORAMA_FULL_ACCESS' = 'AWSPanoramaFullAccess',
+  'AMAZON_INSPECTOR2_READ_ONLY_ACCESS' = 'AmazonInspector2ReadOnlyAccess',
   'AMAZON_QLDB_READ_ONLY' = 'AmazonQLDBReadOnly',
   'AWSCHATBOT_SERVICE_LINKED_ROLE_POLICY' = 'AWSChatbotServiceLinkedRolePolicy',
   'AWSDEEP_RACER_DEFAULT_MULTI_USER_ACCESS' = 'AWSDeepRacerDefaultMultiUserAccess',
