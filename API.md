@@ -4902,11 +4902,6 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
-#### `AMAZON_LAMBDA_ROLE_POLICY_FOR_LAUNCH_WIZARD_SA_P` <a name="cdk-common.AWSManagedPolicies.AMAZON_LAMBDA_ROLE_POLICY_FOR_LAUNCH_WIZARD_SA_P"></a>
-
----
-
-
 #### `AMAZON_E_C2_ROLEFOR_AWS_CODE_DEPLOY_LIMITED` <a name="cdk-common.AWSManagedPolicies.AMAZON_E_C2_ROLEFOR_AWS_CODE_DEPLOY_LIMITED"></a>
 
 ---
