@@ -857,7 +857,6 @@ export enum AWSManagedPolicies {
   'SERVERMIGRATION_SERVICEROLE' = 'ServerMigration_ServiceRole',
   'AWSAPP_MESH_PREVIEW_ENVOY_ACCESS' = 'AWSAppMeshPreviewEnvoyAccess',
   'AWSOUTPOSTS_SERVICE_ROLE_POLICY' = 'AWSOutpostsServiceRolePolicy',
-  'AMAZON_LAMBDA_ROLE_POLICY_FOR_LAUNCH_WIZARD_SA_P' = 'AmazonLambdaRolePolicyForLaunchWizardSAP',
   'AMAZON_E_C2_ROLEFOR_AWS_CODE_DEPLOY_LIMITED' = 'AmazonEC2RoleforAWSCodeDeployLimited',
   'AWSELEMENTAL_MEDIA_TAILOR_FULL_ACCESS' = 'AWSElementalMediaTailorFullAccess',
   'AWSMIGRATION_HUB_STRATEGY_CONSOLE_FULL_ACCESS' = 'AWSMigrationHubStrategyConsoleFullAccess',
