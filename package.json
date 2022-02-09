@@ -48,7 +48,7 @@
     "eslint-import-resolver-node": "^0.3.6",
     "eslint-import-resolver-typescript": "^2.5.0",
     "eslint-plugin-import": "^2.25.4",
-    "jest": "^27.5.0",
+    "jest": "^27.5.1",
     "jest-junit": "^13",
     "jsii": "^1.52.1",
     "jsii-diff": "^1.52.1",
@@ -65,7 +65,7 @@
     "constructs": "^10.0.5"
   },
   "dependencies": {
-    "@aws-cdk/assert": "^2.10.0",
+    "@aws-cdk/assert": "^2.11.0",
     "case": "^1.6.3",
     "sync-request": "^6.1.0"
   },
