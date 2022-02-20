@@ -213,6 +213,8 @@ public readonly deadLetterQueue: IQueue;
 
 The SQS queue to use if DLQ is enabled.
 
+If SNS topic is desired, specify `deadLetterTopic` property instead.
+
 ---
 
 ##### `deadLetterQueueEnabled`<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.deadLetterQueueEnabled"></a>
@@ -228,6 +230,22 @@ Enabled DLQ.
 
 If `deadLetterQueue` is undefined,
 an SQS queue with default options will be defined for your Function.
+
+---
+
+##### `deadLetterTopic`<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.deadLetterTopic"></a>
+
+```typescript
+public readonly deadLetterTopic: ITopic;
+```
+
+- *Type:* [`@aws-cdk/aws-sns.ITopic`](#@aws-cdk/aws-sns.ITopic)
+- *Default:* no SNS topic
+
+The SNS topic to use as a DLQ.
+
+Note that if `deadLetterQueueEnabled` is set to `true`, an SQS queue will be created
+rather than an SNS topic. Using an SNS topic as a DLQ requires this property to be set explicitly.
 
 ---
 
@@ -3384,6 +3402,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSBACKUP_SERVICE_ROLE_POLICY_FOR_S3_BACKUP` <a name="cdk-common.AWSManagedPolicies.AWSBACKUP_SERVICE_ROLE_POLICY_FOR_S3_BACKUP"></a>
+
+---
+
+
 #### `AWSAPP_RUNNER_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSAPP_RUNNER_FULL_ACCESS"></a>
 
 ---
@@ -4465,6 +4488,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSDEVICE_FARM_TEST_GRID_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSDEVICE_FARM_TEST_GRID_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AWSBACKUP_SERVICE_ROLE_POLICY_FOR_S3_RESTORE` <a name="cdk-common.AWSManagedPolicies.AWSBACKUP_SERVICE_ROLE_POLICY_FOR_S3_RESTORE"></a>
 
 ---
 
