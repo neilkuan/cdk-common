@@ -3347,6 +3347,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSBACKUP_SERVICE_ROLE_POLICY_FOR_S3_BACKUP` <a name="cdk-common.AWSManagedPolicies.AWSBACKUP_SERVICE_ROLE_POLICY_FOR_S3_BACKUP"></a>
+
+---
+
+
 #### `AWSAPP_RUNNER_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSAPP_RUNNER_FULL_ACCESS"></a>
 
 ---
@@ -4428,6 +4433,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSDEVICE_FARM_TEST_GRID_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSDEVICE_FARM_TEST_GRID_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AWSBACKUP_SERVICE_ROLE_POLICY_FOR_S3_RESTORE` <a name="cdk-common.AWSManagedPolicies.AWSBACKUP_SERVICE_ROLE_POLICY_FOR_S3_RESTORE"></a>
 
 ---
 
