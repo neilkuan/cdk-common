@@ -3102,6 +3102,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_EVENTS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_EVENTS_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AWSMARKETPLACE_AMI_INGESTION` <a name="cdk-common.AWSManagedPolicies.AWSMARKETPLACE_AMI_INGESTION"></a>
 
 ---
@@ -3362,6 +3367,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_CODE_PIPELINE_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_CODE_PIPELINE_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `ELEMENTAL_APPLIANCES_SOFTWARE_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.ELEMENTAL_APPLIANCES_SOFTWARE_READ_ONLY_ACCESS"></a>
 
 ---
@@ -3468,6 +3478,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_LOOKOUT_EQUIPMENT_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_LOOKOUT_EQUIPMENT_READ_ONLY_ACCESS"></a>
+
+---
+
+
+#### `AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_GLUE_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_GLUE_SERVICE_ROLE_POLICY"></a>
 
 ---
 
@@ -3593,6 +3608,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_CLOUD_WATCH_EVIDENTLY_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_CLOUD_WATCH_EVIDENTLY_READ_ONLY_ACCESS"></a>
+
+---
+
+
+#### `AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_FIREHOSE_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_FIREHOSE_SERVICE_ROLE_POLICY"></a>
 
 ---
 
