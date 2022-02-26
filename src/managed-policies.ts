@@ -918,6 +918,7 @@ export enum AWSManagedPolicies {
   'AMAZON_S3_OUTPOSTS_READ_ONLY_ACCESS' = 'AmazonS3OutpostsReadOnlyAccess',
   'AWSCOMPROMISED_KEY_QUARANTINE' = 'AWSCompromisedKeyQuarantine',
   'AWSAPP_MESH_ENVOY_ACCESS' = 'AWSAppMeshEnvoyAccess',
+  'AWSAPP_RUNNER_READ_ONLY_ACCESS' = 'AWSAppRunnerReadOnlyAccess',
   'AMAZON_ROUTE53_RECOVERY_CLUSTER_READ_ONLY_ACCESS' = 'AmazonRoute53RecoveryClusterReadOnlyAccess',
   'AMAZON_KENDRA_READ_ONLY_ACCESS' = 'AmazonKendraReadOnlyAccess',
   'AMAZON_PROMETHEUS_FULL_ACCESS' = 'AmazonPrometheusFullAccess',
