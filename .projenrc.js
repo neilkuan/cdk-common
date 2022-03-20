@@ -9,7 +9,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   description: PROJECT_DESCRIPTION,
   author: 'Neil Kuan',
   authorAddress: 'guan840912@gmail.com',
-  cdkVersion: '2.1.0',
+  cdkVersion: '2.12.0',
   /**
    * we default release the main branch(cdkv2) with major version 2.
    */
@@ -32,6 +32,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   stability: 'experimental',
   autoDetectBin: false,
   depsUpgradeOptions: {
+    ignoreProjen: false,
     workflowOptions: {
       labels: ['auto-approve'],
     },
