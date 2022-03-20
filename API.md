@@ -3102,6 +3102,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_EVENTS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_EVENTS_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AWSMARKETPLACE_AMI_INGESTION` <a name="cdk-common.AWSManagedPolicies.AWSMARKETPLACE_AMI_INGESTION"></a>
 
 ---
@@ -3347,12 +3352,22 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSBACKUP_SERVICE_ROLE_POLICY_FOR_S3_BACKUP` <a name="cdk-common.AWSManagedPolicies.AWSBACKUP_SERVICE_ROLE_POLICY_FOR_S3_BACKUP"></a>
+
+---
+
+
 #### `AWSAPP_RUNNER_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSAPP_RUNNER_FULL_ACCESS"></a>
 
 ---
 
 
 #### `AMAZON_INSPECTOR2_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_INSPECTOR2_FULL_ACCESS"></a>
+
+---
+
+
+#### `AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_CODE_PIPELINE_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_CODE_PIPELINE_SERVICE_ROLE_POLICY"></a>
 
 ---
 
@@ -3463,6 +3478,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_LOOKOUT_EQUIPMENT_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_LOOKOUT_EQUIPMENT_READ_ONLY_ACCESS"></a>
+
+---
+
+
+#### `AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_GLUE_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_GLUE_SERVICE_ROLE_POLICY"></a>
 
 ---
 
@@ -3588,6 +3608,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_CLOUD_WATCH_EVIDENTLY_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_CLOUD_WATCH_EVIDENTLY_READ_ONLY_ACCESS"></a>
+
+---
+
+
+#### `AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_FIREHOSE_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_FIREHOSE_SERVICE_ROLE_POLICY"></a>
 
 ---
 
@@ -4432,6 +4457,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSBACKUP_SERVICE_ROLE_POLICY_FOR_S3_RESTORE` <a name="cdk-common.AWSManagedPolicies.AWSBACKUP_SERVICE_ROLE_POLICY_FOR_S3_RESTORE"></a>
+
+---
+
+
 #### `AMAZON_LOOKOUT_EQUIPMENT_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_LOOKOUT_EQUIPMENT_FULL_ACCESS"></a>
 
 ---
@@ -4902,11 +4932,6 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
-#### `AMAZON_LAMBDA_ROLE_POLICY_FOR_LAUNCH_WIZARD_SA_P` <a name="cdk-common.AWSManagedPolicies.AMAZON_LAMBDA_ROLE_POLICY_FOR_LAUNCH_WIZARD_SA_P"></a>
-
----
-
-
 #### `AMAZON_E_C2_ROLEFOR_AWS_CODE_DEPLOY_LIMITED` <a name="cdk-common.AWSManagedPolicies.AMAZON_E_C2_ROLEFOR_AWS_CODE_DEPLOY_LIMITED"></a>
 
 ---
@@ -5178,6 +5203,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSAPP_MESH_ENVOY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSAPP_MESH_ENVOY_ACCESS"></a>
+
+---
+
+
+#### `AWSAPP_RUNNER_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSAPP_RUNNER_READ_ONLY_ACCESS"></a>
 
 ---
 
