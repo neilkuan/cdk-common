@@ -3537,6 +3537,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSIDENTITY_SYNC_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSIDENTITY_SYNC_READ_ONLY_ACCESS"></a>
+
+---
+
+
 #### `AWSAUDIT_MANAGER_ADMINISTRATOR_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSAUDIT_MANAGER_ADMINISTRATOR_ACCESS"></a>
 
 ---
@@ -3608,6 +3613,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_CLOUD_WATCH_EVIDENTLY_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_CLOUD_WATCH_EVIDENTLY_READ_ONLY_ACCESS"></a>
+
+---
+
+
+#### `AWSIDENTITY_SYNC_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSIDENTITY_SYNC_FULL_ACCESS"></a>
 
 ---
 
