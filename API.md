@@ -3272,6 +3272,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_CLOUDFORMATION_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_CLOUDFORMATION_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AWSQUICK_SIGHT_ELASTICSEARCH_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSQUICK_SIGHT_ELASTICSEARCH_POLICY"></a>
 
 ---
@@ -4203,6 +4208,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSAPP_SYNC_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSAPP_SYNC_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_CODE_BUILD_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_CODE_BUILD_SERVICE_ROLE_POLICY"></a>
 
 ---
 
@@ -5268,6 +5278,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSAPP_MESH_ENVOY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSAPP_MESH_ENVOY_ACCESS"></a>
+
+---
+
+
+#### `AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_API_GATEWAY_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_API_GATEWAY_SERVICE_ROLE_POLICY"></a>
 
 ---
 
