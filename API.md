@@ -3387,6 +3387,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_LAMBDA_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_LAMBDA_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AWSCODE_DEPLOY_ROLE_FOR_CLOUD_FORMATION` <a name="cdk-common.AWSManagedPolicies.AWSCODE_DEPLOY_ROLE_FOR_CLOUD_FORMATION"></a>
 
 ---
@@ -3623,6 +3628,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSIDENTITY_SYNC_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSIDENTITY_SYNC_FULL_ACCESS"></a>
+
+---
+
+
+#### `AMAZON_CHIME_SDK_MEDIA_PIPELINES_SERVICE_LINKED_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_CHIME_SDK_MEDIA_PIPELINES_SERVICE_LINKED_ROLE_POLICY"></a>
 
 ---
 
@@ -4222,6 +4232,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_EBSCSI_DRIVER_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_EBSCSI_DRIVER_POLICY"></a>
+
+---
+
+
 #### `MIGRATION_HUB_DMS_ACCESS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.MIGRATION_HUB_DMS_ACCESS_SERVICE_ROLE_POLICY"></a>
 
 ---
@@ -4683,6 +4698,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_DEV_OPS_GURU_ORGANIZATIONS_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_DEV_OPS_GURU_ORGANIZATIONS_ACCESS"></a>
+
+---
+
+
+#### `AMAZON_RDS_PERFORMANCE_INSIGHTS_READ_ONLY` <a name="cdk-common.AWSManagedPolicies.AMAZON_RDS_PERFORMANCE_INSIGHTS_READ_ONLY"></a>
 
 ---
 
