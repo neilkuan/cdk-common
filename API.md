@@ -292,6 +292,19 @@ The AWS KMS key that's used to encrypt your function's environment variables.
 
 ---
 
+##### `ephemeralStorageSize`<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.ephemeralStorageSize"></a>
+
+```typescript
+public readonly ephemeralStorageSize: Size;
+```
+
+- *Type:* [`@aws-cdk/core.Size`](#@aws-cdk/core.Size)
+- *Default:* 512 MiB
+
+The size of the function’s /tmp directory in MB.
+
+---
+
 ##### `events`<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.events"></a>
 
 ```typescript
