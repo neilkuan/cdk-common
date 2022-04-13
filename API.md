@@ -4052,6 +4052,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `ROSAMANAGE_SUBSCRIPTION` <a name="cdk-common.AWSManagedPolicies.ROSAMANAGE_SUBSCRIPTION"></a>
+
+---
+
+
 #### `AWSIO_T_DEVICE_DEFENDER_REPLACE_DEFAULT_POLICY_MITIGATION_ACTION` <a name="cdk-common.AWSManagedPolicies.AWSIO_T_DEVICE_DEFENDER_REPLACE_DEFAULT_POLICY_MITIGATION_ACTION"></a>
 
 ---

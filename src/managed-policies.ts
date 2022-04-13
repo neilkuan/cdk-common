@@ -687,6 +687,7 @@ export enum AWSManagedPolicies {
   'AWSDEEP_RACER_ACCOUNT_ADMIN_ACCESS' = 'AWSDeepRacerAccountAdminAccess',
   'AWSEC2_CAPACITY_RESERVATION_FLEET_ROLE_POLICY' = 'AWSEC2CapacityReservationFleetRolePolicy',
   'AMAZON_KEYSPACES_FULL_ACCESS' = 'AmazonKeyspacesFullAccess',
+  'ROSAMANAGE_SUBSCRIPTION' = 'ROSAManageSubscription',
   'AWSIO_T_DEVICE_DEFENDER_REPLACE_DEFAULT_POLICY_MITIGATION_ACTION' = 'AWSIoTDeviceDefenderReplaceDefaultPolicyMitigationAction',
   'AWSAPP_MESH_READ_ONLY' = 'AWSAppMeshReadOnly',
   'COMPUTE_OPTIMIZER_SERVICE_ROLE_POLICY' = 'ComputeOptimizerServiceRolePolicy',
