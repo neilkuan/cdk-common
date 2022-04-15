@@ -3490,6 +3490,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSBILLING_CONDUCTOR_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSBILLING_CONDUCTOR_READ_ONLY_ACCESS"></a>
+
+---
+
+
 #### `AMAZON_HONEYCODE_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_HONEYCODE_READ_ONLY_ACCESS"></a>
 
 ---
@@ -3506,6 +3511,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_LOOKOUT_METRICS_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_LOOKOUT_METRICS_FULL_ACCESS"></a>
+
+---
+
+
+#### `AWSBILLING_CONDUCTOR_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSBILLING_CONDUCTOR_FULL_ACCESS"></a>
 
 ---
 
