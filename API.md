@@ -4792,6 +4792,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWS_GLUE_SESSION_USER_RESTRICTED_POLICY` <a name="cdk-common.AWSManagedPolicies.AWS_GLUE_SESSION_USER_RESTRICTED_POLICY"></a>
+
+---
+
+
 #### `AMAZON_MONITRON_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_MONITRON_FULL_ACCESS"></a>
 
 ---
@@ -4928,6 +4933,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSSAVINGS_PLANS_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSSAVINGS_PLANS_FULL_ACCESS"></a>
+
+---
+
+
+#### `AWS_GLUE_SESSION_USER_RESTRICTED_SERVICE_ROLE` <a name="cdk-common.AWSManagedPolicies.AWS_GLUE_SESSION_USER_RESTRICTED_SERVICE_ROLE"></a>
 
 ---
 
