@@ -3272,6 +3272,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWS_GLUE_SESSION_USER_RESTRICTED_NOTEBOOK_POLICY` <a name="cdk-common.AWSManagedPolicies.AWS_GLUE_SESSION_USER_RESTRICTED_NOTEBOOK_POLICY"></a>
+
+---
+
+
 #### `EC2_INSTANCE_PROFILE_FOR_IMAGE_BUILDER_ECR_CONTAINER_BUILDS` <a name="cdk-common.AWSManagedPolicies.EC2_INSTANCE_PROFILE_FOR_IMAGE_BUILDER_ECR_CONTAINER_BUILDS"></a>
 
 ---
@@ -3898,6 +3903,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_EVENT_BRIDGE_API_DESTINATIONS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_EVENT_BRIDGE_API_DESTINATIONS_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AWS_GLUE_SESSION_USER_RESTRICTED_NOTEBOOK_SERVICE_ROLE` <a name="cdk-common.AWSManagedPolicies.AWS_GLUE_SESSION_USER_RESTRICTED_NOTEBOOK_SERVICE_ROLE"></a>
 
 ---
 
