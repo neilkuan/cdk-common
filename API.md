@@ -3610,6 +3610,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSMIGRATION_HUB_ORCHESTRATOR_INSTANCE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSMIGRATION_HUB_ORCHESTRATOR_INSTANCE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AWSIQCONTRACT_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSIQCONTRACT_SERVICE_ROLE_POLICY"></a>
 
 ---
@@ -3621,6 +3626,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSBACKUP_ORGANIZATION_ADMIN_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSBACKUP_ORGANIZATION_ADMIN_ACCESS"></a>
+
+---
+
+
+#### `AWSMIGRATION_HUB_ORCHESTRATOR_PLUGIN` <a name="cdk-common.AWSManagedPolicies.AWSMIGRATION_HUB_ORCHESTRATOR_PLUGIN"></a>
 
 ---
 
@@ -4485,6 +4495,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSMIGRATION_HUB_ORCHESTRATOR_CONSOLE_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSMIGRATION_HUB_ORCHESTRATOR_CONSOLE_FULL_ACCESS"></a>
+
+---
+
+
 #### `AWSELEMENTAL_MEDIA_LIVE_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSELEMENTAL_MEDIA_LIVE_FULL_ACCESS"></a>
 
 ---
@@ -4751,6 +4766,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_DEV_OPS_GURU_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_DEV_OPS_GURU_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AWSMIGRATION_HUB_ORCHESTRATOR_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSMIGRATION_HUB_ORCHESTRATOR_SERVICE_ROLE_POLICY"></a>
 
 ---
 
