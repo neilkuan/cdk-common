@@ -252,7 +252,6 @@ export enum AWSManagedPolicies {
   'LIGHTSAIL_EXPORT_ACCESS' = 'LightsailExportAccess',
   'AMAZON_API_GATEWAY_ADMINISTRATOR' = 'AmazonAPIGatewayAdministrator',
   'AMAZON_VPC_CROSS_ACCOUNT_NETWORK_INTERFACE_OPERATIONS' = 'AmazonVPCCrossAccountNetworkInterfaceOperations',
-  'AMAZON_MACIE_SETUP_ROLE' = 'AmazonMacieSetupRole',
   'AMAZON_POLLY_READ_ONLY_ACCESS' = 'AmazonPollyReadOnlyAccess',
   'AMAZON_RDS_DATA_FULL_ACCESS' = 'AmazonRDSDataFullAccess',
   'AMAZON_MOBILE_ANALYTICS_WRITE_ONLY_ACCESS' = 'AmazonMobileAnalyticsWriteOnlyAccess',
