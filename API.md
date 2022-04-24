@@ -1877,11 +1877,6 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
-#### `AMAZON_MACIE_SETUP_ROLE` <a name="cdk-common.AWSManagedPolicies.AMAZON_MACIE_SETUP_ROLE"></a>
-
----
-
-
 #### `AMAZON_POLLY_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_POLLY_READ_ONLY_ACCESS"></a>
 
 ---
