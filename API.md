@@ -301,7 +301,7 @@ public readonly ephemeralStorageSize: Size;
 - *Type:* [`@aws-cdk/core.Size`](#@aws-cdk/core.Size)
 - *Default:* 512 MiB
 
-The size of the function’s /tmp directory in MB.
+The size of the function’s /tmp directory in MiB.
 
 ---
 
@@ -1941,11 +1941,6 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_VPC_CROSS_ACCOUNT_NETWORK_INTERFACE_OPERATIONS` <a name="cdk-common.AWSManagedPolicies.AMAZON_VPC_CROSS_ACCOUNT_NETWORK_INTERFACE_OPERATIONS"></a>
-
----
-
-
-#### `AMAZON_MACIE_SETUP_ROLE` <a name="cdk-common.AWSManagedPolicies.AMAZON_MACIE_SETUP_ROLE"></a>
 
 ---
 
