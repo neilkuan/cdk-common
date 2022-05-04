@@ -3662,6 +3662,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `MONITRON_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.MONITRON_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AMAZON_SSM_PATCH_ASSOCIATION` <a name="cdk-common.AWSManagedPolicies.AMAZON_SSM_PATCH_ASSOCIATION"></a>
 
 ---
