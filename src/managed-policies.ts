@@ -609,6 +609,7 @@ export enum AWSManagedPolicies {
   'AWSIDENTITY_SYNC_FULL_ACCESS' = 'AWSIdentitySyncFullAccess',
   'AMAZON_CHIME_SDK_MEDIA_PIPELINES_SERVICE_LINKED_ROLE_POLICY' = 'AmazonChimeSDKMediaPipelinesServiceLinkedRolePolicy',
   'AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_FIREHOSE_SERVICE_ROLE_POLICY' = 'AmazonSageMakerServiceCatalogProductsFirehoseServiceRolePolicy',
+  'MONITRON_SERVICE_ROLE_POLICY' = 'MonitronServiceRolePolicy',
   'AMAZON_SSM_PATCH_ASSOCIATION' = 'AmazonSSMPatchAssociation',
   'AWSBUDGETS_READ_ONLY_ACCESS' = 'AWSBudgetsReadOnlyAccess',
   'AWSOPSWORKSREGISTERCLI_ONPREMISES' = 'AWSOpsWorksRegisterCLI_OnPremises',
