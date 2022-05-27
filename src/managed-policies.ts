@@ -488,6 +488,7 @@ export enum AWSManagedPolicies {
   'AMAZON_CHIME_SD_K' = 'AmazonChimeSDK',
   'AWS_GLUE_DATA_BREW_FULL_ACCESS_POLICY' = 'AwsGlueDataBrewFullAccessPolicy',
   'AMAZON_ELASTIC_CONTAINER_REGISTRY_PUBLIC_READ_ONLY' = 'AmazonElasticContainerRegistryPublicReadOnly',
+  'AWSBUDGETSACTIONS_ROLEPOLICYFORRESOURCEADMINISTRATIONWITHSSM' = 'AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM',
   'AWSIO_T_DEVICE_TESTER_FOR_FREE_RTOS_FULL_ACCESS' = 'AWSIoTDeviceTesterForFreeRTOSFullAccess',
   'ROUTE53_RESOLVER_SERVICE_ROLE_POLICY' = 'Route53ResolverServiceRolePolicy',
   'WAFV2_LOGGING_SERVICE_ROLE_POLICY' = 'WAFV2LoggingServiceRolePolicy',
