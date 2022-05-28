@@ -3160,6 +3160,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSELASTIC_DISASTER_RECOVERY_STAGING_ACCOUNT_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSELASTIC_DISASTER_RECOVERY_STAGING_ACCOUNT_POLICY"></a>
+
+---
+
+
 #### `AMAZON_ROUTE53_RECOVERY_READINESS_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_ROUTE53_RECOVERY_READINESS_FULL_ACCESS"></a>
 
 ---
@@ -3596,6 +3601,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSMARKETPLACE_LICENSE_MANAGEMENT_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSMARKETPLACE_LICENSE_MANAGEMENT_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AWSELASTIC_DISASTER_RECOVERY_EC2_INSTANCE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSELASTIC_DISASTER_RECOVERY_EC2_INSTANCE_POLICY"></a>
 
 ---
 
