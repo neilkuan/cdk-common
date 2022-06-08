@@ -634,6 +634,7 @@ export enum AWSManagedPolicies {
   'AMAZON_EKS_FARGATE_POD_EXECUTION_ROLE_POLICY' = 'AmazonEKSFargatePodExecutionRolePolicy',
   'AWSIO_T_WIRELESS_READ_ONLY_ACCESS' = 'AWSIoTWirelessReadOnlyAccess',
   'AMAZON_SAGE_MAKER_PIPELINES_INTEGRATIONS' = 'AmazonSageMakerPipelinesIntegrations',
+  'AWSAPPLICATIONMIGRATIONAGENTPOLICY_V2' = 'AWSApplicationMigrationAgentPolicy_v2',
   'APP_RUNNER_SERVICE_ROLE_POLICY' = 'AppRunnerServiceRolePolicy',
   'AWSTHINKBOX_DEADLINE_RESOURCE_TRACKER_ADMIN_POLICY' = 'AWSThinkboxDeadlineResourceTrackerAdminPolicy',
   'AMAZON_REDSHIFT_ALL_COMMANDS_FULL_ACCESS' = 'AmazonRedshiftAllCommandsFullAccess',
