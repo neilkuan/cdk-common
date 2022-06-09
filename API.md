@@ -5362,6 +5362,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSM2_SERVICE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSM2_SERVICE_POLICY"></a>
+
+---
+
+
 #### `AMAZON_CONNECT_CAMPAIGNS_SERVICE_LINKED_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_CONNECT_CAMPAIGNS_SERVICE_LINKED_ROLE_POLICY"></a>
 
 ---
