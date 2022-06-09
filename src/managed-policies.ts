@@ -949,6 +949,7 @@ export enum AWSManagedPolicies {
   'AMAZON_PROMETHEUS_FULL_ACCESS' = 'AmazonPrometheusFullAccess',
   'AWS_CONFIGROLE' = 'AWS_ConfigRole',
   'AMAZON_OPEN_SEARCH_SERVICE_READ_ONLY_ACCESS' = 'AmazonOpenSearchServiceReadOnlyAccess',
+  'AWSM2_SERVICE_POLICY' = 'AWSM2ServicePolicy',
   'AMAZON_CONNECT_CAMPAIGNS_SERVICE_LINKED_ROLE_POLICY' = 'AmazonConnectCampaignsServiceLinkedRolePolicy',
   'AMAZONNIMBLESTUDIO_STUDIOADMIN' = 'AmazonNimbleStudio-StudioAdmin',
   'AWSCODE_ARTIFACT_READ_ONLY_ACCESS' = 'AWSCodeArtifactReadOnlyAccess',
