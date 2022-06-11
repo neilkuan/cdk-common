@@ -3150,6 +3150,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSMANAGED_SERVICES_DEPLOYMENT_TOOLKIT_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSMANAGED_SERVICES_DEPLOYMENT_TOOLKIT_POLICY"></a>
+
+---
+
+
 #### `AWSELASTIC_BEANSTALK_MANAGED_UPDATES_CUSTOMER_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSELASTIC_BEANSTALK_MANAGED_UPDATES_CUSTOMER_ROLE_POLICY"></a>
 
 ---
