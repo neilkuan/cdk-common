@@ -493,6 +493,7 @@ export enum AWSManagedPolicies {
   'ROUTE53_RESOLVER_SERVICE_ROLE_POLICY' = 'Route53ResolverServiceRolePolicy',
   'WAFV2_LOGGING_SERVICE_ROLE_POLICY' = 'WAFV2LoggingServiceRolePolicy',
   'AWSBUDGETS_ACTIONS_WITH_AWS_RESOURCE_CONTROL_ACCESS' = 'AWSBudgetsActionsWithAWSResourceControlAccess',
+  'AWSMANAGED_SERVICES_DEPLOYMENT_TOOLKIT_POLICY' = 'AWSManagedServicesDeploymentToolkitPolicy',
   'AWSELASTIC_BEANSTALK_MANAGED_UPDATES_CUSTOMER_ROLE_POLICY' = 'AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy',
   'ADMINISTRATORACCESS_AMPLIFY' = 'AdministratorAccess-Amplify',
   'AWSELASTIC_DISASTER_RECOVERY_STAGING_ACCOUNT_POLICY' = 'AWSElasticDisasterRecoveryStagingAccountPolicy',
