@@ -5195,6 +5195,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSCLOUDTRAIL_READONLYACCESS` <a name="cdk-common.AWSManagedPolicies.AWSCLOUDTRAIL_READONLYACCESS"></a>
+
+---
+
+
 #### `AWSGRAFANA_CONSOLE_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSGRAFANA_CONSOLE_READ_ONLY_ACCESS"></a>
 
 ---
