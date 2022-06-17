@@ -784,7 +784,6 @@ export enum AWSManagedPolicies {
   'AWSBACKUP_OPERATOR_ACCESS' = 'AWSBackupOperatorAccess',
   'AWSMIGRATION_HUB_REFACTOR_SPACES_SERVICE_ROLE_POLICY' = 'AWSMigrationHubRefactorSpacesServiceRolePolicy',
   'AWSAPPLICATION_AUTOSCALING_LAMBDA_CONCURRENCY_POLICY' = 'AWSApplicationAutoscalingLambdaConcurrencyPolicy',
-  'AWSBUDGETS_ACTIONS_ROLE_POLICY_FOR_RESOURCE_ADMINISTRATION_WITH_SS_M' = 'AWSBudgetsActionsRolePolicyForResourceAdministrationWithSSM',
   'AWSIO_T_DEVICE_DEFENDER_UPDATE_CA_CERT_MITIGATION_ACTION' = 'AWSIoTDeviceDefenderUpdateCACertMitigationAction',
   'AWSBACKUP_SERVICE_LINKED_ROLE_POLICY_FOR_BACKUP_TEST' = 'AWSBackupServiceLinkedRolePolicyForBackupTest',
   'AWSAPPLICATION_MIGRATION_MGH_ACCESS' = 'AWSApplicationMigrationMGHAccess',
