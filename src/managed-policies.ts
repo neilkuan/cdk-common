@@ -546,6 +546,7 @@ export enum AWSManagedPolicies {
   'AMAZON_BRAKET_JOBS_EXECUTION_POLICY' = 'AmazonBraketJobsExecutionPolicy',
   'AMAZON_E_C2_ROLE_POLICY_FOR_LAUNCH_WIZARD' = 'AmazonEC2RolePolicyForLaunchWizard',
   'AMAZON_APP_FLOW_READ_ONLY_ACCESS' = 'AmazonAppFlowReadOnlyAccess',
+  'AWSAPPLICATION_MIGRATION_AGENT_INSTALLATION_POLICY' = 'AWSApplicationMigrationAgentInstallationPolicy',
   'AMAZON_LOOKOUT_VISION_CONSOLE_READ_ONLY_ACCESS' = 'AmazonLookoutVisionConsoleReadOnlyAccess',
   'AWSQUICK_SIGHT_TIMESTREAM_POLICY' = 'AWSQuickSightTimestreamPolicy',
   'AMAZON_MANAGED_BLOCKCHAIN_FULL_ACCESS' = 'AmazonManagedBlockchainFullAccess',
