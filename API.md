@@ -3415,6 +3415,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSAPPLICATION_MIGRATION_AGENT_INSTALLATION_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSAPPLICATION_MIGRATION_AGENT_INSTALLATION_POLICY"></a>
+
+---
+
+
 #### `AMAZON_LOOKOUT_VISION_CONSOLE_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_LOOKOUT_VISION_CONSOLE_READ_ONLY_ACCESS"></a>
 
 ---
