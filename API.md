@@ -4730,6 +4730,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSWELL_ARCHITECTED_ORGANIZATIONS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSWELL_ARCHITECTED_ORGANIZATIONS_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AMAZON_MQ_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_MQ_SERVICE_ROLE_POLICY"></a>
 
 ---
