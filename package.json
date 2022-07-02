@@ -66,7 +66,7 @@
     "constructs": "^10.0.5"
   },
   "dependencies": {
-    "@aws-cdk/assert": "^2.29.1",
+    "@aws-cdk/assert": "^2.30.0",
     "case": "^1.6.3",
     "sync-request": "^6.1.0"
   },
