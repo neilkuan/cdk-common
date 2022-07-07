@@ -4627,6 +4627,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSROLES_ANYWHERE_SERVICE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSROLES_ANYWHERE_SERVICE_POLICY"></a>
+
+---
+
+
 #### `AWSCONFIG_MULTI_ACCOUNT_SETUP_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSCONFIG_MULTI_ACCOUNT_SETUP_POLICY"></a>
 
 ---
