@@ -802,6 +802,7 @@ export enum AWSManagedPolicies {
   'AWSTRANSFER_CONSOLE_FULL_ACCESS' = 'AWSTransferConsoleFullAccess',
   'AMAZON_EKS_SERVICE_ROLE_POLICY' = 'AmazonEKSServiceRolePolicy',
   'AWSIO_T_WIRELESS_LOGGING' = 'AWSIoTWirelessLogging',
+  'AWSROLES_ANYWHERE_SERVICE_POLICY' = 'AWSRolesAnywhereServicePolicy',
   'AWSCONFIG_MULTI_ACCOUNT_SETUP_POLICY' = 'AWSConfigMultiAccountSetupPolicy',
   'AWSIO_T_WIRELESS_FULL_ACCESS' = 'AWSIoTWirelessFullAccess',
   'AWSELEMENTAL_MEDIA_LIVE_READ_ONLY' = 'AWSElementalMediaLiveReadOnly',
