@@ -1515,6 +1515,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSCONFIG_ROLE` <a name="cdk-common.AWSManagedPolicies.AWSCONFIG_ROLE"></a>
+
+---
+
+
 #### `AWSSSOMEMBER_ACCOUNT_ADMINISTRATOR` <a name="cdk-common.AWSManagedPolicies.AWSSSOMEMBER_ACCOUNT_ADMINISTRATOR"></a>
 
 ---
