@@ -688,6 +688,7 @@ export enum AWSManagedPolicies {
   'AWSIO_T_FLEET_HUB_FEDERATION_ACCESS' = 'AWSIoTFleetHubFederationAccess',
   'AWSPROTON_SYNC_SERVICE_ROLE_POLICY' = 'AWSProtonSyncServiceRolePolicy',
   'AMAZON_ELASTIC_FILE_SYSTEM_CLIENT_READ_WRITE_ACCESS' = 'AmazonElasticFileSystemClientReadWriteAccess',
+  'AWSNETWORK_MANAGER_CLOUD_WAN_SERVICE_ROLE_POLICY' = 'AWSNetworkManagerCloudWANServiceRolePolicy',
   'AWSELASTIC_DISASTER_RECOVERY_SERVICE_ROLE_POLICY' = 'AWSElasticDisasterRecoveryServiceRolePolicy',
   'AWSAPPLICATION_AUTOSCALING_COMPREHEND_ENDPOINT_POLICY' = 'AWSApplicationAutoscalingComprehendEndpointPolicy',
   'AWSCLOUD_SHELL_FULL_ACCESS' = 'AWSCloudShellFullAccess',
