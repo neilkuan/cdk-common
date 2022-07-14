@@ -4057,6 +4057,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSNETWORK_MANAGER_CLOUD_WAN_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSNETWORK_MANAGER_CLOUD_WAN_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AWSELASTIC_DISASTER_RECOVERY_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSELASTIC_DISASTER_RECOVERY_SERVICE_ROLE_POLICY"></a>
 
 ---
