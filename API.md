@@ -852,11 +852,6 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
-#### `AMAZON_WORK_LINK_READ_ONLY` <a name="cdk-common.AWSManagedPolicies.AMAZON_WORK_LINK_READ_ONLY"></a>
-
----
-
-
 #### `TRANSLATE_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.TRANSLATE_FULL_ACCESS"></a>
 
 ---
@@ -1288,11 +1283,6 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_FREE_RTOSOTA_UPDATE` <a name="cdk-common.AWSManagedPolicies.AMAZON_FREE_RTOSOTA_UPDATE"></a>
-
----
-
-
-#### `AMAZON_WORK_LINK_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_WORK_LINK_SERVICE_ROLE_POLICY"></a>
 
 ---
 
@@ -2458,11 +2448,6 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSIO_T_DATA_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSIO_T_DATA_ACCESS"></a>
-
----
-
-
-#### `AMAZON_WORK_LINK_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_WORK_LINK_FULL_ACCESS"></a>
 
 ---
 
