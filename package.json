@@ -56,7 +56,7 @@
     "jsii-pacmak": "^1.62.0",
     "json-schema": "^0.4.0",
     "npm-check-updates": "^15",
-    "projen": "0.58.35",
+    "projen": "0.59.2",
     "standard-version": "^9",
     "ts-jest": "^27",
     "typescript": "^4.7.4"
@@ -66,7 +66,7 @@
     "constructs": "^10.0.5"
   },
   "dependencies": {
-    "@aws-cdk/assert": "^2.32.1",
+    "@aws-cdk/assert": "^2.33.0",
     "case": "^1.6.3",
     "sync-request": "^6.1.0"
   },
