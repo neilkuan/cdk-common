@@ -3547,6 +3547,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_GUARD_DUTY_MALWARE_PROTECTION_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_GUARD_DUTY_MALWARE_PROTECTION_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AWSMIGRATION_HUB_ORCHESTRATOR_INSTANCE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSMIGRATION_HUB_ORCHESTRATOR_INSTANCE_ROLE_POLICY"></a>
 
 ---
