@@ -586,6 +586,7 @@ export enum AWSManagedPolicies {
   'AWSELASTIC_DISASTER_RECOVERY_EC2_INSTANCE_POLICY' = 'AWSElasticDisasterRecoveryEc2InstancePolicy',
   'AWSPROTON_READ_ONLY_ACCESS' = 'AWSProtonReadOnlyAccess',
   'AMAZON_LEX_V2_BOT_POLICY' = 'AmazonLexV2BotPolicy',
+  'AMAZON_GUARD_DUTY_MALWARE_PROTECTION_SERVICE_ROLE_POLICY' = 'AmazonGuardDutyMalwareProtectionServiceRolePolicy',
   'AWSMIGRATION_HUB_ORCHESTRATOR_INSTANCE_ROLE_POLICY' = 'AWSMigrationHubOrchestratorInstanceRolePolicy',
   'AWSIQCONTRACT_SERVICE_ROLE_POLICY' = 'AWSIQContractServiceRolePolicy',
   'AWSSTORAGE_GATEWAY_SERVICE_ROLE_POLICY' = 'AWSStorageGatewayServiceRolePolicy',
