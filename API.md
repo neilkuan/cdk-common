@@ -3120,6 +3120,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSVENDOR_INSIGHTS_ASSESSOR_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSVENDOR_INSIGHTS_ASSESSOR_FULL_ACCESS"></a>
+
+---
+
+
 #### `ROUTE53_RESOLVER_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.ROUTE53_RESOLVER_SERVICE_ROLE_POLICY"></a>
 
 ---
@@ -3451,6 +3456,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `ELEMENTAL_APPLIANCES_SOFTWARE_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.ELEMENTAL_APPLIANCES_SOFTWARE_READ_ONLY_ACCESS"></a>
+
+---
+
+
+#### `AWSVENDOR_INSIGHTS_VENDOR_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSVENDOR_INSIGHTS_VENDOR_FULL_ACCESS"></a>
 
 ---
 
@@ -4990,6 +5000,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSVENDOR_INSIGHTS_ASSESSOR_READ_ONLY` <a name="cdk-common.AWSManagedPolicies.AWSVENDOR_INSIGHTS_ASSESSOR_READ_ONLY"></a>
+
+---
+
+
 #### `AWSSERVICE_ROLE_POLICY_FOR_BACKUP_REPORTS` <a name="cdk-common.AWSManagedPolicies.AWSSERVICE_ROLE_POLICY_FOR_BACKUP_REPORTS"></a>
 
 ---
@@ -5081,6 +5096,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSELASTIC_DISASTER_RECOVERY_RECOVERY_INSTANCE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSELASTIC_DISASTER_RECOVERY_RECOVERY_INSTANCE_POLICY"></a>
+
+---
+
+
+#### `AWSVENDOR_INSIGHTS_VENDOR_READ_ONLY` <a name="cdk-common.AWSManagedPolicies.AWSVENDOR_INSIGHTS_VENDOR_READ_ONLY"></a>
 
 ---
 
