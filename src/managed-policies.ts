@@ -602,6 +602,7 @@ export enum AWSManagedPolicies {
   'AMAZON_WORK_DOCS_READ_ONLY_ACCESS' = 'AmazonWorkDocsReadOnlyAccess',
   'CLOUD_WATCH_LAMBDA_INSIGHTS_EXECUTION_ROLE_POLICY' = 'CloudWatchLambdaInsightsExecutionRolePolicy',
   'AMAZON_CONNECT_VOICE_ID_FULL_ACCESS' = 'AmazonConnectVoiceIDFullAccess',
+  'AWSLICENSE_MANAGER_USER_SUBSCRIPTIONS_SERVICE_ROLE_POLICY' = 'AWSLicenseManagerUserSubscriptionsServiceRolePolicy',
   'AWSGLOBAL_ACCELERATOR_SLR_POLICY' = 'AWSGlobalAcceleratorSLRPolicy',
   'EC2_INSTANCE_PROFILE_FOR_IMAGE_BUILDER' = 'EC2InstanceProfileForImageBuilder',
   'AWSSERVICE_ROLE_FOR_LOG_DELIVERY_POLICY' = 'AWSServiceRoleForLogDeliveryPolicy',
