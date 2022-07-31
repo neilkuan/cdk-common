@@ -3627,6 +3627,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSLICENSE_MANAGER_USER_SUBSCRIPTIONS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSLICENSE_MANAGER_USER_SUBSCRIPTIONS_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AWSGLOBAL_ACCELERATOR_SLR_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSGLOBAL_ACCELERATOR_SLR_POLICY"></a>
 
 ---
