@@ -3092,6 +3092,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSAPPLICATION_DISCOVERY_AGENTLESS_COLLECTOR_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSAPPLICATION_DISCOVERY_AGENTLESS_COLLECTOR_ACCESS"></a>
+
+---
+
+
 #### `AMAZON_ROUTE53_RECOVERY_READINESS_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_ROUTE53_RECOVERY_READINESS_FULL_ACCESS"></a>
 
 ---
@@ -4427,6 +4432,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSTRUSTED_ADVISOR_PRIORITY_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSTRUSTED_ADVISOR_PRIORITY_READ_ONLY_ACCESS"></a>
+
+---
+
+
 #### `AWSTHINKBOX_DEADLINE_SPOT_EVENT_PLUGIN_WORKER_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSTHINKBOX_DEADLINE_SPOT_EVENT_PLUGIN_WORKER_POLICY"></a>
 
 ---
@@ -4728,6 +4738,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSBILLING_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSBILLING_READ_ONLY_ACCESS"></a>
+
+---
+
+
+#### `AWSTRUSTED_ADVISOR_PRIORITY_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSTRUSTED_ADVISOR_PRIORITY_FULL_ACCESS"></a>
 
 ---
 
