@@ -4432,6 +4432,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSSUPPORT_APP_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSSUPPORT_APP_READ_ONLY_ACCESS"></a>
+
+---
+
+
 #### `AWSTRUSTED_ADVISOR_PRIORITY_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSTRUSTED_ADVISOR_PRIORITY_READ_ONLY_ACCESS"></a>
 
 ---
@@ -5163,6 +5168,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_CLOUD_WATCH_EVIDENTLY_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_CLOUD_WATCH_EVIDENTLY_FULL_ACCESS"></a>
+
+---
+
+
+#### `AWSSUPPORT_APP_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSSUPPORT_APP_FULL_ACCESS"></a>
 
 ---
 
