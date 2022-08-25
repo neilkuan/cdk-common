@@ -475,6 +475,7 @@ export enum AWSManagedPolicies {
   'CLOUD_WATCH_EVENTS_FULL_ACCESS' = 'CloudWatchEventsFullAccess',
   'AWSLICENSE_MANAGER_MEMBER_ACCOUNT_ROLE_POLICY' = 'AWSLicenseManagerMemberAccountRolePolicy',
   'AWSORGANIZATIONS_FULL_ACCESS' = 'AWSOrganizationsFullAccess',
+  'AMAZON_EKS_LOCAL_OUTPOST_SERVICE_ROLE_POLICY' = 'AmazonEKSLocalOutpostServiceRolePolicy',
   'AWSCODEPIPELINE_FULLACCESS' = 'AWSCodePipeline_FullAccess',
   'DYNAMO_DB_KINESIS_REPLICATION_SERVICE_ROLE_POLICY' = 'DynamoDBKinesisReplicationServiceRolePolicy',
   'AWSAPPLICATION_AUTOSCALING_ELASTI_CACHE_RG_POLICY' = 'AWSApplicationAutoscalingElastiCacheRGPolicy',
