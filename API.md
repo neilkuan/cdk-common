@@ -3992,6 +3992,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_EKS_LOCAL_OUTPOST_CLUSTER_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_EKS_LOCAL_OUTPOST_CLUSTER_POLICY"></a>
+
+---
+
+
 #### `AMAZON_WORK_DOCS_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_WORK_DOCS_FULL_ACCESS"></a>
 
 ---
@@ -5138,6 +5143,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `MIGRATION_HUB_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.MIGRATION_HUB_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AMAZON_SAGE_MAKER_CANVAS_FORECAST_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_CANVAS_FORECAST_ACCESS"></a>
 
 ---
 
