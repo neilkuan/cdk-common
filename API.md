@@ -3462,6 +3462,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `GROUND_TRUTH_SYNTHETIC_CONSOLE_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.GROUND_TRUTH_SYNTHETIC_CONSOLE_READ_ONLY_ACCESS"></a>
+
+---
+
+
 #### `AWSPANORAMA_APPLIANCE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSPANORAMA_APPLIANCE_ROLE_POLICY"></a>
 
 ---
@@ -5368,6 +5373,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `CLIENT_VPN_SERVICE_CONNECTIONS_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.CLIENT_VPN_SERVICE_CONNECTIONS_ROLE_POLICY"></a>
+
+---
+
+
+#### `GROUND_TRUTH_SYNTHETIC_CONSOLE_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.GROUND_TRUTH_SYNTHETIC_CONSOLE_FULL_ACCESS"></a>
 
 ---
 
