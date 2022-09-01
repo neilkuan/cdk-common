@@ -4802,6 +4802,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_SSM_MANAGED_E_C2_INSTANCE_DEFAULT_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_SSM_MANAGED_E_C2_INSTANCE_DEFAULT_POLICY"></a>
+
+---
+
+
 #### `ELEMENTAL_ACTIVATIONS_GENERATE_LICENSES` <a name="cdk-common.AWSManagedPolicies.ELEMENTAL_ACTIVATIONS_GENERATE_LICENSES"></a>
 
 ---

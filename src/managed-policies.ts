@@ -837,6 +837,7 @@ export enum AWSManagedPolicies {
   'AWSMIGRATION_HUB_ORCHESTRATOR_SERVICE_ROLE_POLICY' = 'AWSMigrationHubOrchestratorServiceRolePolicy',
   'AWSELASTIC_BEANSTALK_ROLE_WORKER_TIER' = 'AWSElasticBeanstalkRoleWorkerTier',
   'AMAZON_CODE_GURU_PROFILER_READ_ONLY_ACCESS' = 'AmazonCodeGuruProfilerReadOnlyAccess',
+  'AMAZON_SSM_MANAGED_E_C2_INSTANCE_DEFAULT_POLICY' = 'AmazonSSMManagedEC2InstanceDefaultPolicy',
   'ELEMENTAL_ACTIVATIONS_GENERATE_LICENSES' = 'ElementalActivationsGenerateLicenses',
   'AWSSHIELD_SERVICE_ROLE_POLICY' = 'AWSShieldServiceRolePolicy',
   'AWSBUG_BUST_SERVICE_ROLE_POLICY' = 'AWSBugBustServiceRolePolicy',
