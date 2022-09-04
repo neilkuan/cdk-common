@@ -62,6 +62,10 @@ const project = new awscdk.AwsCdkConstructLibrary({
     '@aws-cdk/core@^1.134.0',
     '@aws-cdk/aws-lambda@^1.134.0',
   ],
+  typescriptVersion: '3.9.10',
+});
+project.package.addField('resolutions', {
+  got: '12.3.0',
 });
 const common_exclude = ['cdk.out', 'cdk.context.json', 'yarn-error.log', 'coverage'];
 project.gitignore.exclude(...common_exclude);
