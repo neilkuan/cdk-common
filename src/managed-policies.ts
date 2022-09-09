@@ -295,7 +295,6 @@ export enum AWSManagedPolicies {
   'AWSSSODIRECTORY_READ_ONLY' = 'AWSSSODirectoryReadOnly',
   'AMAZON_MACHINE_LEARNING_CREATE_ONLY_ACCESS' = 'AmazonMachineLearningCreateOnlyAccess',
   'AMAZON_KINESIS_VIDEO_STREAMS_READ_ONLY_ACCESS' = 'AmazonKinesisVideoStreamsReadOnlyAccess',
-  'AWSCLOUD_TRAIL_READ_ONLY_ACCESS' = 'AWSCloudTrailReadOnlyAccess',
   'WAFREGIONAL_LOGGING_SERVICE_ROLE_POLICY' = 'WAFRegionalLoggingServiceRolePolicy',
   'AWSLAMBDA_EXECUTE' = 'AWSLambdaExecute',
   'AWSGLUE_CONSOLE_SAGE_MAKER_NOTEBOOK_FULL_ACCESS' = 'AWSGlueConsoleSageMakerNotebookFullAccess',
