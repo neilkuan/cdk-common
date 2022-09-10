@@ -819,6 +819,7 @@ export enum AWSManagedPolicies {
   'AMAZON_COGNITO_IDP_SERVICE_ROLE_POLICY' = 'AmazonCognitoIdpServiceRolePolicy',
   'AWSWELL_ARCHITECTED_ORGANIZATIONS_SERVICE_ROLE_POLICY' = 'AWSWellArchitectedOrganizationsServiceRolePolicy',
   'AMAZON_MQ_SERVICE_ROLE_POLICY' = 'AmazonMQServiceRolePolicy',
+  'AMAZON_SAGE_MAKER_CANVAS_FULL_ACCESS' = 'AmazonSageMakerCanvasFullAccess',
   'AWSAPPLICATION_MIGRATION_SERVICE_ROLE_POLICY' = 'AWSApplicationMigrationServiceRolePolicy',
   'AMAZON_MEMORY_DB_FULL_ACCESS' = 'AmazonMemoryDBFullAccess',
   'AMAZON_KEYSPACES_READ_ONLY_ACCESS' = 'AmazonKeyspacesReadOnlyAccess',
