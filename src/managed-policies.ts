@@ -818,6 +818,7 @@ export enum AWSManagedPolicies {
   'AWSELASTIC_DISASTER_RECOVERY_CONSOLE_FULL_ACCESS' = 'AWSElasticDisasterRecoveryConsoleFullAccess',
   'AMAZON_COGNITO_IDP_SERVICE_ROLE_POLICY' = 'AmazonCognitoIdpServiceRolePolicy',
   'AWSWELL_ARCHITECTED_ORGANIZATIONS_SERVICE_ROLE_POLICY' = 'AWSWellArchitectedOrganizationsServiceRolePolicy',
+  'AMAZON_CLOUD_WATCH_EVIDENTLY_SERVICE_ROLE_POLICY' = 'AmazonCloudWatchEvidentlyServiceRolePolicy',
   'AMAZON_MQ_SERVICE_ROLE_POLICY' = 'AmazonMQServiceRolePolicy',
   'AMAZON_SAGE_MAKER_CANVAS_FULL_ACCESS' = 'AmazonSageMakerCanvasFullAccess',
   'AWSAPPLICATION_MIGRATION_SERVICE_ROLE_POLICY' = 'AWSApplicationMigrationServiceRolePolicy',
