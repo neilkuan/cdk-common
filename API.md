@@ -3840,6 +3840,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSDEVICE_FARM_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSDEVICE_FARM_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AWSLAMBDA_MSK_EXECUTION_ROLE` <a name="cdk-common.AWSManagedPolicies.AWSLAMBDA_MSK_EXECUTION_ROLE"></a>
 
 ---
