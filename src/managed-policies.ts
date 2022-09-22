@@ -631,6 +631,7 @@ export enum AWSManagedPolicies {
   'AWSROBOMAKER_FULLACCESS' = 'AWSRoboMaker_FullAccess',
   'AWSAPP_MESH_PREVIEW_SERVICE_ROLE_POLICY' = 'AWSAppMeshPreviewServiceRolePolicy',
   'SERVICE_QUOTAS_SERVICE_ROLE_POLICY' = 'ServiceQuotasServiceRolePolicy',
+  'AWSDEVICE_FARM_SERVICE_ROLE_POLICY' = 'AWSDeviceFarmServiceRolePolicy',
   'AWSLAMBDA_MSK_EXECUTION_ROLE' = 'AWSLambdaMSKExecutionRole',
   'COMPUTE_OPTIMIZER_READ_ONLY_ACCESS' = 'ComputeOptimizerReadOnlyAccess',
   'ALEXA_FOR_BUSINESS_POLY_DELEGATED_ACCESS_POLICY' = 'AlexaForBusinessPolyDelegatedAccessPolicy',
