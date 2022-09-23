@@ -3900,6 +3900,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSIO_T_FLEETWISE_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSIO_T_FLEETWISE_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AMAZON_REDSHIFT_ALL_COMMANDS_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_REDSHIFT_ALL_COMMANDS_FULL_ACCESS"></a>
 
 ---
