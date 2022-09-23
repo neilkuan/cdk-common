@@ -643,6 +643,7 @@ export enum AWSManagedPolicies {
   'AWSAPPLICATIONMIGRATIONAGENTPOLICY_V2' = 'AWSApplicationMigrationAgentPolicy_v2',
   'APP_RUNNER_SERVICE_ROLE_POLICY' = 'AppRunnerServiceRolePolicy',
   'AWSTHINKBOX_DEADLINE_RESOURCE_TRACKER_ADMIN_POLICY' = 'AWSThinkboxDeadlineResourceTrackerAdminPolicy',
+  'AWSIO_T_FLEETWISE_SERVICE_ROLE_POLICY' = 'AWSIoTFleetwiseServiceRolePolicy',
   'AMAZON_REDSHIFT_ALL_COMMANDS_FULL_ACCESS' = 'AmazonRedshiftAllCommandsFullAccess',
   'IAMACCESS_ADVISOR_READ_ONLY' = 'IAMAccessAdvisorReadOnly',
   'AMAZON_SAGE_MAKER_FEATURE_STORE_ACCESS' = 'AmazonSageMakerFeatureStoreAccess',
