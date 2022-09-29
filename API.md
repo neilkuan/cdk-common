@@ -4195,6 +4195,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSSUPPORT_PLANS_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSSUPPORT_PLANS_READ_ONLY_ACCESS"></a>
+
+---
+
+
 #### `AMAZON_WORK_SPACES_WEB_READ_ONLY` <a name="cdk-common.AWSManagedPolicies.AMAZON_WORK_SPACES_WEB_READ_ONLY"></a>
 
 ---
@@ -4576,6 +4581,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSMIGRATION_HUB_ORCHESTRATOR_CONSOLE_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSMIGRATION_HUB_ORCHESTRATOR_CONSOLE_FULL_ACCESS"></a>
+
+---
+
+
+#### `AWSSUPPORT_PLANS_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSSUPPORT_PLANS_FULL_ACCESS"></a>
 
 ---
 
