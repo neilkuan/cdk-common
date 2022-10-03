@@ -672,6 +672,7 @@ export enum AWSManagedPolicies {
   'AMAZONEMRREADONLYACCESSPOLICY_V2' = 'AmazonEMRReadOnlyAccessPolicy_v2',
   'AMAZON_EVENT_BRIDGE_API_DESTINATIONS_SERVICE_ROLE_POLICY' = 'AmazonEventBridgeApiDestinationsServiceRolePolicy',
   'AWS_GLUE_SESSION_USER_RESTRICTED_NOTEBOOK_SERVICE_ROLE' = 'AwsGlueSessionUserRestrictedNotebookServiceRole',
+  'APP_INTEGRATIONS_SERVICE_LINKED_ROLE_POLICY' = 'AppIntegrationsServiceLinkedRolePolicy',
   'AWSSERVICEROLEFORCODEGURU_PROFILER' = 'AWSServiceRoleForCodeGuru-Profiler',
   'AMAZON_CHIME_VOICE_CONNECTOR_SERVICE_LINKED_ROLE_POLICY' = 'AmazonChimeVoiceConnectorServiceLinkedRolePolicy',
   'AMAZON_PROMETHEUS_QUERY_ACCESS' = 'AmazonPrometheusQueryAccess',
