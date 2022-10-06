@@ -106,7 +106,6 @@ export enum AWSManagedPolicies {
   'AMAZON_MOBILE_ANALYTICS_FULL_ACCESS' = 'AmazonMobileAnalyticsFullAccess',
   'AWSMOBILEHUB_FULLACCESS' = 'AWSMobileHub_FullAccess',
   'AMAZON_API_GATEWAY_PUSH_TO_CLOUD_WATCH_LOGS' = 'AmazonAPIGatewayPushToCloudWatchLogs',
-  'AWSDATA_PIPELINE_ROLE' = 'AWSDataPipelineRole',
   'CLOUD_WATCH_FULL_ACCESS' = 'CloudWatchFullAccess',
   'AMAZON_MQ_API_READ_ONLY_ACCESS' = 'AmazonMQApiReadOnlyAccess',
   'AWSDEEP_LENS_LAMBDA_FUNCTION_ACCESS_POLICY' = 'AWSDeepLensLambdaFunctionAccessPolicy',
