@@ -1215,11 +1215,6 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
-#### `AWSDATA_PIPELINE_ROLE` <a name="cdk-common.AWSManagedPolicies.AWSDATA_PIPELINE_ROLE"></a>
-
----
-
-
 #### `CLOUD_WATCH_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.CLOUD_WATCH_FULL_ACCESS"></a>
 
 ---
