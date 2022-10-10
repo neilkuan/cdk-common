@@ -155,7 +155,6 @@ export enum AWSManagedPolicies {
   'AMAZON_ELASTIC_FILE_SYSTEM_READ_ONLY_ACCESS' = 'AmazonElasticFileSystemReadOnlyAccess',
   'AWSCLOUD_MAP_DISCOVER_INSTANCE_ACCESS' = 'AWSCloudMapDiscoverInstanceAccess',
   'CLOUD_FRONT_FULL_ACCESS' = 'CloudFrontFullAccess',
-  'AMAZON_CONNECT_FULL_ACCESS' = 'AmazonConnectFullAccess',
   'AWSCLOUD9_ADMINISTRATOR' = 'AWSCloud9Administrator',
   'AWSAPPLICATION_AUTOSCALING_EMR_INSTANCE_GROUP_POLICY' = 'AWSApplicationAutoscalingEMRInstanceGroupPolicy',
   'AMAZON_TEXTRACT_FULL_ACCESS' = 'AmazonTextractFullAccess',
