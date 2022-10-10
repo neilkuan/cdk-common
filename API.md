@@ -1460,11 +1460,6 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
-#### `AMAZON_CONNECT_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_CONNECT_FULL_ACCESS"></a>
-
----
-
-
 #### `AWSCLOUD9_ADMINISTRATOR` <a name="cdk-common.AWSManagedPolicies.AWSCLOUD9_ADMINISTRATOR"></a>
 
 ---
