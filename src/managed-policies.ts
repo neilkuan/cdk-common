@@ -162,7 +162,6 @@ export enum AWSManagedPolicies {
   'AMAZON_DOC_DB_FULL_ACCESS' = 'AmazonDocDBFullAccess',
   'AMAZONMOBILEANALYTICSNON_FINANCIALREPORTACCESS' = 'AmazonMobileAnalyticsNon-financialReportAccess',
   'AMAZON_COGNITO_DEVELOPER_AUTHENTICATED_IDENTITIES' = 'AmazonCognitoDeveloperAuthenticatedIdentities',
-  'AWSCONFIG_ROLE' = 'AWSConfigRole',
   'AWSSSOMEMBER_ACCOUNT_ADMINISTRATOR' = 'AWSSSOMemberAccountAdministrator',
   'AWSAPPLICATION_AUTOSCALING_APP_STREAM_FLEET_POLICY' = 'AWSApplicationAutoscalingAppStreamFleetPolicy',
   'AWSCERTIFICATE_MANAGER_PRIVATE_CA_FULL_ACCESS' = 'AWSCertificateManagerPrivateCAFullAccess',
