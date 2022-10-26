@@ -4265,6 +4265,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_APP_STREAM_PCA_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_APP_STREAM_PCA_ACCESS"></a>
+
+---
+
+
 #### `ALEXA_FOR_BUSINESS_LIFESIZE_DELEGATED_ACCESS_POLICY` <a name="cdk-common.AWSManagedPolicies.ALEXA_FOR_BUSINESS_LIFESIZE_DELEGATED_ACCESS_POLICY"></a>
 
 ---

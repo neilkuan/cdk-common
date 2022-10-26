@@ -716,6 +716,7 @@ export enum AWSManagedPolicies {
   'AMAZON_BRAKET_FULL_ACCESS' = 'AmazonBraketFullAccess',
   'AWSELASTIC_BEANSTALK_MANAGED_UPDATES_SERVICE_ROLE_POLICY' = 'AWSElasticBeanstalkManagedUpdatesServiceRolePolicy',
   'AMAZON_LEX_CHANNELS_ACCESS' = 'AmazonLexChannelsAccess',
+  'AMAZON_APP_STREAM_PCA_ACCESS' = 'AmazonAppStreamPCAAccess',
   'ALEXA_FOR_BUSINESS_LIFESIZE_DELEGATED_ACCESS_POLICY' = 'AlexaForBusinessLifesizeDelegatedAccessPolicy',
   'AMAZON_OPEN_SEARCH_SERVICE_COGNITO_ACCESS' = 'AmazonOpenSearchServiceCognitoAccess',
   'AMAZON_TIMESTREAM_READ_ONLY_ACCESS' = 'AmazonTimestreamReadOnlyAccess',
