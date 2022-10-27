@@ -3285,6 +3285,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSREFACTORING_TOOLKIT_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSREFACTORING_TOOLKIT_FULL_ACCESS"></a>
+
+---
+
+
 #### `AMAZON_ROUTE53_RECOVERY_CONTROL_CONFIG_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_ROUTE53_RECOVERY_CONTROL_CONFIG_FULL_ACCESS"></a>
 
 ---
@@ -4575,6 +4580,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSRESOURCE_EXPLORER_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSRESOURCE_EXPLORER_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AWSMIGRATION_HUB_ORCHESTRATOR_CONSOLE_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSMIGRATION_HUB_ORCHESTRATOR_CONSOLE_FULL_ACCESS"></a>
 
 ---
@@ -4771,6 +4781,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_ELASTIC_MAP_REDUCE_PLACEMENT_GROUP_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_ELASTIC_MAP_REDUCE_PLACEMENT_GROUP_POLICY"></a>
+
+---
+
+
+#### `AWSREFACTORING_TOOLKIT_SIDECAR_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSREFACTORING_TOOLKIT_SIDECAR_POLICY"></a>
 
 ---
 
