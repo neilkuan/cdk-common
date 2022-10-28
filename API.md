@@ -3185,7 +3185,17 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSFAULT_INJECTION_SIMULATOR_NETWORK_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSFAULT_INJECTION_SIMULATOR_NETWORK_ACCESS"></a>
+
+---
+
+
 #### `AMAZON_SAGE_MAKER_MECHANICAL_TURK_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_MECHANICAL_TURK_ACCESS"></a>
+
+---
+
+
+#### `AWSFAULT_INJECTION_SIMULATOR_EKS_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSFAULT_INJECTION_SIMULATOR_EKS_ACCESS"></a>
 
 ---
 
@@ -4535,6 +4545,16 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSFAULT_INJECTION_SIMULATOR_RDS_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSFAULT_INJECTION_SIMULATOR_RDS_ACCESS"></a>
+
+---
+
+
+#### `AWSFAULT_INJECTION_SIMULATOR_E_C2_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSFAULT_INJECTION_SIMULATOR_E_C2_ACCESS"></a>
+
+---
+
+
 #### `AWSTHINKBOX_DEADLINE_SPOT_EVENT_PLUGIN_WORKER_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSTHINKBOX_DEADLINE_SPOT_EVENT_PLUGIN_WORKER_POLICY"></a>
 
 ---
@@ -4930,6 +4950,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSFAULT_INJECTION_SIMULATOR_SSM_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSFAULT_INJECTION_SIMULATOR_SSM_ACCESS"></a>
+
+---
+
+
 #### `AWSNETWORK_MANAGER_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSNETWORK_MANAGER_READ_ONLY_ACCESS"></a>
 
 ---
@@ -5271,6 +5296,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSPANORAMA_SAGE_MAKER_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSPANORAMA_SAGE_MAKER_ROLE_POLICY"></a>
+
+---
+
+
+#### `AWSFAULT_INJECTION_SIMULATOR_ECS_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSFAULT_INJECTION_SIMULATOR_ECS_ACCESS"></a>
 
 ---
 
