@@ -3780,6 +3780,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_WORKSPACES_PCA_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_WORKSPACES_PCA_ACCESS"></a>
+
+---
+
+
 #### `AWSBUDGETS_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSBUDGETS_READ_ONLY_ACCESS"></a>
 
 ---
@@ -4081,6 +4086,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_WORK_DOCS_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_WORK_DOCS_FULL_ACCESS"></a>
+
+---
+
+
+#### `AWSRESOURCE_EXPLORER_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSRESOURCE_EXPLORER_READ_ONLY_ACCESS"></a>
 
 ---
 
@@ -5126,6 +5136,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_SAGE_MAKER_NOTEBOOKS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_NOTEBOOKS_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AWSRESOURCE_EXPLORER_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSRESOURCE_EXPLORER_FULL_ACCESS"></a>
 
 ---
 
