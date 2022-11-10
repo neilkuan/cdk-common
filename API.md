@@ -4032,6 +4032,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_GRAFANA_SERVICE_LINKED_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_GRAFANA_SERVICE_LINKED_ROLE_POLICY"></a>
+
+---
+
+
 #### `AMAZON_EMR_SERVERLESS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_EMR_SERVERLESS_SERVICE_ROLE_POLICY"></a>
 
 ---
