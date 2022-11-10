@@ -683,6 +683,7 @@ export enum AWSManagedPolicies {
   'AMAZON_WORK_DOCS_FULL_ACCESS' = 'AmazonWorkDocsFullAccess',
   'AWSRESOURCE_EXPLORER_READ_ONLY_ACCESS' = 'AWSResourceExplorerReadOnlyAccess',
   'AMAZON_HONEYCODE_WORKBOOK_READ_ONLY_ACCESS' = 'AmazonHoneycodeWorkbookReadOnlyAccess',
+  'AMAZON_GRAFANA_SERVICE_LINKED_ROLE_POLICY' = 'AmazonGrafanaServiceLinkedRolePolicy',
   'AMAZON_EMR_SERVERLESS_SERVICE_ROLE_POLICY' = 'AmazonEMRServerlessServiceRolePolicy',
   'MEDIA_PACKAGE_SERVICE_ROLE_POLICY' = 'MediaPackageServiceRolePolicy',
   'AMAZON_GRAFANA_ATHENA_ACCESS' = 'AmazonGrafanaAthenaAccess',
