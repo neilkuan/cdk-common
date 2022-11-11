@@ -3467,6 +3467,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSPROTON_CODE_BUILD_PROVISIONING_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSPROTON_CODE_BUILD_PROVISIONING_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AMAZON_LOOKOUT_METRICS_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_LOOKOUT_METRICS_FULL_ACCESS"></a>
 
 ---
@@ -5078,6 +5083,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSRESOURCE_EXPLORER_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSRESOURCE_EXPLORER_FULL_ACCESS"></a>
+
+---
+
+
+#### `AWSPROTON_CODE_BUILD_PROVISIONING_BASIC_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSPROTON_CODE_BUILD_PROVISIONING_BASIC_ACCESS"></a>
 
 ---
 
