@@ -3977,6 +3977,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSBACKUP_DATA_TRANSFER_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSBACKUP_DATA_TRANSFER_ACCESS"></a>
+
+---
+
+
 #### `AMAZON_EVENT_BRIDGE_API_DESTINATIONS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_EVENT_BRIDGE_API_DESTINATIONS_SERVICE_ROLE_POLICY"></a>
 
 ---
@@ -4642,12 +4647,27 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_EVENT_BRIDGE_SCHEDULER_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_EVENT_BRIDGE_SCHEDULER_FULL_ACCESS"></a>
+
+---
+
+
+#### `AWSBACKUP_RESTORE_ACCESS_FOR_SAPHAN_A` <a name="cdk-common.AWSManagedPolicies.AWSBACKUP_RESTORE_ACCESS_FOR_SAPHAN_A"></a>
+
+---
+
+
 #### `AWSIO_T_DEVICE_DEFENDER_UPDATE_CA_CERT_MITIGATION_ACTION` <a name="cdk-common.AWSManagedPolicies.AWSIO_T_DEVICE_DEFENDER_UPDATE_CA_CERT_MITIGATION_ACTION"></a>
 
 ---
 
 
 #### `AWSBACKUP_SERVICE_LINKED_ROLE_POLICY_FOR_BACKUP_TEST` <a name="cdk-common.AWSManagedPolicies.AWSBACKUP_SERVICE_LINKED_ROLE_POLICY_FOR_BACKUP_TEST"></a>
+
+---
+
+
+#### `AMAZON_EVENT_BRIDGE_SCHEDULER_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_EVENT_BRIDGE_SCHEDULER_READ_ONLY_ACCESS"></a>
 
 ---
 
