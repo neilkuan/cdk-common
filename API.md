@@ -3082,6 +3082,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSSSMFOR_SAP_SERVICE_LINKED_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSSSMFOR_SAP_SERVICE_LINKED_ROLE_POLICY"></a>
+
+---
+
+
 #### `AMAZON_ROUTE53_RECOVERY_READINESS_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_ROUTE53_RECOVERY_READINESS_FULL_ACCESS"></a>
 
 ---
@@ -4678,6 +4683,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSDEVICE_FARM_TEST_GRID_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSDEVICE_FARM_TEST_GRID_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AWSSERVICE_CATALOG_SYNC_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSSERVICE_CATALOG_SYNC_SERVICE_ROLE_POLICY"></a>
 
 ---
 
