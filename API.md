@@ -1240,11 +1240,6 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
-#### `AWSCODE_PIPELINE_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSCODE_PIPELINE_READ_ONLY_ACCESS"></a>
-
----
-
-
 #### `READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.READ_ONLY_ACCESS"></a>
 
 ---
@@ -2615,11 +2610,6 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
-#### `AWSCODE_PIPELINE_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSCODE_PIPELINE_FULL_ACCESS"></a>
-
----
-
-
 #### `AWSCLOUD9_USER` <a name="cdk-common.AWSManagedPolicies.AWSCLOUD9_USER"></a>
 
 ---
@@ -3296,6 +3286,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSQUICK_SIGHT_ELASTICSEARCH_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSQUICK_SIGHT_ELASTICSEARCH_POLICY"></a>
+
+---
+
+
+#### `AWSSYSTEMS_MANAGER_FOR_SAP_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSSYSTEMS_MANAGER_FOR_SAP_READ_ONLY_ACCESS"></a>
 
 ---
 
@@ -4316,6 +4311,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `ALEXA_FOR_BUSINESS_LIFESIZE_DELEGATED_ACCESS_POLICY` <a name="cdk-common.AWSManagedPolicies.ALEXA_FOR_BUSINESS_LIFESIZE_DELEGATED_ACCESS_POLICY"></a>
+
+---
+
+
+#### `AWSSYSTEMS_MANAGER_FOR_SAP_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSSYSTEMS_MANAGER_FOR_SAP_FULL_ACCESS"></a>
 
 ---
 
