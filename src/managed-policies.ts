@@ -850,6 +850,7 @@ export enum AWSManagedPolicies {
   'AWSRESOURCE_ACCESS_MANAGER_RESOURCE_SHARE_PARTICIPANT_ACCESS' = 'AWSResourceAccessManagerResourceShareParticipantAccess',
   'AMAZON_REDSHIFT_QUERY_EDITOR_V2_READ_WRITE_SHARING' = 'AmazonRedshiftQueryEditorV2ReadWriteSharing',
   'AWSBILLING_READ_ONLY_ACCESS' = 'AWSBillingReadOnlyAccess',
+  'AMAZON_OPEN_SEARCH_INGESTION_SERVICE_ROLE_POLICY' = 'AmazonOpenSearchIngestionServiceRolePolicy',
   'AWSTRUSTED_ADVISOR_PRIORITY_FULL_ACCESS' = 'AWSTrustedAdvisorPriorityFullAccess',
   'SERVER_MIGRATION_SERVICE_ROLE_FOR_INSTANCE_VALIDATION' = 'ServerMigrationServiceRoleForInstanceValidation',
   'AWSAPPLICATION_AUTOSCALING_NEPTUNE_CLUSTER_POLICY' = 'AWSApplicationAutoscalingNeptuneClusterPolicy',
