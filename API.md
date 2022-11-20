@@ -4935,6 +4935,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_OPEN_SEARCH_INGESTION_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_OPEN_SEARCH_INGESTION_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AWSTRUSTED_ADVISOR_PRIORITY_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSTRUSTED_ADVISOR_PRIORITY_FULL_ACCESS"></a>
 
 ---
