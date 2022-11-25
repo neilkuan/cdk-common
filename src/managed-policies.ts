@@ -564,6 +564,7 @@ export enum AWSManagedPolicies {
   'AMAZON_HONEYCODE_SERVICE_ROLE_POLICY' = 'AmazonHoneycodeServiceRolePolicy',
   'AWSBUG_BUST_PLAYER_ACCESS' = 'AWSBugBustPlayerAccess',
   'AMAZON_SAGE_MAKER_EDGE_DEVICE_FLEET_POLICY' = 'AmazonSageMakerEdgeDeviceFleetPolicy',
+  'AWSREACHABILITY_ANALYZER_SERVICE_ROLE_POLICY' = 'AWSReachabilityAnalyzerServiceRolePolicy',
   'AWSIO_T_SITE_WISE_MONITOR_SERVICE_ROLE_POLICY' = 'AWSIoTSiteWiseMonitorServiceRolePolicy',
   'AWSBILLING_CONDUCTOR_READ_ONLY_ACCESS' = 'AWSBillingConductorReadOnlyAccess',
   'AMAZON_HONEYCODE_READ_ONLY_ACCESS' = 'AmazonHoneycodeReadOnlyAccess',
