@@ -3437,6 +3437,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSREACHABILITY_ANALYZER_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSREACHABILITY_ANALYZER_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AWSIO_T_SITE_WISE_MONITOR_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSIO_T_SITE_WISE_MONITOR_SERVICE_ROLE_POLICY"></a>
 
 ---
