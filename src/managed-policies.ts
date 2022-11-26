@@ -821,6 +821,7 @@ export enum AWSManagedPolicies {
   'AWSPURCHASE_ORDERS_SERVICE_ROLE_POLICY' = 'AWSPurchaseOrdersServiceRolePolicy',
   'AMAZON_HONEYCODE_TEAM_ASSOCIATION_READ_ONLY_ACCESS' = 'AmazonHoneycodeTeamAssociationReadOnlyAccess',
   'AMAZON_WORK_SPACES_SERVICE_ACCESS' = 'AmazonWorkSpacesServiceAccess',
+  'AMAZON_OPEN_SEARCH_SERVERLESS_SERVICE_ROLE_POLICY' = 'AmazonOpenSearchServerlessServiceRolePolicy',
   'AWSSECURITY_HUB_ORGANIZATIONS_ACCESS' = 'AWSSecurityHubOrganizationsAccess',
   'AMAZON_ELASTIC_FILE_SYSTEMS_UTILS' = 'AmazonElasticFileSystemsUtils',
   'AWSCOST_AND_USAGE_REPORT_AUTOMATION_POLICY' = 'AWSCostAndUsageReportAutomationPolicy',
