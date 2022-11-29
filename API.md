@@ -3272,6 +3272,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `OAMREAD_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.OAMREAD_ONLY_ACCESS"></a>
+
+---
+
+
 #### `AWSELASTIC_BEANSTALK_READ_ONLY` <a name="cdk-common.AWSManagedPolicies.AWSELASTIC_BEANSTALK_READ_ONLY"></a>
 
 ---
@@ -3643,6 +3648,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_CONNECT_VOICE_ID_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_CONNECT_VOICE_ID_FULL_ACCESS"></a>
+
+---
+
+
+#### `AWSAPPLICATION_MIGRATION_SSM_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSAPPLICATION_MIGRATION_SSM_ACCESS"></a>
 
 ---
 
@@ -4062,6 +4072,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `OAMFULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.OAMFULL_ACCESS"></a>
+
+---
+
+
 #### `AMAZON_GRAFANA_ATHENA_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_GRAFANA_ATHENA_ACCESS"></a>
 
 ---
@@ -4198,6 +4213,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSIO_T_DEVICE_DEFENDER_REPLACE_DEFAULT_POLICY_MITIGATION_ACTION` <a name="cdk-common.AWSManagedPolicies.AWSIO_T_DEVICE_DEFENDER_REPLACE_DEFAULT_POLICY_MITIGATION_ACTION"></a>
+
+---
+
+
+#### `AWSXRAY_CROSS_ACCOUNT_SHARING_CONFIGURATION` <a name="cdk-common.AWSManagedPolicies.AWSXRAY_CROSS_ACCOUNT_SHARING_CONFIGURATION"></a>
 
 ---
 
@@ -4563,6 +4583,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZONCONNECT_FULLACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZONCONNECT_FULLACCESS"></a>
+
+---
+
+
+#### `CLOUD_WATCH_INTERNET_MONITOR_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.CLOUD_WATCH_INTERNET_MONITOR_SERVICE_ROLE_POLICY"></a>
 
 ---
 
@@ -5282,6 +5307,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `CLOUD_WATCH_LOGS_CROSS_ACCOUNT_SHARING_CONFIGURATION` <a name="cdk-common.AWSManagedPolicies.CLOUD_WATCH_LOGS_CROSS_ACCOUNT_SHARING_CONFIGURATION"></a>
+
+---
+
+
 #### `ECRREPLICATION_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.ECRREPLICATION_SERVICE_ROLE_POLICY"></a>
 
 ---
@@ -5343,6 +5373,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSIMAGE_BUILDER_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSIMAGE_BUILDER_READ_ONLY_ACCESS"></a>
+
+---
+
+
+#### `AWSWICKR_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSWICKR_FULL_ACCESS"></a>
 
 ---
 
@@ -5548,6 +5583,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_S3_OUTPOSTS_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_S3_OUTPOSTS_READ_ONLY_ACCESS"></a>
+
+---
+
+
+#### `CLOUD_WATCH_CROSS_ACCOUNT_SHARING_CONFIGURATION` <a name="cdk-common.AWSManagedPolicies.CLOUD_WATCH_CROSS_ACCOUNT_SHARING_CONFIGURATION"></a>
 
 ---
 
