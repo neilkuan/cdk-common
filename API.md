@@ -3220,6 +3220,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_SECURITY_LAKE_PERMISSIONS_BOUNDARY` <a name="cdk-common.AWSManagedPolicies.AMAZON_SECURITY_LAKE_PERMISSIONS_BOUNDARY"></a>
+
+---
+
+
 #### `AWSCONFIG_REMEDIATION_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSCONFIG_REMEDIATION_SERVICE_ROLE_POLICY"></a>
 
 ---
@@ -3390,6 +3395,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_OMICS_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_OMICS_READ_ONLY_ACCESS"></a>
+
+---
+
+
 #### `ACCESS_ANALYZER_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.ACCESS_ANALYZER_SERVICE_ROLE_POLICY"></a>
 
 ---
@@ -3541,6 +3551,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSPANORAMA_APPLIANCE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSPANORAMA_APPLIANCE_ROLE_POLICY"></a>
+
+---
+
+
+#### `SECURITY_LAKE_SERVICE_LINKED_ROLE` <a name="cdk-common.AWSManagedPolicies.SECURITY_LAKE_SERVICE_LINKED_ROLE"></a>
 
 ---
 
@@ -3971,6 +3986,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_CODE_GURU_PROFILER_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_CODE_GURU_PROFILER_FULL_ACCESS"></a>
+
+---
+
+
+#### `AWSVPCVERIFIED_ACCESS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSVPCVERIFIED_ACCESS_SERVICE_ROLE_POLICY"></a>
 
 ---
 
