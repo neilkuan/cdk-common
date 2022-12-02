@@ -3250,6 +3250,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSVPC_LATTICE_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSVPC_LATTICE_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AWSELEMENTAL_MEDIA_TAILOR_READ_ONLY` <a name="cdk-common.AWSManagedPolicies.AWSELEMENTAL_MEDIA_TAILOR_READ_ONLY"></a>
 
 ---
@@ -3881,6 +3886,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSDEVICE_FARM_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSDEVICE_FARM_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AMAZON_SAGE_MAKER_GEOSPATIAL_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_GEOSPATIAL_FULL_ACCESS"></a>
 
 ---
 
@@ -4620,6 +4630,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZONDOCDB_ELASTICSERVICEROLEPOLICY` <a name="cdk-common.AWSManagedPolicies.AMAZONDOCDB_ELASTICSERVICEROLEPOLICY"></a>
+
+---
+
+
 #### `AWSFAULT_INJECTION_SIMULATOR_RDS_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSFAULT_INJECTION_SIMULATOR_RDS_ACCESS"></a>
 
 ---
@@ -4661,6 +4676,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSQUICKSIGHT_OPEN_SEARCH_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSQUICKSIGHT_OPEN_SEARCH_POLICY"></a>
+
+---
+
+
+#### `AMAZON_SAGE_MAKER_MODEL_GOVERNANCE_USE_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_MODEL_GOVERNANCE_USE_ACCESS"></a>
 
 ---
 
@@ -5046,6 +5066,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSSHIELD_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSSHIELD_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AMAZON_SAGE_MAKER_GEOSPATIAL_EXECUTION_ROLE` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_GEOSPATIAL_EXECUTION_ROLE"></a>
 
 ---
 
