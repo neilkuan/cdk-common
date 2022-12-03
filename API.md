@@ -3140,6 +3140,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_EVENT_BRIDGE_PIPES_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_EVENT_BRIDGE_PIPES_READ_ONLY_ACCESS"></a>
+
+---
+
+
 #### `AWSSSMFOR_SAP_SERVICE_LINKED_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSSSMFOR_SAP_SERVICE_LINKED_ROLE_POLICY"></a>
 
 ---
@@ -3880,6 +3885,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_EVENT_BRIDGE_PIPES_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_EVENT_BRIDGE_PIPES_FULL_ACCESS"></a>
+
+---
+
+
 #### `SERVICE_QUOTAS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.SERVICE_QUOTAS_SERVICE_ROLE_POLICY"></a>
 
 ---
@@ -4011,6 +4021,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_ELASTIC_FILE_SYSTEM_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_ELASTIC_FILE_SYSTEM_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AMAZON_EVENT_BRIDGE_PIPES_OPERATOR_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_EVENT_BRIDGE_PIPES_OPERATOR_ACCESS"></a>
 
 ---
 
