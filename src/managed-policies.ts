@@ -635,6 +635,7 @@ export enum AWSManagedPolicies {
   'AWSMIGRATION_HUB_STRATEGY_SERVICE_ROLE_POLICY' = 'AWSMigrationHubStrategyServiceRolePolicy',
   'AWSAPPLICATION_MIGRATION_V_CENTER_CLIENT_POLICY' = 'AWSApplicationMigrationVCenterClientPolicy',
   'AMAZON_RDS_CUSTOM_SERVICE_ROLE_POLICY' = 'AmazonRDSCustomServiceRolePolicy',
+  'AWSSERVICE_ROLE_FOR_GROUND_STATION_DATAFLOW_ENDPOINT_GROUP_POLICY' = 'AWSServiceRoleForGroundStationDataflowEndpointGroupPolicy',
   'AMAZON_ELASTIC_CONTAINER_REGISTRY_PUBLIC_FULL_ACCESS' = 'AmazonElasticContainerRegistryPublicFullAccess',
   'AMAZON_MCS_READ_ONLY_ACCESS' = 'AmazonMCSReadOnlyAccess',
   'AMAZON_OPEN_SEARCH_SERVICE_FULL_ACCESS' = 'AmazonOpenSearchServiceFullAccess',
