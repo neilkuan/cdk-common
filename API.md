@@ -4467,6 +4467,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSBACKUP_GATEWAY_SERVICE_ROLE_POLICY_FOR_VIRTUAL_MACHINE_METADATA_SYNC` <a name="cdk-common.AWSManagedPolicies.AWSBACKUP_GATEWAY_SERVICE_ROLE_POLICY_FOR_VIRTUAL_MACHINE_METADATA_SYNC"></a>
+
+---
+
+
 #### `AWSSERVICE_CATALOG_END_USER_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSSERVICE_CATALOG_END_USER_READ_ONLY_ACCESS"></a>
 
 ---
