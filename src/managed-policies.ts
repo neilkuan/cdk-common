@@ -770,6 +770,7 @@ export enum AWSManagedPolicies {
   'EC2_FLEET_TIME_SHIFTABLE_SERVICE_ROLE_POLICY' = 'EC2FleetTimeShiftableServiceRolePolicy',
   'AMAZON_EBSCSI_DRIVER_POLICY' = 'AmazonEBSCSIDriverPolicy',
   'MIGRATION_HUB_DMS_ACCESS_SERVICE_ROLE_POLICY' = 'MigrationHubDMSAccessServiceRolePolicy',
+  'AWSBACKUP_GATEWAY_SERVICE_ROLE_POLICY_FOR_VIRTUAL_MACHINE_METADATA_SYNC' = 'AWSBackupGatewayServiceRolePolicyForVirtualMachineMetadataSync',
   'AWSSERVICE_CATALOG_END_USER_READ_ONLY_ACCESS' = 'AWSServiceCatalogEndUserReadOnlyAccess',
   'AWSIOT_ROBO_RUNNER_FULL_ACCESS' = 'AWSIotRoboRunnerFullAccess',
   'ELEMENTAL_ACTIVATIONS_FULL_ACCESS' = 'ElementalActivationsFullAccess',
