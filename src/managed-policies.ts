@@ -937,6 +937,7 @@ export enum AWSManagedPolicies {
   'AWSSAVINGS_PLANS_FULL_ACCESS' = 'AWSSavingsPlansFullAccess',
   'AWS_GLUE_SESSION_USER_RESTRICTED_SERVICE_ROLE' = 'AwsGlueSessionUserRestrictedServiceRole',
   'AWSSERVICE_ROLE_FOR_IMAGE_BUILDER' = 'AWSServiceRoleForImageBuilder',
+  'AWSMANAGEDSERVICES_DETECTIVECONTROLSCONFIG_SERVICEROLEPOLICY' = 'AWSManagedServices_DetectiveControlsConfig_ServiceRolePolicy',
   'AWSELASTIC_DISASTER_RECOVERY_RECOVERY_INSTANCE_POLICY' = 'AWSElasticDisasterRecoveryRecoveryInstancePolicy',
   'AWSVENDOR_INSIGHTS_VENDOR_READ_ONLY' = 'AWSVendorInsightsVendorReadOnly',
   'AMAZON_OPEN_SEARCH_SERVICE_ROLE_POLICY' = 'AmazonOpenSearchServiceRolePolicy',
