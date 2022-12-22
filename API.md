@@ -4915,6 +4915,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSLICENSE_MANAGER_LINUX_SUBSCRIPTIONS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSLICENSE_MANAGER_LINUX_SUBSCRIPTIONS_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AMAZON_EKS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_EKS_SERVICE_ROLE_POLICY"></a>
 
 ---

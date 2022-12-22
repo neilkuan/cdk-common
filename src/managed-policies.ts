@@ -846,6 +846,7 @@ export enum AWSManagedPolicies {
   'MEMORY_DB_SERVICE_ROLE_POLICY' = 'MemoryDBServiceRolePolicy',
   'AWSLICENSE_MANAGER_CONSUMPTION_POLICY' = 'AWSLicenseManagerConsumptionPolicy',
   'AWSTRANSFER_CONSOLE_FULL_ACCESS' = 'AWSTransferConsoleFullAccess',
+  'AWSLICENSE_MANAGER_LINUX_SUBSCRIPTIONS_SERVICE_ROLE_POLICY' = 'AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy',
   'AMAZON_EKS_SERVICE_ROLE_POLICY' = 'AmazonEKSServiceRolePolicy',
   'AWSIO_T_WIRELESS_LOGGING' = 'AWSIoTWirelessLogging',
   'AWSROLES_ANYWHERE_SERVICE_POLICY' = 'AWSRolesAnywhereServicePolicy',
