@@ -962,6 +962,7 @@ export enum AWSManagedPolicies {
   'AWSPANORAMA_SAGE_MAKER_ROLE_POLICY' = 'AWSPanoramaSageMakerRolePolicy',
   'AWSFAULT_INJECTION_SIMULATOR_ECS_ACCESS' = 'AWSFaultInjectionSimulatorECSAccess',
   'AWSPANORAMA_APPLIANCE_SERVICE_ROLE_POLICY' = 'AWSPanoramaApplianceServiceRolePolicy',
+  'AWSOUTPOSTS_AUTHORIZE_SERVER_POLICY' = 'AWSOutpostsAuthorizeServerPolicy',
   'AWSIO_T_WIRELESS_GATEWAY_CERT_MANAGER' = 'AWSIoTWirelessGatewayCertManager',
   'AWSDIRECT_CONNECT_SERVICE_ROLE_POLICY' = 'AWSDirectConnectServiceRolePolicy',
   'AWSAPPLICATION_MIGRATION_E_C2_ACCESS' = 'AWSApplicationMigrationEC2Access',
