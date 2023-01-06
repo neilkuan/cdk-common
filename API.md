@@ -5427,6 +5427,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSOUTPOSTS_AUTHORIZE_SERVER_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSOUTPOSTS_AUTHORIZE_SERVER_POLICY"></a>
+
+---
+
+
 #### `AWSIO_T_WIRELESS_GATEWAY_CERT_MANAGER` <a name="cdk-common.AWSManagedPolicies.AWSIO_T_WIRELESS_GATEWAY_CERT_MANAGER"></a>
 
 ---
