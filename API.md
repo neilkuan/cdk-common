@@ -3320,6 +3320,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSELASTICDISASTERRECOVERYSTAGINGACCOUNTPOLICY_V2` <a name="cdk-common.AWSManagedPolicies.AWSELASTICDISASTERRECOVERYSTAGINGACCOUNTPOLICY_V2"></a>
+
+---
+
+
 #### `AWSAPPLICATION_AUTOSCALING_CASSANDRA_TABLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSAPPLICATION_AUTOSCALING_CASSANDRA_TABLE_POLICY"></a>
 
 ---
@@ -3441,6 +3446,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_LOOKOUT_VISION_CONSOLE_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_LOOKOUT_VISION_CONSOLE_READ_ONLY_ACCESS"></a>
+
+---
+
+
+#### `RESOURCE_GROUPS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.RESOURCE_GROUPS_SERVICE_ROLE_POLICY"></a>
 
 ---
 
