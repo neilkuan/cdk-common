@@ -3937,6 +3937,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSCLEAN_ROOMS_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSCLEAN_ROOMS_READ_ONLY_ACCESS"></a>
+
+---
+
+
 #### `AWSELASTIC_DISASTER_RECOVERY_FAILBACK_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSELASTIC_DISASTER_RECOVERY_FAILBACK_POLICY"></a>
 
 ---
@@ -4342,6 +4347,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSCLEAN_ROOMS_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSCLEAN_ROOMS_FULL_ACCESS"></a>
+
+---
+
+
 #### `AMAZON_TIMESTREAM_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_TIMESTREAM_READ_ONLY_ACCESS"></a>
 
 ---
@@ -4493,6 +4503,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `ELEMENTAL_ACTIVATIONS_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.ELEMENTAL_ACTIVATIONS_FULL_ACCESS"></a>
+
+---
+
+
+#### `AWSCLEAN_ROOMS_FULL_ACCESS_NO_QUERYING` <a name="cdk-common.AWSManagedPolicies.AWSCLEAN_ROOMS_FULL_ACCESS_NO_QUERYING"></a>
 
 ---
 
