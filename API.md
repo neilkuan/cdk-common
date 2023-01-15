@@ -3355,6 +3355,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSHEALTH_EVENTPROCESSORSERVICEROLEPOLICY` <a name="cdk-common.AWSManagedPolicies.AWSHEALTH_EVENTPROCESSORSERVICEROLEPOLICY"></a>
+
+---
+
+
 #### `AWSTHINKBOX_AWS_PORTAL_ADMIN_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSTHINKBOX_AWS_PORTAL_ADMIN_POLICY"></a>
 
 ---
