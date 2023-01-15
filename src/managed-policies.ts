@@ -534,6 +534,7 @@ export enum AWSManagedPolicies {
   'AMAZON_DEV_OPS_GURU_FULL_ACCESS' = 'AmazonDevOpsGuruFullAccess',
   'AWSRESOURCE_ACCESS_MANAGER_READ_ONLY_ACCESS' = 'AWSResourceAccessManagerReadOnlyAccess',
   'AMAZON_EVENT_BRIDGE_FULL_ACCESS' = 'AmazonEventBridgeFullAccess',
+  'AWSHEALTH_EVENTPROCESSORSERVICEROLEPOLICY' = 'AWSHealth_EventProcessorServiceRolePolicy',
   'AWSTHINKBOX_AWS_PORTAL_ADMIN_POLICY' = 'AWSThinkboxAWSPortalAdminPolicy',
   'OAMREAD_ONLY_ACCESS' = 'OAMReadOnlyAccess',
   'AWSELASTIC_BEANSTALK_READ_ONLY' = 'AWSElasticBeanstalkReadOnly',
