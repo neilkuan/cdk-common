@@ -2992,6 +2992,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_DETECTIVE_MEMBER_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_DETECTIVE_MEMBER_ACCESS"></a>
+
+---
+
+
 #### `AMAZON_FRAUD_DETECTOR_FULL_ACCESS_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_FRAUD_DETECTOR_FULL_ACCESS_POLICY"></a>
 
 ---
@@ -4808,6 +4813,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSDEVICE_FARM_TEST_GRID_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSDEVICE_FARM_TEST_GRID_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AMAZON_DETECTIVE_INVESTIGATOR_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_DETECTIVE_INVESTIGATOR_ACCESS"></a>
 
 ---
 
