@@ -5820,6 +5820,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `EC2_INSTANCE_CONNECT_ENDPOINT` <a name="cdk-common.AWSManagedPolicies.EC2_INSTANCE_CONNECT_ENDPOINT"></a>
+
+---
+
+
 #### `AWS_CONFIGROLE` <a name="cdk-common.AWSManagedPolicies.AWS_CONFIGROLE"></a>
 
 ---
