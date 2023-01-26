@@ -1027,6 +1027,7 @@ export enum AWSManagedPolicies {
   'AMAZON_ROUTE53_RECOVERY_CLUSTER_READ_ONLY_ACCESS' = 'AmazonRoute53RecoveryClusterReadOnlyAccess',
   'AMAZON_KENDRA_READ_ONLY_ACCESS' = 'AmazonKendraReadOnlyAccess',
   'AMAZON_PROMETHEUS_FULL_ACCESS' = 'AmazonPrometheusFullAccess',
+  'EC2_INSTANCE_CONNECT_ENDPOINT' = 'Ec2InstanceConnectEndpoint',
   'AWS_CONFIGROLE' = 'AWS_ConfigRole',
   'AMAZON_OPEN_SEARCH_SERVICE_READ_ONLY_ACCESS' = 'AmazonOpenSearchServiceReadOnlyAccess',
   'AWSM2_SERVICE_POLICY' = 'AWSM2ServicePolicy',
