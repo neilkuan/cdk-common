@@ -1016,6 +1016,7 @@ export enum AWSManagedPolicies {
   'GROUND_TRUTH_SYNTHETIC_CONSOLE_FULL_ACCESS' = 'GroundTruthSyntheticConsoleFullAccess',
   'AMAZON_APP_FLOW_FULL_ACCESS' = 'AmazonAppFlowFullAccess',
   'AWSELASTIC_DISASTER_RECOVERY_REPLICATION_SERVER_POLICY' = 'AWSElasticDisasterRecoveryReplicationServerPolicy',
+  'AMAZON_COGNITO_UNAUTHENTICATED_IDENTITIES' = 'AmazonCognitoUnauthenticatedIdentities',
   'EC2_IMAGE_BUILDER_CROSS_ACCOUNT_DISTRIBUTION_ACCESS' = 'Ec2ImageBuilderCrossAccountDistributionAccess',
   'AWSTHINKBOX_AWS_PORTAL_WORKER_POLICY' = 'AWSThinkboxAWSPortalWorkerPolicy',
   'AMAZON_S3_OUTPOSTS_READ_ONLY_ACCESS' = 'AmazonS3OutpostsReadOnlyAccess',
