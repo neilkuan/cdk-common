@@ -5765,6 +5765,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_COGNITO_UNAUTHENTICATED_IDENTITIES` <a name="cdk-common.AWSManagedPolicies.AMAZON_COGNITO_UNAUTHENTICATED_IDENTITIES"></a>
+
+---
+
+
 #### `EC2_IMAGE_BUILDER_CROSS_ACCOUNT_DISTRIBUTION_ACCESS` <a name="cdk-common.AWSManagedPolicies.EC2_IMAGE_BUILDER_CROSS_ACCOUNT_DISTRIBUTION_ACCESS"></a>
 
 ---
