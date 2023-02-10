@@ -690,6 +690,7 @@ export enum AWSManagedPolicies {
   'AWSPANORAMA_SERVICE_ROLE_POLICY' = 'AWSPanoramaServiceRolePolicy',
   'AWSELASTIC_DISASTER_RECOVERY_CONVERSION_SERVER_POLICY' = 'AWSElasticDisasterRecoveryConversionServerPolicy',
   'AMAZONEMRREADONLYACCESSPOLICY_V2' = 'AmazonEMRReadOnlyAccessPolicy_v2',
+  'AWSMANAGEDSERVICES_EVENTSSERVICEROLEPOLICY' = 'AWSManagedServices_EventsServiceRolePolicy',
   'AWSBACKUP_DATA_TRANSFER_ACCESS' = 'AWSBackupDataTransferAccess',
   'AMAZON_EVENT_BRIDGE_API_DESTINATIONS_SERVICE_ROLE_POLICY' = 'AmazonEventBridgeApiDestinationsServiceRolePolicy',
   'AWS_GLUE_SESSION_USER_RESTRICTED_NOTEBOOK_SERVICE_ROLE' = 'AwsGlueSessionUserRestrictedNotebookServiceRole',
