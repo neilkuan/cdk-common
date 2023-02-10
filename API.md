@@ -4135,6 +4135,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSMANAGEDSERVICES_EVENTSSERVICEROLEPOLICY` <a name="cdk-common.AWSManagedPolicies.AWSMANAGEDSERVICES_EVENTSSERVICEROLEPOLICY"></a>
+
+---
+
+
 #### `AWSBACKUP_DATA_TRANSFER_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSBACKUP_DATA_TRANSFER_ACCESS"></a>
 
 ---
