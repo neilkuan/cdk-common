@@ -3355,6 +3355,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSPRIVATE_CA_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSPRIVATE_CA_FULL_ACCESS"></a>
+
+---
+
+
 #### `AMAZON_EVENT_BRIDGE_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_EVENT_BRIDGE_FULL_ACCESS"></a>
 
 ---
@@ -4130,6 +4135,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSPRIVATE_CA_PRIVILEGED_USER` <a name="cdk-common.AWSManagedPolicies.AWSPRIVATE_CA_PRIVILEGED_USER"></a>
+
+---
+
+
 #### `AMAZONEMRREADONLYACCESSPOLICY_V2` <a name="cdk-common.AWSManagedPolicies.AMAZONEMRREADONLYACCESSPOLICY_V2"></a>
 
 ---
@@ -4146,6 +4156,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_EVENT_BRIDGE_API_DESTINATIONS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_EVENT_BRIDGE_API_DESTINATIONS_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AWSPRIVATE_CA_USER` <a name="cdk-common.AWSManagedPolicies.AWSPRIVATE_CA_USER"></a>
 
 ---
 
@@ -5550,6 +5565,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSPRIVATE_CA_AUDITOR` <a name="cdk-common.AWSManagedPolicies.AWSPRIVATE_CA_AUDITOR"></a>
+
+---
+
+
 #### `AWSDIRECT_CONNECT_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSDIRECT_CONNECT_SERVICE_ROLE_POLICY"></a>
 
 ---
@@ -5736,6 +5756,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `EC2_INSTANCE_CONNECT` <a name="cdk-common.AWSManagedPolicies.EC2_INSTANCE_CONNECT"></a>
+
+---
+
+
+#### `AWSPRIVATE_CA_READ_ONLY` <a name="cdk-common.AWSManagedPolicies.AWSPRIVATE_CA_READ_ONLY"></a>
 
 ---
 
