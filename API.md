@@ -5622,6 +5622,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSIOT_ROBO_RUNNER_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSIOT_ROBO_RUNNER_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `CLOUDWATCH_CROSSACCOUNTACCESS` <a name="cdk-common.AWSManagedPolicies.CLOUDWATCH_CROSSACCOUNTACCESS"></a>
 
 ---
