@@ -1001,6 +1001,7 @@ export enum AWSManagedPolicies {
   'AMAZON_WORK_MAIL_MESSAGE_FLOW_FULL_ACCESS' = 'AmazonWorkMailMessageFlowFullAccess',
   'AWSSERVICE_ROLE_FOR_SM_S' = 'AWSServiceRoleForSMS',
   'AWSTHINKBOX_DEADLINE_RESOURCE_TRACKER_ACCESS_POLICY' = 'AWSThinkboxDeadlineResourceTrackerAccessPolicy',
+  'AWSIOT_ROBO_RUNNER_SERVICE_ROLE_POLICY' = 'AWSIotRoboRunnerServiceRolePolicy',
   'CLOUDWATCH_CROSSACCOUNTACCESS' = 'CloudWatch-CrossAccountAccess',
   'AWSLAKE_FORMATION_DATA_ADMIN' = 'AWSLakeFormationDataAdmin',
   'AWSELASTIC_BEANSTALK_ROLE_CORE' = 'AWSElasticBeanstalkRoleCore',
