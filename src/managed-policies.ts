@@ -501,6 +501,7 @@ export enum AWSManagedPolicies {
   'AWSPRIVATE_MARKETPLACE_REQUESTS' = 'AWSPrivateMarketplaceRequests',
   'CLOUD_WATCH_APPLICATION_INSIGHTS_READ_ONLY_ACCESS' = 'CloudWatchApplicationInsightsReadOnlyAccess',
   'ADMINISTRATORACCESS_AWSELASTICBEANSTALK' = 'AdministratorAccess-AWSElasticBeanstalk',
+  'AMAZON_OMICS_FULL_ACCESS' = 'AmazonOmicsFullAccess',
   'AWSFAULT_INJECTION_SIMULATOR_NETWORK_ACCESS' = 'AWSFaultInjectionSimulatorNetworkAccess',
   'AMAZON_SAGE_MAKER_MECHANICAL_TURK_ACCESS' = 'AmazonSageMakerMechanicalTurkAccess',
   'AWSFAULT_INJECTION_SIMULATOR_EKS_ACCESS' = 'AWSFaultInjectionSimulatorEKSAccess',

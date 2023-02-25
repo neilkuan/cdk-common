@@ -3190,6 +3190,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_OMICS_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_OMICS_FULL_ACCESS"></a>
+
+---
+
+
 #### `AWSFAULT_INJECTION_SIMULATOR_NETWORK_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSFAULT_INJECTION_SIMULATOR_NETWORK_ACCESS"></a>
 
 ---
