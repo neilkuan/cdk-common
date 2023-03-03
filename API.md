@@ -4452,6 +4452,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSSUPPLY_CHAIN_FEDERATION_ADMIN_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSSUPPLY_CHAIN_FEDERATION_ADMIN_ACCESS"></a>
+
+---
+
+
 #### `AWSAPP_MESH_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSAPP_MESH_FULL_ACCESS"></a>
 
 ---
