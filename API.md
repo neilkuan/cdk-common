@@ -5252,6 +5252,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_CHIME_SDK_MESSAGING_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_CHIME_SDK_MESSAGING_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AMAZON_LOOKOUT_METRICS_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_LOOKOUT_METRICS_READ_ONLY_ACCESS"></a>
 
 ---
@@ -5703,6 +5708,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `EC2_INSTANCE_CONNECT` <a name="cdk-common.AWSManagedPolicies.EC2_INSTANCE_CONNECT"></a>
+
+---
+
+
+#### `AMAZON_DETECTIVE_ORGANIZATIONS_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_DETECTIVE_ORGANIZATIONS_ACCESS"></a>
 
 ---
 
