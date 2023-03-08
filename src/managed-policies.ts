@@ -981,6 +981,7 @@ export enum AWSManagedPolicies {
   'AWSIO_T_WIRELESS_GATEWAY_CERT_MANAGER' = 'AWSIoTWirelessGatewayCertManager',
   'AWSPRIVATE_CA_AUDITOR' = 'AWSPrivateCAAuditor',
   'AWSDIRECT_CONNECT_SERVICE_ROLE_POLICY' = 'AWSDirectConnectServiceRolePolicy',
+  'AWSDMSFLEET_ADVISOR_SERVICE_ROLE_POLICY' = 'AWSDMSFleetAdvisorServiceRolePolicy',
   'AWSAPPLICATION_MIGRATION_E_C2_ACCESS' = 'AWSApplicationMigrationEC2Access',
   'AMAZON_CLOUD_WATCH_EVIDENTLY_FULL_ACCESS' = 'AmazonCloudWatchEvidentlyFullAccess',
   'AWSSUPPORT_APP_FULL_ACCESS' = 'AWSSupportAppFullAccess',
