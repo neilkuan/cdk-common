@@ -5522,6 +5522,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSDMSFLEET_ADVISOR_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSDMSFLEET_ADVISOR_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AWSAPPLICATION_MIGRATION_E_C2_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSAPPLICATION_MIGRATION_E_C2_ACCESS"></a>
 
 ---
