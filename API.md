@@ -4112,6 +4112,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `CUSTOMER_PROFILES_SERVICE_LINKED_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.CUSTOMER_PROFILES_SERVICE_LINKED_ROLE_POLICY"></a>
+
+---
+
+
 #### `AWSSERVICEROLEFORCODEGURU_PROFILER` <a name="cdk-common.AWSManagedPolicies.AWSSERVICEROLEFORCODEGURU_PROFILER"></a>
 
 ---
