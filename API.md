@@ -3972,6 +3972,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_DATA_ZONE_PROJECT_ROLE_PERMISSIONS_BOUNDARY` <a name="cdk-common.AWSManagedPolicies.AMAZON_DATA_ZONE_PROJECT_ROLE_PERMISSIONS_BOUNDARY"></a>
+
+---
+
+
 #### `AWSSYSTEMS_MANAGER_OPS_DATA_SYNC_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSSYSTEMS_MANAGER_OPS_DATA_SYNC_SERVICE_ROLE_POLICY"></a>
 
 ---
@@ -4578,6 +4583,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `MIGRATION_HUB_SMS_ACCESS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.MIGRATION_HUB_SMS_ACCESS_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AWSDATA_SYNC_DISCOVERY_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSDATA_SYNC_DISCOVERY_SERVICE_ROLE_POLICY"></a>
 
 ---
 
@@ -5608,6 +5618,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSSAVINGS_PLANS_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSSAVINGS_PLANS_READ_ONLY_ACCESS"></a>
+
+---
+
+
+#### `AMAZON_DATA_ZONE_PROJECT_DEPLOYMENT_PERMISSIONS_BOUNDARY` <a name="cdk-common.AWSManagedPolicies.AMAZON_DATA_ZONE_PROJECT_DEPLOYMENT_PERMISSIONS_BOUNDARY"></a>
 
 ---
 
