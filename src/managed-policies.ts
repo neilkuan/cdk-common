@@ -749,6 +749,7 @@ export enum AWSManagedPolicies {
   'AWSLAKE_FORMATION_CROSS_ACCOUNT_MANAGER' = 'AWSLakeFormationCrossAccountManager',
   'AWSGLUE_DATA_BREW_SERVICE_ROLE' = 'AWSGlueDataBrewServiceRole',
   'AMAZON_BRAKET_FULL_ACCESS' = 'AmazonBraketFullAccess',
+  'MEDIA_CONNECT_GATEWAY_INSTANCE_ROLE_POLICY' = 'MediaConnectGatewayInstanceRolePolicy',
   'AWSELASTIC_BEANSTALK_MANAGED_UPDATES_SERVICE_ROLE_POLICY' = 'AWSElasticBeanstalkManagedUpdatesServiceRolePolicy',
   'AMAZON_LEX_CHANNELS_ACCESS' = 'AmazonLexChannelsAccess',
   'AMAZON_APP_STREAM_PCA_ACCESS' = 'AmazonAppStreamPCAAccess',

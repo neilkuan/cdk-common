@@ -4362,6 +4362,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `MEDIA_CONNECT_GATEWAY_INSTANCE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.MEDIA_CONNECT_GATEWAY_INSTANCE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AWSELASTIC_BEANSTALK_MANAGED_UPDATES_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSELASTIC_BEANSTALK_MANAGED_UPDATES_SERVICE_ROLE_POLICY"></a>
 
 ---
