@@ -4475,6 +4475,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_SAGE_MAKER_CANVAS_AI_SERVICES_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_CANVAS_AI_SERVICES_ACCESS"></a>
+
+---
+
+
 #### `AWSPANORAMA_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSPANORAMA_FULL_ACCESS"></a>
 
 ---
@@ -5746,6 +5751,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSLAKE_FORMATION_DATA_ADMIN` <a name="cdk-common.AWSManagedPolicies.AWSLAKE_FORMATION_DATA_ADMIN"></a>
+
+---
+
+
+#### `AWSMANAGEDSERVICES_CONTACTSSERVICEROLEPOLICY` <a name="cdk-common.AWSManagedPolicies.AWSMANAGEDSERVICES_CONTACTSSERVICEROLEPOLICY"></a>
 
 ---
 
