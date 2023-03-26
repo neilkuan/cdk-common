@@ -5317,6 +5317,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSSERVICE_ROLE_FOR_CODE_WHISPERER_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSSERVICE_ROLE_FOR_CODE_WHISPERER_POLICY"></a>
+
+---
+
+
 #### `AWSCONTROL_TOWER_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSCONTROL_TOWER_SERVICE_ROLE_POLICY"></a>
 
 ---
@@ -5423,6 +5428,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_OPEN_SEARCH_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_OPEN_SEARCH_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AMAZON_GRAFANA_CLOUD_WATCH_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_GRAFANA_CLOUD_WATCH_ACCESS"></a>
 
 ---
 
