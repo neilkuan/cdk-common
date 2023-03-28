@@ -942,6 +942,7 @@ export enum AWSManagedPolicies {
   'CLOUD_WATCH_APPLICATION_INSIGHTS_FULL_ACCESS' = 'CloudWatchApplicationInsightsFullAccess',
   'AWSSERVICE_ROLE_FOR_CODE_WHISPERER_POLICY' = 'AWSServiceRoleForCodeWhispererPolicy',
   'AWSCONTROL_TOWER_SERVICE_ROLE_POLICY' = 'AWSControlTowerServiceRolePolicy',
+  'AMAZON_DATA_ZONE_PORTAL_FULL_ACCESS_POLICY' = 'AmazonDataZonePortalFullAccessPolicy',
   'AMAZON_SAGE_MAKER_NOTEBOOKS_SERVICE_ROLE_POLICY' = 'AmazonSageMakerNotebooksServiceRolePolicy',
   'AWSRESOURCE_EXPLORER_FULL_ACCESS' = 'AWSResourceExplorerFullAccess',
   'AWSPROTON_CODE_BUILD_PROVISIONING_BASIC_ACCESS' = 'AWSProtonCodeBuildProvisioningBasicAccess',
