@@ -835,6 +835,7 @@ export enum AWSManagedPolicies {
   'AWSIO_T_SITE_WISE_CONSOLE_FULL_ACCESS' = 'AWSIoTSiteWiseConsoleFullAccess',
   'AMAZON_ELASTIC_FILE_SYSTEM_CLIENT_FULL_ACCESS' = 'AmazonElasticFileSystemClientFullAccess',
   'AWSIO_T_DEVICE_DEFENDER_UPDATE_DEVICE_CERT_MITIGATION_ACTION' = 'AWSIoTDeviceDefenderUpdateDeviceCertMitigationAction',
+  'AMAZON_DATA_ZONE_PREVIEW_CONSOLE_FULL_ACCESS' = 'AmazonDataZonePreviewConsoleFullAccess',
   'AWSTHINKBOX_ASSET_SERVER_POLICY' = 'AWSThinkboxAssetServerPolicy',
   'AWSFOR_WORD_PRESS_PLUGIN_POLICY' = 'AWSForWordPressPluginPolicy',
   'KAFKA_CONNECT_SERVICE_ROLE_POLICY' = 'KafkaConnectServiceRolePolicy',
