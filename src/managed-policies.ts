@@ -700,6 +700,7 @@ export enum AWSManagedPolicies {
   'AWSPRIVATE_CA_USER' = 'AWSPrivateCAUser',
   'AWS_GLUE_SESSION_USER_RESTRICTED_NOTEBOOK_SERVICE_ROLE' = 'AwsGlueSessionUserRestrictedNotebookServiceRole',
   'APP_INTEGRATIONS_SERVICE_LINKED_ROLE_POLICY' = 'AppIntegrationsServiceLinkedRolePolicy',
+  'AWSGROUND_STATION_AGENT_INSTANCE_POLICY' = 'AWSGroundStationAgentInstancePolicy',
   'CUSTOMER_PROFILES_SERVICE_LINKED_ROLE_POLICY' = 'CustomerProfilesServiceLinkedRolePolicy',
   'AWSSERVICEROLEFORCODEGURU_PROFILER' = 'AWSServiceRoleForCodeGuru-Profiler',
   'AMAZON_CHIME_VOICE_CONNECTOR_SERVICE_LINKED_ROLE_POLICY' = 'AmazonChimeVoiceConnectorServiceLinkedRolePolicy',
