@@ -4185,6 +4185,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSGROUND_STATION_AGENT_INSTANCE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSGROUND_STATION_AGENT_INSTANCE_POLICY"></a>
+
+---
+
+
 #### `CUSTOMER_PROFILES_SERVICE_LINKED_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.CUSTOMER_PROFILES_SERVICE_LINKED_ROLE_POLICY"></a>
 
 ---
