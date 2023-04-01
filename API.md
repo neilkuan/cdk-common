@@ -3572,6 +3572,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `VPCLATTICE_SERVICES_INVOKE_ACCESS` <a name="cdk-common.AWSManagedPolicies.VPCLATTICE_SERVICES_INVOKE_ACCESS"></a>
+
+---
+
+
 #### `AWSNETWORK_FIREWALL_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSNETWORK_FIREWALL_SERVICE_ROLE_POLICY"></a>
 
 ---
@@ -5267,6 +5272,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `VPCLATTICE_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.VPCLATTICE_FULL_ACCESS"></a>
+
+---
+
+
 #### `AMAZON_ROUTE53_RECOVERY_CLUSTER_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_ROUTE53_RECOVERY_CLUSTER_FULL_ACCESS"></a>
 
 ---
@@ -5618,6 +5628,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_MANAGED_BLOCKCHAIN_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_MANAGED_BLOCKCHAIN_READ_ONLY_ACCESS"></a>
+
+---
+
+
+#### `VPCLATTICE_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.VPCLATTICE_READ_ONLY_ACCESS"></a>
 
 ---
 
