@@ -4120,6 +4120,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSMIGRATIONHUBREFACTORSPACES_ENVIRONMENTSWITHOUTBRIDGESFULLACCESS` <a name="cdk-common.AWSManagedPolicies.AWSMIGRATIONHUBREFACTORSPACES_ENVIRONMENTSWITHOUTBRIDGESFULLACCESS"></a>
+
+---
+
+
 #### `AMAZON_DETECTIVE_SERVICE_LINKED_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_DETECTIVE_SERVICE_LINKED_ROLE_POLICY"></a>
 
 ---
@@ -4381,6 +4386,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSDEEP_RACER_ACCOUNT_ADMIN_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSDEEP_RACER_ACCOUNT_ADMIN_ACCESS"></a>
+
+---
+
+
+#### `AWSMEDIA_CONNECT_SERVICE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSMEDIA_CONNECT_SERVICE_POLICY"></a>
 
 ---
 
