@@ -55,11 +55,9 @@ const project = new awscdk.AwsCdkConstructLibrary({
     'sync-request',
     'case',
   ],
-  typescriptVersion: '3.9.10',
+  typescriptVersion: '^4.9',
 });
-project.package.addField('resolutions', {
-  got: '12.3.0',
-});
+
 
 const common_exclude = ['cdk.out', 'cdk.context.json', 'yarn-error.log', 'coverage'];
 project.gitignore.exclude(...common_exclude);
