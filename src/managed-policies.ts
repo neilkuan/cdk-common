@@ -602,6 +602,7 @@ export enum AWSManagedPolicies {
   'AWSMARKETPLACE_SELLER_PRODUCTS_FULL_ACCESS' = 'AWSMarketplaceSellerProductsFullAccess',
   'AWSMARKETPLACE_LICENSE_MANAGEMENT_SERVICE_ROLE_POLICY' = 'AWSMarketplaceLicenseManagementServiceRolePolicy',
   'AWSELASTIC_DISASTER_RECOVERY_EC2_INSTANCE_POLICY' = 'AWSElasticDisasterRecoveryEc2InstancePolicy',
+  'AWSSERVICE_CATALOG_ORGS_DATA_SYNC_SERVICE_ROLE_POLICY' = 'AWSServiceCatalogOrgsDataSyncServiceRolePolicy',
   'AWSPROTON_READ_ONLY_ACCESS' = 'AWSProtonReadOnlyAccess',
   'AMAZON_LEX_V2_BOT_POLICY' = 'AmazonLexV2BotPolicy',
   'AMAZON_GUARD_DUTY_MALWARE_PROTECTION_SERVICE_ROLE_POLICY' = 'AmazonGuardDutyMalwareProtectionServiceRolePolicy',

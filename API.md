@@ -2510,11 +2510,6 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
-#### `AMAZON_SUMERIAN_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_SUMERIAN_FULL_ACCESS"></a>
-
----
-
-
 #### `AWSWAFFULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSWAFFULL_ACCESS"></a>
 
 ---
@@ -3696,6 +3691,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSELASTIC_DISASTER_RECOVERY_EC2_INSTANCE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSELASTIC_DISASTER_RECOVERY_EC2_INSTANCE_POLICY"></a>
+
+---
+
+
+#### `AWSSERVICE_CATALOG_ORGS_DATA_SYNC_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSSERVICE_CATALOG_ORGS_DATA_SYNC_SERVICE_ROLE_POLICY"></a>
 
 ---
 
