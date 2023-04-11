@@ -365,7 +365,6 @@ export enum AWSManagedPolicies {
   'AMAZON_TRANSCRIBE_READ_ONLY_ACCESS' = 'AmazonTranscribeReadOnlyAccess',
   'AMAZON_ES_FULL_ACCESS' = 'AmazonESFullAccess',
   'APPLICATION_DISCOVERY_SERVICE_CONTINUOUS_EXPORT_SERVICE_ROLE_POLICY' = 'ApplicationDiscoveryServiceContinuousExportServiceRolePolicy',
-  'AMAZON_SUMERIAN_FULL_ACCESS' = 'AmazonSumerianFullAccess',
   'AWSWAFFULL_ACCESS' = 'AWSWAFFullAccess',
   'ELASTIC_LOAD_BALANCING_READ_ONLY' = 'ElasticLoadBalancingReadOnly',
   'AWSARTIFACT_ACCOUNT_SYNC' = 'AWSArtifactAccountSync',
