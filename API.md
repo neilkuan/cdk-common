@@ -3087,6 +3087,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_SAGE_MAKER_MODEL_REGISTRY_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_MODEL_REGISTRY_FULL_ACCESS"></a>
+
+---
+
+
 #### `AWSNETWORK_MANAGER_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSNETWORK_MANAGER_FULL_ACCESS"></a>
 
 ---

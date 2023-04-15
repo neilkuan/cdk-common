@@ -494,6 +494,7 @@ export enum AWSManagedPolicies {
   'AMAZON_EVENT_BRIDGE_PIPES_READ_ONLY_ACCESS' = 'AmazonEventBridgePipesReadOnlyAccess',
   'AWSSSMFOR_SAP_SERVICE_LINKED_ROLE_POLICY' = 'AWSSSMForSAPServiceLinkedRolePolicy',
   'AMAZON_ROUTE53_RECOVERY_READINESS_FULL_ACCESS' = 'AmazonRoute53RecoveryReadinessFullAccess',
+  'AMAZON_SAGE_MAKER_MODEL_REGISTRY_FULL_ACCESS' = 'AmazonSageMakerModelRegistryFullAccess',
   'AWSNETWORK_MANAGER_FULL_ACCESS' = 'AWSNetworkManagerFullAccess',
   'AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_EVENTS_SERVICE_ROLE_POLICY' = 'AmazonSageMakerServiceCatalogProductsEventsServiceRolePolicy',
   'AWSMARKETPLACE_AMI_INGESTION' = 'AWSMarketplaceAmiIngestion',
