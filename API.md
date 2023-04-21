@@ -4697,6 +4697,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSUSER_NOTIFICATIONS_SERVICE_LINKED_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSUSER_NOTIFICATIONS_SERVICE_LINKED_ROLE_POLICY"></a>
+
+---
+
+
 #### `AWSSUPPORT_APP_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSSUPPORT_APP_READ_ONLY_ACCESS"></a>
 
 ---
