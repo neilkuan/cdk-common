@@ -816,6 +816,7 @@ export enum AWSManagedPolicies {
   'AMAZON_DEV_OPS_GURU_READ_ONLY_ACCESS' = 'AmazonDevOpsGuruReadOnlyAccess',
   'AMAZON_EVENT_BRIDGE_SCHEMAS_READ_ONLY_ACCESS' = 'AmazonEventBridgeSchemasReadOnlyAccess',
   'AMAZON_FIS_SERVICE_ROLE_POLICY' = 'AmazonFISServiceRolePolicy',
+  'AWSUSER_NOTIFICATIONS_SERVICE_LINKED_ROLE_POLICY' = 'AWSUserNotificationsServiceLinkedRolePolicy',
   'AWSSUPPORT_APP_READ_ONLY_ACCESS' = 'AWSSupportAppReadOnlyAccess',
   'AWSTRUSTED_ADVISOR_PRIORITY_READ_ONLY_ACCESS' = 'AWSTrustedAdvisorPriorityReadOnlyAccess',
   'AMAZONDOCDB_ELASTICSERVICEROLEPOLICY' = 'AmazonDocDB-ElasticServiceRolePolicy',
