@@ -3675,6 +3675,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `ROSAINGRESS_OPERATOR_POLICY` <a name="cdk-common.AWSManagedPolicies.ROSAINGRESS_OPERATOR_POLICY"></a>
+
+---
+
+
 #### `AMAZON_CLOUD_WATCH_RUM_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_CLOUD_WATCH_RUM_FULL_ACCESS"></a>
 
 ---
@@ -3895,6 +3900,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `ROSAAMAZON_EBSCSI_DRIVER_OPERATOR_POLICY` <a name="cdk-common.AWSManagedPolicies.ROSAAMAZON_EBSCSI_DRIVER_OPERATOR_POLICY"></a>
+
+---
+
+
 #### `AMAZON_RDS_CUSTOM_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_RDS_CUSTOM_SERVICE_ROLE_POLICY"></a>
 
 ---
@@ -3956,6 +3966,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `COMPUTE_OPTIMIZER_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.COMPUTE_OPTIMIZER_READ_ONLY_ACCESS"></a>
+
+---
+
+
+#### `AMAZON_CODE_CATALYST_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_CODE_CATALYST_FULL_ACCESS"></a>
 
 ---
 
@@ -4076,6 +4091,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_ELASTIC_FILE_SYSTEM_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_ELASTIC_FILE_SYSTEM_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AMAZON_CODE_CATALYST_SUPPORT_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_CODE_CATALYST_SUPPORT_ACCESS"></a>
 
 ---
 
@@ -4955,6 +4975,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `ROSAWORKER_INSTANCE_POLICY` <a name="cdk-common.AWSManagedPolicies.ROSAWORKER_INSTANCE_POLICY"></a>
+
+---
+
+
 #### `AWSIO_T_DEVICE_DEFENDER_UPDATE_CA_CERT_MITIGATION_ACTION` <a name="cdk-common.AWSManagedPolicies.AWSIO_T_DEVICE_DEFENDER_UPDATE_CA_CERT_MITIGATION_ACTION"></a>
 
 ---
@@ -5041,6 +5066,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSLICENSE_MANAGER_CONSUMPTION_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSLICENSE_MANAGER_CONSUMPTION_POLICY"></a>
+
+---
+
+
+#### `AMAZON_CODE_CATALYST_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_CODE_CATALYST_READ_ONLY_ACCESS"></a>
 
 ---
 
@@ -5331,6 +5361,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSQUICK_SIGHT_SAGE_MAKER_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSQUICK_SIGHT_SAGE_MAKER_POLICY"></a>
+
+---
+
+
+#### `ROSACLOUD_NETWORK_CONFIG_OPERATOR_POLICY` <a name="cdk-common.AWSManagedPolicies.ROSACLOUD_NETWORK_CONFIG_OPERATOR_POLICY"></a>
 
 ---
 
