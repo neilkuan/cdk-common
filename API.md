@@ -4837,6 +4837,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `ROSACONTROL_PLANE_OPERATOR_POLICY` <a name="cdk-common.AWSManagedPolicies.ROSACONTROL_PLANE_OPERATOR_POLICY"></a>
+
+---
+
+
 #### `AMAZON_ELASTIC_FILE_SYSTEM_CLIENT_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_ELASTIC_FILE_SYSTEM_CLIENT_FULL_ACCESS"></a>
 
 ---
