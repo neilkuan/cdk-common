@@ -844,6 +844,7 @@ export enum AWSManagedPolicies {
   'AWSMARKETPLACE_SELLER_PRODUCTS_READ_ONLY' = 'AWSMarketplaceSellerProductsReadOnly',
   'AMAZON_MCS_FULL_ACCESS' = 'AmazonMCSFullAccess',
   'AWSIO_T_SITE_WISE_CONSOLE_FULL_ACCESS' = 'AWSIoTSiteWiseConsoleFullAccess',
+  'ROSACONTROL_PLANE_OPERATOR_POLICY' = 'ROSAControlPlaneOperatorPolicy',
   'AMAZON_ELASTIC_FILE_SYSTEM_CLIENT_FULL_ACCESS' = 'AmazonElasticFileSystemClientFullAccess',
   'AWSIO_T_DEVICE_DEFENDER_UPDATE_DEVICE_CERT_MITIGATION_ACTION' = 'AWSIoTDeviceDefenderUpdateDeviceCertMitigationAction',
   'AMAZON_DATA_ZONE_PREVIEW_CONSOLE_FULL_ACCESS' = 'AmazonDataZonePreviewConsoleFullAccess',
