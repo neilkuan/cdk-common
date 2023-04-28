@@ -3670,6 +3670,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSWELL_ARCHITECTED_DISCOVERY_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSWELL_ARCHITECTED_DISCOVERY_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_GLUE_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_SERVICE_CATALOG_PRODUCTS_GLUE_SERVICE_ROLE_POLICY"></a>
 
 ---
@@ -4095,6 +4100,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_OPEN_SEARCH_INGESTION_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_OPEN_SEARCH_INGESTION_FULL_ACCESS"></a>
+
+---
+
+
 #### `AMAZON_CODE_CATALYST_SUPPORT_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_CODE_CATALYST_SUPPORT_ACCESS"></a>
 
 ---
@@ -4166,6 +4176,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSECRPULLTHROUGHCACHE_SERVICEROLEPOLICY` <a name="cdk-common.AWSManagedPolicies.AWSECRPULLTHROUGHCACHE_SERVICEROLEPOLICY"></a>
+
+---
+
+
+#### `AMAZON_OPEN_SEARCH_INGESTION_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_OPEN_SEARCH_INGESTION_READ_ONLY_ACCESS"></a>
 
 ---
 
