@@ -4807,6 +4807,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `ROSAKUBE_CONTROLLER_POLICY` <a name="cdk-common.AWSManagedPolicies.ROSAKUBE_CONTROLLER_POLICY"></a>
+
+---
+
+
 #### `AMAZONCONNECT_FULLACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZONCONNECT_FULLACCESS"></a>
 
 ---
@@ -5123,6 +5128,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_KEYSPACES_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_KEYSPACES_READ_ONLY_ACCESS"></a>
+
+---
+
+
+#### `ROSAIMAGE_REGISTRY_OPERATOR_POLICY` <a name="cdk-common.AWSManagedPolicies.ROSAIMAGE_REGISTRY_OPERATOR_POLICY"></a>
 
 ---
 
@@ -5938,6 +5948,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSCOMPROMISED_KEY_QUARANTINE` <a name="cdk-common.AWSManagedPolicies.AWSCOMPROMISED_KEY_QUARANTINE"></a>
+
+---
+
+
+#### `ROSAKMSPROVIDER_POLICY` <a name="cdk-common.AWSManagedPolicies.ROSAKMSPROVIDER_POLICY"></a>
 
 ---
 
