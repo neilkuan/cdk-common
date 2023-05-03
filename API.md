@@ -5642,6 +5642,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_VPC_REACHABILITY_ANALYZER_PATH_COMPONENT_READ_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_VPC_REACHABILITY_ANALYZER_PATH_COMPONENT_READ_POLICY"></a>
+
+---
+
+
 #### `AWSFAULT_INJECTION_SIMULATOR_ECS_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSFAULT_INJECTION_SIMULATOR_ECS_ACCESS"></a>
 
 ---

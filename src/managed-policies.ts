@@ -1005,6 +1005,7 @@ export enum AWSManagedPolicies {
   'AMAZON_SAGE_MAKER_CANVAS_FORECAST_ACCESS' = 'AmazonSageMakerCanvasForecastAccess',
   'AWSSERVICE_ROLE_FOR_MONITRON_POLICY' = 'AWSServiceRoleForMonitronPolicy',
   'AWSPANORAMA_SAGE_MAKER_ROLE_POLICY' = 'AWSPanoramaSageMakerRolePolicy',
+  'AMAZON_VPC_REACHABILITY_ANALYZER_PATH_COMPONENT_READ_POLICY' = 'AmazonVPCReachabilityAnalyzerPathComponentReadPolicy',
   'AWSFAULT_INJECTION_SIMULATOR_ECS_ACCESS' = 'AWSFaultInjectionSimulatorECSAccess',
   'AWSPANORAMA_APPLIANCE_SERVICE_ROLE_POLICY' = 'AWSPanoramaApplianceServiceRolePolicy',
   'AWSOUTPOSTS_AUTHORIZE_SERVER_POLICY' = 'AWSOutpostsAuthorizeServerPolicy',
