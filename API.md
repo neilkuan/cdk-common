@@ -3327,6 +3327,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `KEYSPACES_REPLICATION_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.KEYSPACES_REPLICATION_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `EC2_INSTANCE_PROFILE_FOR_IMAGE_BUILDER_ECR_CONTAINER_BUILDS` <a name="cdk-common.AWSManagedPolicies.EC2_INSTANCE_PROFILE_FOR_IMAGE_BUILDER_ECR_CONTAINER_BUILDS"></a>
 
 ---
