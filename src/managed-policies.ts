@@ -542,6 +542,7 @@ export enum AWSManagedPolicies {
   'OAMREAD_ONLY_ACCESS' = 'OAMReadOnlyAccess',
   'AWSELASTIC_BEANSTALK_READ_ONLY' = 'AWSElasticBeanstalkReadOnly',
   'AWS_GLUE_SESSION_USER_RESTRICTED_NOTEBOOK_POLICY' = 'AwsGlueSessionUserRestrictedNotebookPolicy',
+  'KEYSPACES_REPLICATION_SERVICE_ROLE_POLICY' = 'KeyspacesReplicationServiceRolePolicy',
   'EC2_INSTANCE_PROFILE_FOR_IMAGE_BUILDER_ECR_CONTAINER_BUILDS' = 'EC2InstanceProfileForImageBuilderECRContainerBuilds',
   'AWSCODE_DEPLOY_ROLE_FOR_LAMBDA_LIMITED' = 'AWSCodeDeployRoleForLambdaLimited',
   'AWSAUDIT_MANAGER_SERVICE_ROLE_POLICY' = 'AWSAuditManagerServiceRolePolicy',
