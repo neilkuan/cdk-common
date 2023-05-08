@@ -37,7 +37,6 @@ const project = new awscdk.AwsCdkConstructLibrary({
       labels: ['auto-approve'],
     },
   },
-  workflowNodeVersion: '^14.17.0',
   autoApproveOptions: {
     secret: 'GITHUB_TOKEN',
     allowedUsernames: ['neilkuan'],
@@ -62,6 +61,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
     '@aws-cdk/core@^1.134.0',
     '@aws-cdk/aws-lambda@^1.134.0',
   ],
+  workflowNodeVersion: '^16.20.0',
   typescriptVersion: '^4.9',
 });
 
