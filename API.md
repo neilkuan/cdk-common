@@ -4062,6 +4062,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_CODE_GURU_SECURITY_SCAN_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_CODE_GURU_SECURITY_SCAN_ACCESS"></a>
+
+---
+
+
 #### `CERTIFICATE_MANAGER_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.CERTIFICATE_MANAGER_SERVICE_ROLE_POLICY"></a>
 
 ---
@@ -4733,6 +4738,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_FIS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_FIS_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AMAZON_CODE_GURU_SECURITY_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_CODE_GURU_SECURITY_FULL_ACCESS"></a>
 
 ---
 
