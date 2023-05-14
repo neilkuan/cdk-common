@@ -792,6 +792,7 @@ export enum AWSManagedPolicies {
   'AWSELASTIC_DISASTER_RECOVERY_AGENT_POLICY' = 'AWSElasticDisasterRecoveryAgentPolicy',
   'AWSCLOUD9_SSM_INSTANCE_PROFILE' = 'AWSCloud9SSMInstanceProfile',
   'ELEMENTAL_ACTIVATIONS_DOWNLOAD_SOFTWARE_ACCESS' = 'ElementalActivationsDownloadSoftwareAccess',
+  'AWSFIN_SPACE_SERVICE_ROLE_POLICY' = 'AWSFinSpaceServiceRolePolicy',
   'AWSPANORAMA_GREENGRASS_GROUP_ROLE_POLICY' = 'AWSPanoramaGreengrassGroupRolePolicy',
   'AMAZON_DETECTIVE_FULL_ACCESS' = 'AmazonDetectiveFullAccess',
   'AWSSSMOPS_INSIGHTS_SERVICE_ROLE_POLICY' = 'AWSSSMOpsInsightsServiceRolePolicy',

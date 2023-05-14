@@ -4577,6 +4577,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSFIN_SPACE_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSFIN_SPACE_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AWSPANORAMA_GREENGRASS_GROUP_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSPANORAMA_GREENGRASS_GROUP_ROLE_POLICY"></a>
 
 ---
