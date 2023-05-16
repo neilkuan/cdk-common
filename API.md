@@ -4875,6 +4875,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSELASTIC_DISASTER_RECOVERY_CROSS_ACCOUNT_REPLICATION_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSELASTIC_DISASTER_RECOVERY_CROSS_ACCOUNT_REPLICATION_POLICY"></a>
+
+---
+
+
 #### `AMAZON_WORK_SPACES_WEB_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_WORK_SPACES_WEB_SERVICE_ROLE_POLICY"></a>
 
 ---
