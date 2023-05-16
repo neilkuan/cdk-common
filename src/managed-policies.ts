@@ -838,6 +838,7 @@ export enum AWSManagedPolicies {
   'AWSIO_T_WIRELESS_FULL_PUBLISH_ACCESS' = 'AWSIoTWirelessFullPublishAccess',
   'GAME_LIFT_GAME_SERVER_GROUP_POLICY' = 'GameLiftGameServerGroupPolicy',
   'AMAZON_MWAA_SERVICE_ROLE_POLICY' = 'AmazonMWAAServiceRolePolicy',
+  'AWSELASTIC_DISASTER_RECOVERY_CROSS_ACCOUNT_REPLICATION_POLICY' = 'AWSElasticDisasterRecoveryCrossAccountReplicationPolicy',
   'AMAZON_WORK_SPACES_WEB_SERVICE_ROLE_POLICY' = 'AmazonWorkSpacesWebServiceRolePolicy',
   'AWSQUICKSIGHT_OPEN_SEARCH_POLICY' = 'AWSQuicksightOpenSearchPolicy',
   'AMAZON_SAGE_MAKER_MODEL_GOVERNANCE_USE_ACCESS' = 'AmazonSageMakerModelGovernanceUseAccess',
