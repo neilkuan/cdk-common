@@ -3047,6 +3047,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSDMSSERVERLESS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSDMSSERVERLESS_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AWSMANAGED_SERVICES_DEPLOYMENT_TOOLKIT_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSMANAGED_SERVICES_DEPLOYMENT_TOOLKIT_POLICY"></a>
 
 ---
