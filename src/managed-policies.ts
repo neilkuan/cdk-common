@@ -583,6 +583,7 @@ export enum AWSManagedPolicies {
   'AMAZON_HONEYCODE_READ_ONLY_ACCESS' = 'AmazonHoneycodeReadOnlyAccess',
   'AWSCLOUD_FORMATION_FULL_ACCESS' = 'AWSCloudFormationFullAccess',
   'GROUND_TRUTH_SYNTHETIC_CONSOLE_READ_ONLY_ACCESS' = 'GroundTruthSyntheticConsoleReadOnlyAccess',
+  'AMAZON_SECURITY_LAKE_ADMINISTRATOR' = 'AmazonSecurityLakeAdministrator',
   'AWSPANORAMA_APPLIANCE_ROLE_POLICY' = 'AWSPanoramaApplianceRolePolicy',
   'SECURITY_LAKE_SERVICE_LINKED_ROLE' = 'SecurityLakeServiceLinkedRole',
   'AWSPROTON_CODE_BUILD_PROVISIONING_SERVICE_ROLE_POLICY' = 'AWSProtonCodeBuildProvisioningServiceRolePolicy',
