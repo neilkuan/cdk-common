@@ -3600,6 +3600,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AMAZON_SECURITY_LAKE_ADMINISTRATOR` <a name="cdk-common.AWSManagedPolicies.AMAZON_SECURITY_LAKE_ADMINISTRATOR"></a>
+
+---
+
+
 #### `AWSPANORAMA_APPLIANCE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSPANORAMA_APPLIANCE_ROLE_POLICY"></a>
 
 ---
