@@ -4657,6 +4657,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `ROSASRESUPPORT_POLICY` <a name="cdk-common.AWSManagedPolicies.ROSASRESUPPORT_POLICY"></a>
+
+---
+
+
 #### `AWSCLEAN_ROOMS_FULL_ACCESS_NO_QUERYING` <a name="cdk-common.AWSManagedPolicies.AWSCLEAN_ROOMS_FULL_ACCESS_NO_QUERYING"></a>
 
 ---
