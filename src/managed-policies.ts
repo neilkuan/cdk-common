@@ -808,6 +808,7 @@ export enum AWSManagedPolicies {
   'AWSSERVICE_CATALOG_END_USER_READ_ONLY_ACCESS' = 'AWSServiceCatalogEndUserReadOnlyAccess',
   'AWSIOT_ROBO_RUNNER_FULL_ACCESS' = 'AWSIotRoboRunnerFullAccess',
   'ELEMENTAL_ACTIVATIONS_FULL_ACCESS' = 'ElementalActivationsFullAccess',
+  'ROSASRESUPPORT_POLICY' = 'ROSASRESupportPolicy',
   'AWSCLEAN_ROOMS_FULL_ACCESS_NO_QUERYING' = 'AWSCleanRoomsFullAccessNoQuerying',
   'AWSIQPERMISSION_SERVICE_ROLE_POLICY' = 'AWSIQPermissionServiceRolePolicy',
   'ROUTE53_RECOVERY_READINESS_SERVICE_ROLE_POLICY' = 'Route53RecoveryReadinessServiceRolePolicy',
