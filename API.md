@@ -4612,6 +4612,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSCONTROL_TOWER_ACCOUNT_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSCONTROL_TOWER_ACCOUNT_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `SERVICE_QUOTAS_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.SERVICE_QUOTAS_READ_ONLY_ACCESS"></a>
 
 ---
@@ -6038,6 +6043,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWS_CONFIGROLE` <a name="cdk-common.AWSManagedPolicies.AWS_CONFIGROLE"></a>
+
+---
+
+
+#### `AMAZON_DOC_DB_ELASTIC_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_DOC_DB_ELASTIC_FULL_ACCESS"></a>
 
 ---
 
