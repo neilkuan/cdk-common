@@ -732,6 +732,7 @@ export enum AWSManagedPolicies {
   'AMAZON_GRAFANA_ATHENA_ACCESS' = 'AmazonGrafanaAthenaAccess',
   'IAMACCESS_ANALYZER_READ_ONLY_ACCESS' = 'IAMAccessAnalyzerReadOnlyAccess',
   'AMAZON_CLOUD_WATCH_RUM_SERVICE_ROLE_POLICY' = 'AmazonCloudWatchRUMServiceRolePolicy',
+  'ROSAINSTALLER_POLICY' = 'ROSAInstallerPolicy',
   'AMAZON_EVENT_BRIDGE_SCHEMAS_SERVICE_ROLE_POLICY' = 'AmazonEventBridgeSchemasServiceRolePolicy',
   'AWSIO_T_DEVICE_DEFENDER_PUBLISH_FINDINGS_TO_SNS_MITIGATION_ACTION' = 'AWSIoTDeviceDefenderPublishFindingsToSNSMitigationAction',
   'AMAZON_QLDB_CONSOLE_FULL_ACCESS' = 'AmazonQLDBConsoleFullAccess',
