@@ -4277,6 +4277,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `ROSAINSTALLER_POLICY` <a name="cdk-common.AWSManagedPolicies.ROSAINSTALLER_POLICY"></a>
+
+---
+
+
 #### `AMAZON_EVENT_BRIDGE_SCHEMAS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_EVENT_BRIDGE_SCHEMAS_SERVICE_ROLE_POLICY"></a>
 
 ---
