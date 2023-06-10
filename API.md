@@ -3137,6 +3137,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `ROSANODE_POOL_MANAGEMENT_POLICY` <a name="cdk-common.AWSManagedPolicies.ROSANODE_POOL_MANAGEMENT_POLICY"></a>
+
+---
+
+
 #### `AMAZON_SAGE_MAKER_MECHANICAL_TURK_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_MECHANICAL_TURK_ACCESS"></a>
 
 ---
@@ -3188,6 +3193,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_EVENT_BRIDGE_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_EVENT_BRIDGE_READ_ONLY_ACCESS"></a>
+
+---
+
+
+#### `AMAZON_DOC_DB_ELASTIC_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_DOC_DB_ELASTIC_READ_ONLY_ACCESS"></a>
 
 ---
 
