@@ -1025,6 +1025,7 @@ export enum AWSManagedPolicies {
   'AWSPRIVATE_CA_AUDITOR' = 'AWSPrivateCAAuditor',
   'AWSDIRECT_CONNECT_SERVICE_ROLE_POLICY' = 'AWSDirectConnectServiceRolePolicy',
   'AWSDMSFLEET_ADVISOR_SERVICE_ROLE_POLICY' = 'AWSDMSFleetAdvisorServiceRolePolicy',
+  'AWSELASTIC_DISASTER_RECOVERY_NETWORK_REPLICATION_POLICY' = 'AWSElasticDisasterRecoveryNetworkReplicationPolicy',
   'AWSAPPLICATION_MIGRATION_E_C2_ACCESS' = 'AWSApplicationMigrationEC2Access',
   'AMAZON_CLOUD_WATCH_EVIDENTLY_FULL_ACCESS' = 'AmazonCloudWatchEvidentlyFullAccess',
   'AWSSUPPORT_APP_FULL_ACCESS' = 'AWSSupportAppFullAccess',
