@@ -938,6 +938,7 @@ export enum AWSManagedPolicies {
   'AWSBUG_BUST_SERVICE_ROLE_POLICY' = 'AWSBugBustServiceRolePolicy',
   'AWSAPP_RUNNER_SERVICE_POLICY_FOR_ECR_ACCESS' = 'AWSAppRunnerServicePolicyForECRAccess',
   'AWSFAULT_INJECTION_SIMULATOR_SSM_ACCESS' = 'AWSFaultInjectionSimulatorSSMAccess',
+  'AMAZON_VPC_REACHABILITY_ANALYZER_FULL_ACCESS_POLICY' = 'AmazonVPCReachabilityAnalyzerFullAccessPolicy',
   'AWSNETWORK_MANAGER_READ_ONLY_ACCESS' = 'AWSNetworkManagerReadOnlyAccess',
   'AMAZON_DEV_OPS_GURU_ORGANIZATIONS_ACCESS' = 'AmazonDevOpsGuruOrganizationsAccess',
   'AMAZON_RDS_PERFORMANCE_INSIGHTS_READ_ONLY' = 'AmazonRDSPerformanceInsightsReadOnly',
