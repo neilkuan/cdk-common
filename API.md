@@ -3760,6 +3760,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `EMRDESCRIBE_CLUSTER_POLICY_FOR_EMRWA_L` <a name="cdk-common.AWSManagedPolicies.EMRDESCRIBE_CLUSTER_POLICY_FOR_EMRWA_L"></a>
+
+---
+
+
 #### `AWSIQCONTRACT_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSIQCONTRACT_SERVICE_ROLE_POLICY"></a>
 
 ---
@@ -4281,6 +4286,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_CHIME_VOICE_CONNECTOR_SERVICE_LINKED_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_CHIME_VOICE_CONNECTOR_SERVICE_LINKED_ROLE_POLICY"></a>
+
+---
+
+
+#### `AMAZON_VPC_NETWORK_ACCESS_ANALYZER_FULL_ACCESS_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_VPC_NETWORK_ACCESS_ANALYZER_FULL_ACCESS_POLICY"></a>
 
 ---
 
@@ -5231,6 +5241,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AMAZON_CLOUD_WATCH_EVIDENTLY_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_CLOUD_WATCH_EVIDENTLY_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AMAZON_MACIE_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_MACIE_READ_ONLY_ACCESS"></a>
 
 ---
 
