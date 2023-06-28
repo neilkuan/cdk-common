@@ -589,6 +589,7 @@ export enum AWSManagedPolicies {
   'AWSPANORAMA_APPLIANCE_ROLE_POLICY' = 'AWSPanoramaApplianceRolePolicy',
   'SECURITY_LAKE_SERVICE_LINKED_ROLE' = 'SecurityLakeServiceLinkedRole',
   'AWSPROTON_CODE_BUILD_PROVISIONING_SERVICE_ROLE_POLICY' = 'AWSProtonCodeBuildProvisioningServiceRolePolicy',
+  'AWSAPP_FABRIC_SERVICE_ROLE_POLICY' = 'AWSAppFabricServiceRolePolicy',
   'AMAZON_LOOKOUT_METRICS_FULL_ACCESS' = 'AmazonLookoutMetricsFullAccess',
   'AWSBILLING_CONDUCTOR_FULL_ACCESS' = 'AWSBillingConductorFullAccess',
   'AWSAPPLICATION_MIGRATION_AGENT_POLICY' = 'AWSApplicationMigrationAgentPolicy',
