@@ -3630,6 +3630,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSAPP_FABRIC_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSAPP_FABRIC_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
 #### `AMAZON_LOOKOUT_METRICS_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_LOOKOUT_METRICS_FULL_ACCESS"></a>
 
 ---
