@@ -2997,6 +2997,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSRESILIENCE_HUB_ASSSESSMENT_EXECUTION_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSRESILIENCE_HUB_ASSSESSMENT_EXECUTION_POLICY"></a>
+
+---
+
+
 #### `AMAZONLAUNCHWIZARD_FULLACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZONLAUNCHWIZARD_FULLACCESS"></a>
 
 ---
@@ -4092,6 +4097,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
+#### `AWSAPP_FABRIC_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSAPP_FABRIC_FULL_ACCESS"></a>
+
+---
+
+
 #### `AMAZON_CODE_GURU_SECURITY_SCAN_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_CODE_GURU_SECURITY_SCAN_ACCESS"></a>
 
 ---
@@ -4568,6 +4578,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `SERVER_MIGRATION_SERVICE_CONSOLE_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.SERVER_MIGRATION_SERVICE_CONSOLE_FULL_ACCESS"></a>
+
+---
+
+
+#### `AWSAPP_FABRIC_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSAPP_FABRIC_READ_ONLY_ACCESS"></a>
 
 ---
 
