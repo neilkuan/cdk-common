@@ -1106,4 +1106,5 @@ export enum AWSManagedPolicies {
   'AWSRESILIENCE_HUB_ASSSESSMENT_EXECUTION_POLICY' = 'AWSResilienceHubAsssessmentExecutionPolicy',
   'AWSAPP_FABRIC_FULL_ACCESS' = 'AWSAppFabricFullAccess',
   'AWSAPP_FABRIC_READ_ONLY_ACCESS' = 'AWSAppFabricReadOnlyAccess',
+  'AMAZON_COGNITO_UN_AUTHED_IDENTITIES_SESSION_POLICY' = 'AmazonCognitoUnAuthedIdentitiesSessionPolicy',
 };
