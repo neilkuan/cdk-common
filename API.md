@@ -6151,3 +6151,28 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AMAZON_EFSCSI_DRIVER_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_EFSCSI_DRIVER_POLICY"></a>
+
+---
+
+
+#### `AWSELEMENTAL_MEDIA_PACKAGE_V2_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSELEMENTAL_MEDIA_PACKAGE_V2_FULL_ACCESS"></a>
+
+---
+
+
+#### `AWSELEMENTAL_MEDIA_PACKAGE_V2_READ_ONLY` <a name="cdk-common.AWSManagedPolicies.AWSELEMENTAL_MEDIA_PACKAGE_V2_READ_ONLY"></a>
+
+---
+
+
+#### `AWSHEALTH_IMAGING_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSHEALTH_IMAGING_FULL_ACCESS"></a>
+
+---
+
+
+#### `AWSHEALTH_IMAGING_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSHEALTH_IMAGING_READ_ONLY_ACCESS"></a>
+
+---
+
