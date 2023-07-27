@@ -1107,4 +1107,9 @@ export enum AWSManagedPolicies {
   'AWSAPP_FABRIC_FULL_ACCESS' = 'AWSAppFabricFullAccess',
   'AWSAPP_FABRIC_READ_ONLY_ACCESS' = 'AWSAppFabricReadOnlyAccess',
   'AMAZON_COGNITO_UN_AUTHED_IDENTITIES_SESSION_POLICY' = 'AmazonCognitoUnAuthedIdentitiesSessionPolicy',
+  'AMAZON_EFSCSI_DRIVER_POLICY' = 'AmazonEFSCSIDriverPolicy',
+  'AWSELEMENTAL_MEDIA_PACKAGE_V2_FULL_ACCESS' = 'AWSElementalMediaPackageV2FullAccess',
+  'AWSELEMENTAL_MEDIA_PACKAGE_V2_READ_ONLY' = 'AWSElementalMediaPackageV2ReadOnly',
+  'AWSHEALTH_IMAGING_FULL_ACCESS' = 'AWSHealthImagingFullAccess',
+  'AWSHEALTH_IMAGING_READ_ONLY_ACCESS' = 'AWSHealthImagingReadOnlyAccess',
 };
