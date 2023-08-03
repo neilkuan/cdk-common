@@ -1112,4 +1112,8 @@ export enum AWSManagedPolicies {
   'AWSELEMENTAL_MEDIA_PACKAGE_V2_READ_ONLY' = 'AWSElementalMediaPackageV2ReadOnly',
   'AWSHEALTH_IMAGING_FULL_ACCESS' = 'AWSHealthImagingFullAccess',
   'AWSHEALTH_IMAGING_READ_ONLY_ACCESS' = 'AWSHealthImagingReadOnlyAccess',
+  'CLOUD_WATCH_FULL_ACCESS_V2' = 'CloudWatchFullAccessV2',
+  'AMAZON_SAGE_MAKER_PARTNER_SERVICE_CATALOG_PRODUCTS_LAMBDA_SERVICE_ROLE_POLICY' = 'AmazonSageMakerPartnerServiceCatalogProductsLambdaServiceRolePolicy',
+  'AMAZON_SAGE_MAKER_PARTNER_SERVICE_CATALOG_PRODUCTS_API_GATEWAY_SERVICE_ROLE_POLICY' = 'AmazonSageMakerPartnerServiceCatalogProductsApiGatewayServiceRolePolicy',
+  'AMAZON_SAGE_MAKER_PARTNER_SERVICE_CATALOG_PRODUCTS_CLOUD_FORMATION_SERVICE_ROLE_POLICY' = 'AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy',
 };
