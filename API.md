@@ -6264,3 +6264,8 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AWSMIGRATIONHUBREFACTORSPACES_SSMAUTOMATIONPOLICY` <a name="cdk-common.AWSManagedPolicies.AWSMIGRATIONHUBREFACTORSPACES_SSMAUTOMATIONPOLICY"></a>
+
+---
+
