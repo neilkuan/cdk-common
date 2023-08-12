@@ -1116,4 +1116,5 @@ export enum AWSManagedPolicies {
   'AMAZON_SAGE_MAKER_PARTNER_SERVICE_CATALOG_PRODUCTS_LAMBDA_SERVICE_ROLE_POLICY' = 'AmazonSageMakerPartnerServiceCatalogProductsLambdaServiceRolePolicy',
   'AMAZON_SAGE_MAKER_PARTNER_SERVICE_CATALOG_PRODUCTS_API_GATEWAY_SERVICE_ROLE_POLICY' = 'AmazonSageMakerPartnerServiceCatalogProductsApiGatewayServiceRolePolicy',
   'AMAZON_SAGE_MAKER_PARTNER_SERVICE_CATALOG_PRODUCTS_CLOUD_FORMATION_SERVICE_ROLE_POLICY' = 'AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy',
+  'AWSMIGRATIONHUBREFACTORSPACES_SSMAUTOMATIONPOLICY' = 'AWSMigrationHubRefactorSpaces-SSMAutomationPolicy',
 };
