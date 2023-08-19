@@ -1118,4 +1118,6 @@ export enum AWSManagedPolicies {
   'AMAZON_SAGE_MAKER_PARTNER_SERVICE_CATALOG_PRODUCTS_CLOUD_FORMATION_SERVICE_ROLE_POLICY' = 'AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy',
   'AWSMIGRATIONHUBREFACTORSPACES_SSMAUTOMATIONPOLICY' = 'AWSMigrationHubRefactorSpaces-SSMAutomationPolicy',
   'AMAZON_RDS_PERFORMANCE_INSIGHTS_FULL_ACCESS' = 'AmazonRDSPerformanceInsightsFullAccess',
+  'AWSENTITY_RESOLUTION_CONSOLE_FULL_ACCESS' = 'AWSEntityResolutionConsoleFullAccess',
+  'AWSENTITY_RESOLUTION_CONSOLE_READ_ONLY_ACCESS' = 'AWSEntityResolutionConsoleReadOnlyAccess',
 };
