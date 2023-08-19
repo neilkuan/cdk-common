@@ -6274,3 +6274,13 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AWSENTITY_RESOLUTION_CONSOLE_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSENTITY_RESOLUTION_CONSOLE_FULL_ACCESS"></a>
+
+---
+
+
+#### `AWSENTITY_RESOLUTION_CONSOLE_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSENTITY_RESOLUTION_CONSOLE_READ_ONLY_ACCESS"></a>
+
+---
+
