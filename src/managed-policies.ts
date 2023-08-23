@@ -1120,4 +1120,5 @@ export enum AWSManagedPolicies {
   'AMAZON_RDS_PERFORMANCE_INSIGHTS_FULL_ACCESS' = 'AmazonRDSPerformanceInsightsFullAccess',
   'AWSENTITY_RESOLUTION_CONSOLE_FULL_ACCESS' = 'AWSEntityResolutionConsoleFullAccess',
   'AWSENTITY_RESOLUTION_CONSOLE_READ_ONLY_ACCESS' = 'AWSEntityResolutionConsoleReadOnlyAccess',
+  'AWSARTIFACT_SERVICE_ROLE_POLICY' = 'AWSArtifactServiceRolePolicy',
 };
