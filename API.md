@@ -6221,3 +6221,8 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AWSAPPLICATION_MIGRATION_SERVICE_EC2_INSTANCE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSAPPLICATION_MIGRATION_SERVICE_EC2_INSTANCE_POLICY"></a>
+
+---
+
