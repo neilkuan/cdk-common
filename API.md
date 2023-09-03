@@ -6294,3 +6294,8 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AMAZON_LAUNCH_WIZARD_FULL_ACCESS_V2` <a name="cdk-common.AWSManagedPolicies.AMAZON_LAUNCH_WIZARD_FULL_ACCESS_V2"></a>
+
+---
+
