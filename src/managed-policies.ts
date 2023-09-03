@@ -1122,4 +1122,5 @@ export enum AWSManagedPolicies {
   'AWSENTITY_RESOLUTION_CONSOLE_READ_ONLY_ACCESS' = 'AWSEntityResolutionConsoleReadOnlyAccess',
   'AWSARTIFACT_SERVICE_ROLE_POLICY' = 'AWSArtifactServiceRolePolicy',
   'AWSAPPLICATION_MIGRATION_SERVICE_EC2_INSTANCE_POLICY' = 'AWSApplicationMigrationServiceEc2InstancePolicy',
+  'AMAZON_LAUNCH_WIZARD_FULL_ACCESS_V2' = 'AmazonLaunchWizardFullAccessV2',
 };
