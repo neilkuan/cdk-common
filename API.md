@@ -1440,16 +1440,6 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
-#### `AWSMOBILEHUB_READONLY` <a name="cdk-common.AWSManagedPolicies.AWSMOBILEHUB_READONLY"></a>
-
----
-
-
-#### `AWSMOBILEHUB_FULLACCESS` <a name="cdk-common.AWSManagedPolicies.AWSMOBILEHUB_FULLACCESS"></a>
-
----
-
-
 #### `AMAZON_DMS_CLOUD_WATCH_LOGS_ROLE` <a name="cdk-common.AWSManagedPolicies.AMAZON_DMS_CLOUD_WATCH_LOGS_ROLE"></a>
 
 ---
@@ -6301,6 +6291,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 #### `AWSSERVICEROLEFORCLOUDWATCHMETRICS_DBPERFINSIGHTSSERVICEROLEPOLICY` <a name="cdk-common.AWSManagedPolicies.AWSSERVICEROLEFORCLOUDWATCHMETRICS_DBPERFINSIGHTSSERVICEROLEPOLICY"></a>
+
+---
+
+
+#### `AMAZON_DATA_ZONE_ENVIRONMENT_ROLE_PERMISSIONS_BOUNDARY` <a name="cdk-common.AWSManagedPolicies.AMAZON_DATA_ZONE_ENVIRONMENT_ROLE_PERMISSIONS_BOUNDARY"></a>
 
 ---
 

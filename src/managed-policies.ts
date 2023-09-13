@@ -151,8 +151,6 @@ export enum AWSManagedPolicies {
   'AMAZON_E_C2_CONTAINER_REGISTRY_READ_ONLY' = 'AmazonEC2ContainerRegistryReadOnly',
   'AMAZON_E_C2_CONTAINER_REGISTRY_POWER_USER' = 'AmazonEC2ContainerRegistryPowerUser',
   'AMAZON_E_C2_CONTAINER_REGISTRY_FULL_ACCESS' = 'AmazonEC2ContainerRegistryFullAccess',
-  'AWSMOBILEHUB_READONLY' = 'AWSMobileHub_ReadOnly',
-  'AWSMOBILEHUB_FULLACCESS' = 'AWSMobileHub_FullAccess',
   'AMAZON_DMS_CLOUD_WATCH_LOGS_ROLE' = 'AmazonDMSCloudWatchLogsRole',
   'CLOUD_WATCH_EVENTS_READ_ONLY_ACCESS' = 'CloudWatchEventsReadOnlyAccess',
   'CLOUD_WATCH_EVENTS_BUILT_IN_TARGET_EXECUTION_ACCESS' = 'CloudWatchEventsBuiltInTargetExecutionAccess',
@@ -1124,4 +1122,5 @@ export enum AWSManagedPolicies {
   'AWSAPPLICATION_MIGRATION_SERVICE_EC2_INSTANCE_POLICY' = 'AWSApplicationMigrationServiceEc2InstancePolicy',
   'AMAZON_LAUNCH_WIZARD_FULL_ACCESS_V2' = 'AmazonLaunchWizardFullAccessV2',
   'AWSSERVICEROLEFORCLOUDWATCHMETRICS_DBPERFINSIGHTSSERVICEROLEPOLICY' = 'AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy',
+  'AMAZON_DATA_ZONE_ENVIRONMENT_ROLE_PERMISSIONS_BOUNDARY' = 'AmazonDataZoneEnvironmentRolePermissionsBoundary',
 };
