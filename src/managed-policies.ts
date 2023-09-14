@@ -1123,4 +1123,5 @@ export enum AWSManagedPolicies {
   'AMAZON_LAUNCH_WIZARD_FULL_ACCESS_V2' = 'AmazonLaunchWizardFullAccessV2',
   'AWSSERVICEROLEFORCLOUDWATCHMETRICS_DBPERFINSIGHTSSERVICEROLEPOLICY' = 'AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy',
   'AMAZON_DATA_ZONE_ENVIRONMENT_ROLE_PERMISSIONS_BOUNDARY' = 'AmazonDataZoneEnvironmentRolePermissionsBoundary',
+  'AMAZONKEYSPACESREADONLYACCESS_V2' = 'AmazonKeyspacesReadOnlyAccess_v2',
 };
