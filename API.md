@@ -6231,3 +6231,8 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AMAZONKEYSPACESREADONLYACCESS_V2` <a name="cdk-common.AWSManagedPolicies.AMAZONKEYSPACESREADONLYACCESS_V2"></a>
+
+---
+
