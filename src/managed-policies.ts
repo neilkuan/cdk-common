@@ -1124,4 +1124,5 @@ export enum AWSManagedPolicies {
   'AWSSERVICEROLEFORCLOUDWATCHMETRICS_DBPERFINSIGHTSSERVICEROLEPOLICY' = 'AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy',
   'AMAZON_DATA_ZONE_ENVIRONMENT_ROLE_PERMISSIONS_BOUNDARY' = 'AmazonDataZoneEnvironmentRolePermissionsBoundary',
   'AMAZONKEYSPACESREADONLYACCESS_V2' = 'AmazonKeyspacesReadOnlyAccess_v2',
+  'AWSELASTIC_DISASTER_RECOVERY_LAUNCH_ACTIONS_POLICY' = 'AWSElasticDisasterRecoveryLaunchActionsPolicy',
 };
