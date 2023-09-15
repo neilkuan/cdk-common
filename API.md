@@ -6304,3 +6304,8 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AWSELASTIC_DISASTER_RECOVERY_LAUNCH_ACTIONS_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSELASTIC_DISASTER_RECOVERY_LAUNCH_ACTIONS_POLICY"></a>
+
+---
+
