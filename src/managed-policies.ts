@@ -1125,4 +1125,9 @@ export enum AWSManagedPolicies {
   'AMAZON_DATA_ZONE_ENVIRONMENT_ROLE_PERMISSIONS_BOUNDARY' = 'AmazonDataZoneEnvironmentRolePermissionsBoundary',
   'AMAZONKEYSPACESREADONLYACCESS_V2' = 'AmazonKeyspacesReadOnlyAccess_v2',
   'AWSELASTIC_DISASTER_RECOVERY_LAUNCH_ACTIONS_POLICY' = 'AWSElasticDisasterRecoveryLaunchActionsPolicy',
+  'AMAZON_DATA_ZONE_FULL_ACCESS' = 'AmazonDataZoneFullAccess',
+  'AMAZON_DATA_ZONE_REDSHIFT_MANAGE_ACCESS_ROLE_POLICY' = 'AmazonDataZoneRedshiftManageAccessRolePolicy',
+  'AMAZON_DATA_ZONE_REDSHIFT_GLUE_PROVISIONING_POLICY' = 'AmazonDataZoneRedshiftGlueProvisioningPolicy',
+  'AMAZON_DATA_ZONE_GLUE_MANAGE_ACCESS_ROLE_POLICY' = 'AmazonDataZoneGlueManageAccessRolePolicy',
+  'AMAZON_DATA_ZONE_FULL_USER_ACCESS' = 'AmazonDataZoneFullUserAccess',
 };
