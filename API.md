@@ -6266,3 +6266,8 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AMAZON_DATA_ZONE_DOMAIN_EXECUTION_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_DATA_ZONE_DOMAIN_EXECUTION_ROLE_POLICY"></a>
+
+---
+
