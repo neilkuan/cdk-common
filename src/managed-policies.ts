@@ -1131,4 +1131,5 @@ export enum AWSManagedPolicies {
   'AMAZON_DATA_ZONE_GLUE_MANAGE_ACCESS_ROLE_POLICY' = 'AmazonDataZoneGlueManageAccessRolePolicy',
   'AMAZON_DATA_ZONE_FULL_USER_ACCESS' = 'AmazonDataZoneFullUserAccess',
   'AMAZON_DATA_ZONE_DOMAIN_EXECUTION_ROLE_POLICY' = 'AmazonDataZoneDomainExecutionRolePolicy',
+  'AWSS3_ON_OUTPOSTS_SERVICE_ROLE_POLICY' = 'AWSS3OnOutpostsServiceRolePolicy',
 };
