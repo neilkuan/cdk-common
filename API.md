@@ -5892,16 +5892,6 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 ---
 
 
-#### `AMAZON_DATA_ZONE_PORTAL_FULL_ACCESS_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_DATA_ZONE_PORTAL_FULL_ACCESS_POLICY"></a>
-
----
-
-
-#### `AMAZON_DATA_ZONE_PREVIEW_CONSOLE_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_DATA_ZONE_PREVIEW_CONSOLE_FULL_ACCESS"></a>
-
----
-
-
 #### `AWSGROUND_STATION_AGENT_INSTANCE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSGROUND_STATION_AGENT_INSTANCE_POLICY"></a>
 
 ---
