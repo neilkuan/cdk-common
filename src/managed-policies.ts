@@ -1055,8 +1055,6 @@ export enum AWSManagedPolicies {
   'AMAZON_SAGE_MAKER_CANVAS_AI_SERVICES_ACCESS' = 'AmazonSageMakerCanvasAIServicesAccess',
   'AWSSERVICE_ROLE_FOR_CODE_WHISPERER_POLICY' = 'AWSServiceRoleForCodeWhispererPolicy',
   'AMAZON_GRAFANA_CLOUD_WATCH_ACCESS' = 'AmazonGrafanaCloudWatchAccess',
-  'AMAZON_DATA_ZONE_PORTAL_FULL_ACCESS_POLICY' = 'AmazonDataZonePortalFullAccessPolicy',
-  'AMAZON_DATA_ZONE_PREVIEW_CONSOLE_FULL_ACCESS' = 'AmazonDataZonePreviewConsoleFullAccess',
   'AWSGROUND_STATION_AGENT_INSTANCE_POLICY' = 'AWSGroundStationAgentInstancePolicy',
   'VPCLATTICE_SERVICES_INVOKE_ACCESS' = 'VPCLatticeServicesInvokeAccess',
   'VPCLATTICE_READ_ONLY_ACCESS' = 'VPCLatticeReadOnlyAccess',
