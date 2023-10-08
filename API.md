@@ -6266,3 +6266,13 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AMAZON_SAGE_MAKER_CANVAS_DIRECT_DEPLOY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_CANVAS_DIRECT_DEPLOY_ACCESS"></a>
+
+---
+
+
+#### `AMPLIFY_BACKEND_DEPLOY_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMPLIFY_BACKEND_DEPLOY_FULL_ACCESS"></a>
+
+---
+
