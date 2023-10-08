@@ -1130,4 +1130,6 @@ export enum AWSManagedPolicies {
   'AMAZON_DATA_ZONE_FULL_USER_ACCESS' = 'AmazonDataZoneFullUserAccess',
   'AMAZON_DATA_ZONE_DOMAIN_EXECUTION_ROLE_POLICY' = 'AmazonDataZoneDomainExecutionRolePolicy',
   'AWSS3_ON_OUTPOSTS_SERVICE_ROLE_POLICY' = 'AWSS3OnOutpostsServiceRolePolicy',
+  'AMAZON_SAGE_MAKER_CANVAS_DIRECT_DEPLOY_ACCESS' = 'AmazonSageMakerCanvasDirectDeployAccess',
+  'AMPLIFY_BACKEND_DEPLOY_FULL_ACCESS' = 'AmplifyBackendDeployFullAccess',
 };
