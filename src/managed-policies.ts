@@ -1132,4 +1132,6 @@ export enum AWSManagedPolicies {
   'AWSS3_ON_OUTPOSTS_SERVICE_ROLE_POLICY' = 'AWSS3OnOutpostsServiceRolePolicy',
   'AMAZON_SAGE_MAKER_CANVAS_DIRECT_DEPLOY_ACCESS' = 'AmazonSageMakerCanvasDirectDeployAccess',
   'AMPLIFY_BACKEND_DEPLOY_FULL_ACCESS' = 'AmplifyBackendDeployFullAccess',
+  'AMAZON_CONNECT_SYNCHRONIZATION_SERVICE_ROLE_POLICY' = 'AmazonConnectSynchronizationServiceRolePolicy',
+  'AMAZON_SAGE_MAKER_CANVAS_DATA_PREP_FULL_ACCESS' = 'AmazonSageMakerCanvasDataPrepFullAccess',
 };
