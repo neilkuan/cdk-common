@@ -6276,3 +6276,13 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AMAZON_CONNECT_SYNCHRONIZATION_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_CONNECT_SYNCHRONIZATION_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AMAZON_SAGE_MAKER_CANVAS_DATA_PREP_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_CANVAS_DATA_PREP_FULL_ACCESS"></a>
+
+---
+
