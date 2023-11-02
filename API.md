@@ -6286,3 +6286,8 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AWSDATA_LIFECYCLE_MANAGER_SSM_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSDATA_LIFECYCLE_MANAGER_SSM_FULL_ACCESS"></a>
+
+---
+
