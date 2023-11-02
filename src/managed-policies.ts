@@ -1134,4 +1134,5 @@ export enum AWSManagedPolicies {
   'AMPLIFY_BACKEND_DEPLOY_FULL_ACCESS' = 'AmplifyBackendDeployFullAccess',
   'AMAZON_CONNECT_SYNCHRONIZATION_SERVICE_ROLE_POLICY' = 'AmazonConnectSynchronizationServiceRolePolicy',
   'AMAZON_SAGE_MAKER_CANVAS_DATA_PREP_FULL_ACCESS' = 'AmazonSageMakerCanvasDataPrepFullAccess',
+  'AWSDATA_LIFECYCLE_MANAGER_SSM_FULL_ACCESS' = 'AWSDataLifecycleManagerSSMFullAccess',
 };
