@@ -82,7 +82,12 @@ async function run() {
 
 void run().then( final => {
   final.forEach(p => {
-    policy.line(`  '${constant(p)}' = '${p}',`);
+    if (p.split('/').length >= 3 ) {
+      policy.line(`  '${constant(p.split('/').slice(2))}' = '${p.split('/').slice(1, 3).join('/')}',`);
+    } else {
+      policy.line(`  '${constant(p.split('/').slice(1))}' = '${p.split('/').slice(1)}',`);
+    }
+
   });
   policy.open('};');
   project.synth();
