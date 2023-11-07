@@ -115,6 +115,21 @@ Maximum: 2
 
 ---
 
+##### `adotInstrumentation`<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.adotInstrumentation"></a>
+
+```typescript
+public readonly adotInstrumentation: AdotInstrumentationConfig;
+```
+
+- *Type:* [`aws-cdk-lib.aws_lambda.AdotInstrumentationConfig`](#aws-cdk-lib.aws_lambda.AdotInstrumentationConfig)
+- *Default:* No ADOT instrumentation
+
+Specify the configuration of AWS Distro for OpenTelemetry (ADOT) instrumentation.
+
+> https://aws-otel.github.io/docs/getting-started/lambda
+
+---
+
 ##### `allowAllOutbound`<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.allowAllOutbound"></a>
 
 ```typescript
@@ -198,6 +213,8 @@ public readonly deadLetterQueue: IQueue;
 
 The SQS queue to use if DLQ is enabled.
 
+If SNS topic is desired, specify `deadLetterTopic` property instead.
+
 ---
 
 ##### `deadLetterQueueEnabled`<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.deadLetterQueueEnabled"></a>
@@ -213,6 +230,22 @@ Enabled DLQ.
 
 If `deadLetterQueue` is undefined,
 an SQS queue with default options will be defined for your Function.
+
+---
+
+##### `deadLetterTopic`<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.deadLetterTopic"></a>
+
+```typescript
+public readonly deadLetterTopic: ITopic;
+```
+
+- *Type:* [`aws-cdk-lib.aws_sns.ITopic`](#aws-cdk-lib.aws_sns.ITopic)
+- *Default:* no SNS topic
+
+The SNS topic to use as a DLQ.
+
+Note that if `deadLetterQueueEnabled` is set to `true`, an SQS queue will be created
+rather than an SNS topic. Using an SNS topic as a DLQ requires this property to be set explicitly.
 
 ---
 
@@ -256,6 +289,19 @@ public readonly environmentEncryption: IKey;
 - *Default:* AWS Lambda creates and uses an AWS managed customer master key (CMK).
 
 The AWS KMS key that's used to encrypt your function's environment variables.
+
+---
+
+##### `ephemeralStorageSize`<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.ephemeralStorageSize"></a>
+
+```typescript
+public readonly ephemeralStorageSize: Size;
+```
+
+- *Type:* [`aws-cdk-lib.Size`](#aws-cdk-lib.Size)
+- *Default:* 512 MiB
+
+The size of the function’s /tmp directory in MiB.
 
 ---
 
@@ -410,6 +456,21 @@ Developer Guide.
 
 ---
 
+##### `paramsAndSecrets`<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.paramsAndSecrets"></a>
+
+```typescript
+public readonly paramsAndSecrets: ParamsAndSecretsLayerVersion;
+```
+
+- *Type:* [`aws-cdk-lib.aws_lambda.ParamsAndSecretsLayerVersion`](#aws-cdk-lib.aws_lambda.ParamsAndSecretsLayerVersion)
+- *Default:* No Parameters and Secrets Extension
+
+Specify the configuration of Parameters and Secrets Extension.
+
+> https://docs.aws.amazon.com/systems-manager/latest/userguide/ps-integration-lambda-extensions.html
+
+---
+
 ##### `profiling`<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.profiling"></a>
 
 ```typescript
@@ -479,6 +540,19 @@ The relevant managed policies are "service-role/AWSLambdaBasicExecutionRole" and
 
 ---
 
+##### `runtimeManagementMode`<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.runtimeManagementMode"></a>
+
+```typescript
+public readonly runtimeManagementMode: RuntimeManagementMode;
+```
+
+- *Type:* [`aws-cdk-lib.aws_lambda.RuntimeManagementMode`](#aws-cdk-lib.aws_lambda.RuntimeManagementMode)
+- *Default:* Auto
+
+Sets the runtime management configuration for a function's version.
+
+---
+
 ##### `securityGroups`<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.securityGroups"></a>
 
 ```typescript
@@ -493,6 +567,21 @@ group will be created for this function.
 The list of security groups to associate with the Lambda's network interfaces.
 
 Only used if 'vpc' is supplied.
+
+---
+
+##### `snapStart`<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.snapStart"></a>
+
+```typescript
+public readonly snapStart: SnapStartConf;
+```
+
+- *Type:* [`aws-cdk-lib.aws_lambda.SnapStartConf`](#aws-cdk-lib.aws_lambda.SnapStartConf)
+- *Default:* No snapstart
+
+Enable SnapStart for Lambda Function.
+
+SnapStart is currently supported only for Java 11, 17 runtime
 
 ---
 
@@ -537,6 +626,7 @@ public readonly vpc: IVpc;
 VPC network to place Lambda network interfaces.
 
 Specify this if the Lambda function needs to access resources in a VPC.
+This is required when `vpcSubnets` is specified.
 
 ---
 
@@ -551,8 +641,11 @@ public readonly vpcSubnets: SubnetSelection;
 
 Where to place the network interfaces within the VPC.
 
-Only used if 'vpc' is supplied. Note: internet access for Lambdas
-requires a NAT gateway, so picking Public subnets is not allowed.
+This requires `vpc` to be specified in order for interfaces to actually be
+placed in the subnets. If `vpc` is not specify, this will raise an error.
+
+Note: Internet access for Lambda Functions requires a NAT Gateway, so picking
+public subnets is not allowed (unless `allowPublicSubnet` is set to `true`).
 
 ---
 
@@ -584,7 +677,7 @@ The name of the method within your code that Lambda calls to execute your functi
 
 The format includes the file name. It can also include
 namespaces and other qualifiers, depending on the runtime.
-For more information, see https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-features.html#gettingstarted-features-programmingmodel.
+For more information, see https://docs.aws.amazon.com/lambda/latest/dg/foundation-progmodel.html.
 
 Use `Handler.FROM_IMAGE` when defining a function from a Docker image.
 
@@ -607,7 +700,7 @@ The runtime environment for the Lambda function that you are uploading.
 For valid values, see the Runtime property in the AWS Lambda Developer
 Guide.
 
-Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
+Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 ---
 

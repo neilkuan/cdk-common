@@ -13,8 +13,8 @@ test('Has Role Attach Managed Role', () => {
   });
   role.addManagedPolicy(iam.ManagedPolicy.fromAwsManagedPolicyName(AWSManagedPolicies.AMAZON_SSM_MANAGED_INSTANCE_CORE));
 
-  const runtimeList = [lambda.Runtime.NODEJS_12_X, lambda.Runtime.NODEJS_14_X, lambda.Runtime.PYTHON_3_8,
-    lambda.Runtime.PYTHON_3_9, lambda.Runtime.JAVA_8_CORRETTO, lambda.Runtime.JAVA_11, lambda.Runtime.DOTNET_CORE_3_1,
+  const runtimeList = [lambda.Runtime.PYTHON_3_8,
+    lambda.Runtime.PYTHON_3_9, lambda.Runtime.JAVA_8_CORRETTO, lambda.Runtime.JAVA_11,
     lambda.Runtime.RUBY_2_7];
   const bk = new s3.Bucket(stack, 'thebucket');
   runtimeList.forEach((runtime, index) => {
