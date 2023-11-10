@@ -6359,3 +6359,8 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AWSIAMIDENTITY_CENTER_ALLOW_LIST_FOR_IDENTITY_CONTEXT` <a name="cdk-common.AWSManagedPolicies.AWSIAMIDENTITY_CENTER_ALLOW_LIST_FOR_IDENTITY_CONTEXT"></a>
+
+---
+
