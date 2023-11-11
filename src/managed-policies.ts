@@ -1136,4 +1136,5 @@ export enum AWSManagedPolicies {
   'AMAZON_SAGE_MAKER_CANVAS_DATA_PREP_FULL_ACCESS' = 'AmazonSageMakerCanvasDataPrepFullAccess',
   'AWSDATA_LIFECYCLE_MANAGER_SSM_FULL_ACCESS' = 'service-role/AWSDataLifecycleManagerSSMFullAccess',
   'AWSIAMIDENTITY_CENTER_ALLOW_LIST_FOR_IDENTITY_CONTEXT' = 'AWSIAMIdentityCenterAllowListForIdentityContext',
+  'CLOUD_WATCH_APPLICATION_SIGNALS_SERVICE_ROLE_POLICY' = 'aws-service-role/CloudWatchApplicationSignalsServiceRolePolicy',
 };
