@@ -6369,3 +6369,13 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `PARTNER_CENTRAL_ACCOUNT_MANAGEMENT_USER_ROLE_ASSOCIATION` <a name="cdk-common.AWSManagedPolicies.PARTNER_CENTRAL_ACCOUNT_MANAGEMENT_USER_ROLE_ASSOCIATION"></a>
+
+---
+
+
+#### `AWSSERVICE_ROLE_POLICY_FOR_BACKUP_RESTORE_TESTING` <a name="cdk-common.AWSManagedPolicies.AWSSERVICE_ROLE_POLICY_FOR_BACKUP_RESTORE_TESTING"></a>
+
+---
+
