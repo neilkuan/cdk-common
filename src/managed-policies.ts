@@ -1139,4 +1139,5 @@ export enum AWSManagedPolicies {
   'CLOUD_WATCH_APPLICATION_SIGNALS_SERVICE_ROLE_POLICY' = 'aws-service-role/CloudWatchApplicationSignalsServiceRolePolicy',
   'PARTNER_CENTRAL_ACCOUNT_MANAGEMENT_USER_ROLE_ASSOCIATION' = 'PartnerCentralAccountManagementUserRoleAssociation',
   'AWSSERVICE_ROLE_POLICY_FOR_BACKUP_RESTORE_TESTING' = 'aws-service-role/AWSServiceRolePolicyForBackupRestoreTesting',
+  'AWSINCIDENT_MANAGER_INCIDENT_ACCESS_SERVICE_ROLE_POLICY' = 'AWSIncidentManagerIncidentAccessServiceRolePolicy',
 };
