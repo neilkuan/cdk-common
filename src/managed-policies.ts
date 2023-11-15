@@ -1140,4 +1140,5 @@ export enum AWSManagedPolicies {
   'PARTNER_CENTRAL_ACCOUNT_MANAGEMENT_USER_ROLE_ASSOCIATION' = 'PartnerCentralAccountManagementUserRoleAssociation',
   'AWSSERVICE_ROLE_POLICY_FOR_BACKUP_RESTORE_TESTING' = 'aws-service-role/AWSServiceRolePolicyForBackupRestoreTesting',
   'AWSINCIDENT_MANAGER_INCIDENT_ACCESS_SERVICE_ROLE_POLICY' = 'AWSIncidentManagerIncidentAccessServiceRolePolicy',
+  'AWSIO_T_TWIN_MAKER_SERVICE_ROLE_POLICY' = 'aws-service-role/AWSIoTTwinMakerServiceRolePolicy',
 };
