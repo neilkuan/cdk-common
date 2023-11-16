@@ -1141,4 +1141,5 @@ export enum AWSManagedPolicies {
   'AWSSERVICE_ROLE_POLICY_FOR_BACKUP_RESTORE_TESTING' = 'aws-service-role/AWSServiceRolePolicyForBackupRestoreTesting',
   'AWSINCIDENT_MANAGER_INCIDENT_ACCESS_SERVICE_ROLE_POLICY' = 'AWSIncidentManagerIncidentAccessServiceRolePolicy',
   'AWSIO_T_TWIN_MAKER_SERVICE_ROLE_POLICY' = 'aws-service-role/AWSIoTTwinMakerServiceRolePolicy',
+  'AWSRESOURCE_EXPLORER_ORGANIZATIONS_ACCESS' = 'AWSResourceExplorerOrganizationsAccess',
 };

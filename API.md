@@ -6389,3 +6389,8 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AWSRESOURCE_EXPLORER_ORGANIZATIONS_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSRESOURCE_EXPLORER_ORGANIZATIONS_ACCESS"></a>
+
+---
+
