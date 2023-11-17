@@ -1142,4 +1142,6 @@ export enum AWSManagedPolicies {
   'AWSINCIDENT_MANAGER_INCIDENT_ACCESS_SERVICE_ROLE_POLICY' = 'AWSIncidentManagerIncidentAccessServiceRolePolicy',
   'AWSIO_T_TWIN_MAKER_SERVICE_ROLE_POLICY' = 'aws-service-role/AWSIoTTwinMakerServiceRolePolicy',
   'AWSRESOURCE_EXPLORER_ORGANIZATIONS_ACCESS' = 'AWSResourceExplorerOrganizationsAccess',
+  'AWSRE_POST_PRIVATE_CLOUD_WATCH_ACCESS' = 'aws-service-role/AWSrePostPrivateCloudWatchAccess',
+  'AWSMARKETPLACE_DEPLOYMENT_SERVICE_ROLE_POLICY' = 'aws-service-role/AWSMarketplaceDeploymentServiceRolePolicy',
 };
