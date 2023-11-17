@@ -6394,3 +6394,13 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AWSRE_POST_PRIVATE_CLOUD_WATCH_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSRE_POST_PRIVATE_CLOUD_WATCH_ACCESS"></a>
+
+---
+
+
+#### `AWSMARKETPLACE_DEPLOYMENT_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSMARKETPLACE_DEPLOYMENT_SERVICE_ROLE_POLICY"></a>
+
+---
+
