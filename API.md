@@ -6429,3 +6429,13 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 ---
 
+
+#### `AWSGIT_SYNC_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSGIT_SYNC_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `EC2_IMAGE_BUILDER_LIFECYCLE_EXECUTION_POLICY` <a name="cdk-common.AWSManagedPolicies.EC2_IMAGE_BUILDER_LIFECYCLE_EXECUTION_POLICY"></a>
+
+---
+
