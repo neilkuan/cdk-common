@@ -1144,4 +1144,6 @@ export enum AWSManagedPolicies {
   'AWSRESOURCE_EXPLORER_ORGANIZATIONS_ACCESS' = 'AWSResourceExplorerOrganizationsAccess',
   'AWSRE_POST_PRIVATE_CLOUD_WATCH_ACCESS' = 'aws-service-role/AWSrePostPrivateCloudWatchAccess',
   'AWSMARKETPLACE_DEPLOYMENT_SERVICE_ROLE_POLICY' = 'aws-service-role/AWSMarketplaceDeploymentServiceRolePolicy',
+  'AWSGIT_SYNC_SERVICE_ROLE_POLICY' = 'aws-service-role/AWSGitSyncServiceRolePolicy',
+  'EC2_IMAGE_BUILDER_LIFECYCLE_EXECUTION_POLICY' = 'service-role/EC2ImageBuilderLifecycleExecutionPolicy',
 };
