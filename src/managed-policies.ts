@@ -1146,4 +1146,5 @@ export enum AWSManagedPolicies {
   'AWSMARKETPLACE_DEPLOYMENT_SERVICE_ROLE_POLICY' = 'aws-service-role/AWSMarketplaceDeploymentServiceRolePolicy',
   'AWSGIT_SYNC_SERVICE_ROLE_POLICY' = 'aws-service-role/AWSGitSyncServiceRolePolicy',
   'EC2_IMAGE_BUILDER_LIFECYCLE_EXECUTION_POLICY' = 'service-role/EC2ImageBuilderLifecycleExecutionPolicy',
+  'AMAZON_INSPECTOR2_AGENTLESS_SERVICE_ROLE_POLICY' = 'aws-service-role/AmazonInspector2AgentlessServiceRolePolicy',
 };
