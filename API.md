@@ -6444,3 +6444,18 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 ---
 
+
+#### `COST_OPTIMIZATION_HUB_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.COST_OPTIMIZATION_HUB_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AMAZON_PROMETHEUS_SCRAPER_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_PROMETHEUS_SCRAPER_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AWSREPOST_SPACE_SUPPORT_OPERATIONS_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSREPOST_SPACE_SUPPORT_OPERATIONS_POLICY"></a>
+
+---
+
