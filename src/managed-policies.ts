@@ -1150,4 +1150,5 @@ export enum AWSManagedPolicies {
   'COST_OPTIMIZATION_HUB_SERVICE_ROLE_POLICY' = 'aws-service-role/CostOptimizationHubServiceRolePolicy',
   'AMAZON_PROMETHEUS_SCRAPER_SERVICE_ROLE_POLICY' = 'aws-service-role/AmazonPrometheusScraperServiceRolePolicy',
   'AWSREPOST_SPACE_SUPPORT_OPERATIONS_POLICY' = 'AWSRepostSpaceSupportOperationsPolicy',
+  'AWSELASTICDISASTERRECOVERYCONSOLEFULLACCESS_V2' = 'AWSElasticDisasterRecoveryConsoleFullAccess_v2',
 };
