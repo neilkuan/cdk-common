@@ -6459,3 +6459,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 ---
 
+
+#### `AWSELASTICDISASTERRECOVERYCONSOLEFULLACCESS_V2` <a name="cdk-common.AWSManagedPolicies.AWSELASTICDISASTERRECOVERYCONSOLEFULLACCESS_V2"></a>
+
+---
+
