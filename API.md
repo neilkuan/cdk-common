@@ -6464,3 +6464,23 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 ---
 
+
+#### `AMAZON_ONE_ENTERPRISE_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_ONE_ENTERPRISE_FULL_ACCESS"></a>
+
+---
+
+
+#### `AMAZON_ONE_ENTERPRISE_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_ONE_ENTERPRISE_READ_ONLY_ACCESS"></a>
+
+---
+
+
+#### `AMAZON_ONE_ENTERPRISE_INSTALLER_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_ONE_ENTERPRISE_INSTALLER_ACCESS"></a>
+
+---
+
+
+#### `AMAZON_Q_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_Q_FULL_ACCESS"></a>
+
+---
+
