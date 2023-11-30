@@ -1151,4 +1151,8 @@ export enum AWSManagedPolicies {
   'AMAZON_PROMETHEUS_SCRAPER_SERVICE_ROLE_POLICY' = 'aws-service-role/AmazonPrometheusScraperServiceRolePolicy',
   'AWSREPOST_SPACE_SUPPORT_OPERATIONS_POLICY' = 'AWSRepostSpaceSupportOperationsPolicy',
   'AWSELASTICDISASTERRECOVERYCONSOLEFULLACCESS_V2' = 'AWSElasticDisasterRecoveryConsoleFullAccess_v2',
+  'AMAZON_ONE_ENTERPRISE_FULL_ACCESS' = 'AmazonOneEnterpriseFullAccess',
+  'AMAZON_ONE_ENTERPRISE_READ_ONLY_ACCESS' = 'AmazonOneEnterpriseReadOnlyAccess',
+  'AMAZON_ONE_ENTERPRISE_INSTALLER_ACCESS' = 'AmazonOneEnterpriseInstallerAccess',
+  'AMAZON_Q_FULL_ACCESS' = 'AmazonQFullAccess',
 };
