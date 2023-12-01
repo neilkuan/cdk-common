@@ -1155,4 +1155,9 @@ export enum AWSManagedPolicies {
   'AMAZON_ONE_ENTERPRISE_READ_ONLY_ACCESS' = 'AmazonOneEnterpriseReadOnlyAccess',
   'AMAZON_ONE_ENTERPRISE_INSTALLER_ACCESS' = 'AmazonOneEnterpriseInstallerAccess',
   'AMAZON_Q_FULL_ACCESS' = 'AmazonQFullAccess',
+  'AWSSERVICE_ROLE_FOR_NEPTUNE_GRAPH_POLICY' = 'aws-service-role/AWSServiceRoleForNeptuneGraphPolicy',
+  'AMAZON_SAGE_MAKER_CLUSTER_INSTANCE_ROLE_POLICY' = 'AmazonSageMakerClusterInstanceRolePolicy',
+  'AWSZONAL_AUTOSHIFT_PRACTICE_RUN_SLR_POLICY' = 'aws-service-role/AWSZonalAutoshiftPracticeRunSLRPolicy',
+  'AWSCLEAN_ROOMS_ML_READ_ONLY_ACCESS' = 'AWSCleanRoomsMLReadOnlyAccess',
+  'AWSCLEAN_ROOMS_ML_FULL_ACCESS' = 'AWSCleanRoomsMLFullAccess',
 };
