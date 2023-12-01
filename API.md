@@ -6459,3 +6459,28 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AWSSERVICE_ROLE_FOR_NEPTUNE_GRAPH_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSSERVICE_ROLE_FOR_NEPTUNE_GRAPH_POLICY"></a>
+
+---
+
+
+#### `AMAZON_SAGE_MAKER_CLUSTER_INSTANCE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_CLUSTER_INSTANCE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AWSZONAL_AUTOSHIFT_PRACTICE_RUN_SLR_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSZONAL_AUTOSHIFT_PRACTICE_RUN_SLR_POLICY"></a>
+
+---
+
+
+#### `AWSCLEAN_ROOMS_ML_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSCLEAN_ROOMS_ML_READ_ONLY_ACCESS"></a>
+
+---
+
+
+#### `AWSCLEAN_ROOMS_ML_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSCLEAN_ROOMS_ML_FULL_ACCESS"></a>
+
+---
+
