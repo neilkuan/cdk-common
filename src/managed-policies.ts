@@ -1160,4 +1160,5 @@ export enum AWSManagedPolicies {
   'AWSZONAL_AUTOSHIFT_PRACTICE_RUN_SLR_POLICY' = 'aws-service-role/AWSZonalAutoshiftPracticeRunSLRPolicy',
   'AWSCLEAN_ROOMS_ML_READ_ONLY_ACCESS' = 'AWSCleanRoomsMLReadOnlyAccess',
   'AWSCLEAN_ROOMS_ML_FULL_ACCESS' = 'AWSCleanRoomsMLFullAccess',
+  'NEPTUNE_GRAPH_READ_ONLY_ACCESS' = 'NeptuneGraphReadOnlyAccess',
 };
