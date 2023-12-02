@@ -6509,3 +6509,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 ---
 
+
+#### `NEPTUNE_GRAPH_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.NEPTUNE_GRAPH_READ_ONLY_ACCESS"></a>
+
+---
+
