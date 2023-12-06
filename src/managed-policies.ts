@@ -1048,8 +1048,6 @@ export enum AWSManagedPolicies {
   'AWSDMSFLEET_ADVISOR_SERVICE_ROLE_POLICY' = 'aws-service-role/AWSDMSFleetAdvisorServiceRolePolicy',
   'CUSTOMER_PROFILES_SERVICE_LINKED_ROLE_POLICY' = 'aws-service-role/CustomerProfilesServiceLinkedRolePolicy',
   'AWSDATA_SYNC_DISCOVERY_SERVICE_ROLE_POLICY' = 'aws-service-role/AWSDataSyncDiscoveryServiceRolePolicy',
-  'AMAZON_DATA_ZONE_PROJECT_ROLE_PERMISSIONS_BOUNDARY' = 'AmazonDataZoneProjectRolePermissionsBoundary',
-  'AMAZON_DATA_ZONE_PROJECT_DEPLOYMENT_PERMISSIONS_BOUNDARY' = 'AmazonDataZoneProjectDeploymentPermissionsBoundary',
   'MEDIA_CONNECT_GATEWAY_INSTANCE_ROLE_POLICY' = 'MediaConnectGatewayInstanceRolePolicy',
   'AWSMANAGEDSERVICES_CONTACTSSERVICEROLEPOLICY' = 'aws-service-role/AWSManagedServices_ContactsServiceRolePolicy',
   'AMAZON_SAGE_MAKER_CANVAS_AI_SERVICES_ACCESS' = 'AmazonSageMakerCanvasAIServicesAccess',
