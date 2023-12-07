@@ -6479,3 +6479,13 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `IVSREAD_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.IVSREAD_ONLY_ACCESS"></a>
+
+---
+
+
+#### `AWSMSKREPLICATOR_EXECUTION_ROLE` <a name="cdk-common.AWSManagedPolicies.AWSMSKREPLICATOR_EXECUTION_ROLE"></a>
+
+---
+
