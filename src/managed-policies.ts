@@ -1159,4 +1159,6 @@ export enum AWSManagedPolicies {
   'AWSCLEAN_ROOMS_ML_READ_ONLY_ACCESS' = 'AWSCleanRoomsMLReadOnlyAccess',
   'AWSCLEAN_ROOMS_ML_FULL_ACCESS' = 'AWSCleanRoomsMLFullAccess',
   'NEPTUNE_GRAPH_READ_ONLY_ACCESS' = 'NeptuneGraphReadOnlyAccess',
+  'IVSREAD_ONLY_ACCESS' = 'IVSReadOnlyAccess',
+  'AWSMSKREPLICATOR_EXECUTION_ROLE' = 'service-role/AWSMSKReplicatorExecutionRole',
 };
