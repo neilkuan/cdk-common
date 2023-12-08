@@ -1161,4 +1161,6 @@ export enum AWSManagedPolicies {
   'NEPTUNE_GRAPH_READ_ONLY_ACCESS' = 'NeptuneGraphReadOnlyAccess',
   'IVSREAD_ONLY_ACCESS' = 'IVSReadOnlyAccess',
   'AWSMSKREPLICATOR_EXECUTION_ROLE' = 'service-role/AWSMSKReplicatorExecutionRole',
+  'AMAZON_BEDROCK_FULL_ACCESS' = 'AmazonBedrockFullAccess',
+  'AMAZON_BEDROCK_READ_ONLY' = 'AmazonBedrockReadOnly',
 };
