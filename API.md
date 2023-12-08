@@ -6514,3 +6514,13 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 ---
 
+
+#### `AMAZON_BEDROCK_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_BEDROCK_FULL_ACCESS"></a>
+
+---
+
+
+#### `AMAZON_BEDROCK_READ_ONLY` <a name="cdk-common.AWSManagedPolicies.AMAZON_BEDROCK_READ_ONLY"></a>
+
+---
+
