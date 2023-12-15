@@ -1163,4 +1163,6 @@ export enum AWSManagedPolicies {
   'AWSMSKREPLICATOR_EXECUTION_ROLE' = 'service-role/AWSMSKReplicatorExecutionRole',
   'AMAZON_BEDROCK_FULL_ACCESS' = 'AmazonBedrockFullAccess',
   'AMAZON_BEDROCK_READ_ONLY' = 'AmazonBedrockReadOnly',
+  'COST_OPTIMIZATION_HUB_READ_ONLY_ACCESS' = 'CostOptimizationHubReadOnlyAccess',
+  'IVSFULL_ACCESS' = 'IVSFullAccess',
 };
