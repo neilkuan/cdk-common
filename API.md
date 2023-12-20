@@ -6534,3 +6534,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 ---
 
+
+#### `COST_OPTIMIZATION_HUB_ADMIN_ACCESS` <a name="cdk-common.AWSManagedPolicies.COST_OPTIMIZATION_HUB_ADMIN_ACCESS"></a>
+
+---
+

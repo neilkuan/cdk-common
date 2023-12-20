@@ -1165,4 +1165,5 @@ export enum AWSManagedPolicies {
   'AMAZON_BEDROCK_READ_ONLY' = 'AmazonBedrockReadOnly',
   'COST_OPTIMIZATION_HUB_READ_ONLY_ACCESS' = 'CostOptimizationHubReadOnlyAccess',
   'IVSFULL_ACCESS' = 'IVSFullAccess',
+  'COST_OPTIMIZATION_HUB_ADMIN_ACCESS' = 'CostOptimizationHubAdminAccess',
 };
