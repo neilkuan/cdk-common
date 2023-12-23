@@ -6514,3 +6514,8 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `CLOUD_WATCH_NETWORK_MONITOR_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.CLOUD_WATCH_NETWORK_MONITOR_SERVICE_ROLE_POLICY"></a>
+
+---
+

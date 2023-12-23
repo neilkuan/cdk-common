@@ -1166,4 +1166,5 @@ export enum AWSManagedPolicies {
   'COST_OPTIMIZATION_HUB_READ_ONLY_ACCESS' = 'CostOptimizationHubReadOnlyAccess',
   'IVSFULL_ACCESS' = 'IVSFullAccess',
   'COST_OPTIMIZATION_HUB_ADMIN_ACCESS' = 'CostOptimizationHubAdminAccess',
+  'CLOUD_WATCH_NETWORK_MONITOR_SERVICE_ROLE_POLICY' = 'aws-service-role/CloudWatchNetworkMonitorServiceRolePolicy',
 };
