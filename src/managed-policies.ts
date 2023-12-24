@@ -1167,4 +1167,5 @@ export enum AWSManagedPolicies {
   'IVSFULL_ACCESS' = 'IVSFullAccess',
   'COST_OPTIMIZATION_HUB_ADMIN_ACCESS' = 'CostOptimizationHubAdminAccess',
   'CLOUD_WATCH_NETWORK_MONITOR_SERVICE_ROLE_POLICY' = 'aws-service-role/CloudWatchNetworkMonitorServiceRolePolicy',
+  'AMAZON_OPEN_SEARCH_DASHBOARDS_SERVICE_ROLE_POLICY' = 'aws-service-role/AmazonOpenSearchDashboardsServiceRolePolicy',
 };
