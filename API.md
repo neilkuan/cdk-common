@@ -6529,3 +6529,8 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AWSGRAFANA_WORKSPACE_PERMISSION_MANAGEMENT_V2` <a name="cdk-common.AWSManagedPolicies.AWSGRAFANA_WORKSPACE_PERMISSION_MANAGEMENT_V2"></a>
+
+---
+
