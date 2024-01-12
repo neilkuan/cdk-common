@@ -1170,4 +1170,5 @@ export enum AWSManagedPolicies {
   'AMAZON_OPEN_SEARCH_DASHBOARDS_SERVICE_ROLE_POLICY' = 'aws-service-role/AmazonOpenSearchDashboardsServiceRolePolicy',
   'AWSARTIFACT_REPORTS_READ_ONLY_ACCESS' = 'AWSArtifactReportsReadOnlyAccess',
   'AWSGRAFANA_WORKSPACE_PERMISSION_MANAGEMENT_V2' = 'AWSGrafanaWorkspacePermissionManagementV2',
+  'AMAZON_ECS_INFRASTRUCTURE_ROLE_POLICY_FOR_VOLUMES' = 'service-role/AmazonECSInfrastructureRolePolicyForVolumes',
 };
