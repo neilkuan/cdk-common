@@ -6569,3 +6569,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 ---
 
+
+#### `AMAZON_SECURITY_LAKE_METASTORE_MANAGER` <a name="cdk-common.AWSManagedPolicies.AMAZON_SECURITY_LAKE_METASTORE_MANAGER"></a>
+
+---
+
