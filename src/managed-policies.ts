@@ -1173,4 +1173,5 @@ export enum AWSManagedPolicies {
   'AMAZON_ECS_INFRASTRUCTURE_ROLE_POLICY_FOR_VOLUMES' = 'service-role/AmazonECSInfrastructureRolePolicyForVolumes',
   'AMAZON_ECS_INFRASTRUCTURE_ROLE_POLICY_FOR_SERVICE_CONNECT_TRANSPORT_LAYER_SECURITY' = 'service-role/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity',
   'AMAZON_SECURITY_LAKE_METASTORE_MANAGER' = 'service-role/AmazonSecurityLakeMetastoreManager',
+  'AMAZON_INSPECTOR2_MANAGED_CIS_POLICY' = 'AmazonInspector2ManagedCisPolicy',
 };
