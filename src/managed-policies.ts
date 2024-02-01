@@ -662,7 +662,6 @@ export enum AWSManagedPolicies {
   'AWSCODEPIPELINE_FULLACCESS' = 'AWSCodePipeline_FullAccess',
   'AMAZON_BRAKET_SERVICE_ROLE_POLICY' = 'aws-service-role/AmazonBraketServiceRolePolicy',
   'AWSLAKE_FORMATION_CROSS_ACCOUNT_MANAGER' = 'AWSLakeFormationCrossAccountManager',
-  'AMAZONLAUNCHWIZARD_FULLACCESS' = 'AmazonLaunchWizard_Fullaccess',
   'AMAZON_BRAKET_FULL_ACCESS' = 'AmazonBraketFullAccess',
   'AWSLAMBDA_MSK_EXECUTION_ROLE' = 'service-role/AWSLambdaMSKExecutionRole',
   'AWSCOMPROMISED_KEY_QUARANTINE' = 'AWSCompromisedKeyQuarantine',
