@@ -144,6 +144,9 @@ Whether to allow the Lambda to send all network traffic.
 If set to false, you must individually add traffic rules to allow the
 Lambda to connect to network targets.
 
+Do not specify this property if the `securityGroups` or `securityGroup` property is set.
+Instead, configure `allowAllOutbound` directly on the security group.
+
 ---
 
 ##### `allowPublicSubnet`<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.allowPublicSubnet"></a>
@@ -160,6 +163,19 @@ Lambda Functions in a public subnet can NOT access the internet.
 Use this property to acknowledge this limitation and still place the function in a public subnet.
 
 > https://stackoverflow.com/questions/52992085/why-cant-an-aws-lambda-function-inside-a-public-subnet-in-a-vpc-connect-to-the/52994841#52994841
+
+---
+
+##### `applicationLogLevel`<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.applicationLogLevel"></a>
+
+```typescript
+public readonly applicationLogLevel: string;
+```
+
+- *Type:* `string`
+- *Default:* "INFO"
+
+Sets the application log level for the function.
 
 ---
 
@@ -394,6 +410,40 @@ that can be used by multiple functions.
 
 ---
 
+##### `logFormat`<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.logFormat"></a>
+
+```typescript
+public readonly logFormat: string;
+```
+
+- *Type:* `string`
+- *Default:* "Text"
+
+Sets the logFormat for the function.
+
+---
+
+##### `logGroup`<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.logGroup"></a>
+
+```typescript
+public readonly logGroup: ILogGroup;
+```
+
+- *Type:* [`aws-cdk-lib.aws_logs.ILogGroup`](#aws-cdk-lib.aws_logs.ILogGroup)
+- *Default:* `/aws/lambda/${this.functionName}` - default log group created by Lambda
+
+The log group the function sends logs to.
+
+By default, Lambda functions send logs to an automatically created default log group named /aws/lambda/\<function name\>.
+However you cannot change the properties of this auto-created log group using the AWS CDK, e.g. you cannot set a different log retention.
+
+Use the `logGroup` property to create a fully customizable LogGroup ahead of time, and instruct the Lambda function to send logs to it.
+
+Providing a user-controlled log group was rolled out to commercial regions on 2023-11-16.
+If you are deploying to another type of region, please check regional availability first.
+
+---
+
 ##### `logRetention`<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.logRetention"></a>
 
 ```typescript
@@ -408,6 +458,20 @@ The number of days log events are kept in CloudWatch Logs.
 When updating
 this property, unsetting it doesn't remove the log retention policy. To
 remove the retention policy, set the value to `INFINITE`.
+
+This is a legacy API and we strongly recommend you move away from it if you can.
+Instead create a fully customizable log group with `logs.LogGroup` and use the `logGroup` property
+to instruct the Lambda function to send logs to it.
+Migrating from `logRetention` to `logGroup` will cause the name of the log group to change.
+Users and code and referencing the name verbatim will have to adjust.
+
+In AWS CDK code, you can access the log group name directly from the LogGroup construct:
+```ts
+import * as logs from 'aws-cdk-lib/aws-logs';
+
+declare const myLogGroup: logs.LogGroup;
+myLogGroup.logGroupName;
+```
 
 ---
 
@@ -424,6 +488,9 @@ When log retention is specified, a custom resource attempts to create the CloudW
 
 These options control the retry policy when interacting with CloudWatch APIs.
 
+This is a legacy API and we strongly recommend you migrate to `logGroup` if you can.
+`logGroup` allows you to create a fully customizable log group and instruct the Lambda function to send logs to it.
+
 ---
 
 ##### `logRetentionRole`<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.logRetentionRole"></a>
@@ -436,6 +503,9 @@ public readonly logRetentionRole: IRole;
 - *Default:* A new role is created.
 
 The IAM role for the Lambda function associated with the custom resource that sets the retention policy.
+
+This is a legacy API and we strongly recommend you migrate to `logGroup` if you can.
+`logGroup` allows you to create a fully customizable log group and instruct the Lambda function to send logs to it.
 
 ---
 
@@ -582,6 +652,19 @@ public readonly snapStart: SnapStartConf;
 Enable SnapStart for Lambda Function.
 
 SnapStart is currently supported only for Java 11, 17 runtime
+
+---
+
+##### `systemLogLevel`<sup>Optional</sup> <a name="cdk-common.LambdaArmFunctionProps.property.systemLogLevel"></a>
+
+```typescript
+public readonly systemLogLevel: string;
+```
+
+- *Type:* `string`
+- *Default:* "INFO"
+
+Sets the system log level for the function.
 
 ---
 
@@ -6571,6 +6654,16 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 #### `AMAZON_INSPECTOR2_MANAGED_CIS_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_INSPECTOR2_MANAGED_CIS_POLICY"></a>
+
+---
+
+
+#### `AMAZON_LEX_REPLICATION_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_LEX_REPLICATION_POLICY"></a>
+
+---
+
+
+#### `AMAZON_SAGE_MAKER_CANVAS_BEDROCK_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_CANVAS_BEDROCK_ACCESS"></a>
 
 ---
 
