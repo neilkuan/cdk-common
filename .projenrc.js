@@ -9,7 +9,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   description: PROJECT_DESCRIPTION,
   author: 'Neil Kuan',
   authorAddress: 'guan840912@gmail.com',
-  cdkVersion: '1.134.0',
+  cdkVersion: '1.204.0',
   /**
    * we default release the main branch(cdkv2) with major version 2.
    */
@@ -61,8 +61,14 @@ const project = new awscdk.AwsCdkConstructLibrary({
     '@aws-cdk/core@^1.134.0',
     '@aws-cdk/aws-lambda@^1.134.0',
   ],
-  workflowNodeVersion: '^16.20.0',
-  typescriptVersion: '^4.9',
+  devDeps: [
+    'ts-jest@29.1.2',
+    'jsii-rosetta@5.0.x',
+  ],
+  minNodeVersion: '20.10.0',
+  workflowNodeVersion: '20.10.0',
+  typescriptVersion: '^5',
+  jsiiVersion: '5.3.x',
 });
 
 const common_exclude = ['cdk.out', 'cdk.context.json', 'yarn-error.log', 'coverage'];
