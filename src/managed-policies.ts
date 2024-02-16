@@ -1175,4 +1175,5 @@ export enum AWSManagedPolicies {
   'AMAZON_INSPECTOR2_MANAGED_CIS_POLICY' = 'AmazonInspector2ManagedCisPolicy',
   'AMAZON_LEX_REPLICATION_POLICY' = 'aws-service-role/AmazonLexReplicationPolicy',
   'AMAZON_SAGE_MAKER_CANVAS_BEDROCK_ACCESS' = 'AmazonSageMakerCanvasBedrockAccess',
+  'AWSSERVICE_ROLE_FOR_PRIVATE_MARKETPLACE_ADMIN_POLICY' = 'aws-service-role/AWSServiceRoleForPrivateMarketplaceAdminPolicy',
 };
