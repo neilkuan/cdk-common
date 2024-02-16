@@ -6667,3 +6667,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 ---
 
+
+#### `AWSSERVICE_ROLE_FOR_PRIVATE_MARKETPLACE_ADMIN_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSSERVICE_ROLE_FOR_PRIVATE_MARKETPLACE_ADMIN_POLICY"></a>
+
+---
+
