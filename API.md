@@ -6574,3 +6574,13 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AMAZON_TIMESTREAM_INFLUX_DB_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_TIMESTREAM_INFLUX_DB_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `AMAZON_TIMESTREAM_INFLUX_DB_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_TIMESTREAM_INFLUX_DB_FULL_ACCESS"></a>
+
+---
+
