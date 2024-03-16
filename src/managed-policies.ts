@@ -1178,4 +1178,6 @@ export enum AWSManagedPolicies {
   'AWSSERVICE_ROLE_FOR_PRIVATE_MARKETPLACE_ADMIN_POLICY' = 'aws-service-role/AWSServiceRoleForPrivateMarketplaceAdminPolicy',
   'AMAZON_RDS_CUSTOM_INSTANCE_PROFILE_ROLE_POLICY' = 'AmazonRDSCustomInstanceProfileRolePolicy',
   'AWSMARKETPLACE_RESALE_AUTHORIZATION_SERVICE_ROLE_POLICY' = 'aws-service-role/AWSMarketplaceResaleAuthorizationServiceRolePolicy',
+  'AMAZON_TIMESTREAM_INFLUX_DB_SERVICE_ROLE_POLICY' = 'aws-service-role/AmazonTimestreamInfluxDBServiceRolePolicy',
+  'AMAZON_TIMESTREAM_INFLUX_DB_FULL_ACCESS' = 'AmazonTimestreamInfluxDBFullAccess',
 };
