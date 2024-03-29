@@ -1180,4 +1180,7 @@ export enum AWSManagedPolicies {
   'AWSMARKETPLACE_RESALE_AUTHORIZATION_SERVICE_ROLE_POLICY' = 'aws-service-role/AWSMarketplaceResaleAuthorizationServiceRolePolicy',
   'AMAZON_TIMESTREAM_INFLUX_DB_SERVICE_ROLE_POLICY' = 'aws-service-role/AmazonTimestreamInfluxDBServiceRolePolicy',
   'AMAZON_TIMESTREAM_INFLUX_DB_FULL_ACCESS' = 'AmazonTimestreamInfluxDBFullAccess',
+  'AWSEC2_VSS_SNAPSHOT_POLICY' = 'AWSEC2VssSnapshotPolicy',
+  'AWSQUICK_SIGHT_ASSET_BUNDLE_EXPORT_POLICY' = 'AWSQuickSightAssetBundleExportPolicy',
+  'AWSQUICK_SIGHT_ASSET_BUNDLE_IMPORT_POLICY' = 'AWSQuickSightAssetBundleImportPolicy',
 };
