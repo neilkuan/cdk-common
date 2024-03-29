@@ -6584,3 +6584,18 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AWSEC2_VSS_SNAPSHOT_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSEC2_VSS_SNAPSHOT_POLICY"></a>
+
+---
+
+
+#### `AWSQUICK_SIGHT_ASSET_BUNDLE_EXPORT_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSQUICK_SIGHT_ASSET_BUNDLE_EXPORT_POLICY"></a>
+
+---
+
+
+#### `AWSQUICK_SIGHT_ASSET_BUNDLE_IMPORT_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSQUICK_SIGHT_ASSET_BUNDLE_IMPORT_POLICY"></a>
+
+---
+
