@@ -1183,4 +1183,10 @@ export enum AWSManagedPolicies {
   'AWSEC2_VSS_SNAPSHOT_POLICY' = 'AWSEC2VssSnapshotPolicy',
   'AWSQUICK_SIGHT_ASSET_BUNDLE_EXPORT_POLICY' = 'AWSQuickSightAssetBundleExportPolicy',
   'AWSQUICK_SIGHT_ASSET_BUNDLE_IMPORT_POLICY' = 'AWSQuickSightAssetBundleImportPolicy',
+  'AWSDEADLINECLOUD_USERACCESSFARMS' = 'AWSDeadlineCloud-UserAccessFarms',
+  'AWSDEADLINECLOUD_USERACCESSFLEETS' = 'AWSDeadlineCloud-UserAccessFleets',
+  'AWSDEADLINECLOUD_USERACCESSJOBS' = 'AWSDeadlineCloud-UserAccessJobs',
+  'AWSDEADLINECLOUD_USERACCESSQUEUES' = 'AWSDeadlineCloud-UserAccessQueues',
+  'AWSDEADLINECLOUD_FLEETWORKER' = 'AWSDeadlineCloud-FleetWorker',
+  'AWSDEADLINECLOUD_WORKERHOST' = 'AWSDeadlineCloud-WorkerHost',
 };
