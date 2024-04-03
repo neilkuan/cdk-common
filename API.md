@@ -6707,3 +6707,33 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 ---
 
+
+#### `AWSDEADLINECLOUD_USERACCESSFARMS` <a name="cdk-common.AWSManagedPolicies.AWSDEADLINECLOUD_USERACCESSFARMS"></a>
+
+---
+
+
+#### `AWSDEADLINECLOUD_USERACCESSFLEETS` <a name="cdk-common.AWSManagedPolicies.AWSDEADLINECLOUD_USERACCESSFLEETS"></a>
+
+---
+
+
+#### `AWSDEADLINECLOUD_USERACCESSJOBS` <a name="cdk-common.AWSManagedPolicies.AWSDEADLINECLOUD_USERACCESSJOBS"></a>
+
+---
+
+
+#### `AWSDEADLINECLOUD_USERACCESSQUEUES` <a name="cdk-common.AWSManagedPolicies.AWSDEADLINECLOUD_USERACCESSQUEUES"></a>
+
+---
+
+
+#### `AWSDEADLINECLOUD_FLEETWORKER` <a name="cdk-common.AWSManagedPolicies.AWSDEADLINECLOUD_FLEETWORKER"></a>
+
+---
+
+
+#### `AWSDEADLINECLOUD_WORKERHOST` <a name="cdk-common.AWSManagedPolicies.AWSDEADLINECLOUD_WORKERHOST"></a>
+
+---
+
