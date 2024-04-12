@@ -5238,16 +5238,6 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 ---
 
 
-#### `AWSIOT_ROBO_RUNNER_READ_ONLY` <a name="cdk-common.AWSManagedPolicies.AWSIOT_ROBO_RUNNER_READ_ONLY"></a>
-
----
-
-
-#### `AWSIOT_ROBO_RUNNER_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AWSIOT_ROBO_RUNNER_FULL_ACCESS"></a>
-
----
-
-
 #### `AWSMIGRATION_HUB_REFACTOR_SPACES_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSMIGRATION_HUB_REFACTOR_SPACES_SERVICE_ROLE_POLICY"></a>
 
 ---
@@ -5984,11 +5974,6 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 #### `AWSPRIVATE_CA_AUDITOR` <a name="cdk-common.AWSManagedPolicies.AWSPRIVATE_CA_AUDITOR"></a>
-
----
-
-
-#### `AWSIOT_ROBO_RUNNER_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSIOT_ROBO_RUNNER_SERVICE_ROLE_POLICY"></a>
 
 ---
 
