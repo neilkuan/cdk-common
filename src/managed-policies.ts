@@ -1186,4 +1186,5 @@ export enum AWSManagedPolicies {
   'AWSDEADLINECLOUD_USERACCESSQUEUES' = 'AWSDeadlineCloud-UserAccessQueues',
   'AWSDEADLINECLOUD_FLEETWORKER' = 'AWSDeadlineCloud-FleetWorker',
   'AWSDEADLINECLOUD_WORKERHOST' = 'AWSDeadlineCloud-WorkerHost',
+  'SPLIT_COST_ALLOCATION_DATA_SERVICE_ROLE_POLICY' = 'aws-service-role/SplitCostAllocationDataServiceRolePolicy',
 };
