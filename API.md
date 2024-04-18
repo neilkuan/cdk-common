@@ -6614,3 +6614,8 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `SPLIT_COST_ALLOCATION_DATA_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.SPLIT_COST_ALLOCATION_DATA_SERVICE_ROLE_POLICY"></a>
+
+---
+
