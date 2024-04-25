@@ -1187,4 +1187,7 @@ export enum AWSManagedPolicies {
   'AWSDEADLINECLOUD_FLEETWORKER' = 'AWSDeadlineCloud-FleetWorker',
   'AWSDEADLINECLOUD_WORKERHOST' = 'AWSDeadlineCloud-WorkerHost',
   'SPLIT_COST_ALLOCATION_DATA_SERVICE_ROLE_POLICY' = 'aws-service-role/SplitCostAllocationDataServiceRolePolicy',
+  'AMAZON_DATA_ZONE_SAGE_MAKER_ENVIRONMENT_ROLE_PERMISSIONS_BOUNDARY' = 'AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary',
+  'AMAZON_DATA_ZONE_SAGE_MAKER_PROVISIONING_ROLE_POLICY' = 'AmazonDataZoneSageMakerProvisioningRolePolicy',
+  'AMAZON_DATA_ZONE_SAGE_MAKER_MANAGE_ACCESS_ROLE_POLICY' = 'AmazonDataZoneSageMakerManageAccessRolePolicy',
 };
