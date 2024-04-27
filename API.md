@@ -6634,3 +6634,13 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AWSSERVICE_ROLE_FOR_AMAZON_Q_DEVELOPER` <a name="cdk-common.AWSManagedPolicies.AWSSERVICE_ROLE_FOR_AMAZON_Q_DEVELOPER"></a>
+
+---
+
+
+#### `AWSSERVICE_ROLE_FOR_USER_SUBSCRIPTIONS` <a name="cdk-common.AWSManagedPolicies.AWSSERVICE_ROLE_FOR_USER_SUBSCRIPTIONS"></a>
+
+---
+
