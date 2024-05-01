@@ -6752,3 +6752,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 ---
 
+
+#### `QBUSINESS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.QBUSINESS_SERVICE_ROLE_POLICY"></a>
+
+---
+
