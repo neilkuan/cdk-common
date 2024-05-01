@@ -1192,4 +1192,5 @@ export enum AWSManagedPolicies {
   'AMAZON_DATA_ZONE_SAGE_MAKER_MANAGE_ACCESS_ROLE_POLICY' = 'AmazonDataZoneSageMakerManageAccessRolePolicy',
   'AWSSERVICE_ROLE_FOR_AMAZON_Q_DEVELOPER' = 'aws-service-role/AWSServiceRoleForAmazonQDeveloper',
   'AWSSERVICE_ROLE_FOR_USER_SUBSCRIPTIONS' = 'aws-service-role/AWSServiceRoleForUserSubscriptions',
+  'QBUSINESS_SERVICE_ROLE_POLICY' = 'aws-service-role/QBusinessServiceRolePolicy',
 };
