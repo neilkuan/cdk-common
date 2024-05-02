@@ -1193,4 +1193,6 @@ export enum AWSManagedPolicies {
   'AWSSERVICE_ROLE_FOR_AMAZON_Q_DEVELOPER' = 'aws-service-role/AWSServiceRoleForAmazonQDeveloper',
   'AWSSERVICE_ROLE_FOR_USER_SUBSCRIPTIONS' = 'aws-service-role/AWSServiceRoleForUserSubscriptions',
   'QBUSINESS_SERVICE_ROLE_POLICY' = 'aws-service-role/QBusinessServiceRolePolicy',
+  'AMAZON_ROUTE53_PROFILES_READ_ONLY_ACCESS' = 'AmazonRoute53ProfilesReadOnlyAccess',
+  'AMAZON_ROUTE53_PROFILES_FULL_ACCESS' = 'AmazonRoute53ProfilesFullAccess',
 };
