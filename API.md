@@ -6649,3 +6649,13 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AMAZON_ROUTE53_PROFILES_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_ROUTE53_PROFILES_READ_ONLY_ACCESS"></a>
+
+---
+
+
+#### `AMAZON_ROUTE53_PROFILES_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_ROUTE53_PROFILES_FULL_ACCESS"></a>
+
+---
+
