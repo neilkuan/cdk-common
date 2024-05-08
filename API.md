@@ -6659,3 +6659,8 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AMAZON_OPEN_SEARCH_DIRECT_QUERY_GLUE_CREATE_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_OPEN_SEARCH_DIRECT_QUERY_GLUE_CREATE_ACCESS"></a>
+
+---
+
