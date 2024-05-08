@@ -1195,4 +1195,5 @@ export enum AWSManagedPolicies {
   'QBUSINESS_SERVICE_ROLE_POLICY' = 'aws-service-role/QBusinessServiceRolePolicy',
   'AMAZON_ROUTE53_PROFILES_READ_ONLY_ACCESS' = 'AmazonRoute53ProfilesReadOnlyAccess',
   'AMAZON_ROUTE53_PROFILES_FULL_ACCESS' = 'AmazonRoute53ProfilesFullAccess',
+  'AMAZON_OPEN_SEARCH_DIRECT_QUERY_GLUE_CREATE_ACCESS' = 'AmazonOpenSearchDirectQueryGlueCreateAccess',
 };
