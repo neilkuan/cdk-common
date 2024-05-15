@@ -6664,3 +6664,8 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `EC2_FAST_LAUNCH_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.EC2_FAST_LAUNCH_FULL_ACCESS"></a>
+
+---
+
