@@ -6777,3 +6777,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 ---
 
+
+#### `AMAZON_SES_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AMAZON_SES_SERVICE_ROLE_POLICY"></a>
+
+---
+
