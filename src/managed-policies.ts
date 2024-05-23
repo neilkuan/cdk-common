@@ -1197,4 +1197,5 @@ export enum AWSManagedPolicies {
   'AMAZON_ROUTE53_PROFILES_FULL_ACCESS' = 'AmazonRoute53ProfilesFullAccess',
   'AMAZON_OPEN_SEARCH_DIRECT_QUERY_GLUE_CREATE_ACCESS' = 'AmazonOpenSearchDirectQueryGlueCreateAccess',
   'EC2_FAST_LAUNCH_FULL_ACCESS' = 'EC2FastLaunchFullAccess',
+  'AMAZON_SES_SERVICE_ROLE_POLICY' = 'aws-service-role/AmazonSESServiceRolePolicy',
 };
