@@ -6782,3 +6782,13 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 ---
 
+
+#### `CLOUD_WATCH_APPLICATION_SIGNALS_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.CLOUD_WATCH_APPLICATION_SIGNALS_READ_ONLY_ACCESS"></a>
+
+---
+
+
+#### `CLOUD_WATCH_APPLICATION_SIGNALS_FULL_ACCESS` <a name="cdk-common.AWSManagedPolicies.CLOUD_WATCH_APPLICATION_SIGNALS_FULL_ACCESS"></a>
+
+---
+
