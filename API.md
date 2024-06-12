@@ -6684,3 +6684,13 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AWSBCMDATA_EXPORTS_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSBCMDATA_EXPORTS_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+#### `OPENSEARCH_INGESTION_SELF_MANAGED_VPCE_POLICY` <a name="cdk-common.AWSManagedPolicies.OPENSEARCH_INGESTION_SELF_MANAGED_VPCE_POLICY"></a>
+
+---
+
