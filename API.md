@@ -6802,3 +6802,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 ---
 
+
+#### `AWSAPPLICATION_AUTOSCALING_WORK_SPACES_POOL_POLICY` <a name="cdk-common.AWSManagedPolicies.AWSAPPLICATION_AUTOSCALING_WORK_SPACES_POOL_POLICY"></a>
+
+---
+
