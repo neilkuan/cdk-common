@@ -6807,3 +6807,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 ---
 
+
+#### `ECRTEMPLATE_SERVICE_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.ECRTEMPLATE_SERVICE_ROLE_POLICY"></a>
+
+---
+
