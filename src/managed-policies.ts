@@ -1203,4 +1203,5 @@ export enum AWSManagedPolicies {
   'AWSBCMDATA_EXPORTS_SERVICE_ROLE_POLICY' = 'aws-service-role/AWSBCMDataExportsServiceRolePolicy',
   'OPENSEARCH_INGESTION_SELF_MANAGED_VPCE_POLICY' = 'aws-service-role/OpensearchIngestionSelfManagedVpcePolicy',
   'AWSAPPLICATION_AUTOSCALING_WORK_SPACES_POOL_POLICY' = 'aws-service-role/AWSApplicationAutoscalingWorkSpacesPoolPolicy',
+  'ECRTEMPLATE_SERVICE_ROLE_POLICY' = 'aws-service-role/ECRTemplateServiceRolePolicy',
 };
