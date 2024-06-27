@@ -6704,3 +6704,13 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AMAZON_WORK_SPACES_SECURE_BROWSER_READ_ONLY` <a name="cdk-common.AWSManagedPolicies.AMAZON_WORK_SPACES_SECURE_BROWSER_READ_ONLY"></a>
+
+---
+
+
+#### `SSMQUICK_SETUP_ROLE_POLICY` <a name="cdk-common.AWSManagedPolicies.SSMQUICK_SETUP_ROLE_POLICY"></a>
+
+---
+

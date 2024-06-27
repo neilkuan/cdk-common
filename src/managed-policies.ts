@@ -1204,4 +1204,6 @@ export enum AWSManagedPolicies {
   'OPENSEARCH_INGESTION_SELF_MANAGED_VPCE_POLICY' = 'aws-service-role/OpensearchIngestionSelfManagedVpcePolicy',
   'AWSAPPLICATION_AUTOSCALING_WORK_SPACES_POOL_POLICY' = 'aws-service-role/AWSApplicationAutoscalingWorkSpacesPoolPolicy',
   'ECRTEMPLATE_SERVICE_ROLE_POLICY' = 'aws-service-role/ECRTemplateServiceRolePolicy',
+  'AMAZON_WORK_SPACES_SECURE_BROWSER_READ_ONLY' = 'AmazonWorkSpacesSecureBrowserReadOnly',
+  'SSMQUICK_SETUP_ROLE_POLICY' = 'aws-service-role/SSMQuickSetupRolePolicy',
 };
