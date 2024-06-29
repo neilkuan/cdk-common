@@ -1217,4 +1217,5 @@ export enum AWSManagedPolicies {
   'AWSQUICK_SETUP_SCHEDULER_PERMISSIONS_BOUNDARY' = 'AWSQuickSetupSchedulerPermissionsBoundary',
   'AWSQUICK_SETUP_DEPLOYMENT_ROLE_POLICY' = 'AWSQuickSetupDeploymentRolePolicy',
   'AWSQUICK_SETUP_PATCH_POLICY_DEPLOYMENT_ROLE_POLICY' = 'AWSQuickSetupPatchPolicyDeploymentRolePolicy',
+  'AMAZON_WORK_SPACES_POOL_SERVICE_ACCESS' = 'AmazonWorkSpacesPoolServiceAccess',
 };
