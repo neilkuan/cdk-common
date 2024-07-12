@@ -1219,4 +1219,5 @@ export enum AWSManagedPolicies {
   'AWSQUICK_SETUP_PATCH_POLICY_DEPLOYMENT_ROLE_POLICY' = 'AWSQuickSetupPatchPolicyDeploymentRolePolicy',
   'AMAZON_WORK_SPACES_POOL_SERVICE_ACCESS' = 'AmazonWorkSpacesPoolServiceAccess',
   'AMAZON_Q_DEVELOPER_ACCESS' = 'AmazonQDeveloperAccess',
+  'APP_STUDIO_SERVICE_ROLE_POLICY' = 'aws-service-role/AppStudioServiceRolePolicy',
 };
