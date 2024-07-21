@@ -6784,3 +6784,8 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AMAZON_WORK_SPACES_THIN_CLIENT_READ_ONLY_ACCESS` <a name="cdk-common.AWSManagedPolicies.AMAZON_WORK_SPACES_THIN_CLIENT_READ_ONLY_ACCESS"></a>
+
+---
+
