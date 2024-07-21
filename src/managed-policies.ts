@@ -1220,4 +1220,5 @@ export enum AWSManagedPolicies {
   'AMAZON_WORK_SPACES_POOL_SERVICE_ACCESS' = 'AmazonWorkSpacesPoolServiceAccess',
   'AMAZON_Q_DEVELOPER_ACCESS' = 'AmazonQDeveloperAccess',
   'APP_STUDIO_SERVICE_ROLE_POLICY' = 'aws-service-role/AppStudioServiceRolePolicy',
+  'AMAZON_WORK_SPACES_THIN_CLIENT_READ_ONLY_ACCESS' = 'AmazonWorkSpacesThinClientReadOnlyAccess',
 };
