@@ -6794,3 +6794,8 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AMAZON_BEDROCK_STUDIO_PERMISSIONS_BOUNDARY` <a name="cdk-common.AWSManagedPolicies.AMAZON_BEDROCK_STUDIO_PERMISSIONS_BOUNDARY"></a>
+
+---
+
