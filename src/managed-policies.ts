@@ -1222,4 +1222,5 @@ export enum AWSManagedPolicies {
   'APP_STUDIO_SERVICE_ROLE_POLICY' = 'aws-service-role/AppStudioServiceRolePolicy',
   'AMAZON_WORK_SPACES_THIN_CLIENT_READ_ONLY_ACCESS' = 'AmazonWorkSpacesThinClientReadOnlyAccess',
   'AMAZON_SAGE_MAKER_CANVAS_EMR_SERVERLESS_EXECUTION_ROLE_POLICY' = 'AmazonSageMakerCanvasEMRServerlessExecutionRolePolicy',
+  'AMAZON_BEDROCK_STUDIO_PERMISSIONS_BOUNDARY' = 'AmazonBedrockStudioPermissionsBoundary',
 };
