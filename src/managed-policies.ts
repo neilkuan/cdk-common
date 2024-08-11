@@ -1223,4 +1223,5 @@ export enum AWSManagedPolicies {
   'AMAZON_WORK_SPACES_THIN_CLIENT_READ_ONLY_ACCESS' = 'AmazonWorkSpacesThinClientReadOnlyAccess',
   'AMAZON_SAGE_MAKER_CANVAS_EMR_SERVERLESS_EXECUTION_ROLE_POLICY' = 'AmazonSageMakerCanvasEMRServerlessExecutionRolePolicy',
   'AMAZON_BEDROCK_STUDIO_PERMISSIONS_BOUNDARY' = 'AmazonBedrockStudioPermissionsBoundary',
+  'AMAZON_WORK_SPACES_THIN_CLIENT_FULL_ACCESS' = 'AmazonWorkSpacesThinClientFullAccess',
 };
