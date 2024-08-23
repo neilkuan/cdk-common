@@ -6804,3 +6804,8 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 ---
 
+
+#### `AWSCOMPROMISED_KEY_QUARANTINE_V3` <a name="cdk-common.AWSManagedPolicies.AWSCOMPROMISED_KEY_QUARANTINE_V3"></a>
+
+---
+
