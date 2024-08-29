@@ -2020,6 +2020,7 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_BEDROCK_STUDIO_PERMISSIONS_BOUNDARY">AMAZON_BEDROCK_STUDIO_PERMISSIONS_BOUNDARY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_WORK_SPACES_THIN_CLIENT_FULL_ACCESS">AMAZON_WORK_SPACES_THIN_CLIENT_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSCOMPROMISED_KEY_QUARANTINE_V3">AWSCOMPROMISED_KEY_QUARANTINE_V3</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSPCSSERVICE_ROLE_POLICY">AWSPCSSERVICE_ROLE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -8144,6 +8145,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 ##### `AWSCOMPROMISED_KEY_QUARANTINE_V3` <a name="AWSCOMPROMISED_KEY_QUARANTINE_V3" id="cdk-common.AWSManagedPolicies.AWSCOMPROMISED_KEY_QUARANTINE_V3"></a>
+
+---
+
+
+##### `AWSPCSSERVICE_ROLE_POLICY` <a name="AWSPCSSERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSPCSSERVICE_ROLE_POLICY"></a>
 
 ---
 
