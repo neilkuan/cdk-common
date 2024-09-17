@@ -2021,6 +2021,7 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_WORK_SPACES_THIN_CLIENT_FULL_ACCESS">AMAZON_WORK_SPACES_THIN_CLIENT_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSCOMPROMISED_KEY_QUARANTINE_V3">AWSCOMPROMISED_KEY_QUARANTINE_V3</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSPCSSERVICE_ROLE_POLICY">AWSPCSSERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_HYPER_POD_SERVICE_ROLE_POLICY">AMAZON_SAGE_MAKER_HYPER_POD_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -8150,6 +8151,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 ##### `AWSPCSSERVICE_ROLE_POLICY` <a name="AWSPCSSERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSPCSSERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `AMAZON_SAGE_MAKER_HYPER_POD_SERVICE_ROLE_POLICY` <a name="AMAZON_SAGE_MAKER_HYPER_POD_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_HYPER_POD_SERVICE_ROLE_POLICY"></a>
 
 ---
 
