@@ -1226,4 +1226,5 @@ export enum AWSManagedPolicies {
   'AMAZON_WORK_SPACES_THIN_CLIENT_FULL_ACCESS' = 'AmazonWorkSpacesThinClientFullAccess',
   'AWSCOMPROMISED_KEY_QUARANTINE_V3' = 'AWSCompromisedKeyQuarantineV3',
   'AWSPCSSERVICE_ROLE_POLICY' = 'aws-service-role/AWSPCSServiceRolePolicy',
+  'AMAZON_SAGE_MAKER_HYPER_POD_SERVICE_ROLE_POLICY' = 'aws-service-role/AmazonSageMakerHyperPodServiceRolePolicy',
 };
