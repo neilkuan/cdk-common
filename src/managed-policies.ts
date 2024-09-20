@@ -1227,4 +1227,6 @@ export enum AWSManagedPolicies {
   'AWSCOMPROMISED_KEY_QUARANTINE_V3' = 'AWSCompromisedKeyQuarantineV3',
   'AWSPCSSERVICE_ROLE_POLICY' = 'aws-service-role/AWSPCSServiceRolePolicy',
   'AMAZON_SAGE_MAKER_HYPER_POD_SERVICE_ROLE_POLICY' = 'aws-service-role/AmazonSageMakerHyperPodServiceRolePolicy',
+  'AWSDIRECTORY_SERVICE_DATA_FULL_ACCESS' = 'AWSDirectoryServiceDataFullAccess',
+  'AWSDIRECTORY_SERVICE_DATA_READ_ONLY_ACCESS' = 'AWSDirectoryServiceDataReadOnlyAccess',
 };
