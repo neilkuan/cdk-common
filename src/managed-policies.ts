@@ -1229,4 +1229,5 @@ export enum AWSManagedPolicies {
   'AMAZON_SAGE_MAKER_HYPER_POD_SERVICE_ROLE_POLICY' = 'aws-service-role/AmazonSageMakerHyperPodServiceRolePolicy',
   'AWSDIRECTORY_SERVICE_DATA_FULL_ACCESS' = 'AWSDirectoryServiceDataFullAccess',
   'AWSDIRECTORY_SERVICE_DATA_READ_ONLY_ACCESS' = 'AWSDirectoryServiceDataReadOnlyAccess',
+  'QAPPS_SERVICE_ROLE_POLICY' = 'aws-service-role/QAppsServiceRolePolicy',
 };
