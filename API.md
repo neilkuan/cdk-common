@@ -2024,6 +2024,7 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_HYPER_POD_SERVICE_ROLE_POLICY">AMAZON_SAGE_MAKER_HYPER_POD_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSDIRECTORY_SERVICE_DATA_FULL_ACCESS">AWSDIRECTORY_SERVICE_DATA_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSDIRECTORY_SERVICE_DATA_READ_ONLY_ACCESS">AWSDIRECTORY_SERVICE_DATA_READ_ONLY_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.QAPPS_SERVICE_ROLE_POLICY">QAPPS_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -8168,6 +8169,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 ##### `AWSDIRECTORY_SERVICE_DATA_READ_ONLY_ACCESS` <a name="AWSDIRECTORY_SERVICE_DATA_READ_ONLY_ACCESS" id="cdk-common.AWSManagedPolicies.AWSDIRECTORY_SERVICE_DATA_READ_ONLY_ACCESS"></a>
+
+---
+
+
+##### `QAPPS_SERVICE_ROLE_POLICY` <a name="QAPPS_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.QAPPS_SERVICE_ROLE_POLICY"></a>
 
 ---
 
