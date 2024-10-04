@@ -2143,6 +2143,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSDIRECTORY_SERVICE_DATA_FULL_ACCESS">AWSDIRECTORY_SERVICE_DATA_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSDIRECTORY_SERVICE_DATA_READ_ONLY_ACCESS">AWSDIRECTORY_SERVICE_DATA_READ_ONLY_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.QAPPS_SERVICE_ROLE_POLICY">QAPPS_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EKS_WORKER_NODE_MINIMAL_POLICY">AMAZON_EKS_WORKER_NODE_MINIMAL_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -8292,6 +8293,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `QAPPS_SERVICE_ROLE_POLICY` <a name="QAPPS_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.QAPPS_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `AMAZON_EKS_WORKER_NODE_MINIMAL_POLICY` <a name="AMAZON_EKS_WORKER_NODE_MINIMAL_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_EKS_WORKER_NODE_MINIMAL_POLICY"></a>
 
 ---
 
