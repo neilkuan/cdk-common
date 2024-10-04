@@ -1230,4 +1230,5 @@ export enum AWSManagedPolicies {
   'AWSDIRECTORY_SERVICE_DATA_FULL_ACCESS' = 'AWSDirectoryServiceDataFullAccess',
   'AWSDIRECTORY_SERVICE_DATA_READ_ONLY_ACCESS' = 'AWSDirectoryServiceDataReadOnlyAccess',
   'QAPPS_SERVICE_ROLE_POLICY' = 'aws-service-role/QAppsServiceRolePolicy',
+  'AMAZON_EKS_WORKER_NODE_MINIMAL_POLICY' = 'AmazonEKSWorkerNodeMinimalPolicy',
 };
