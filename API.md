@@ -2026,6 +2026,7 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSDIRECTORY_SERVICE_DATA_READ_ONLY_ACCESS">AWSDIRECTORY_SERVICE_DATA_READ_ONLY_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.QAPPS_SERVICE_ROLE_POLICY">QAPPS_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EKS_WORKER_NODE_MINIMAL_POLICY">AMAZON_EKS_WORKER_NODE_MINIMAL_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSSERVICE_ROLE_FOR_PROCUREMENT_INSIGHTS_POLICY">AWSSERVICE_ROLE_FOR_PROCUREMENT_INSIGHTS_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -8180,6 +8181,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 ##### `AMAZON_EKS_WORKER_NODE_MINIMAL_POLICY` <a name="AMAZON_EKS_WORKER_NODE_MINIMAL_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_EKS_WORKER_NODE_MINIMAL_POLICY"></a>
+
+---
+
+
+##### `AWSSERVICE_ROLE_FOR_PROCUREMENT_INSIGHTS_POLICY` <a name="AWSSERVICE_ROLE_FOR_PROCUREMENT_INSIGHTS_POLICY" id="cdk-common.AWSManagedPolicies.AWSSERVICE_ROLE_FOR_PROCUREMENT_INSIGHTS_POLICY"></a>
 
 ---
 
