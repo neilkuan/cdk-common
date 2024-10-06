@@ -1232,4 +1232,5 @@ export enum AWSManagedPolicies {
   'QAPPS_SERVICE_ROLE_POLICY' = 'aws-service-role/QAppsServiceRolePolicy',
   'AMAZON_EKS_WORKER_NODE_MINIMAL_POLICY' = 'AmazonEKSWorkerNodeMinimalPolicy',
   'AWSSERVICE_ROLE_FOR_PROCUREMENT_INSIGHTS_POLICY' = 'aws-service-role/AWSServiceRoleForProcurementInsightsPolicy',
+  'AMAZON_E_C2_CONTAINER_REGISTRY_PULL_ONLY' = 'AmazonEC2ContainerRegistryPullOnly',
 };
