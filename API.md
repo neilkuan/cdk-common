@@ -2145,6 +2145,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.QAPPS_SERVICE_ROLE_POLICY">QAPPS_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EKS_WORKER_NODE_MINIMAL_POLICY">AMAZON_EKS_WORKER_NODE_MINIMAL_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSSERVICE_ROLE_FOR_PROCUREMENT_INSIGHTS_POLICY">AWSSERVICE_ROLE_FOR_PROCUREMENT_INSIGHTS_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_E_C2_CONTAINER_REGISTRY_PULL_ONLY">AMAZON_E_C2_CONTAINER_REGISTRY_PULL_ONLY</a></code> | *No description.* |
 
 ---
 
@@ -8304,6 +8305,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSSERVICE_ROLE_FOR_PROCUREMENT_INSIGHTS_POLICY` <a name="AWSSERVICE_ROLE_FOR_PROCUREMENT_INSIGHTS_POLICY" id="cdk-common.AWSManagedPolicies.AWSSERVICE_ROLE_FOR_PROCUREMENT_INSIGHTS_POLICY"></a>
+
+---
+
+
+##### `AMAZON_E_C2_CONTAINER_REGISTRY_PULL_ONLY` <a name="AMAZON_E_C2_CONTAINER_REGISTRY_PULL_ONLY" id="cdk-common.AWSManagedPolicies.AMAZON_E_C2_CONTAINER_REGISTRY_PULL_ONLY"></a>
 
 ---
 
