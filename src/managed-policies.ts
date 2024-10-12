@@ -1234,4 +1234,7 @@ export enum AWSManagedPolicies {
   'AWSSERVICE_ROLE_FOR_PROCUREMENT_INSIGHTS_POLICY' = 'aws-service-role/AWSServiceRoleForProcurementInsightsPolicy',
   'AMAZON_E_C2_CONTAINER_REGISTRY_PULL_ONLY' = 'AmazonEC2ContainerRegistryPullOnly',
   'AWSDATA_SYNC_SERVICE_ROLE_POLICY' = 'aws-service-role/AWSDataSyncServiceRolePolicy',
+  'AWSDATA_EXCHANGE_SERVICE_ROLE_POLICY_FOR_ORGANIZATION_DISCOVERY' = 'aws-service-role/AWSDataExchangeServiceRolePolicyForOrganizationDiscovery',
+  'AWSDATA_EXCHANGE_SERVICE_ROLE_POLICY_FOR_LICENSE_MANAGEMENT' = 'aws-service-role/AWSDataExchangeServiceRolePolicyForLicenseManagement',
+  'AWSSOCIAL_MESSAGING_SERVICE_ROLE_POLICY' = 'aws-service-role/AWSSocialMessagingServiceRolePolicy',
 };
