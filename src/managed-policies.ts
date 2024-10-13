@@ -1237,4 +1237,7 @@ export enum AWSManagedPolicies {
   'AWSDATA_EXCHANGE_SERVICE_ROLE_POLICY_FOR_ORGANIZATION_DISCOVERY' = 'aws-service-role/AWSDataExchangeServiceRolePolicyForOrganizationDiscovery',
   'AWSDATA_EXCHANGE_SERVICE_ROLE_POLICY_FOR_LICENSE_MANAGEMENT' = 'aws-service-role/AWSDataExchangeServiceRolePolicyForLicenseManagement',
   'AWSSOCIAL_MESSAGING_SERVICE_ROLE_POLICY' = 'aws-service-role/AWSSocialMessagingServiceRolePolicy',
+  'RESOURCE_GROUPS_TAGGING_API_TAG_UNTAG_SUPPORTED_RESOURCES' = 'ResourceGroupsTaggingAPITagUntagSupportedResources',
+  'AMAZON_VERIFIED_PERMISSIONS_FULL_ACCESS' = 'AmazonVerifiedPermissionsFullAccess',
+  'AMAZON_VERIFIED_PERMISSIONS_READ_ONLY_ACCESS' = 'AmazonVerifiedPermissionsReadOnlyAccess',
 };
