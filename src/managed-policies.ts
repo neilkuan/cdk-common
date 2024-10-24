@@ -1241,4 +1241,5 @@ export enum AWSManagedPolicies {
   'AMAZON_VERIFIED_PERMISSIONS_FULL_ACCESS' = 'AmazonVerifiedPermissionsFullAccess',
   'AMAZON_VERIFIED_PERMISSIONS_READ_ONLY_ACCESS' = 'AmazonVerifiedPermissionsReadOnlyAccess',
   'CLOUD_WATCH_LAMBDA_APPLICATION_SIGNALS_EXECUTION_ROLE_POLICY' = 'CloudWatchLambdaApplicationSignalsExecutionRolePolicy',
+  'CLOUD_WATCH_INTERNET_MONITOR_FULL_ACCESS' = 'CloudWatchInternetMonitorFullAccess',
 };
