@@ -2154,6 +2154,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_VERIFIED_PERMISSIONS_FULL_ACCESS">AMAZON_VERIFIED_PERMISSIONS_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_VERIFIED_PERMISSIONS_READ_ONLY_ACCESS">AMAZON_VERIFIED_PERMISSIONS_READ_ONLY_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.CLOUD_WATCH_LAMBDA_APPLICATION_SIGNALS_EXECUTION_ROLE_POLICY">CLOUD_WATCH_LAMBDA_APPLICATION_SIGNALS_EXECUTION_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.CLOUD_WATCH_INTERNET_MONITOR_FULL_ACCESS">CLOUD_WATCH_INTERNET_MONITOR_FULL_ACCESS</a></code> | *No description.* |
 
 ---
 
@@ -8358,6 +8359,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `CLOUD_WATCH_LAMBDA_APPLICATION_SIGNALS_EXECUTION_ROLE_POLICY` <a name="CLOUD_WATCH_LAMBDA_APPLICATION_SIGNALS_EXECUTION_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.CLOUD_WATCH_LAMBDA_APPLICATION_SIGNALS_EXECUTION_ROLE_POLICY"></a>
+
+---
+
+
+##### `CLOUD_WATCH_INTERNET_MONITOR_FULL_ACCESS` <a name="CLOUD_WATCH_INTERNET_MONITOR_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.CLOUD_WATCH_INTERNET_MONITOR_FULL_ACCESS"></a>
 
 ---
 
