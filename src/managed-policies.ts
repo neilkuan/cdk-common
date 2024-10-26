@@ -1242,4 +1242,7 @@ export enum AWSManagedPolicies {
   'AMAZON_VERIFIED_PERMISSIONS_READ_ONLY_ACCESS' = 'AmazonVerifiedPermissionsReadOnlyAccess',
   'CLOUD_WATCH_LAMBDA_APPLICATION_SIGNALS_EXECUTION_ROLE_POLICY' = 'CloudWatchLambdaApplicationSignalsExecutionRolePolicy',
   'CLOUD_WATCH_INTERNET_MONITOR_FULL_ACCESS' = 'CloudWatchInternetMonitorFullAccess',
+  'AWSDATA_EXCHANGE_DATA_GRANT_OWNER_FULL_ACCESS' = 'AWSDataExchangeDataGrantOwnerFullAccess',
+  'AWSDATA_EXCHANGE_DATA_GRANT_RECEIVER_FULL_ACCESS' = 'AWSDataExchangeDataGrantReceiverFullAccess',
+  'AWSCLOUD_FRONT_VPC_ORIGIN_SERVICE_ROLE_POLICY' = 'aws-service-role/AWSCloudFrontVPCOriginServiceRolePolicy',
 };
