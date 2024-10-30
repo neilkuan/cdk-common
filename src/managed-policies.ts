@@ -1245,4 +1245,5 @@ export enum AWSManagedPolicies {
   'AWSDATA_EXCHANGE_DATA_GRANT_OWNER_FULL_ACCESS' = 'AWSDataExchangeDataGrantOwnerFullAccess',
   'AWSDATA_EXCHANGE_DATA_GRANT_RECEIVER_FULL_ACCESS' = 'AWSDataExchangeDataGrantReceiverFullAccess',
   'AWSCLOUD_FRONT_VPC_ORIGIN_SERVICE_ROLE_POLICY' = 'aws-service-role/AWSCloudFrontVPCOriginServiceRolePolicy',
+  'AMAZON_EKS_NETWORKING_POLICY' = 'AmazonEKSNetworkingPolicy',
 };

@@ -2158,6 +2158,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSDATA_EXCHANGE_DATA_GRANT_OWNER_FULL_ACCESS">AWSDATA_EXCHANGE_DATA_GRANT_OWNER_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSDATA_EXCHANGE_DATA_GRANT_RECEIVER_FULL_ACCESS">AWSDATA_EXCHANGE_DATA_GRANT_RECEIVER_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSCLOUD_FRONT_VPC_ORIGIN_SERVICE_ROLE_POLICY">AWSCLOUD_FRONT_VPC_ORIGIN_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EKS_NETWORKING_POLICY">AMAZON_EKS_NETWORKING_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -8382,6 +8383,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSCLOUD_FRONT_VPC_ORIGIN_SERVICE_ROLE_POLICY` <a name="AWSCLOUD_FRONT_VPC_ORIGIN_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSCLOUD_FRONT_VPC_ORIGIN_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `AMAZON_EKS_NETWORKING_POLICY` <a name="AMAZON_EKS_NETWORKING_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_EKS_NETWORKING_POLICY"></a>
 
 ---
 
