@@ -2161,6 +2161,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EKS_NETWORKING_POLICY">AMAZON_EKS_NETWORKING_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EKS_LOAD_BALANCING_POLICY">AMAZON_EKS_LOAD_BALANCING_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EKS_BLOCK_STORAGE_POLICY">AMAZON_EKS_BLOCK_STORAGE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EKS_COMPUTE_POLICY">AMAZON_EKS_COMPUTE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -8400,6 +8401,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AMAZON_EKS_BLOCK_STORAGE_POLICY` <a name="AMAZON_EKS_BLOCK_STORAGE_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_EKS_BLOCK_STORAGE_POLICY"></a>
+
+---
+
+
+##### `AMAZON_EKS_COMPUTE_POLICY` <a name="AMAZON_EKS_COMPUTE_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_EKS_COMPUTE_POLICY"></a>
 
 ---
 
