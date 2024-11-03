@@ -1248,4 +1248,5 @@ export enum AWSManagedPolicies {
   'AMAZON_EKS_NETWORKING_POLICY' = 'AmazonEKSNetworkingPolicy',
   'AMAZON_EKS_LOAD_BALANCING_POLICY' = 'AmazonEKSLoadBalancingPolicy',
   'AMAZON_EKS_BLOCK_STORAGE_POLICY' = 'AmazonEKSBlockStoragePolicy',
+  'AMAZON_EKS_COMPUTE_POLICY' = 'AmazonEKSComputePolicy',
 };
