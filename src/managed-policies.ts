@@ -1249,4 +1249,8 @@ export enum AWSManagedPolicies {
   'AMAZON_EKS_LOAD_BALANCING_POLICY' = 'AmazonEKSLoadBalancingPolicy',
   'AMAZON_EKS_BLOCK_STORAGE_POLICY' = 'AmazonEKSBlockStoragePolicy',
   'AMAZON_EKS_COMPUTE_POLICY' = 'AmazonEKSComputePolicy',
+  'GAME_LIFT_CONTAINER_FLEET_POLICY' = 'GameLiftContainerFleetPolicy',
+  'AMAZON_DATA_ZONE_BEDROCK_MODEL_MANAGEMENT_POLICY' = 'service-role/AmazonDataZoneBedrockModelManagementPolicy',
+  'AMAZON_DATA_ZONE_BEDROCK_MODEL_CONSUMPTION_POLICY' = 'service-role/AmazonDataZoneBedrockModelConsumptionPolicy',
+  'CLOUD_WATCH_INTERNET_MONITOR_READ_ONLY_ACCESS' = 'CloudWatchInternetMonitorReadOnlyAccess',
 };
