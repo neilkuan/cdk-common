@@ -2044,6 +2044,10 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EKS_LOAD_BALANCING_POLICY">AMAZON_EKS_LOAD_BALANCING_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EKS_BLOCK_STORAGE_POLICY">AMAZON_EKS_BLOCK_STORAGE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EKS_COMPUTE_POLICY">AMAZON_EKS_COMPUTE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.GAME_LIFT_CONTAINER_FLEET_POLICY">GAME_LIFT_CONTAINER_FLEET_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_DATA_ZONE_BEDROCK_MODEL_MANAGEMENT_POLICY">AMAZON_DATA_ZONE_BEDROCK_MODEL_MANAGEMENT_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_DATA_ZONE_BEDROCK_MODEL_CONSUMPTION_POLICY">AMAZON_DATA_ZONE_BEDROCK_MODEL_CONSUMPTION_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.CLOUD_WATCH_INTERNET_MONITOR_READ_ONLY_ACCESS">CLOUD_WATCH_INTERNET_MONITOR_READ_ONLY_ACCESS</a></code> | *No description.* |
 
 ---
 
@@ -8288,6 +8292,26 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 ##### `AMAZON_EKS_COMPUTE_POLICY` <a name="AMAZON_EKS_COMPUTE_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_EKS_COMPUTE_POLICY"></a>
+
+---
+
+
+##### `GAME_LIFT_CONTAINER_FLEET_POLICY` <a name="GAME_LIFT_CONTAINER_FLEET_POLICY" id="cdk-common.AWSManagedPolicies.GAME_LIFT_CONTAINER_FLEET_POLICY"></a>
+
+---
+
+
+##### `AMAZON_DATA_ZONE_BEDROCK_MODEL_MANAGEMENT_POLICY` <a name="AMAZON_DATA_ZONE_BEDROCK_MODEL_MANAGEMENT_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_DATA_ZONE_BEDROCK_MODEL_MANAGEMENT_POLICY"></a>
+
+---
+
+
+##### `AMAZON_DATA_ZONE_BEDROCK_MODEL_CONSUMPTION_POLICY` <a name="AMAZON_DATA_ZONE_BEDROCK_MODEL_CONSUMPTION_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_DATA_ZONE_BEDROCK_MODEL_CONSUMPTION_POLICY"></a>
+
+---
+
+
+##### `CLOUD_WATCH_INTERNET_MONITOR_READ_ONLY_ACCESS` <a name="CLOUD_WATCH_INTERNET_MONITOR_READ_ONLY_ACCESS" id="cdk-common.AWSManagedPolicies.CLOUD_WATCH_INTERNET_MONITOR_READ_ONLY_ACCESS"></a>
 
 ---
 
