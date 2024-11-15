@@ -1253,4 +1253,5 @@ export enum AWSManagedPolicies {
   'AMAZON_DATA_ZONE_BEDROCK_MODEL_MANAGEMENT_POLICY' = 'service-role/AmazonDataZoneBedrockModelManagementPolicy',
   'AMAZON_DATA_ZONE_BEDROCK_MODEL_CONSUMPTION_POLICY' = 'service-role/AmazonDataZoneBedrockModelConsumptionPolicy',
   'CLOUD_WATCH_INTERNET_MONITOR_READ_ONLY_ACCESS' = 'CloudWatchInternetMonitorReadOnlyAccess',
+  'AMAZON_ODB_SERVICE_ROLE_POLICY' = 'aws-service-role/AmazonODBServiceRolePolicy',
 };
