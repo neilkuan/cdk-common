@@ -2049,6 +2049,15 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_DATA_ZONE_BEDROCK_MODEL_CONSUMPTION_POLICY">AMAZON_DATA_ZONE_BEDROCK_MODEL_CONSUMPTION_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.CLOUD_WATCH_INTERNET_MONITOR_READ_ONLY_ACCESS">CLOUD_WATCH_INTERNET_MONITOR_READ_ONLY_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_ODB_SERVICE_ROLE_POLICY">AMAZON_ODB_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.SMSVOICE_SERVICE_ROLE_POLICY">SMSVOICE_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSPARTNER_CENTRAL_OPPORTUNITY_MANAGEMENT">AWSPARTNER_CENTRAL_OPPORTUNITY_MANAGEMENT</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSPARTNER_CENTRAL_SANDBOX_FULL_ACCESS">AWSPARTNER_CENTRAL_SANDBOX_FULL_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.SECURITY_LAKE_RESOURCE_MANAGEMENT_SERVICE_ROLE_POLICY">SECURITY_LAKE_RESOURCE_MANAGEMENT_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.SQSUNLOCK_QUEUE_POLICY">SQSUNLOCK_QUEUE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.S3_UNLOCK_BUCKET_POLICY">S3_UNLOCK_BUCKET_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.IAMAUDIT_ROOT_USER_CREDENTIALS">IAMAUDIT_ROOT_USER_CREDENTIALS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.IAMCREATE_ROOT_USER_PASSWORD">IAMCREATE_ROOT_USER_PASSWORD</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.IAMDELETE_ROOT_USER_CREDENTIALS">IAMDELETE_ROOT_USER_CREDENTIALS</a></code> | *No description.* |
 
 ---
 
@@ -8318,6 +8327,51 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 ##### `AMAZON_ODB_SERVICE_ROLE_POLICY` <a name="AMAZON_ODB_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_ODB_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `SMSVOICE_SERVICE_ROLE_POLICY` <a name="SMSVOICE_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.SMSVOICE_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `AWSPARTNER_CENTRAL_OPPORTUNITY_MANAGEMENT` <a name="AWSPARTNER_CENTRAL_OPPORTUNITY_MANAGEMENT" id="cdk-common.AWSManagedPolicies.AWSPARTNER_CENTRAL_OPPORTUNITY_MANAGEMENT"></a>
+
+---
+
+
+##### `AWSPARTNER_CENTRAL_SANDBOX_FULL_ACCESS` <a name="AWSPARTNER_CENTRAL_SANDBOX_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.AWSPARTNER_CENTRAL_SANDBOX_FULL_ACCESS"></a>
+
+---
+
+
+##### `SECURITY_LAKE_RESOURCE_MANAGEMENT_SERVICE_ROLE_POLICY` <a name="SECURITY_LAKE_RESOURCE_MANAGEMENT_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.SECURITY_LAKE_RESOURCE_MANAGEMENT_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `SQSUNLOCK_QUEUE_POLICY` <a name="SQSUNLOCK_QUEUE_POLICY" id="cdk-common.AWSManagedPolicies.SQSUNLOCK_QUEUE_POLICY"></a>
+
+---
+
+
+##### `S3_UNLOCK_BUCKET_POLICY` <a name="S3_UNLOCK_BUCKET_POLICY" id="cdk-common.AWSManagedPolicies.S3_UNLOCK_BUCKET_POLICY"></a>
+
+---
+
+
+##### `IAMAUDIT_ROOT_USER_CREDENTIALS` <a name="IAMAUDIT_ROOT_USER_CREDENTIALS" id="cdk-common.AWSManagedPolicies.IAMAUDIT_ROOT_USER_CREDENTIALS"></a>
+
+---
+
+
+##### `IAMCREATE_ROOT_USER_PASSWORD` <a name="IAMCREATE_ROOT_USER_PASSWORD" id="cdk-common.AWSManagedPolicies.IAMCREATE_ROOT_USER_PASSWORD"></a>
+
+---
+
+
+##### `IAMDELETE_ROOT_USER_CREDENTIALS` <a name="IAMDELETE_ROOT_USER_CREDENTIALS" id="cdk-common.AWSManagedPolicies.IAMDELETE_ROOT_USER_CREDENTIALS"></a>
 
 ---
 
