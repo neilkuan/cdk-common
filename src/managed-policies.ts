@@ -1254,4 +1254,13 @@ export enum AWSManagedPolicies {
   'AMAZON_DATA_ZONE_BEDROCK_MODEL_CONSUMPTION_POLICY' = 'service-role/AmazonDataZoneBedrockModelConsumptionPolicy',
   'CLOUD_WATCH_INTERNET_MONITOR_READ_ONLY_ACCESS' = 'CloudWatchInternetMonitorReadOnlyAccess',
   'AMAZON_ODB_SERVICE_ROLE_POLICY' = 'aws-service-role/AmazonODBServiceRolePolicy',
+  'SMSVOICE_SERVICE_ROLE_POLICY' = 'aws-service-role/SMSVoiceServiceRolePolicy',
+  'AWSPARTNER_CENTRAL_OPPORTUNITY_MANAGEMENT' = 'AWSPartnerCentralOpportunityManagement',
+  'AWSPARTNER_CENTRAL_SANDBOX_FULL_ACCESS' = 'AWSPartnerCentralSandboxFullAccess',
+  'SECURITY_LAKE_RESOURCE_MANAGEMENT_SERVICE_ROLE_POLICY' = 'aws-service-role/SecurityLakeResourceManagementServiceRolePolicy',
+  'SQSUNLOCK_QUEUE_POLICY' = 'root-task/SQSUnlockQueuePolicy',
+  'S3_UNLOCK_BUCKET_POLICY' = 'root-task/S3UnlockBucketPolicy',
+  'IAMAUDIT_ROOT_USER_CREDENTIALS' = 'root-task/IAMAuditRootUserCredentials',
+  'IAMCREATE_ROOT_USER_PASSWORD' = 'root-task/IAMCreateRootUserPassword',
+  'IAMDELETE_ROOT_USER_CREDENTIALS' = 'root-task/IAMDeleteRootUserCredentials',
 };
