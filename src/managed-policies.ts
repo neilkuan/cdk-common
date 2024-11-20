@@ -1278,4 +1278,6 @@ export enum AWSManagedPolicies {
   'AWS_SSM_REMEDIATIONAUTOMATION_ADMINISTRATIONROLEPOLICY' = 'AWS-SSM-RemediationAutomation-AdministrationRolePolicy',
   'AWS_SSM_REMEDIATIONAUTOMATION_EXECUTIONROLEPOLICY' = 'AWS-SSM-RemediationAutomation-ExecutionRolePolicy',
   'AWS_SSM_REMEDIATIONAUTOMATION_OPERATIONALACCOUNTADMINISTRATIONROLEPOLICY' = 'AWS-SSM-RemediationAutomation-OperationalAccountAdministrationRolePolicy',
+  'AWSPARTNER_CENTRAL_FULL_ACCESS' = 'AWSPartnerCentralFullAccess',
+  'AWSMARKETPLACE_SELLER_OFFER_MANAGEMENT' = 'AWSMarketplaceSellerOfferManagement',
 };
