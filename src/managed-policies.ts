@@ -665,7 +665,6 @@ export enum AWSManagedPolicies {
   'AMAZON_BRAKET_FULL_ACCESS' = 'AmazonBraketFullAccess',
   'AWSLAMBDA_MSK_EXECUTION_ROLE' = 'service-role/AWSLambdaMSKExecutionRole',
   'AWSCOMPROMISED_KEY_QUARANTINE' = 'AWSCompromisedKeyQuarantine',
-  'SERVERMIGRATION_SERVICEROLE' = 'service-role/ServerMigration_ServiceRole',
   'AMAZON_EKSVPC_RESOURCE_CONTROLLER' = 'AmazonEKSVPCResourceController',
   'ROUTE53_RESOLVER_SERVICE_ROLE_POLICY' = 'aws-service-role/Route53ResolverServiceRolePolicy',
   'CLIENT_VPN_SERVICE_CONNECTIONS_ROLE_POLICY' = 'aws-service-role/ClientVPNServiceConnectionsRolePolicy',
@@ -1280,4 +1279,10 @@ export enum AWSManagedPolicies {
   'AWS_SSM_REMEDIATIONAUTOMATION_OPERATIONALACCOUNTADMINISTRATIONROLEPOLICY' = 'AWS-SSM-RemediationAutomation-OperationalAccountAdministrationRolePolicy',
   'AWSPARTNER_CENTRAL_FULL_ACCESS' = 'AWSPartnerCentralFullAccess',
   'AWSMARKETPLACE_SELLER_OFFER_MANAGEMENT' = 'AWSMarketplaceSellerOfferManagement',
+  'SAGE_MAKER_STUDIO_PROJECT_ROLE_MACHINE_LEARNING_POLICY' = 'SageMakerStudioProjectRoleMachineLearningPolicy',
+  'SAGE_MAKER_STUDIO_DOMAIN_SERVICE_ROLE_POLICY' = 'service-role/SageMakerStudioDomainServiceRolePolicy',
+  'SAGE_MAKER_STUDIO_DOMAIN_EXECUTION_ROLE_POLICY' = 'service-role/SageMakerStudioDomainExecutionRolePolicy',
+  'SAGE_MAKER_STUDIO_PROJECT_USER_ROLE_PERMISSIONS_BOUNDARY' = 'SageMakerStudioProjectUserRolePermissionsBoundary',
+  'SAGE_MAKER_STUDIO_PROJECT_PROVISIONING_ROLE_POLICY' = 'service-role/SageMakerStudioProjectProvisioningRolePolicy',
+  'SAGE_MAKER_STUDIO_PROJECT_USER_ROLE_POLICY' = 'SageMakerStudioProjectUserRolePolicy',
 };
