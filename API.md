@@ -1578,7 +1578,6 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_BRAKET_FULL_ACCESS">AMAZON_BRAKET_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSLAMBDA_MSK_EXECUTION_ROLE">AWSLAMBDA_MSK_EXECUTION_ROLE</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSCOMPROMISED_KEY_QUARANTINE">AWSCOMPROMISED_KEY_QUARANTINE</a></code> | *No description.* |
-| <code><a href="#cdk-common.AWSManagedPolicies.SERVERMIGRATION_SERVICEROLE">SERVERMIGRATION_SERVICEROLE</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EKSVPC_RESOURCE_CONTROLLER">AMAZON_EKSVPC_RESOURCE_CONTROLLER</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.ROUTE53_RESOLVER_SERVICE_ROLE_POLICY">ROUTE53_RESOLVER_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.CLIENT_VPN_SERVICE_CONNECTIONS_ROLE_POLICY">CLIENT_VPN_SERVICE_CONNECTIONS_ROLE_POLICY</a></code> | *No description.* |
@@ -2193,6 +2192,12 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWS_SSM_REMEDIATIONAUTOMATION_OPERATIONALACCOUNTADMINISTRATIONROLEPOLICY">AWS_SSM_REMEDIATIONAUTOMATION_OPERATIONALACCOUNTADMINISTRATIONROLEPOLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSPARTNER_CENTRAL_FULL_ACCESS">AWSPARTNER_CENTRAL_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSMARKETPLACE_SELLER_OFFER_MANAGEMENT">AWSMARKETPLACE_SELLER_OFFER_MANAGEMENT</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_PROJECT_ROLE_MACHINE_LEARNING_POLICY">SAGE_MAKER_STUDIO_PROJECT_ROLE_MACHINE_LEARNING_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_DOMAIN_SERVICE_ROLE_POLICY">SAGE_MAKER_STUDIO_DOMAIN_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_DOMAIN_EXECUTION_ROLE_POLICY">SAGE_MAKER_STUDIO_DOMAIN_EXECUTION_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_PROJECT_USER_ROLE_PERMISSIONS_BOUNDARY">SAGE_MAKER_STUDIO_PROJECT_USER_ROLE_PERMISSIONS_BOUNDARY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_PROJECT_PROVISIONING_ROLE_POLICY">SAGE_MAKER_STUDIO_PROJECT_PROVISIONING_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_PROJECT_USER_ROLE_POLICY">SAGE_MAKER_STUDIO_PROJECT_USER_ROLE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -5521,11 +5526,6 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 ---
 
 
-##### `SERVERMIGRATION_SERVICEROLE` <a name="SERVERMIGRATION_SERVICEROLE" id="cdk-common.AWSManagedPolicies.SERVERMIGRATION_SERVICEROLE"></a>
-
----
-
-
 ##### `AMAZON_EKSVPC_RESOURCE_CONTROLLER` <a name="AMAZON_EKSVPC_RESOURCE_CONTROLLER" id="cdk-common.AWSManagedPolicies.AMAZON_EKSVPC_RESOURCE_CONTROLLER"></a>
 
 ---
@@ -8592,6 +8592,36 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSMARKETPLACE_SELLER_OFFER_MANAGEMENT` <a name="AWSMARKETPLACE_SELLER_OFFER_MANAGEMENT" id="cdk-common.AWSManagedPolicies.AWSMARKETPLACE_SELLER_OFFER_MANAGEMENT"></a>
+
+---
+
+
+##### `SAGE_MAKER_STUDIO_PROJECT_ROLE_MACHINE_LEARNING_POLICY` <a name="SAGE_MAKER_STUDIO_PROJECT_ROLE_MACHINE_LEARNING_POLICY" id="cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_PROJECT_ROLE_MACHINE_LEARNING_POLICY"></a>
+
+---
+
+
+##### `SAGE_MAKER_STUDIO_DOMAIN_SERVICE_ROLE_POLICY` <a name="SAGE_MAKER_STUDIO_DOMAIN_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_DOMAIN_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `SAGE_MAKER_STUDIO_DOMAIN_EXECUTION_ROLE_POLICY` <a name="SAGE_MAKER_STUDIO_DOMAIN_EXECUTION_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_DOMAIN_EXECUTION_ROLE_POLICY"></a>
+
+---
+
+
+##### `SAGE_MAKER_STUDIO_PROJECT_USER_ROLE_PERMISSIONS_BOUNDARY` <a name="SAGE_MAKER_STUDIO_PROJECT_USER_ROLE_PERMISSIONS_BOUNDARY" id="cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_PROJECT_USER_ROLE_PERMISSIONS_BOUNDARY"></a>
+
+---
+
+
+##### `SAGE_MAKER_STUDIO_PROJECT_PROVISIONING_ROLE_POLICY` <a name="SAGE_MAKER_STUDIO_PROJECT_PROVISIONING_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_PROJECT_PROVISIONING_ROLE_POLICY"></a>
+
+---
+
+
+##### `SAGE_MAKER_STUDIO_PROJECT_USER_ROLE_POLICY` <a name="SAGE_MAKER_STUDIO_PROJECT_USER_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_PROJECT_USER_ROLE_POLICY"></a>
 
 ---
 
