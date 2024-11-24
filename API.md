@@ -2080,6 +2080,9 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_PROJECT_USER_ROLE_PERMISSIONS_BOUNDARY">SAGE_MAKER_STUDIO_PROJECT_USER_ROLE_PERMISSIONS_BOUNDARY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_PROJECT_PROVISIONING_ROLE_POLICY">SAGE_MAKER_STUDIO_PROJECT_PROVISIONING_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_PROJECT_USER_ROLE_POLICY">SAGE_MAKER_STUDIO_PROJECT_USER_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSARTIFACT_AGREEMENTS_FULL_ACCESS">AWSARTIFACT_AGREEMENTS_FULL_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSARTIFACT_AGREEMENTS_READ_ONLY_ACCESS">AWSARTIFACT_AGREEMENTS_READ_ONLY_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSPARTNER_LED_SUPPORT_READ_ONLY_ACCESS">AWSPARTNER_LED_SUPPORT_READ_ONLY_ACCESS</a></code> | *No description.* |
 
 ---
 
@@ -8504,6 +8507,21 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 ##### `SAGE_MAKER_STUDIO_PROJECT_USER_ROLE_POLICY` <a name="SAGE_MAKER_STUDIO_PROJECT_USER_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_PROJECT_USER_ROLE_POLICY"></a>
+
+---
+
+
+##### `AWSARTIFACT_AGREEMENTS_FULL_ACCESS` <a name="AWSARTIFACT_AGREEMENTS_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.AWSARTIFACT_AGREEMENTS_FULL_ACCESS"></a>
+
+---
+
+
+##### `AWSARTIFACT_AGREEMENTS_READ_ONLY_ACCESS` <a name="AWSARTIFACT_AGREEMENTS_READ_ONLY_ACCESS" id="cdk-common.AWSManagedPolicies.AWSARTIFACT_AGREEMENTS_READ_ONLY_ACCESS"></a>
+
+---
+
+
+##### `AWSPARTNER_LED_SUPPORT_READ_ONLY_ACCESS` <a name="AWSPARTNER_LED_SUPPORT_READ_ONLY_ACCESS" id="cdk-common.AWSManagedPolicies.AWSPARTNER_LED_SUPPORT_READ_ONLY_ACCESS"></a>
 
 ---
 
