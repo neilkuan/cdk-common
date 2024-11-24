@@ -1285,4 +1285,7 @@ export enum AWSManagedPolicies {
   'SAGE_MAKER_STUDIO_PROJECT_USER_ROLE_PERMISSIONS_BOUNDARY' = 'SageMakerStudioProjectUserRolePermissionsBoundary',
   'SAGE_MAKER_STUDIO_PROJECT_PROVISIONING_ROLE_POLICY' = 'service-role/SageMakerStudioProjectProvisioningRolePolicy',
   'SAGE_MAKER_STUDIO_PROJECT_USER_ROLE_POLICY' = 'SageMakerStudioProjectUserRolePolicy',
+  'AWSARTIFACT_AGREEMENTS_FULL_ACCESS' = 'AWSArtifactAgreementsFullAccess',
+  'AWSARTIFACT_AGREEMENTS_READ_ONLY_ACCESS' = 'AWSArtifactAgreementsReadOnlyAccess',
+  'AWSPARTNER_LED_SUPPORT_READ_ONLY_ACCESS' = 'AWSPartnerLedSupportReadOnlyAccess',
 };
