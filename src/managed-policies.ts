@@ -1290,4 +1290,5 @@ export enum AWSManagedPolicies {
   'AWSPARTNER_LED_SUPPORT_READ_ONLY_ACCESS' = 'AWSPartnerLedSupportReadOnlyAccess',
   'AWSOBSERVABILITY_ADMIN_SERVICE_ROLE_POLICY' = 'aws-service-role/AWSObservabilityAdminServiceRolePolicy',
   'SAGE_MAKER_STUDIO_FULL_ACCESS' = 'SageMakerStudioFullAccess',
+  'DECLARATIVE_POLICIES_E_C2_REPORT' = 'aws-service-role/DeclarativePoliciesEC2Report',
 };

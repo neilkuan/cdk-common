@@ -2203,6 +2203,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSPARTNER_LED_SUPPORT_READ_ONLY_ACCESS">AWSPARTNER_LED_SUPPORT_READ_ONLY_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSOBSERVABILITY_ADMIN_SERVICE_ROLE_POLICY">AWSOBSERVABILITY_ADMIN_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_FULL_ACCESS">SAGE_MAKER_STUDIO_FULL_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.DECLARATIVE_POLICIES_E_C2_REPORT">DECLARATIVE_POLICIES_E_C2_REPORT</a></code> | *No description.* |
 
 ---
 
@@ -8652,6 +8653,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `SAGE_MAKER_STUDIO_FULL_ACCESS` <a name="SAGE_MAKER_STUDIO_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_FULL_ACCESS"></a>
+
+---
+
+
+##### `DECLARATIVE_POLICIES_E_C2_REPORT` <a name="DECLARATIVE_POLICIES_E_C2_REPORT" id="cdk-common.AWSManagedPolicies.DECLARATIVE_POLICIES_E_C2_REPORT"></a>
 
 ---
 
