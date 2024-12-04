@@ -2096,6 +2096,10 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSSECURITY_INCIDENT_RESPONSE_READ_ONLY_ACCESS">AWSSECURITY_INCIDENT_RESPONSE_READ_ONLY_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSSECURITY_INCIDENT_RESPONSE_CASE_FULL_ACCESS">AWSSECURITY_INCIDENT_RESPONSE_CASE_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSSECURITY_INCIDENT_RESPONSE_FULL_ACCESS">AWSSECURITY_INCIDENT_RESPONSE_FULL_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AIOPS_ASSISTANT_POLICY">AIOPS_ASSISTANT_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AIOPS_CONSOLE_ADMIN_POLICY">AIOPS_CONSOLE_ADMIN_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AIOPS_READ_ONLY_ACCESS">AIOPS_READ_ONLY_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AIOPS_OPERATOR_ACCESS">AIOPS_OPERATOR_ACCESS</a></code> | *No description.* |
 
 ---
 
@@ -8600,6 +8604,26 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 ##### `AWSSECURITY_INCIDENT_RESPONSE_FULL_ACCESS` <a name="AWSSECURITY_INCIDENT_RESPONSE_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.AWSSECURITY_INCIDENT_RESPONSE_FULL_ACCESS"></a>
+
+---
+
+
+##### `AIOPS_ASSISTANT_POLICY` <a name="AIOPS_ASSISTANT_POLICY" id="cdk-common.AWSManagedPolicies.AIOPS_ASSISTANT_POLICY"></a>
+
+---
+
+
+##### `AIOPS_CONSOLE_ADMIN_POLICY` <a name="AIOPS_CONSOLE_ADMIN_POLICY" id="cdk-common.AWSManagedPolicies.AIOPS_CONSOLE_ADMIN_POLICY"></a>
+
+---
+
+
+##### `AIOPS_READ_ONLY_ACCESS` <a name="AIOPS_READ_ONLY_ACCESS" id="cdk-common.AWSManagedPolicies.AIOPS_READ_ONLY_ACCESS"></a>
+
+---
+
+
+##### `AIOPS_OPERATOR_ACCESS` <a name="AIOPS_OPERATOR_ACCESS" id="cdk-common.AWSManagedPolicies.AIOPS_OPERATOR_ACCESS"></a>
 
 ---
 
