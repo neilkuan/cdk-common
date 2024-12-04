@@ -1301,4 +1301,8 @@ export enum AWSManagedPolicies {
   'AWSSECURITY_INCIDENT_RESPONSE_READ_ONLY_ACCESS' = 'AWSSecurityIncidentResponseReadOnlyAccess',
   'AWSSECURITY_INCIDENT_RESPONSE_CASE_FULL_ACCESS' = 'AWSSecurityIncidentResponseCaseFullAccess',
   'AWSSECURITY_INCIDENT_RESPONSE_FULL_ACCESS' = 'AWSSecurityIncidentResponseFullAccess',
+  'AIOPS_ASSISTANT_POLICY' = 'AIOpsAssistantPolicy',
+  'AIOPS_CONSOLE_ADMIN_POLICY' = 'AIOpsConsoleAdminPolicy',
+  'AIOPS_READ_ONLY_ACCESS' = 'AIOpsReadOnlyAccess',
+  'AIOPS_OPERATOR_ACCESS' = 'AIOpsOperatorAccess',
 };
