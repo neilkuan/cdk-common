@@ -1305,4 +1305,11 @@ export enum AWSManagedPolicies {
   'AIOPS_CONSOLE_ADMIN_POLICY' = 'AIOpsConsoleAdminPolicy',
   'AIOPS_READ_ONLY_ACCESS' = 'AIOpsReadOnlyAccess',
   'AIOPS_OPERATOR_ACCESS' = 'AIOpsOperatorAccess',
+  'AURORA_DSQL_SERVICE_LINKED_ROLE_POLICY' = 'aws-service-role/AuroraDsqlServiceLinkedRolePolicy',
+  'AMAZON_S3_TABLES_READ_ONLY_ACCESS' = 'AmazonS3TablesReadOnlyAccess',
+  'AMAZON_AURORA_DSQL_READ_ONLY_ACCESS' = 'AmazonAuroraDSQLReadOnlyAccess',
+  'AMAZON_S3_TABLES_FULL_ACCESS' = 'AmazonS3TablesFullAccess',
+  'QBUSINESS_QUICKSIGHT_PLUGIN_POLICY' = 'QBusinessQuicksightPluginPolicy',
+  'AMAZON_AURORA_DSQL_CONSOLE_FULL_ACCESS' = 'AmazonAuroraDSQLConsoleFullAccess',
+  'AMAZON_AURORA_DSQL_FULL_ACCESS' = 'AmazonAuroraDSQLFullAccess',
 };
