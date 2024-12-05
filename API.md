@@ -2100,6 +2100,13 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AIOPS_CONSOLE_ADMIN_POLICY">AIOPS_CONSOLE_ADMIN_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AIOPS_READ_ONLY_ACCESS">AIOPS_READ_ONLY_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AIOPS_OPERATOR_ACCESS">AIOPS_OPERATOR_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AURORA_DSQL_SERVICE_LINKED_ROLE_POLICY">AURORA_DSQL_SERVICE_LINKED_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_S3_TABLES_READ_ONLY_ACCESS">AMAZON_S3_TABLES_READ_ONLY_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_AURORA_DSQL_READ_ONLY_ACCESS">AMAZON_AURORA_DSQL_READ_ONLY_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_S3_TABLES_FULL_ACCESS">AMAZON_S3_TABLES_FULL_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.QBUSINESS_QUICKSIGHT_PLUGIN_POLICY">QBUSINESS_QUICKSIGHT_PLUGIN_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_AURORA_DSQL_CONSOLE_FULL_ACCESS">AMAZON_AURORA_DSQL_CONSOLE_FULL_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_AURORA_DSQL_FULL_ACCESS">AMAZON_AURORA_DSQL_FULL_ACCESS</a></code> | *No description.* |
 
 ---
 
@@ -8624,6 +8631,41 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 ##### `AIOPS_OPERATOR_ACCESS` <a name="AIOPS_OPERATOR_ACCESS" id="cdk-common.AWSManagedPolicies.AIOPS_OPERATOR_ACCESS"></a>
+
+---
+
+
+##### `AURORA_DSQL_SERVICE_LINKED_ROLE_POLICY` <a name="AURORA_DSQL_SERVICE_LINKED_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AURORA_DSQL_SERVICE_LINKED_ROLE_POLICY"></a>
+
+---
+
+
+##### `AMAZON_S3_TABLES_READ_ONLY_ACCESS` <a name="AMAZON_S3_TABLES_READ_ONLY_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_S3_TABLES_READ_ONLY_ACCESS"></a>
+
+---
+
+
+##### `AMAZON_AURORA_DSQL_READ_ONLY_ACCESS` <a name="AMAZON_AURORA_DSQL_READ_ONLY_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_AURORA_DSQL_READ_ONLY_ACCESS"></a>
+
+---
+
+
+##### `AMAZON_S3_TABLES_FULL_ACCESS` <a name="AMAZON_S3_TABLES_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_S3_TABLES_FULL_ACCESS"></a>
+
+---
+
+
+##### `QBUSINESS_QUICKSIGHT_PLUGIN_POLICY` <a name="QBUSINESS_QUICKSIGHT_PLUGIN_POLICY" id="cdk-common.AWSManagedPolicies.QBUSINESS_QUICKSIGHT_PLUGIN_POLICY"></a>
+
+---
+
+
+##### `AMAZON_AURORA_DSQL_CONSOLE_FULL_ACCESS` <a name="AMAZON_AURORA_DSQL_CONSOLE_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_AURORA_DSQL_CONSOLE_FULL_ACCESS"></a>
+
+---
+
+
+##### `AMAZON_AURORA_DSQL_FULL_ACCESS` <a name="AMAZON_AURORA_DSQL_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_AURORA_DSQL_FULL_ACCESS"></a>
 
 ---
 
