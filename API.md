@@ -2107,6 +2107,8 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.QBUSINESS_QUICKSIGHT_PLUGIN_POLICY">QBUSINESS_QUICKSIGHT_PLUGIN_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_AURORA_DSQL_CONSOLE_FULL_ACCESS">AMAZON_AURORA_DSQL_CONSOLE_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_AURORA_DSQL_FULL_ACCESS">AMAZON_AURORA_DSQL_FULL_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_TRAINING_PLAN_CREATE_ACCESS">AMAZON_SAGE_MAKER_TRAINING_PLAN_CREATE_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_CANVAS_SM_DATA_SCIENCE_ASSISTANT_ACCESS">AMAZON_SAGE_MAKER_CANVAS_SM_DATA_SCIENCE_ASSISTANT_ACCESS</a></code> | *No description.* |
 
 ---
 
@@ -8666,6 +8668,16 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 ##### `AMAZON_AURORA_DSQL_FULL_ACCESS` <a name="AMAZON_AURORA_DSQL_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_AURORA_DSQL_FULL_ACCESS"></a>
+
+---
+
+
+##### `AMAZON_SAGE_MAKER_TRAINING_PLAN_CREATE_ACCESS` <a name="AMAZON_SAGE_MAKER_TRAINING_PLAN_CREATE_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_TRAINING_PLAN_CREATE_ACCESS"></a>
+
+---
+
+
+##### `AMAZON_SAGE_MAKER_CANVAS_SM_DATA_SCIENCE_ASSISTANT_ACCESS` <a name="AMAZON_SAGE_MAKER_CANVAS_SM_DATA_SCIENCE_ASSISTANT_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_CANVAS_SM_DATA_SCIENCE_ASSISTANT_ACCESS"></a>
 
 ---
 
