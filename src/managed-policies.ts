@@ -1312,4 +1312,6 @@ export enum AWSManagedPolicies {
   'QBUSINESS_QUICKSIGHT_PLUGIN_POLICY' = 'QBusinessQuicksightPluginPolicy',
   'AMAZON_AURORA_DSQL_CONSOLE_FULL_ACCESS' = 'AmazonAuroraDSQLConsoleFullAccess',
   'AMAZON_AURORA_DSQL_FULL_ACCESS' = 'AmazonAuroraDSQLFullAccess',
+  'AMAZON_SAGE_MAKER_TRAINING_PLAN_CREATE_ACCESS' = 'AmazonSageMakerTrainingPlanCreateAccess',
+  'AMAZON_SAGE_MAKER_CANVAS_SM_DATA_SCIENCE_ASSISTANT_ACCESS' = 'AmazonSageMakerCanvasSMDataScienceAssistantAccess',
 };
