@@ -1314,4 +1314,5 @@ export enum AWSManagedPolicies {
   'AMAZON_AURORA_DSQL_FULL_ACCESS' = 'AmazonAuroraDSQLFullAccess',
   'AMAZON_SAGE_MAKER_TRAINING_PLAN_CREATE_ACCESS' = 'AmazonSageMakerTrainingPlanCreateAccess',
   'AMAZON_SAGE_MAKER_CANVAS_SM_DATA_SCIENCE_ASSISTANT_ACCESS' = 'AmazonSageMakerCanvasSMDataScienceAssistantAccess',
+  'AWSPARTNER_CENTRAL_SELLING_RESOURCE_SNAPSHOT_JOB_EXECUTION_ROLE_POLICY' = 'AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy',
 };
