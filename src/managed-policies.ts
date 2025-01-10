@@ -1317,4 +1317,5 @@ export enum AWSManagedPolicies {
   'AWSPARTNER_CENTRAL_SELLING_RESOURCE_SNAPSHOT_JOB_EXECUTION_ROLE_POLICY' = 'AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy',
   'AWSBACKUP_SERVICE_ROLE_POLICY_FOR_INDEXING' = 'AWSBackupServiceRolePolicyForIndexing',
   'AWSBACKUP_SERVICE_ROLE_POLICY_FOR_ITEM_RESTORES' = 'AWSBackupServiceRolePolicyForItemRestores',
+  'AWSMANAGEDSERVICES_SELFSERVICEREPORTING_SERVICEROLEPOLICY' = 'aws-service-role/AWSManagedServices_SelfServiceReporting_ServiceRolePolicy',
 };
