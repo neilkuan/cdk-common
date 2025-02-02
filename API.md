@@ -2232,6 +2232,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSBACKUP_SERVICE_ROLE_POLICY_FOR_ITEM_RESTORES">AWSBACKUP_SERVICE_ROLE_POLICY_FOR_ITEM_RESTORES</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSMANAGEDSERVICES_SELFSERVICEREPORTING_SERVICEROLEPOLICY">AWSMANAGEDSERVICES_SELFSERVICEREPORTING_SERVICEROLEPOLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_PARTNER_APPS_FULL_ACCESS">AMAZON_SAGE_MAKER_PARTNER_APPS_FULL_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_QUERY_EXECUTION_ROLE_POLICY">SAGE_MAKER_STUDIO_QUERY_EXECUTION_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_EMR_SERVICE_ROLE_POLICY">SAGE_MAKER_STUDIO_EMR_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -8826,6 +8828,16 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AMAZON_SAGE_MAKER_PARTNER_APPS_FULL_ACCESS` <a name="AMAZON_SAGE_MAKER_PARTNER_APPS_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_PARTNER_APPS_FULL_ACCESS"></a>
+
+---
+
+
+##### `SAGE_MAKER_STUDIO_QUERY_EXECUTION_ROLE_POLICY` <a name="SAGE_MAKER_STUDIO_QUERY_EXECUTION_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_QUERY_EXECUTION_ROLE_POLICY"></a>
+
+---
+
+
+##### `SAGE_MAKER_STUDIO_EMR_SERVICE_ROLE_POLICY` <a name="SAGE_MAKER_STUDIO_EMR_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_EMR_SERVICE_ROLE_POLICY"></a>
 
 ---
 
