@@ -1319,4 +1319,6 @@ export enum AWSManagedPolicies {
   'AWSBACKUP_SERVICE_ROLE_POLICY_FOR_ITEM_RESTORES' = 'AWSBackupServiceRolePolicyForItemRestores',
   'AWSMANAGEDSERVICES_SELFSERVICEREPORTING_SERVICEROLEPOLICY' = 'aws-service-role/AWSManagedServices_SelfServiceReporting_ServiceRolePolicy',
   'AMAZON_SAGE_MAKER_PARTNER_APPS_FULL_ACCESS' = 'AmazonSageMakerPartnerAppsFullAccess',
+  'SAGE_MAKER_STUDIO_QUERY_EXECUTION_ROLE_POLICY' = 'service-role/SageMakerStudioQueryExecutionRolePolicy',
+  'SAGE_MAKER_STUDIO_EMR_SERVICE_ROLE_POLICY' = 'service-role/SageMakerStudioEMRServiceRolePolicy',
 };
