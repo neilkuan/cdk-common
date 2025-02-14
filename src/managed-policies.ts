@@ -1321,4 +1321,6 @@ export enum AWSManagedPolicies {
   'AMAZON_SAGE_MAKER_PARTNER_APPS_FULL_ACCESS' = 'AmazonSageMakerPartnerAppsFullAccess',
   'SAGE_MAKER_STUDIO_QUERY_EXECUTION_ROLE_POLICY' = 'service-role/SageMakerStudioQueryExecutionRolePolicy',
   'SAGE_MAKER_STUDIO_EMR_SERVICE_ROLE_POLICY' = 'service-role/SageMakerStudioEMRServiceRolePolicy',
+  'AWSELEMENTAL_MEDIA_CONNECT_READ_ONLY_ACCESS' = 'AWSElementalMediaConnectReadOnlyAccess',
+  'AWSELEMENTAL_MEDIA_CONNECT_FULL_ACCESS' = 'AWSElementalMediaConnectFullAccess',
 };
