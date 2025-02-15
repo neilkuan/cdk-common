@@ -1323,4 +1323,9 @@ export enum AWSManagedPolicies {
   'SAGE_MAKER_STUDIO_EMR_SERVICE_ROLE_POLICY' = 'service-role/SageMakerStudioEMRServiceRolePolicy',
   'AWSELEMENTAL_MEDIA_CONNECT_READ_ONLY_ACCESS' = 'AWSElementalMediaConnectReadOnlyAccess',
   'AWSELEMENTAL_MEDIA_CONNECT_FULL_ACCESS' = 'AWSElementalMediaConnectFullAccess',
+  'SAGE_MAKER_STUDIO_BEDROCK_AGENT_SERVICE_ROLE_POLICY' = 'service-role/SageMakerStudioBedrockAgentServiceRolePolicy',
+  'SAGE_MAKER_STUDIO_BEDROCK_CHAT_AGENT_USER_ROLE_POLICY' = 'service-role/SageMakerStudioBedrockChatAgentUserRolePolicy',
+  'SAGE_MAKER_STUDIO_BEDROCK_FLOW_SERVICE_ROLE_POLICY' = 'service-role/SageMakerStudioBedrockFlowServiceRolePolicy',
+  'SAGE_MAKER_STUDIO_BEDROCK_PROMPT_USER_ROLE_POLICY' = 'service-role/SageMakerStudioBedrockPromptUserRolePolicy',
+  'SAGE_MAKER_STUDIO_BEDROCK_EVALUATION_JOB_SERVICE_ROLE_POLICY' = 'service-role/SageMakerStudioBedrockEvaluationJobServiceRolePolicy',
 };
