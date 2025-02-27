@@ -1328,4 +1328,7 @@ export enum AWSManagedPolicies {
   'SAGE_MAKER_STUDIO_BEDROCK_FLOW_SERVICE_ROLE_POLICY' = 'service-role/SageMakerStudioBedrockFlowServiceRolePolicy',
   'SAGE_MAKER_STUDIO_BEDROCK_PROMPT_USER_ROLE_POLICY' = 'service-role/SageMakerStudioBedrockPromptUserRolePolicy',
   'SAGE_MAKER_STUDIO_BEDROCK_EVALUATION_JOB_SERVICE_ROLE_POLICY' = 'service-role/SageMakerStudioBedrockEvaluationJobServiceRolePolicy',
+  'SAGE_MAKER_STUDIO_BEDROCK_KNOWLEDGE_BASE_SERVICE_ROLE_POLICY' = 'service-role/SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy',
+  'SAGE_MAKER_STUDIO_BEDROCK_KNOWLEDGE_BASE_CUSTOM_RESOURCE_POLICY' = 'service-role/SageMakerStudioBedrockKnowledgeBaseCustomResourcePolicy',
+  'SAGE_MAKER_STUDIO_BEDROCK_FUNCTION_EXECUTION_ROLE_POLICY' = 'service-role/SageMakerStudioBedrockFunctionExecutionRolePolicy',
 };
