@@ -1331,4 +1331,5 @@ export enum AWSManagedPolicies {
   'SAGE_MAKER_STUDIO_BEDROCK_KNOWLEDGE_BASE_SERVICE_ROLE_POLICY' = 'service-role/SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy',
   'SAGE_MAKER_STUDIO_BEDROCK_KNOWLEDGE_BASE_CUSTOM_RESOURCE_POLICY' = 'service-role/SageMakerStudioBedrockKnowledgeBaseCustomResourcePolicy',
   'SAGE_MAKER_STUDIO_BEDROCK_FUNCTION_EXECUTION_ROLE_POLICY' = 'service-role/SageMakerStudioBedrockFunctionExecutionRolePolicy',
+  'SAGE_MAKER_STUDIO_EMR_INSTANCE_ROLE_POLICY' = 'service-role/SageMakerStudioEMRInstanceRolePolicy',
 };
