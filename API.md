@@ -2127,6 +2127,7 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_BEDROCK_KNOWLEDGE_BASE_CUSTOM_RESOURCE_POLICY">SAGE_MAKER_STUDIO_BEDROCK_KNOWLEDGE_BASE_CUSTOM_RESOURCE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_BEDROCK_FUNCTION_EXECUTION_ROLE_POLICY">SAGE_MAKER_STUDIO_BEDROCK_FUNCTION_EXECUTION_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_EMR_INSTANCE_ROLE_POLICY">SAGE_MAKER_STUDIO_EMR_INSTANCE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSBACKUP_SEARCH_OPERATOR_ACCESS">AWSBACKUP_SEARCH_OPERATOR_ACCESS</a></code> | *No description.* |
 
 ---
 
@@ -8786,6 +8787,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 ##### `SAGE_MAKER_STUDIO_EMR_INSTANCE_ROLE_POLICY` <a name="SAGE_MAKER_STUDIO_EMR_INSTANCE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_EMR_INSTANCE_ROLE_POLICY"></a>
+
+---
+
+
+##### `AWSBACKUP_SEARCH_OPERATOR_ACCESS` <a name="AWSBACKUP_SEARCH_OPERATOR_ACCESS" id="cdk-common.AWSManagedPolicies.AWSBACKUP_SEARCH_OPERATOR_ACCESS"></a>
 
 ---
 
