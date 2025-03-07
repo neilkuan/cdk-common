@@ -1333,4 +1333,6 @@ export enum AWSManagedPolicies {
   'SAGE_MAKER_STUDIO_BEDROCK_FUNCTION_EXECUTION_ROLE_POLICY' = 'service-role/SageMakerStudioBedrockFunctionExecutionRolePolicy',
   'SAGE_MAKER_STUDIO_EMR_INSTANCE_ROLE_POLICY' = 'service-role/SageMakerStudioEMRInstanceRolePolicy',
   'AWSBACKUP_SEARCH_OPERATOR_ACCESS' = 'AWSBackupSearchOperatorAccess',
+  'AWSIO_T_MANAGED_INTEGRATIONS_FULL_ACCESS' = 'AWSIoTManagedIntegrationsFullAccess',
+  'AWSIO_T_MANAGED_INTEGRATIONS_ROLE_POLICY' = 'aws-service-role/AWSIoTManagedIntegrationsRolePolicy',
 };
