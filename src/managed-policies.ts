@@ -1335,4 +1335,5 @@ export enum AWSManagedPolicies {
   'AWSBACKUP_SEARCH_OPERATOR_ACCESS' = 'AWSBackupSearchOperatorAccess',
   'AWSIO_T_MANAGED_INTEGRATIONS_FULL_ACCESS' = 'AWSIoTManagedIntegrationsFullAccess',
   'AWSIO_T_MANAGED_INTEGRATIONS_ROLE_POLICY' = 'aws-service-role/AWSIoTManagedIntegrationsRolePolicy',
+  'AMAZON_ECS_COMPUTE_SERVICE_ROLE_POLICY' = 'aws-service-role/AmazonECSComputeServiceRolePolicy',
 };
