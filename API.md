@@ -2248,6 +2248,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSBACKUP_SEARCH_OPERATOR_ACCESS">AWSBACKUP_SEARCH_OPERATOR_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSIO_T_MANAGED_INTEGRATIONS_FULL_ACCESS">AWSIO_T_MANAGED_INTEGRATIONS_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSIO_T_MANAGED_INTEGRATIONS_ROLE_POLICY">AWSIO_T_MANAGED_INTEGRATIONS_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_ECS_COMPUTE_SERVICE_ROLE_POLICY">AMAZON_ECS_COMPUTE_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -8922,6 +8923,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSIO_T_MANAGED_INTEGRATIONS_ROLE_POLICY` <a name="AWSIO_T_MANAGED_INTEGRATIONS_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSIO_T_MANAGED_INTEGRATIONS_ROLE_POLICY"></a>
+
+---
+
+
+##### `AMAZON_ECS_COMPUTE_SERVICE_ROLE_POLICY` <a name="AMAZON_ECS_COMPUTE_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_ECS_COMPUTE_SERVICE_ROLE_POLICY"></a>
 
 ---
 
