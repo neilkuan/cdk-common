@@ -9,7 +9,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   description: PROJECT_DESCRIPTION,
   author: 'Neil Kuan',
   authorAddress: 'guan840912@gmail.com',
-  cdkVersion: '2.126.0',
+  cdkVersion: '2.188.0',
   /**
    * we default release the main branch(cdkv2) with major version 2.
    */

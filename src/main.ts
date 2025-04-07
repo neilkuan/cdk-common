@@ -10,26 +10,31 @@ export class LambdaArmFunction extends Construct {
   constructor(scope: Construct, id: string, props:LambdaArmFunctionProps) {
     super(scope, id);
 
-    if (props.runtime === lambda.Runtime.NODEJS_12_X) {
-      cdk.Annotations.of(this).addWarning('You are using Node.js 12.x at ARM');
-    } else if (props.runtime === lambda.Runtime.NODEJS_14_X) {
-      cdk.Annotations.of(this).addWarning('You are using Node.js 14.x at ARM');
-    } else if (props.runtime === lambda.Runtime.PYTHON_3_8) {
-      cdk.Annotations.of(this).addWarning('You are using Python 3.8 at ARM');
-    } else if (props.runtime === lambda.Runtime.PYTHON_3_9) {
-      cdk.Annotations.of(this).addWarning('You are using Python 3.9 at ARM');
-    } else if (props.runtime === lambda.Runtime.JAVA_8_CORRETTO) {
-      cdk.Annotations.of(this).addWarning('You are using Java 8 on al2 at ARM');
-    } else if (props.runtime === lambda.Runtime.JAVA_11) {
-      cdk.Annotations.of(this).addWarning('You are using Java 11 at ARM');
-    } else if (props.runtime === lambda.Runtime.DOTNET_CORE_3_1) {
-      cdk.Annotations.of(this).addWarning('You are using DOTNET CORE 3.1 at ARM');
-    } else if (props.runtime === lambda.Runtime.RUBY_2_7) {
-      cdk.Annotations.of(this).addWarning('You are using RUBY 2.7 at ARM');
+    const runtimeWarnings = new Map<lambda.Runtime, string>([
+      [lambda.Runtime.NODEJS_22_X, 'You are using Node.js 22.x at ARM'],
+      [lambda.Runtime.NODEJS_20_X, 'You are using Node.js 20.x at ARM'],
+      [lambda.Runtime.NODEJS_18_X, 'You are using Node.js 18.x at ARM'],
+      [lambda.Runtime.PYTHON_3_13, 'You are using Python 3.13 at ARM'],
+      [lambda.Runtime.PYTHON_3_12, 'You are using Python 3.12 at ARM'],
+      [lambda.Runtime.PYTHON_3_11, 'You are using Python 3.11 at ARM'],
+      [lambda.Runtime.PYTHON_3_10, 'You are using Python 3.10 at ARM'],
+      [lambda.Runtime.JAVA_21, 'You are using Java 21 at ARM'],
+      [lambda.Runtime.JAVA_17, 'You are using Java 17 at ARM'],
+      [lambda.Runtime.DOTNET_8, 'You are using .NET 8 at ARM'],
+      [lambda.Runtime.RUBY_3_4, 'You are using Ruby 3.4 at ARM'],
+      [lambda.Runtime.RUBY_3_3, 'You are using Ruby 3.3 at ARM'],
+    ]);
+
+    const warning = runtimeWarnings.get(props.runtime);
+    if (warning) {
+      cdk.Annotations.of(this).addWarning(warning);
     } else {
       throw new Error(`Invalid Runtime ${props.runtime} at ARM, See https://docs.aws.amazon.com/lambda/latest/dg/foundation-arch.html?icmpid=docs_lambda_rss`);
     }
 
-    this.lambdaFunction = new lambda.Function(this, 'LambdaFunction', { architecture: lambda.Architecture.ARM_64, ...props });
+    this.lambdaFunction = new lambda.Function(this, 'LambdaFunction', {
+      architecture: props.architecture ?? lambda.Architecture.ARM_64,
+      ...props,
+    });
   }
 }
