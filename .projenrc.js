@@ -61,7 +61,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   minNodeVersion: '20.10.0',
   workflowNodeVersion: '20.10.0',
   typescriptVersion: '^5',
-  jsiiVersion: '5.3.x',
+  jsiiVersion: '5.7.x',
 });
 
 

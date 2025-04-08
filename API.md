@@ -133,9 +133,11 @@ const lambdaArmFunctionProps: LambdaArmFunctionProps = { ... }
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.onSuccess">onSuccess</a></code> | <code>aws-cdk-lib.aws_lambda.IDestination</code> | The destination for successful invocations. |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.retryAttempts">retryAttempts</a></code> | <code>number</code> | The maximum number of times to retry when the function returns an error. |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.adotInstrumentation">adotInstrumentation</a></code> | <code>aws-cdk-lib.aws_lambda.AdotInstrumentationConfig</code> | Specify the configuration of AWS Distro for OpenTelemetry (ADOT) instrumentation. |
-| <code><a href="#cdk-common.LambdaArmFunctionProps.property.allowAllOutbound">allowAllOutbound</a></code> | <code>boolean</code> | Whether to allow the Lambda to send all network traffic. |
+| <code><a href="#cdk-common.LambdaArmFunctionProps.property.allowAllIpv6Outbound">allowAllIpv6Outbound</a></code> | <code>boolean</code> | Whether to allow the Lambda to send all ipv6 network traffic. |
+| <code><a href="#cdk-common.LambdaArmFunctionProps.property.allowAllOutbound">allowAllOutbound</a></code> | <code>boolean</code> | Whether to allow the Lambda to send all network traffic (except ipv6). |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.allowPublicSubnet">allowPublicSubnet</a></code> | <code>boolean</code> | Lambda Functions in a public subnet can NOT access the internet. |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.applicationLogLevel">applicationLogLevel</a></code> | <code>string</code> | Sets the application log level for the function. |
+| <code><a href="#cdk-common.LambdaArmFunctionProps.property.applicationLogLevelV2">applicationLogLevelV2</a></code> | <code>aws-cdk-lib.aws_lambda.ApplicationLogLevel</code> | Sets the application log level for the function. |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.architecture">architecture</a></code> | <code>aws-cdk-lib.aws_lambda.Architecture</code> | The system architectures compatible with this lambda function. |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.codeSigningConfig">codeSigningConfig</a></code> | <code>aws-cdk-lib.aws_lambda.ICodeSigningConfig</code> | Code signing config associated with this function. |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.currentVersionOptions">currentVersionOptions</a></code> | <code>aws-cdk-lib.aws_lambda.VersionOptions</code> | Options for the `lambda.Version` resource automatically created by the `fn.currentVersion` method. |
@@ -151,8 +153,10 @@ const lambdaArmFunctionProps: LambdaArmFunctionProps = { ... }
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.functionName">functionName</a></code> | <code>string</code> | A name for the function. |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.initialPolicy">initialPolicy</a></code> | <code>aws-cdk-lib.aws_iam.PolicyStatement[]</code> | Initial policy statements to add to the created Lambda Role. |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.insightsVersion">insightsVersion</a></code> | <code>aws-cdk-lib.aws_lambda.LambdaInsightsVersion</code> | Specify the version of CloudWatch Lambda insights to use for monitoring. |
+| <code><a href="#cdk-common.LambdaArmFunctionProps.property.ipv6AllowedForDualStack">ipv6AllowedForDualStack</a></code> | <code>boolean</code> | Allows outbound IPv6 traffic on VPC functions that are connected to dual-stack subnets. |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.layers">layers</a></code> | <code>aws-cdk-lib.aws_lambda.ILayerVersion[]</code> | A list of layers to add to the function's execution environment. |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.logFormat">logFormat</a></code> | <code>string</code> | Sets the logFormat for the function. |
+| <code><a href="#cdk-common.LambdaArmFunctionProps.property.loggingFormat">loggingFormat</a></code> | <code>aws-cdk-lib.aws_lambda.LoggingFormat</code> | Sets the loggingFormat for the function. |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.logGroup">logGroup</a></code> | <code>aws-cdk-lib.aws_logs.ILogGroup</code> | The log group the function sends logs to. |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.logRetention">logRetention</a></code> | <code>aws-cdk-lib.aws_logs.RetentionDays</code> | The number of days log events are kept in CloudWatch Logs. |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.logRetentionRetryOptions">logRetentionRetryOptions</a></code> | <code>aws-cdk-lib.aws_lambda.LogRetentionRetryOptions</code> | When log retention is specified, a custom resource attempts to create the CloudWatch log group. |
@@ -161,12 +165,14 @@ const lambdaArmFunctionProps: LambdaArmFunctionProps = { ... }
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.paramsAndSecrets">paramsAndSecrets</a></code> | <code>aws-cdk-lib.aws_lambda.ParamsAndSecretsLayerVersion</code> | Specify the configuration of Parameters and Secrets Extension. |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.profiling">profiling</a></code> | <code>boolean</code> | Enable profiling. |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.profilingGroup">profilingGroup</a></code> | <code>aws-cdk-lib.aws_codeguruprofiler.IProfilingGroup</code> | Profiling Group. |
+| <code><a href="#cdk-common.LambdaArmFunctionProps.property.recursiveLoop">recursiveLoop</a></code> | <code>aws-cdk-lib.aws_lambda.RecursiveLoop</code> | Sets the Recursive Loop Protection for Lambda Function. |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.reservedConcurrentExecutions">reservedConcurrentExecutions</a></code> | <code>number</code> | The maximum of concurrent executions you want to reserve for the function. |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.role">role</a></code> | <code>aws-cdk-lib.aws_iam.IRole</code> | Lambda execution role. |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.runtimeManagementMode">runtimeManagementMode</a></code> | <code>aws-cdk-lib.aws_lambda.RuntimeManagementMode</code> | Sets the runtime management configuration for a function's version. |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.securityGroups">securityGroups</a></code> | <code>aws-cdk-lib.aws_ec2.ISecurityGroup[]</code> | The list of security groups to associate with the Lambda's network interfaces. |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.snapStart">snapStart</a></code> | <code>aws-cdk-lib.aws_lambda.SnapStartConf</code> | Enable SnapStart for Lambda Function. |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.systemLogLevel">systemLogLevel</a></code> | <code>string</code> | Sets the system log level for the function. |
+| <code><a href="#cdk-common.LambdaArmFunctionProps.property.systemLogLevelV2">systemLogLevelV2</a></code> | <code>aws-cdk-lib.aws_lambda.SystemLogLevel</code> | Sets the system log level for the function. |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.timeout">timeout</a></code> | <code>aws-cdk-lib.Duration</code> | The function execution time (in seconds) after which Lambda terminates the function. |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.tracing">tracing</a></code> | <code>aws-cdk-lib.aws_lambda.Tracing</code> | Enable AWS X-Ray Tracing for Lambda Function. |
 | <code><a href="#cdk-common.LambdaArmFunctionProps.property.vpc">vpc</a></code> | <code>aws-cdk-lib.aws_ec2.IVpc</code> | VPC network to place Lambda network interfaces. |
@@ -250,6 +256,26 @@ Specify the configuration of AWS Distro for OpenTelemetry (ADOT) instrumentation
 
 ---
 
+##### `allowAllIpv6Outbound`<sup>Optional</sup> <a name="allowAllIpv6Outbound" id="cdk-common.LambdaArmFunctionProps.property.allowAllIpv6Outbound"></a>
+
+```typescript
+public readonly allowAllIpv6Outbound: boolean;
+```
+
+- *Type:* boolean
+- *Default:* false
+
+Whether to allow the Lambda to send all ipv6 network traffic.
+
+If set to true, there will only be a single egress rule which allows all
+outbound ipv6 traffic. If set to false, you must individually add traffic rules to allow the
+Lambda to connect to network targets using ipv6.
+
+Do not specify this property if the `securityGroups` or `securityGroup` property is set.
+Instead, configure `allowAllIpv6Outbound` directly on the security group.
+
+---
+
 ##### `allowAllOutbound`<sup>Optional</sup> <a name="allowAllOutbound" id="cdk-common.LambdaArmFunctionProps.property.allowAllOutbound"></a>
 
 ```typescript
@@ -259,7 +285,7 @@ public readonly allowAllOutbound: boolean;
 - *Type:* boolean
 - *Default:* true
 
-Whether to allow the Lambda to send all network traffic.
+Whether to allow the Lambda to send all network traffic (except ipv6).
 
 If set to false, you must individually add traffic rules to allow the
 Lambda to connect to network targets.
@@ -286,7 +312,9 @@ Use this property to acknowledge this limitation and still place the function in
 
 ---
 
-##### `applicationLogLevel`<sup>Optional</sup> <a name="applicationLogLevel" id="cdk-common.LambdaArmFunctionProps.property.applicationLogLevel"></a>
+##### ~~`applicationLogLevel`~~<sup>Optional</sup> <a name="applicationLogLevel" id="cdk-common.LambdaArmFunctionProps.property.applicationLogLevel"></a>
+
+- *Deprecated:* Use `applicationLogLevelV2` as a property instead.
 
 ```typescript
 public readonly applicationLogLevel: string;
@@ -294,6 +322,19 @@ public readonly applicationLogLevel: string;
 
 - *Type:* string
 - *Default:* "INFO"
+
+Sets the application log level for the function.
+
+---
+
+##### `applicationLogLevelV2`<sup>Optional</sup> <a name="applicationLogLevelV2" id="cdk-common.LambdaArmFunctionProps.property.applicationLogLevelV2"></a>
+
+```typescript
+public readonly applicationLogLevelV2: ApplicationLogLevel;
+```
+
+- *Type:* aws-cdk-lib.aws_lambda.ApplicationLogLevel
+- *Default:* ApplicationLogLevel.INFO
 
 Sets the application log level for the function.
 
@@ -512,6 +553,21 @@ Specify the version of CloudWatch Lambda insights to use for monitoring.
 
 ---
 
+##### `ipv6AllowedForDualStack`<sup>Optional</sup> <a name="ipv6AllowedForDualStack" id="cdk-common.LambdaArmFunctionProps.property.ipv6AllowedForDualStack"></a>
+
+```typescript
+public readonly ipv6AllowedForDualStack: boolean;
+```
+
+- *Type:* boolean
+- *Default:* false
+
+Allows outbound IPv6 traffic on VPC functions that are connected to dual-stack subnets.
+
+Only used if 'vpc' is supplied.
+
+---
+
 ##### `layers`<sup>Optional</sup> <a name="layers" id="cdk-common.LambdaArmFunctionProps.property.layers"></a>
 
 ```typescript
@@ -529,7 +585,9 @@ that can be used by multiple functions.
 
 ---
 
-##### `logFormat`<sup>Optional</sup> <a name="logFormat" id="cdk-common.LambdaArmFunctionProps.property.logFormat"></a>
+##### ~~`logFormat`~~<sup>Optional</sup> <a name="logFormat" id="cdk-common.LambdaArmFunctionProps.property.logFormat"></a>
+
+- *Deprecated:* Use `loggingFormat` as a property instead.
 
 ```typescript
 public readonly logFormat: string;
@@ -539,6 +597,19 @@ public readonly logFormat: string;
 - *Default:* "Text"
 
 Sets the logFormat for the function.
+
+---
+
+##### `loggingFormat`<sup>Optional</sup> <a name="loggingFormat" id="cdk-common.LambdaArmFunctionProps.property.loggingFormat"></a>
+
+```typescript
+public readonly loggingFormat: LoggingFormat;
+```
+
+- *Type:* aws-cdk-lib.aws_lambda.LoggingFormat
+- *Default:* LoggingFormat.TEXT
+
+Sets the loggingFormat for the function.
 
 ---
 
@@ -690,6 +761,21 @@ Profiling Group.
 
 ---
 
+##### `recursiveLoop`<sup>Optional</sup> <a name="recursiveLoop" id="cdk-common.LambdaArmFunctionProps.property.recursiveLoop"></a>
+
+```typescript
+public readonly recursiveLoop: RecursiveLoop;
+```
+
+- *Type:* aws-cdk-lib.aws_lambda.RecursiveLoop
+- *Default:* RecursiveLoop.Terminate
+
+Sets the Recursive Loop Protection for Lambda Function.
+
+It lets Lambda detect and terminate unintended recursive loops.
+
+---
+
 ##### `reservedConcurrentExecutions`<sup>Optional</sup> <a name="reservedConcurrentExecutions" id="cdk-common.LambdaArmFunctionProps.property.reservedConcurrentExecutions"></a>
 
 ```typescript
@@ -767,11 +853,13 @@ public readonly snapStart: SnapStartConf;
 
 Enable SnapStart for Lambda Function.
 
-SnapStart is currently supported only for Java 11, 17 runtime
+SnapStart is currently supported for Java 11, Java 17, Python 3.12, Python 3.13, and .NET 8 runtime
 
 ---
 
-##### `systemLogLevel`<sup>Optional</sup> <a name="systemLogLevel" id="cdk-common.LambdaArmFunctionProps.property.systemLogLevel"></a>
+##### ~~`systemLogLevel`~~<sup>Optional</sup> <a name="systemLogLevel" id="cdk-common.LambdaArmFunctionProps.property.systemLogLevel"></a>
+
+- *Deprecated:* Use `systemLogLevelV2` as a property instead.
 
 ```typescript
 public readonly systemLogLevel: string;
@@ -779,6 +867,19 @@ public readonly systemLogLevel: string;
 
 - *Type:* string
 - *Default:* "INFO"
+
+Sets the system log level for the function.
+
+---
+
+##### `systemLogLevelV2`<sup>Optional</sup> <a name="systemLogLevelV2" id="cdk-common.LambdaArmFunctionProps.property.systemLogLevelV2"></a>
+
+```typescript
+public readonly systemLogLevelV2: SystemLogLevel;
+```
+
+- *Type:* aws-cdk-lib.aws_lambda.SystemLogLevel
+- *Default:* SystemLogLevel.INFO
 
 Sets the system log level for the function.
 
