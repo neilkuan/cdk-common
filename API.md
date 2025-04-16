@@ -2131,6 +2131,7 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSIO_T_MANAGED_INTEGRATIONS_FULL_ACCESS">AWSIO_T_MANAGED_INTEGRATIONS_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSIO_T_MANAGED_INTEGRATIONS_ROLE_POLICY">AWSIO_T_MANAGED_INTEGRATIONS_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_ECS_COMPUTE_SERVICE_ROLE_POLICY">AMAZON_ECS_COMPUTE_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSMEDIA_LIVE_ANYWHERE_SERVICE_ROLE_POLICY">AWSMEDIA_LIVE_ANYWHERE_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -8810,6 +8811,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 ##### `AMAZON_ECS_COMPUTE_SERVICE_ROLE_POLICY` <a name="AMAZON_ECS_COMPUTE_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_ECS_COMPUTE_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `AWSMEDIA_LIVE_ANYWHERE_SERVICE_ROLE_POLICY` <a name="AWSMEDIA_LIVE_ANYWHERE_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSMEDIA_LIVE_ANYWHERE_SERVICE_ROLE_POLICY"></a>
 
 ---
 
