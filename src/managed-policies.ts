@@ -1337,4 +1337,5 @@ export enum AWSManagedPolicies {
   'AWSIO_T_MANAGED_INTEGRATIONS_ROLE_POLICY' = 'aws-service-role/AWSIoTManagedIntegrationsRolePolicy',
   'AMAZON_ECS_COMPUTE_SERVICE_ROLE_POLICY' = 'aws-service-role/AmazonECSComputeServiceRolePolicy',
   'AWSMEDIA_LIVE_ANYWHERE_SERVICE_ROLE_POLICY' = 'aws-service-role/AWSMediaLiveAnywhereServiceRolePolicy',
+  'GIT_LAB_DUO_WITH_AMAZON_Q_PERMISSIONS_POLICY' = 'GitLabDuoWithAmazonQPermissionsPolicy',
 };
