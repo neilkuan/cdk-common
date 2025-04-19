@@ -1338,4 +1338,10 @@ export enum AWSManagedPolicies {
   'AMAZON_ECS_COMPUTE_SERVICE_ROLE_POLICY' = 'aws-service-role/AmazonECSComputeServiceRolePolicy',
   'AWSMEDIA_LIVE_ANYWHERE_SERVICE_ROLE_POLICY' = 'aws-service-role/AWSMediaLiveAnywhereServiceRolePolicy',
   'GIT_LAB_DUO_WITH_AMAZON_Q_PERMISSIONS_POLICY' = 'GitLabDuoWithAmazonQPermissionsPolicy',
+  'AWSQUICK_SETUP_JITNA_DEPLOYMENT_ROLE_POLICY' = 'AWSQuickSetupJITNADeploymentRolePolicy',
+  'AMAZON_TIMESTREAM_INFLUX_DB_FULL_ACCESS_WITHOUT_MARKETPLACE_ACCESS' = 'AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess',
+  'AWSSYSTEMS_MANAGER_NOTIFICATIONS_SERVICE_POLICY' = 'aws-service-role/AWSSystemsManagerNotificationsServicePolicy',
+  'AWSSYSTEMS_MANAGER_JUST_IN_TIME_ACCESS_TOKEN_SESSION_POLICY' = 'AWSSystemsManagerJustInTimeAccessTokenSessionPolicy',
+  'AWSSYSTEMS_MANAGER_JUST_IN_TIME_ACCESS_TOKEN_POLICY' = 'AWSSystemsManagerJustInTimeAccessTokenPolicy',
+  'AWSQUICK_SETUP_MANAGE_JITNA_RESOURCES_EXECUTION_POLICY' = 'AWSQuickSetupManageJITNAResourcesExecutionPolicy',
 };
