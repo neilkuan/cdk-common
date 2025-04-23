@@ -1344,4 +1344,6 @@ export enum AWSManagedPolicies {
   'AWSSYSTEMS_MANAGER_JUST_IN_TIME_ACCESS_TOKEN_SESSION_POLICY' = 'AWSSystemsManagerJustInTimeAccessTokenSessionPolicy',
   'AWSSYSTEMS_MANAGER_JUST_IN_TIME_ACCESS_TOKEN_POLICY' = 'AWSSystemsManagerJustInTimeAccessTokenPolicy',
   'AWSQUICK_SETUP_MANAGE_JITNA_RESOURCES_EXECUTION_POLICY' = 'AWSQuickSetupManageJITNAResourcesExecutionPolicy',
+  'AWSSYSTEMS_MANAGER_JUST_IN_TIME_ACCESS_SERVICE_POLICY' = 'aws-service-role/AWSSystemsManagerJustInTimeAccessServicePolicy',
+  'AWSSYSTEMS_MANAGER_JUST_IN_TIME_NODE_ACCESS_ROLE_PROPAGATION_POLICY' = 'AWSSystemsManagerJustInTimeNodeAccessRolePropagationPolicy',
 };
