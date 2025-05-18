@@ -15,11 +15,6 @@ Use the npm dist tag to opt in CDKv1 or CDKv2:
 
 // for CDKv2
 npm install cdk-common
-or
-npm install cdk-common@latest
-
-// for CDKv1
-npm install cdk-common@cdkv1
 ```
 
 💡💡💡 please click [here](https://github.com/neilkuan/cdk-common/tree/cdkv1#readme), if you are using aws-cdk v1.x.x version.💡💡💡
