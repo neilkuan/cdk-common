@@ -66,12 +66,12 @@
     },
     {
       "name": "jsii-rosetta",
-      "version": "5.3.x",
+      "version": "5.7.x",
       "type": "build"
     },
     {
       "name": "jsii",
-      "version": "5.3.x",
+      "version": "5.7.x",
       "type": "build"
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       "name": "@aws-cdk/aws-lambda",
-      "version": "^1.134.0",
+      "version": "^1.204.0",
       "type": "peer"
     },
     {
@@ -112,17 +112,17 @@
     },
     {
       "name": "@aws-cdk/aws-iam",
-      "version": "^1.134.0",
+      "version": "^1.204.0",
       "type": "runtime"
     },
     {
       "name": "@aws-cdk/aws-lambda",
-      "version": "^1.134.0",
+      "version": "^1.204.0",
       "type": "runtime"
     },
     {
       "name": "@aws-cdk/aws-s3",
-      "version": "^1.134.0",
+      "version": "^1.204.0",
       "type": "runtime"
     },
     {

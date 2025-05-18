@@ -48,18 +48,18 @@ const project = new awscdk.AwsCdkConstructLibrary({
   deps: [
     'sync-request',
     'case',
-    '@aws-cdk/aws-s3@^1.134.0',
-    '@aws-cdk/core@^1.134.0',
-    '@aws-cdk/aws-iam@^1.134.0',
-    '@aws-cdk/aws-lambda@^1.134.0',
+    '@aws-cdk/aws-s3@^1.204.0',
+    '@aws-cdk/core@^1.204.0',
+    '@aws-cdk/aws-iam@^1.204.0',
+    '@aws-cdk/aws-lambda@^1.204.0',
   ],
   bundledDeps: [
     'sync-request',
     'case',
   ],
   peerDeps: [
-    '@aws-cdk/core@^1.134.0',
-    '@aws-cdk/aws-lambda@^1.134.0',
+    '@aws-cdk/core@^1.204.0',
+    '@aws-cdk/aws-lambda@^1.204.0',
   ],
   devDeps: [
     'ts-jest@29.1.2',
@@ -68,7 +68,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   minNodeVersion: '20.10.0',
   workflowNodeVersion: '20.10.0',
   typescriptVersion: '^5',
-  jsiiVersion: '5.3.x',
+  jsiiVersion: '5.7.x',
 });
 
 const common_exclude = ['cdk.out', 'cdk.context.json', 'yarn-error.log', 'coverage'];
@@ -95,9 +95,9 @@ async function run() {
 void run().then( final => {
   final.forEach(p => {
     if (p.split('/').length >= 3 ) {
-      policy.line(`  '${constant(p.split('/').slice(2))}' = '${p.split('/').slice(1, 3).join('/')}',`);
+      policy.line(`  ${constant(p.split('/').slice(2))} = '${p.split('/').slice(1, 3).join('/')}',`);
     } else {
-      policy.line(`  '${constant(p.split('/').slice(1))}' = '${p.split('/').slice(1)}',`);
+      policy.line(`  ${constant(p.split('/').slice(1))} = '${p.split('/').slice(1)}',`);
     }
 
   });
