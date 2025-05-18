@@ -1346,4 +1346,9 @@ export enum AWSManagedPolicies {
   'AWSQUICK_SETUP_MANAGE_JITNA_RESOURCES_EXECUTION_POLICY' = 'AWSQuickSetupManageJITNAResourcesExecutionPolicy',
   'AWSSYSTEMS_MANAGER_JUST_IN_TIME_ACCESS_SERVICE_POLICY' = 'aws-service-role/AWSSystemsManagerJustInTimeAccessServicePolicy',
   'AWSSYSTEMS_MANAGER_JUST_IN_TIME_NODE_ACCESS_ROLE_PROPAGATION_POLICY' = 'AWSSystemsManagerJustInTimeNodeAccessRolePropagationPolicy',
+  'AMAZON_EKS_DASHBOARD_SERVICE_ROLE_POLICY' = 'aws-service-role/AmazonEKSDashboardServiceRolePolicy',
+  'AWSQUICK_SIGHT_SECRETS_MANAGER_WRITE_POLICY' = 'AWSQuickSightSecretsManagerWritePolicy',
+  'AWSSERVICE_ROLE_FOR_AWS_TRANSFORM' = 'aws-service-role/AWSServiceRoleForAWSTransform',
+  'CLOUD_TRAIL_EVENT_CONTEXT' = 'aws-service-role/CloudTrailEventContext',
+  'AMAZON_EVS_SERVICE_ROLE_POLICY' = 'aws-service-role/AmazonEVSServiceRolePolicy',
 };
