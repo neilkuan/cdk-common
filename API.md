@@ -2141,6 +2141,11 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSQUICK_SETUP_MANAGE_JITNA_RESOURCES_EXECUTION_POLICY">AWSQUICK_SETUP_MANAGE_JITNA_RESOURCES_EXECUTION_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSSYSTEMS_MANAGER_JUST_IN_TIME_ACCESS_SERVICE_POLICY">AWSSYSTEMS_MANAGER_JUST_IN_TIME_ACCESS_SERVICE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSSYSTEMS_MANAGER_JUST_IN_TIME_NODE_ACCESS_ROLE_PROPAGATION_POLICY">AWSSYSTEMS_MANAGER_JUST_IN_TIME_NODE_ACCESS_ROLE_PROPAGATION_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EKS_DASHBOARD_SERVICE_ROLE_POLICY">AMAZON_EKS_DASHBOARD_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSQUICK_SIGHT_SECRETS_MANAGER_WRITE_POLICY">AWSQUICK_SIGHT_SECRETS_MANAGER_WRITE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSSERVICE_ROLE_FOR_AWS_TRANSFORM">AWSSERVICE_ROLE_FOR_AWS_TRANSFORM</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.CLOUD_TRAIL_EVENT_CONTEXT">CLOUD_TRAIL_EVENT_CONTEXT</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EVS_SERVICE_ROLE_POLICY">AMAZON_EVS_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -8870,6 +8875,31 @@ Use `Runtime.FROM_IMAGE` when when defining a function from a Docker image.
 
 
 ##### `AWSSYSTEMS_MANAGER_JUST_IN_TIME_NODE_ACCESS_ROLE_PROPAGATION_POLICY` <a name="AWSSYSTEMS_MANAGER_JUST_IN_TIME_NODE_ACCESS_ROLE_PROPAGATION_POLICY" id="cdk-common.AWSManagedPolicies.AWSSYSTEMS_MANAGER_JUST_IN_TIME_NODE_ACCESS_ROLE_PROPAGATION_POLICY"></a>
+
+---
+
+
+##### `AMAZON_EKS_DASHBOARD_SERVICE_ROLE_POLICY` <a name="AMAZON_EKS_DASHBOARD_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_EKS_DASHBOARD_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `AWSQUICK_SIGHT_SECRETS_MANAGER_WRITE_POLICY` <a name="AWSQUICK_SIGHT_SECRETS_MANAGER_WRITE_POLICY" id="cdk-common.AWSManagedPolicies.AWSQUICK_SIGHT_SECRETS_MANAGER_WRITE_POLICY"></a>
+
+---
+
+
+##### `AWSSERVICE_ROLE_FOR_AWS_TRANSFORM` <a name="AWSSERVICE_ROLE_FOR_AWS_TRANSFORM" id="cdk-common.AWSManagedPolicies.AWSSERVICE_ROLE_FOR_AWS_TRANSFORM"></a>
+
+---
+
+
+##### `CLOUD_TRAIL_EVENT_CONTEXT` <a name="CLOUD_TRAIL_EVENT_CONTEXT" id="cdk-common.AWSManagedPolicies.CLOUD_TRAIL_EVENT_CONTEXT"></a>
+
+---
+
+
+##### `AMAZON_EVS_SERVICE_ROLE_POLICY` <a name="AMAZON_EVS_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_EVS_SERVICE_ROLE_POLICY"></a>
 
 ---
 
