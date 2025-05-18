@@ -16,9 +16,6 @@ Use the npm dist tag to opt in CDKv1 or CDKv2:
 // for CDKv2
 npm install cdk-common
 ```
-
-💡💡💡 please click [here](https://github.com/neilkuan/cdk-common/tree/cdkv1#readme), if you are using aws-cdk v1.x.x version.💡💡💡
-
 ### AWS Managed Policies `enum`
 ```ts
 import * as cdk from 'aws-cdk-lib';
