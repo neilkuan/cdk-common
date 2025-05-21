@@ -2365,6 +2365,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSSERVICE_ROLE_FOR_AWS_TRANSFORM">AWSSERVICE_ROLE_FOR_AWS_TRANSFORM</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.CLOUD_TRAIL_EVENT_CONTEXT">CLOUD_TRAIL_EVENT_CONTEXT</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EVS_SERVICE_ROLE_POLICY">AMAZON_EVS_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSPRIVATE_CA_CONNECTOR_FOR_KUBERNETES_POLICY">AWSPRIVATE_CA_CONNECTOR_FOR_KUBERNETES_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -9119,6 +9120,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AMAZON_EVS_SERVICE_ROLE_POLICY` <a name="AMAZON_EVS_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_EVS_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `AWSPRIVATE_CA_CONNECTOR_FOR_KUBERNETES_POLICY` <a name="AWSPRIVATE_CA_CONNECTOR_FOR_KUBERNETES_POLICY" id="cdk-common.AWSManagedPolicies.AWSPRIVATE_CA_CONNECTOR_FOR_KUBERNETES_POLICY"></a>
 
 ---
 

@@ -1351,4 +1351,5 @@ export enum AWSManagedPolicies {
   AWSSERVICE_ROLE_FOR_AWS_TRANSFORM = 'aws-service-role/AWSServiceRoleForAWSTransform',
   CLOUD_TRAIL_EVENT_CONTEXT = 'aws-service-role/CloudTrailEventContext',
   AMAZON_EVS_SERVICE_ROLE_POLICY = 'aws-service-role/AmazonEVSServiceRolePolicy',
+  AWSPRIVATE_CA_CONNECTOR_FOR_KUBERNETES_POLICY = 'AWSPrivateCAConnectorForKubernetesPolicy',
 };
