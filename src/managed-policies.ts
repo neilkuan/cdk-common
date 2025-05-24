@@ -1352,4 +1352,6 @@ export enum AWSManagedPolicies {
   CLOUD_TRAIL_EVENT_CONTEXT = 'aws-service-role/CloudTrailEventContext',
   AMAZON_EVS_SERVICE_ROLE_POLICY = 'aws-service-role/AmazonEVSServiceRolePolicy',
   AWSPRIVATE_CA_CONNECTOR_FOR_KUBERNETES_POLICY = 'AWSPrivateCAConnectorForKubernetesPolicy',
+  AWSQUICK_SIGHT_SECRETS_MANAGER_WRITE_ACCESS = 'service-role/AWSQuickSightSecretsManagerWriteAccess',
+  AMAZONDYNAMODBFULLACCESS_V2 = 'AmazonDynamoDBFullAccess_v2',
 };
