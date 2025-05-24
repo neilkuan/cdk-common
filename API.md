@@ -2366,6 +2366,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.CLOUD_TRAIL_EVENT_CONTEXT">CLOUD_TRAIL_EVENT_CONTEXT</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EVS_SERVICE_ROLE_POLICY">AMAZON_EVS_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSPRIVATE_CA_CONNECTOR_FOR_KUBERNETES_POLICY">AWSPRIVATE_CA_CONNECTOR_FOR_KUBERNETES_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSQUICK_SIGHT_SECRETS_MANAGER_WRITE_ACCESS">AWSQUICK_SIGHT_SECRETS_MANAGER_WRITE_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZONDYNAMODBFULLACCESS_V2">AMAZONDYNAMODBFULLACCESS_V2</a></code> | *No description.* |
 
 ---
 
@@ -9125,6 +9127,16 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSPRIVATE_CA_CONNECTOR_FOR_KUBERNETES_POLICY` <a name="AWSPRIVATE_CA_CONNECTOR_FOR_KUBERNETES_POLICY" id="cdk-common.AWSManagedPolicies.AWSPRIVATE_CA_CONNECTOR_FOR_KUBERNETES_POLICY"></a>
+
+---
+
+
+##### `AWSQUICK_SIGHT_SECRETS_MANAGER_WRITE_ACCESS` <a name="AWSQUICK_SIGHT_SECRETS_MANAGER_WRITE_ACCESS" id="cdk-common.AWSManagedPolicies.AWSQUICK_SIGHT_SECRETS_MANAGER_WRITE_ACCESS"></a>
+
+---
+
+
+##### `AMAZONDYNAMODBFULLACCESS_V2` <a name="AMAZONDYNAMODBFULLACCESS_V2" id="cdk-common.AWSManagedPolicies.AMAZONDYNAMODBFULLACCESS_V2"></a>
 
 ---
 
