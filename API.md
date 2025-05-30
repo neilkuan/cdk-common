@@ -1386,7 +1386,6 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_MACIE_HANDSHAKE_ROLE">AMAZON_MACIE_HANDSHAKE_ROLE</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSDATA_LIFECYCLE_MANAGER_SERVICE_ROLE">AWSDATA_LIFECYCLE_MANAGER_SERVICE_ROLE</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSIO_T_DEVICE_DEFENDER_AUDIT">AWSIO_T_DEVICE_DEFENDER_AUDIT</a></code> | *No description.* |
-| <code><a href="#cdk-common.AWSManagedPolicies.AWSMARKETPLACE_IMAGE_BUILD_FULL_ACCESS">AWSMARKETPLACE_IMAGE_BUILD_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSDISCOVERY_CONTINUOUS_EXPORT_FIREHOSE_POLICY">AWSDISCOVERY_CONTINUOUS_EXPORT_FIREHOSE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.APPLICATION_DISCOVERY_SERVICE_CONTINUOUS_EXPORT_SERVICE_ROLE_POLICY">APPLICATION_DISCOVERY_SERVICE_CONTINUOUS_EXPORT_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSAUTO_SCALING_PLANS_E_C2_AUTO_SCALING_POLICY">AWSAUTO_SCALING_PLANS_E_C2_AUTO_SCALING_POLICY</a></code> | *No description.* |
@@ -1972,8 +1971,6 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EKS_LOCAL_OUTPOST_SERVICE_ROLE_POLICY">AMAZON_EKS_LOCAL_OUTPOST_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_CANVAS_FORECAST_ACCESS">AMAZON_SAGE_MAKER_CANVAS_FORECAST_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EKS_LOCAL_OUTPOST_CLUSTER_POLICY">AMAZON_EKS_LOCAL_OUTPOST_CLUSTER_POLICY</a></code> | *No description.* |
-| <code><a href="#cdk-common.AWSManagedPolicies.GROUND_TRUTH_SYNTHETIC_CONSOLE_READ_ONLY_ACCESS">GROUND_TRUTH_SYNTHETIC_CONSOLE_READ_ONLY_ACCESS</a></code> | *No description.* |
-| <code><a href="#cdk-common.AWSManagedPolicies.GROUND_TRUTH_SYNTHETIC_CONSOLE_FULL_ACCESS">GROUND_TRUTH_SYNTHETIC_CONSOLE_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_SSM_MANAGED_E_C2_INSTANCE_DEFAULT_POLICY">AMAZON_SSM_MANAGED_E_C2_INSTANCE_DEFAULT_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_CANVAS_FULL_ACCESS">AMAZON_SAGE_MAKER_CANVAS_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_CLOUD_WATCH_EVIDENTLY_SERVICE_ROLE_POLICY">AMAZON_CLOUD_WATCH_EVIDENTLY_SERVICE_ROLE_POLICY</a></code> | *No description.* |
@@ -4227,11 +4224,6 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSIO_T_DEVICE_DEFENDER_AUDIT` <a name="AWSIO_T_DEVICE_DEFENDER_AUDIT" id="cdk-common.AWSManagedPolicies.AWSIO_T_DEVICE_DEFENDER_AUDIT"></a>
-
----
-
-
-##### `AWSMARKETPLACE_IMAGE_BUILD_FULL_ACCESS` <a name="AWSMARKETPLACE_IMAGE_BUILD_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.AWSMARKETPLACE_IMAGE_BUILD_FULL_ACCESS"></a>
 
 ---
 
@@ -7157,16 +7149,6 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AMAZON_EKS_LOCAL_OUTPOST_CLUSTER_POLICY` <a name="AMAZON_EKS_LOCAL_OUTPOST_CLUSTER_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_EKS_LOCAL_OUTPOST_CLUSTER_POLICY"></a>
-
----
-
-
-##### `GROUND_TRUTH_SYNTHETIC_CONSOLE_READ_ONLY_ACCESS` <a name="GROUND_TRUTH_SYNTHETIC_CONSOLE_READ_ONLY_ACCESS" id="cdk-common.AWSManagedPolicies.GROUND_TRUTH_SYNTHETIC_CONSOLE_READ_ONLY_ACCESS"></a>
-
----
-
-
-##### `GROUND_TRUTH_SYNTHETIC_CONSOLE_FULL_ACCESS` <a name="GROUND_TRUTH_SYNTHETIC_CONSOLE_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.GROUND_TRUTH_SYNTHETIC_CONSOLE_FULL_ACCESS"></a>
 
 ---
 
