@@ -1351,4 +1351,5 @@ export enum AWSManagedPolicies {
   AWSPRIVATE_CA_CONNECTOR_FOR_KUBERNETES_POLICY = 'AWSPrivateCAConnectorForKubernetesPolicy',
   AWSQUICK_SIGHT_SECRETS_MANAGER_WRITE_ACCESS = 'service-role/AWSQuickSightSecretsManagerWriteAccess',
   AMAZONDYNAMODBFULLACCESS_V2 = 'AmazonDynamoDBFullAccess_v2',
+  AMAZON_SAGE_MAKER_QUICK_SIGHT_VPC_POLICY = 'service-role/AmazonSageMakerQuickSightVPCPolicy',
 };
