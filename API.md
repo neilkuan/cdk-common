@@ -2366,6 +2366,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSQUICK_SIGHT_SECRETS_MANAGER_WRITE_ACCESS">AWSQUICK_SIGHT_SECRETS_MANAGER_WRITE_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZONDYNAMODBFULLACCESS_V2">AMAZONDYNAMODBFULLACCESS_V2</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_QUICK_SIGHT_VPC_POLICY">AMAZON_SAGE_MAKER_QUICK_SIGHT_VPC_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZONGUARDDUTYFULLACCESS_V2">AMAZONGUARDDUTYFULLACCESS_V2</a></code> | *No description.* |
 
 ---
 
@@ -9125,6 +9126,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AMAZON_SAGE_MAKER_QUICK_SIGHT_VPC_POLICY` <a name="AMAZON_SAGE_MAKER_QUICK_SIGHT_VPC_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_QUICK_SIGHT_VPC_POLICY"></a>
+
+---
+
+
+##### `AMAZONGUARDDUTYFULLACCESS_V2` <a name="AMAZONGUARDDUTYFULLACCESS_V2" id="cdk-common.AWSManagedPolicies.AMAZONGUARDDUTYFULLACCESS_V2"></a>
 
 ---
 
