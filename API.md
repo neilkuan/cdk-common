@@ -2367,6 +2367,9 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZONDYNAMODBFULLACCESS_V2">AMAZONDYNAMODBFULLACCESS_V2</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_QUICK_SIGHT_VPC_POLICY">AMAZON_SAGE_MAKER_QUICK_SIGHT_VPC_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZONGUARDDUTYFULLACCESS_V2">AMAZONGUARDDUTYFULLACCESS_V2</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSSECURITY_HUB_V2_SERVICE_ROLE_POLICY">AWSSECURITY_HUB_V2_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSNETWORK_FIREWALL_READ_ONLY_ACCESS">AWSNETWORK_FIREWALL_READ_ONLY_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSNETWORK_FIREWALL_FULL_ACCESS">AWSNETWORK_FIREWALL_FULL_ACCESS</a></code> | *No description.* |
 
 ---
 
@@ -9131,6 +9134,21 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AMAZONGUARDDUTYFULLACCESS_V2` <a name="AMAZONGUARDDUTYFULLACCESS_V2" id="cdk-common.AWSManagedPolicies.AMAZONGUARDDUTYFULLACCESS_V2"></a>
+
+---
+
+
+##### `AWSSECURITY_HUB_V2_SERVICE_ROLE_POLICY` <a name="AWSSECURITY_HUB_V2_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSSECURITY_HUB_V2_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `AWSNETWORK_FIREWALL_READ_ONLY_ACCESS` <a name="AWSNETWORK_FIREWALL_READ_ONLY_ACCESS" id="cdk-common.AWSManagedPolicies.AWSNETWORK_FIREWALL_READ_ONLY_ACCESS"></a>
+
+---
+
+
+##### `AWSNETWORK_FIREWALL_FULL_ACCESS` <a name="AWSNETWORK_FIREWALL_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.AWSNETWORK_FIREWALL_FULL_ACCESS"></a>
 
 ---
 

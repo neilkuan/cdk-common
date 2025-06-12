@@ -1353,4 +1353,7 @@ export enum AWSManagedPolicies {
   AMAZONDYNAMODBFULLACCESS_V2 = 'AmazonDynamoDBFullAccess_v2',
   AMAZON_SAGE_MAKER_QUICK_SIGHT_VPC_POLICY = 'service-role/AmazonSageMakerQuickSightVPCPolicy',
   AMAZONGUARDDUTYFULLACCESS_V2 = 'AmazonGuardDutyFullAccess_v2',
+  AWSSECURITY_HUB_V2_SERVICE_ROLE_POLICY = 'aws-service-role/AWSSecurityHubV2ServiceRolePolicy',
+  AWSNETWORK_FIREWALL_READ_ONLY_ACCESS = 'AWSNetworkFirewallReadOnlyAccess',
+  AWSNETWORK_FIREWALL_FULL_ACCESS = 'AWSNetworkFirewallFullAccess',
 };
