@@ -1356,4 +1356,5 @@ export enum AWSManagedPolicies {
   AWSSECURITY_HUB_V2_SERVICE_ROLE_POLICY = 'aws-service-role/AWSSecurityHubV2ServiceRolePolicy',
   AWSNETWORK_FIREWALL_READ_ONLY_ACCESS = 'AWSNetworkFirewallReadOnlyAccess',
   AWSNETWORK_FIREWALL_FULL_ACCESS = 'AWSNetworkFirewallFullAccess',
+  AWSSERVICE_ROLE_POLICY_FOR_WORKSPACES_INSTANCES = 'aws-service-role/AWSServiceRolePolicyForWorkspacesInstances',
 };
