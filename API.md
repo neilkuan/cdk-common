@@ -2370,6 +2370,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSSECURITY_HUB_V2_SERVICE_ROLE_POLICY">AWSSECURITY_HUB_V2_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSNETWORK_FIREWALL_READ_ONLY_ACCESS">AWSNETWORK_FIREWALL_READ_ONLY_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSNETWORK_FIREWALL_FULL_ACCESS">AWSNETWORK_FIREWALL_FULL_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSSERVICE_ROLE_POLICY_FOR_WORKSPACES_INSTANCES">AWSSERVICE_ROLE_POLICY_FOR_WORKSPACES_INSTANCES</a></code> | *No description.* |
 
 ---
 
@@ -9149,6 +9150,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSNETWORK_FIREWALL_FULL_ACCESS` <a name="AWSNETWORK_FIREWALL_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.AWSNETWORK_FIREWALL_FULL_ACCESS"></a>
+
+---
+
+
+##### `AWSSERVICE_ROLE_POLICY_FOR_WORKSPACES_INSTANCES` <a name="AWSSERVICE_ROLE_POLICY_FOR_WORKSPACES_INSTANCES" id="cdk-common.AWSManagedPolicies.AWSSERVICE_ROLE_POLICY_FOR_WORKSPACES_INSTANCES"></a>
 
 ---
 
