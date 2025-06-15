@@ -1357,4 +1357,6 @@ export enum AWSManagedPolicies {
   AWSNETWORK_FIREWALL_READ_ONLY_ACCESS = 'AWSNetworkFirewallReadOnlyAccess',
   AWSNETWORK_FIREWALL_FULL_ACCESS = 'AWSNetworkFirewallFullAccess',
   AWSSERVICE_ROLE_POLICY_FOR_WORKSPACES_INSTANCES = 'aws-service-role/AWSServiceRolePolicyForWorkspacesInstances',
+  AMAZON_WORK_SPACES_THIN_CLIENT_MONITORING_SERVICE_ROLE_POLICY = 'aws-service-role/AmazonWorkSpacesThinClientMonitoringServiceRolePolicy',
+  NETWORK_SECURITY_DIRECTOR_SERVICE_LINKED_ROLE_POLICY = 'aws-service-role/NetworkSecurityDirectorServiceLinkedRolePolicy',
 };
