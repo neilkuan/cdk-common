@@ -2375,6 +2375,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.NETWORK_SECURITY_DIRECTOR_SERVICE_LINKED_ROLE_POLICY">NETWORK_SECURITY_DIRECTOR_SERVICE_LINKED_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.MULTI_PARTY_APPROVAL_READ_ONLY_ACCESS">MULTI_PARTY_APPROVAL_READ_ONLY_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.MULTI_PARTY_APPROVAL_FULL_ACCESS">MULTI_PARTY_APPROVAL_FULL_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EKS_DASHBOARD_CONSOLE_READ_ONLY">AMAZON_EKS_DASHBOARD_CONSOLE_READ_ONLY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_S3_TABLES_LAKE_FORMATION_SERVICE_ROLE">AMAZON_S3_TABLES_LAKE_FORMATION_SERVICE_ROLE</a></code> | *No description.* |
 
 ---
 
@@ -9179,6 +9181,16 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `MULTI_PARTY_APPROVAL_FULL_ACCESS` <a name="MULTI_PARTY_APPROVAL_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.MULTI_PARTY_APPROVAL_FULL_ACCESS"></a>
+
+---
+
+
+##### `AMAZON_EKS_DASHBOARD_CONSOLE_READ_ONLY` <a name="AMAZON_EKS_DASHBOARD_CONSOLE_READ_ONLY" id="cdk-common.AWSManagedPolicies.AMAZON_EKS_DASHBOARD_CONSOLE_READ_ONLY"></a>
+
+---
+
+
+##### `AMAZON_S3_TABLES_LAKE_FORMATION_SERVICE_ROLE` <a name="AMAZON_S3_TABLES_LAKE_FORMATION_SERVICE_ROLE" id="cdk-common.AWSManagedPolicies.AMAZON_S3_TABLES_LAKE_FORMATION_SERVICE_ROLE"></a>
 
 ---
 
