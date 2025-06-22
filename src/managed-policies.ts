@@ -1363,4 +1363,5 @@ export enum AWSManagedPolicies {
   MULTI_PARTY_APPROVAL_FULL_ACCESS = 'MultiPartyApprovalFullAccess',
   AMAZON_EKS_DASHBOARD_CONSOLE_READ_ONLY = 'AmazonEKSDashboardConsoleReadOnly',
   AMAZON_S3_TABLES_LAKE_FORMATION_SERVICE_ROLE = 'service-role/AmazonS3TablesLakeFormationServiceRole',
+  KEYSPACES_CDC_SERVICE_ROLE_POLICY = 'aws-service-role/KeyspacesCDCServiceRolePolicy',
 };
