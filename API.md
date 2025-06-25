@@ -2378,6 +2378,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EKS_DASHBOARD_CONSOLE_READ_ONLY">AMAZON_EKS_DASHBOARD_CONSOLE_READ_ONLY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_S3_TABLES_LAKE_FORMATION_SERVICE_ROLE">AMAZON_S3_TABLES_LAKE_FORMATION_SERVICE_ROLE</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.KEYSPACES_CDC_SERVICE_ROLE_POLICY">KEYSPACES_CDC_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSPCSCOMPUTE_NODE_POLICY">AWSPCSCOMPUTE_NODE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -9197,6 +9198,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `KEYSPACES_CDC_SERVICE_ROLE_POLICY` <a name="KEYSPACES_CDC_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.KEYSPACES_CDC_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `AWSPCSCOMPUTE_NODE_POLICY` <a name="AWSPCSCOMPUTE_NODE_POLICY" id="cdk-common.AWSManagedPolicies.AWSPCSCOMPUTE_NODE_POLICY"></a>
 
 ---
 
