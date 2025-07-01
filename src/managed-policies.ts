@@ -1365,4 +1365,6 @@ export enum AWSManagedPolicies {
   AMAZON_S3_TABLES_LAKE_FORMATION_SERVICE_ROLE = 'service-role/AmazonS3TablesLakeFormationServiceRole',
   KEYSPACES_CDC_SERVICE_ROLE_POLICY = 'aws-service-role/KeyspacesCDCServiceRolePolicy',
   AWSPCSCOMPUTE_NODE_POLICY = 'AWSPCSComputeNodePolicy',
+  AMAZON_BEDROCK_LIMITED_ACCESS = 'AmazonBedrockLimitedAccess',
+  AMAZON_BEDROCK_MARKETPLACE_ACCESS = 'AmazonBedrockMarketplaceAccess',
 };
