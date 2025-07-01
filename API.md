@@ -2379,6 +2379,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_S3_TABLES_LAKE_FORMATION_SERVICE_ROLE">AMAZON_S3_TABLES_LAKE_FORMATION_SERVICE_ROLE</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.KEYSPACES_CDC_SERVICE_ROLE_POLICY">KEYSPACES_CDC_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSPCSCOMPUTE_NODE_POLICY">AWSPCSCOMPUTE_NODE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_BEDROCK_LIMITED_ACCESS">AMAZON_BEDROCK_LIMITED_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_BEDROCK_MARKETPLACE_ACCESS">AMAZON_BEDROCK_MARKETPLACE_ACCESS</a></code> | *No description.* |
 
 ---
 
@@ -9203,6 +9205,16 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSPCSCOMPUTE_NODE_POLICY` <a name="AWSPCSCOMPUTE_NODE_POLICY" id="cdk-common.AWSManagedPolicies.AWSPCSCOMPUTE_NODE_POLICY"></a>
+
+---
+
+
+##### `AMAZON_BEDROCK_LIMITED_ACCESS` <a name="AMAZON_BEDROCK_LIMITED_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_BEDROCK_LIMITED_ACCESS"></a>
+
+---
+
+
+##### `AMAZON_BEDROCK_MARKETPLACE_ACCESS` <a name="AMAZON_BEDROCK_MARKETPLACE_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_BEDROCK_MARKETPLACE_ACCESS"></a>
 
 ---
 
