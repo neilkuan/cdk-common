@@ -1367,4 +1367,5 @@ export enum AWSManagedPolicies {
   AWSPCSCOMPUTE_NODE_POLICY = 'AWSPCSComputeNodePolicy',
   AMAZON_BEDROCK_LIMITED_ACCESS = 'AmazonBedrockLimitedAccess',
   AMAZON_BEDROCK_MARKETPLACE_ACCESS = 'AmazonBedrockMarketplaceAccess',
+  AWSZONE_GROUP_ACCESS_MANAGEMENT_SERVICE_ROLE_POLICY = 'aws-service-role/AWSZoneGroupAccessManagementServiceRolePolicy',
 };
