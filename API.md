@@ -2382,6 +2382,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_BEDROCK_LIMITED_ACCESS">AMAZON_BEDROCK_LIMITED_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_BEDROCK_MARKETPLACE_ACCESS">AMAZON_BEDROCK_MARKETPLACE_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSZONE_GROUP_ACCESS_MANAGEMENT_SERVICE_ROLE_POLICY">AWSZONE_GROUP_ACCESS_MANAGEMENT_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZONINSPECTOR2FULLACCESS_V2">AMAZONINSPECTOR2FULLACCESS_V2</a></code> | *No description.* |
 
 ---
 
@@ -9221,6 +9222,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSZONE_GROUP_ACCESS_MANAGEMENT_SERVICE_ROLE_POLICY` <a name="AWSZONE_GROUP_ACCESS_MANAGEMENT_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSZONE_GROUP_ACCESS_MANAGEMENT_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `AMAZONINSPECTOR2FULLACCESS_V2` <a name="AMAZONINSPECTOR2FULLACCESS_V2" id="cdk-common.AWSManagedPolicies.AMAZONINSPECTOR2FULLACCESS_V2"></a>
 
 ---
 

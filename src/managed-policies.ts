@@ -1368,4 +1368,5 @@ export enum AWSManagedPolicies {
   AMAZON_BEDROCK_LIMITED_ACCESS = 'AmazonBedrockLimitedAccess',
   AMAZON_BEDROCK_MARKETPLACE_ACCESS = 'AmazonBedrockMarketplaceAccess',
   AWSZONE_GROUP_ACCESS_MANAGEMENT_SERVICE_ROLE_POLICY = 'aws-service-role/AWSZoneGroupAccessManagementServiceRolePolicy',
+  AMAZONINSPECTOR2FULLACCESS_V2 = 'AmazonInspector2FullAccess_v2',
 };
