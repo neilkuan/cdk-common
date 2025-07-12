@@ -1370,4 +1370,6 @@ export enum AWSManagedPolicies {
   AWSZONE_GROUP_ACCESS_MANAGEMENT_SERVICE_ROLE_POLICY = 'aws-service-role/AWSZoneGroupAccessManagementServiceRolePolicy',
   AMAZONINSPECTOR2FULLACCESS_V2 = 'AmazonInspector2FullAccess_v2',
   SAGE_MAKER_STUDIO_ADMIN_PROJECT_USER_ROLE_POLICY = 'SageMakerStudioAdminProjectUserRolePolicy',
+  AMAZON_SAGE_MAKER_HYPER_POD_OBSERVABILITY_ADMIN_ACCESS = 'AmazonSageMakerHyperPodObservabilityAdminAccess',
+  AWSDIRECTORY_SERVICE_SERVICE_ROLE_POLICY = 'aws-service-role/AWSDirectoryServiceServiceRolePolicy',
 };
