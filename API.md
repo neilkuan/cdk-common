@@ -2384,6 +2384,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSZONE_GROUP_ACCESS_MANAGEMENT_SERVICE_ROLE_POLICY">AWSZONE_GROUP_ACCESS_MANAGEMENT_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZONINSPECTOR2FULLACCESS_V2">AMAZONINSPECTOR2FULLACCESS_V2</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_ADMIN_PROJECT_USER_ROLE_POLICY">SAGE_MAKER_STUDIO_ADMIN_PROJECT_USER_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_HYPER_POD_OBSERVABILITY_ADMIN_ACCESS">AMAZON_SAGE_MAKER_HYPER_POD_OBSERVABILITY_ADMIN_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSDIRECTORY_SERVICE_SERVICE_ROLE_POLICY">AWSDIRECTORY_SERVICE_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -9233,6 +9235,16 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `SAGE_MAKER_STUDIO_ADMIN_PROJECT_USER_ROLE_POLICY` <a name="SAGE_MAKER_STUDIO_ADMIN_PROJECT_USER_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_ADMIN_PROJECT_USER_ROLE_POLICY"></a>
+
+---
+
+
+##### `AMAZON_SAGE_MAKER_HYPER_POD_OBSERVABILITY_ADMIN_ACCESS` <a name="AMAZON_SAGE_MAKER_HYPER_POD_OBSERVABILITY_ADMIN_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_HYPER_POD_OBSERVABILITY_ADMIN_ACCESS"></a>
+
+---
+
+
+##### `AWSDIRECTORY_SERVICE_SERVICE_ROLE_POLICY` <a name="AWSDIRECTORY_SERVICE_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSDIRECTORY_SERVICE_SERVICE_ROLE_POLICY"></a>
 
 ---
 
