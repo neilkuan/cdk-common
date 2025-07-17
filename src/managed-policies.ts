@@ -1372,4 +1372,5 @@ export enum AWSManagedPolicies {
   SAGE_MAKER_STUDIO_ADMIN_PROJECT_USER_ROLE_POLICY = 'SageMakerStudioAdminProjectUserRolePolicy',
   AMAZON_SAGE_MAKER_HYPER_POD_OBSERVABILITY_ADMIN_ACCESS = 'AmazonSageMakerHyperPodObservabilityAdminAccess',
   AWSDIRECTORY_SERVICE_SERVICE_ROLE_POLICY = 'aws-service-role/AWSDirectoryServiceServiceRolePolicy',
+  AWSBATCH_SERVICE_ROLE_POLICY_FOR_SAGE_MAKER = 'aws-service-role/AWSBatchServiceRolePolicyForSageMaker',
 };
