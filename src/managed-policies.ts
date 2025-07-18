@@ -1373,4 +1373,8 @@ export enum AWSManagedPolicies {
   AMAZON_SAGE_MAKER_HYPER_POD_OBSERVABILITY_ADMIN_ACCESS = 'AmazonSageMakerHyperPodObservabilityAdminAccess',
   AWSDIRECTORY_SERVICE_SERVICE_ROLE_POLICY = 'aws-service-role/AWSDirectoryServiceServiceRolePolicy',
   AWSBATCH_SERVICE_ROLE_POLICY_FOR_SAGE_MAKER = 'aws-service-role/AWSBatchServiceRolePolicyForSageMaker',
+  AMAZON_BEDROCK_AGENT_CORE_MEMORY_BEDROCK_MODEL_INFERENCE_EXECUTION_ROLE_POLICY = 'AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy',
+  BEDROCK_AGENT_CORE_FULL_ACCESS = 'BedrockAgentCoreFullAccess',
+  AWSROLES_ANYWHERE_FULL_ACCESS = 'AWSRolesAnywhereFullAccess',
+  AWSROLES_ANYWHERE_READ_ONLY = 'AWSRolesAnywhereReadOnly',
 };
