@@ -2391,6 +2391,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.BEDROCK_AGENT_CORE_FULL_ACCESS">BEDROCK_AGENT_CORE_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSROLES_ANYWHERE_FULL_ACCESS">AWSROLES_ANYWHERE_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSROLES_ANYWHERE_READ_ONLY">AWSROLES_ANYWHERE_READ_ONLY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_ECS_INFRASTRUCTURE_ROLE_POLICY_FOR_LOAD_BALANCERS">AMAZON_ECS_INFRASTRUCTURE_ROLE_POLICY_FOR_LOAD_BALANCERS</a></code> | *No description.* |
 
 ---
 
@@ -9275,6 +9276,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSROLES_ANYWHERE_READ_ONLY` <a name="AWSROLES_ANYWHERE_READ_ONLY" id="cdk-common.AWSManagedPolicies.AWSROLES_ANYWHERE_READ_ONLY"></a>
+
+---
+
+
+##### `AMAZON_ECS_INFRASTRUCTURE_ROLE_POLICY_FOR_LOAD_BALANCERS` <a name="AMAZON_ECS_INFRASTRUCTURE_ROLE_POLICY_FOR_LOAD_BALANCERS" id="cdk-common.AWSManagedPolicies.AMAZON_ECS_INFRASTRUCTURE_ROLE_POLICY_FOR_LOAD_BALANCERS"></a>
 
 ---
 
