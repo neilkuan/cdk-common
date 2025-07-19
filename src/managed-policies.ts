@@ -1377,4 +1377,5 @@ export enum AWSManagedPolicies {
   BEDROCK_AGENT_CORE_FULL_ACCESS = 'BedrockAgentCoreFullAccess',
   AWSROLES_ANYWHERE_FULL_ACCESS = 'AWSRolesAnywhereFullAccess',
   AWSROLES_ANYWHERE_READ_ONLY = 'AWSRolesAnywhereReadOnly',
+  AMAZON_ECS_INFRASTRUCTURE_ROLE_POLICY_FOR_LOAD_BALANCERS = 'AmazonECSInfrastructureRolePolicyForLoadBalancers',
 };
