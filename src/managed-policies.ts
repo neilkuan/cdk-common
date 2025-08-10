@@ -1380,4 +1380,6 @@ export enum AWSManagedPolicies {
   AMAZON_ECS_INFRASTRUCTURE_ROLE_POLICY_FOR_LOAD_BALANCERS = 'AmazonECSInfrastructureRolePolicyForLoadBalancers',
   BUDGETS_SERVICE_ROLE_POLICY = 'aws-service-role/BudgetsServiceRolePolicy',
   AWSOBSERVABILITY_ADMIN_TELEMETRY_ENABLEMENT_SERVICE_ROLE_POLICY = 'aws-service-role/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy',
+  AWSQUICK_SETUP_START_STOP_INSTANCES_EXECUTION_POLICY = 'AWSQuickSetupStartStopInstancesExecutionPolicy',
+  AWSQUICK_SETUP_START_SSM_ASSOCIATIONS_EXECUTION_POLICY = 'AWSQuickSetupStartSSMAssociationsExecutionPolicy',
 };
