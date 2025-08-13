@@ -1382,4 +1382,6 @@ export enum AWSManagedPolicies {
   AWSOBSERVABILITY_ADMIN_TELEMETRY_ENABLEMENT_SERVICE_ROLE_POLICY = 'aws-service-role/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy',
   AWSQUICK_SETUP_START_STOP_INSTANCES_EXECUTION_POLICY = 'AWSQuickSetupStartStopInstancesExecutionPolicy',
   AWSQUICK_SETUP_START_SSM_ASSOCIATIONS_EXECUTION_POLICY = 'AWSQuickSetupStartSSMAssociationsExecutionPolicy',
+  ROSASHARED_VPC_ROUTE53_POLICY = 'ROSASharedVPCRoute53Policy',
+  ROSASHARED_VPC_ENDPOINT_POLICY = 'ROSASharedVPCEndpointPolicy',
 };
