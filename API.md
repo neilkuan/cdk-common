@@ -2396,6 +2396,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSOBSERVABILITY_ADMIN_TELEMETRY_ENABLEMENT_SERVICE_ROLE_POLICY">AWSOBSERVABILITY_ADMIN_TELEMETRY_ENABLEMENT_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSQUICK_SETUP_START_STOP_INSTANCES_EXECUTION_POLICY">AWSQUICK_SETUP_START_STOP_INSTANCES_EXECUTION_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSQUICK_SETUP_START_SSM_ASSOCIATIONS_EXECUTION_POLICY">AWSQUICK_SETUP_START_SSM_ASSOCIATIONS_EXECUTION_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.ROSASHARED_VPC_ROUTE53_POLICY">ROSASHARED_VPC_ROUTE53_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.ROSASHARED_VPC_ENDPOINT_POLICY">ROSASHARED_VPC_ENDPOINT_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -9305,6 +9307,16 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSQUICK_SETUP_START_SSM_ASSOCIATIONS_EXECUTION_POLICY` <a name="AWSQUICK_SETUP_START_SSM_ASSOCIATIONS_EXECUTION_POLICY" id="cdk-common.AWSManagedPolicies.AWSQUICK_SETUP_START_SSM_ASSOCIATIONS_EXECUTION_POLICY"></a>
+
+---
+
+
+##### `ROSASHARED_VPC_ROUTE53_POLICY` <a name="ROSASHARED_VPC_ROUTE53_POLICY" id="cdk-common.AWSManagedPolicies.ROSASHARED_VPC_ROUTE53_POLICY"></a>
+
+---
+
+
+##### `ROSASHARED_VPC_ENDPOINT_POLICY` <a name="ROSASHARED_VPC_ENDPOINT_POLICY" id="cdk-common.AWSManagedPolicies.ROSASHARED_VPC_ENDPOINT_POLICY"></a>
 
 ---
 
