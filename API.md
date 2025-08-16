@@ -1185,7 +1185,6 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSAPPLICATION_DISCOVERY_SERVICE_FULL_ACCESS">AWSAPPLICATION_DISCOVERY_SERVICE_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSAPPLICATION_DISCOVERY_AGENT_ACCESS">AWSAPPLICATION_DISCOVERY_AGENT_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_E_C2_CONTAINER_SERVICE_AUTOSCALE_ROLE">AMAZON_E_C2_CONTAINER_SERVICE_AUTOSCALE_ROLE</a></code> | *No description.* |
-| <code><a href="#cdk-common.AWSManagedPolicies.AWSOPS_WORKS_INSTANCE_REGISTRATION">AWSOPS_WORKS_INSTANCE_REGISTRATION</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSCODE_PIPELINE_APPROVER_ACCESS">AWSCODE_PIPELINE_APPROVER_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSAGENTLESS_DISCOVERY_SERVICE">AWSAGENTLESS_DISCOVERY_SERVICE</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_E_C2_SPOT_FLEET_AUTOSCALE_ROLE">AMAZON_E_C2_SPOT_FLEET_AUTOSCALE_ROLE</a></code> | *No description.* |
@@ -1202,8 +1201,6 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.IAMUSER_CHANGE_PASSWORD">IAMUSER_CHANGE_PASSWORD</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_ELASTIC_MAP_REDUCEFOR_AUTO_SCALING_ROLE">AMAZON_ELASTIC_MAP_REDUCEFOR_AUTO_SCALING_ROLE</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_APP_STREAM_SERVICE_ACCESS">AMAZON_APP_STREAM_SERVICE_ACCESS</a></code> | *No description.* |
-| <code><a href="#cdk-common.AWSManagedPolicies.AWSOPS_WORKS_CM_INSTANCE_PROFILE_ROLE">AWSOPS_WORKS_CM_INSTANCE_PROFILE_ROLE</a></code> | *No description.* |
-| <code><a href="#cdk-common.AWSManagedPolicies.AWSOPS_WORKS_CM_SERVICE_ROLE">AWSOPS_WORKS_CM_SERVICE_ROLE</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_REKOGNITION_FULL_ACCESS">AMAZON_REKOGNITION_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_REKOGNITION_READ_ONLY_ACCESS">AMAZON_REKOGNITION_READ_ONLY_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_ATHENA_FULL_ACCESS">AMAZON_ATHENA_FULL_ACCESS</a></code> | *No description.* |
@@ -1238,7 +1235,6 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_CLOUD_DIRECTORY_FULL_ACCESS">AMAZON_CLOUD_DIRECTORY_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_CLOUD_DIRECTORY_READ_ONLY_ACCESS">AMAZON_CLOUD_DIRECTORY_READ_ONLY_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSMARKETPLACE_GET_ENTITLEMENTS">AWSMARKETPLACE_GET_ENTITLEMENTS</a></code> | *No description.* |
-| <code><a href="#cdk-common.AWSManagedPolicies.AWSOPS_WORKS_CLOUD_WATCH_LOGS">AWSOPS_WORKS_CLOUD_WATCH_LOGS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_LEX_RUN_BOTS_ONLY">AMAZON_LEX_RUN_BOTS_ONLY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_LEX_READ_ONLY">AMAZON_LEX_READ_ONLY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_LEX_FULL_ACCESS">AMAZON_LEX_FULL_ACCESS</a></code> | *No description.* |
@@ -1497,8 +1493,6 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.MIGRATION_HUB_DMS_ACCESS_SERVICE_ROLE_POLICY">MIGRATION_HUB_DMS_ACCESS_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.MIGRATION_HUB_SMS_ACCESS_SERVICE_ROLE_POLICY">MIGRATION_HUB_SMS_ACCESS_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSCONFIG_MULTI_ACCOUNT_SETUP_POLICY">AWSCONFIG_MULTI_ACCOUNT_SETUP_POLICY</a></code> | *No description.* |
-| <code><a href="#cdk-common.AWSManagedPolicies.AWSOPSWORKSREGISTERCLI_ONPREMISES">AWSOPSWORKSREGISTERCLI_ONPREMISES</a></code> | *No description.* |
-| <code><a href="#cdk-common.AWSManagedPolicies.AWSOPSWORKSREGISTERCLI_EC2">AWSOPSWORKSREGISTERCLI_EC2</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSCONFIG_REMEDIATION_SERVICE_ROLE_POLICY">AWSCONFIG_REMEDIATION_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSAPP_MESH_PREVIEW_SERVICE_ROLE_POLICY">AWSAPP_MESH_PREVIEW_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSCERTIFICATE_MANAGER_PRIVATE_CA_PRIVILEGED_USER">AWSCERTIFICATE_MANAGER_PRIVATE_CA_PRIVILEGED_USER</a></code> | *No description.* |
@@ -1775,7 +1769,6 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_LEX_V2_BOT_POLICY">AMAZON_LEX_V2_BOT_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_LEX_CHANNELS_ACCESS">AMAZON_LEX_CHANNELS_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSDIRECT_CONNECT_SERVICE_ROLE_POLICY">AWSDIRECT_CONNECT_SERVICE_ROLE_POLICY</a></code> | *No description.* |
-| <code><a href="#cdk-common.AWSManagedPolicies.AWSOPSWORKS_FULLACCESS">AWSOPSWORKS_FULLACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSELASTIC_BEANSTALK_READ_ONLY">AWSELASTIC_BEANSTALK_READ_ONLY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.ADMINISTRATORACCESS_AWSELASTICBEANSTALK">ADMINISTRATORACCESS_AWSELASTICBEANSTALK</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_WORK_MAIL_MESSAGE_FLOW_READ_ONLY_ACCESS">AMAZON_WORK_MAIL_MESSAGE_FLOW_READ_ONLY_ACCESS</a></code> | *No description.* |
@@ -2398,6 +2391,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSQUICK_SETUP_START_SSM_ASSOCIATIONS_EXECUTION_POLICY">AWSQUICK_SETUP_START_SSM_ASSOCIATIONS_EXECUTION_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.ROSASHARED_VPC_ROUTE53_POLICY">ROSASHARED_VPC_ROUTE53_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.ROSASHARED_VPC_ENDPOINT_POLICY">ROSASHARED_VPC_ENDPOINT_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSMANAGEMENT_CONSOLE_BASIC_USER_ACCESS">AWSMANAGEMENT_CONSOLE_BASIC_USER_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSMANAGEMENT_CONSOLE_ADMINISTRATOR_ACCESS">AWSMANAGEMENT_CONSOLE_ADMINISTRATOR_ACCESS</a></code> | *No description.* |
 
 ---
 
@@ -3256,11 +3251,6 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 ---
 
 
-##### `AWSOPS_WORKS_INSTANCE_REGISTRATION` <a name="AWSOPS_WORKS_INSTANCE_REGISTRATION" id="cdk-common.AWSManagedPolicies.AWSOPS_WORKS_INSTANCE_REGISTRATION"></a>
-
----
-
-
 ##### `AWSCODE_PIPELINE_APPROVER_ACCESS` <a name="AWSCODE_PIPELINE_APPROVER_ACCESS" id="cdk-common.AWSManagedPolicies.AWSCODE_PIPELINE_APPROVER_ACCESS"></a>
 
 ---
@@ -3337,16 +3327,6 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AMAZON_APP_STREAM_SERVICE_ACCESS` <a name="AMAZON_APP_STREAM_SERVICE_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_APP_STREAM_SERVICE_ACCESS"></a>
-
----
-
-
-##### `AWSOPS_WORKS_CM_INSTANCE_PROFILE_ROLE` <a name="AWSOPS_WORKS_CM_INSTANCE_PROFILE_ROLE" id="cdk-common.AWSManagedPolicies.AWSOPS_WORKS_CM_INSTANCE_PROFILE_ROLE"></a>
-
----
-
-
-##### `AWSOPS_WORKS_CM_SERVICE_ROLE` <a name="AWSOPS_WORKS_CM_SERVICE_ROLE" id="cdk-common.AWSManagedPolicies.AWSOPS_WORKS_CM_SERVICE_ROLE"></a>
 
 ---
 
@@ -3517,11 +3497,6 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSMARKETPLACE_GET_ENTITLEMENTS` <a name="AWSMARKETPLACE_GET_ENTITLEMENTS" id="cdk-common.AWSManagedPolicies.AWSMARKETPLACE_GET_ENTITLEMENTS"></a>
-
----
-
-
-##### `AWSOPS_WORKS_CLOUD_WATCH_LOGS` <a name="AWSOPS_WORKS_CLOUD_WATCH_LOGS" id="cdk-common.AWSManagedPolicies.AWSOPS_WORKS_CLOUD_WATCH_LOGS"></a>
 
 ---
 
@@ -4812,16 +4787,6 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSCONFIG_MULTI_ACCOUNT_SETUP_POLICY` <a name="AWSCONFIG_MULTI_ACCOUNT_SETUP_POLICY" id="cdk-common.AWSManagedPolicies.AWSCONFIG_MULTI_ACCOUNT_SETUP_POLICY"></a>
-
----
-
-
-##### `AWSOPSWORKSREGISTERCLI_ONPREMISES` <a name="AWSOPSWORKSREGISTERCLI_ONPREMISES" id="cdk-common.AWSManagedPolicies.AWSOPSWORKSREGISTERCLI_ONPREMISES"></a>
-
----
-
-
-##### `AWSOPSWORKSREGISTERCLI_EC2` <a name="AWSOPSWORKSREGISTERCLI_EC2" id="cdk-common.AWSManagedPolicies.AWSOPSWORKSREGISTERCLI_EC2"></a>
 
 ---
 
@@ -6202,11 +6167,6 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSDIRECT_CONNECT_SERVICE_ROLE_POLICY` <a name="AWSDIRECT_CONNECT_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSDIRECT_CONNECT_SERVICE_ROLE_POLICY"></a>
-
----
-
-
-##### `AWSOPSWORKS_FULLACCESS` <a name="AWSOPSWORKS_FULLACCESS" id="cdk-common.AWSManagedPolicies.AWSOPSWORKS_FULLACCESS"></a>
 
 ---
 
@@ -9317,6 +9277,16 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `ROSASHARED_VPC_ENDPOINT_POLICY` <a name="ROSASHARED_VPC_ENDPOINT_POLICY" id="cdk-common.AWSManagedPolicies.ROSASHARED_VPC_ENDPOINT_POLICY"></a>
+
+---
+
+
+##### `AWSMANAGEMENT_CONSOLE_BASIC_USER_ACCESS` <a name="AWSMANAGEMENT_CONSOLE_BASIC_USER_ACCESS" id="cdk-common.AWSManagedPolicies.AWSMANAGEMENT_CONSOLE_BASIC_USER_ACCESS"></a>
+
+---
+
+
+##### `AWSMANAGEMENT_CONSOLE_ADMINISTRATOR_ACCESS` <a name="AWSMANAGEMENT_CONSOLE_ADMINISTRATOR_ACCESS" id="cdk-common.AWSManagedPolicies.AWSMANAGEMENT_CONSOLE_ADMINISTRATOR_ACCESS"></a>
 
 ---
 
