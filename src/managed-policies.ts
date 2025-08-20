@@ -1379,4 +1379,10 @@ export enum AWSManagedPolicies {
   ROSASHARED_VPC_ENDPOINT_POLICY = 'ROSASharedVPCEndpointPolicy',
   AWSMANAGEMENT_CONSOLE_BASIC_USER_ACCESS = 'AWSManagementConsoleBasicUserAccess',
   AWSMANAGEMENT_CONSOLE_ADMINISTRATOR_ACCESS = 'job-function/AWSManagementConsoleAdministratorAccess',
+  SAGE_MAKER_STUDIO_USER_IAM_DEFAULT_EXECUTION_POLICY = 'SageMakerStudioUserIAMDefaultExecutionPolicy',
+  SAGE_MAKER_STUDIO_ADMIN_IAM_PERMISSIVE_EXECUTION_POLICY = 'SageMakerStudioAdminIAMPermissiveExecutionPolicy',
+  SAGE_MAKER_STUDIO_ADMIN_IAM_DEFAULT_EXECUTION_POLICY = 'SageMakerStudioAdminIAMDefaultExecutionPolicy',
+  SAGE_MAKER_STUDIO_USER_IAM_PERMISSIVE_EXECUTION_POLICY = 'SageMakerStudioUserIAMPermissiveExecutionPolicy',
+  SAGE_MAKER_STUDIO_USER_IAM_CONSOLE_POLICY = 'SageMakerStudioUserIAMConsolePolicy',
+  SAGE_MAKER_STUDIO_ADMIN_IAM_CONSOLE_POLICY = 'SageMakerStudioAdminIAMConsolePolicy',
 };
