@@ -1385,4 +1385,5 @@ export enum AWSManagedPolicies {
   SAGE_MAKER_STUDIO_USER_IAM_PERMISSIVE_EXECUTION_POLICY = 'SageMakerStudioUserIAMPermissiveExecutionPolicy',
   SAGE_MAKER_STUDIO_USER_IAM_CONSOLE_POLICY = 'SageMakerStudioUserIAMConsolePolicy',
   SAGE_MAKER_STUDIO_ADMIN_IAM_CONSOLE_POLICY = 'SageMakerStudioAdminIAMConsolePolicy',
+  AMAZON_SAGE_MAKER_HYPER_POD_TRAINING_OPERATOR_ACCESS = 'AmazonSageMakerHyperPodTrainingOperatorAccess',
 };
