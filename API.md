@@ -2399,6 +2399,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_USER_IAM_PERMISSIVE_EXECUTION_POLICY">SAGE_MAKER_STUDIO_USER_IAM_PERMISSIVE_EXECUTION_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_USER_IAM_CONSOLE_POLICY">SAGE_MAKER_STUDIO_USER_IAM_CONSOLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_ADMIN_IAM_CONSOLE_POLICY">SAGE_MAKER_STUDIO_ADMIN_IAM_CONSOLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_HYPER_POD_TRAINING_OPERATOR_ACCESS">AMAZON_SAGE_MAKER_HYPER_POD_TRAINING_OPERATOR_ACCESS</a></code> | *No description.* |
 
 ---
 
@@ -9323,6 +9324,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `SAGE_MAKER_STUDIO_ADMIN_IAM_CONSOLE_POLICY` <a name="SAGE_MAKER_STUDIO_ADMIN_IAM_CONSOLE_POLICY" id="cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_ADMIN_IAM_CONSOLE_POLICY"></a>
+
+---
+
+
+##### `AMAZON_SAGE_MAKER_HYPER_POD_TRAINING_OPERATOR_ACCESS` <a name="AMAZON_SAGE_MAKER_HYPER_POD_TRAINING_OPERATOR_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_HYPER_POD_TRAINING_OPERATOR_ACCESS"></a>
 
 ---
 
