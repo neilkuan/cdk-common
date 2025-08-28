@@ -1386,4 +1386,5 @@ export enum AWSManagedPolicies {
   SAGE_MAKER_STUDIO_USER_IAM_CONSOLE_POLICY = 'SageMakerStudioUserIAMConsolePolicy',
   SAGE_MAKER_STUDIO_ADMIN_IAM_CONSOLE_POLICY = 'SageMakerStudioAdminIAMConsolePolicy',
   AMAZON_SAGE_MAKER_HYPER_POD_TRAINING_OPERATOR_ACCESS = 'AmazonSageMakerHyperPodTrainingOperatorAccess',
+  AMAZON_E_C2_IMAGE_REFERENCES_ACCESS_POLICY = 'AmazonEC2ImageReferencesAccessPolicy',
 };
