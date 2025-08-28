@@ -2400,6 +2400,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_USER_IAM_CONSOLE_POLICY">SAGE_MAKER_STUDIO_USER_IAM_CONSOLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.SAGE_MAKER_STUDIO_ADMIN_IAM_CONSOLE_POLICY">SAGE_MAKER_STUDIO_ADMIN_IAM_CONSOLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_HYPER_POD_TRAINING_OPERATOR_ACCESS">AMAZON_SAGE_MAKER_HYPER_POD_TRAINING_OPERATOR_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_E_C2_IMAGE_REFERENCES_ACCESS_POLICY">AMAZON_E_C2_IMAGE_REFERENCES_ACCESS_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -9329,6 +9330,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AMAZON_SAGE_MAKER_HYPER_POD_TRAINING_OPERATOR_ACCESS` <a name="AMAZON_SAGE_MAKER_HYPER_POD_TRAINING_OPERATOR_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_HYPER_POD_TRAINING_OPERATOR_ACCESS"></a>
+
+---
+
+
+##### `AMAZON_E_C2_IMAGE_REFERENCES_ACCESS_POLICY` <a name="AMAZON_E_C2_IMAGE_REFERENCES_ACCESS_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_E_C2_IMAGE_REFERENCES_ACCESS_POLICY"></a>
 
 ---
 
