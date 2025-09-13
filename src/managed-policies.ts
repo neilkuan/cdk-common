@@ -1388,4 +1388,5 @@ export enum AWSManagedPolicies {
   AMAZON_SAGE_MAKER_HYPER_POD_TRAINING_OPERATOR_ACCESS = 'AmazonSageMakerHyperPodTrainingOperatorAccess',
   AMAZON_E_C2_IMAGE_REFERENCES_ACCESS_POLICY = 'AmazonEC2ImageReferencesAccessPolicy',
   AWSTRANSFORM_APPLICATION_DEPLOYMENT_POLICY = 'service-role/AWSTransformApplicationDeploymentPolicy',
+  AWSBILLING_SERVICE_ROLE_POLICY = 'aws-service-role/AWSBillingServiceRolePolicy',
 };
