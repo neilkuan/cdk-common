@@ -2402,6 +2402,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_HYPER_POD_TRAINING_OPERATOR_ACCESS">AMAZON_SAGE_MAKER_HYPER_POD_TRAINING_OPERATOR_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_E_C2_IMAGE_REFERENCES_ACCESS_POLICY">AMAZON_E_C2_IMAGE_REFERENCES_ACCESS_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSTRANSFORM_APPLICATION_DEPLOYMENT_POLICY">AWSTRANSFORM_APPLICATION_DEPLOYMENT_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSBILLING_SERVICE_ROLE_POLICY">AWSBILLING_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -9341,6 +9342,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSTRANSFORM_APPLICATION_DEPLOYMENT_POLICY` <a name="AWSTRANSFORM_APPLICATION_DEPLOYMENT_POLICY" id="cdk-common.AWSManagedPolicies.AWSTRANSFORM_APPLICATION_DEPLOYMENT_POLICY"></a>
+
+---
+
+
+##### `AWSBILLING_SERVICE_ROLE_POLICY` <a name="AWSBILLING_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSBILLING_SERVICE_ROLE_POLICY"></a>
 
 ---
 
