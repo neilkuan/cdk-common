@@ -1389,4 +1389,5 @@ export enum AWSManagedPolicies {
   AMAZON_E_C2_IMAGE_REFERENCES_ACCESS_POLICY = 'AmazonEC2ImageReferencesAccessPolicy',
   AWSTRANSFORM_APPLICATION_DEPLOYMENT_POLICY = 'service-role/AWSTransformApplicationDeploymentPolicy',
   AWSBILLING_SERVICE_ROLE_POLICY = 'aws-service-role/AWSBillingServiceRolePolicy',
+  AWSOBSERVABILITY_ADMIN_LOGS_CENTRALIZATION_SERVICE_ROLE_POLICY = 'aws-service-role/AWSObservabilityAdminLogsCentralizationServiceRolePolicy',
 };
