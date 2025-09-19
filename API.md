@@ -1354,8 +1354,6 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSFMADMIN_FULL_ACCESS">AWSFMADMIN_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSFMADMIN_READ_ONLY_ACCESS">AWSFMADMIN_READ_ONLY_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSFMMEMBER_READ_ONLY_ACCESS">AWSFMMEMBER_READ_ONLY_ACCESS</a></code> | *No description.* |
-| <code><a href="#cdk-common.AWSManagedPolicies.AWSIO_T1_CLICK_READ_ONLY_ACCESS">AWSIO_T1_CLICK_READ_ONLY_ACCESS</a></code> | *No description.* |
-| <code><a href="#cdk-common.AWSManagedPolicies.AWSIO_T1_CLICK_FULL_ACCESS">AWSIO_T1_CLICK_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EKS_CLUSTER_POLICY">AMAZON_EKS_CLUSTER_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZONEKS_CNI_POLICY">AMAZONEKS_CNI_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EKS_SERVICE_POLICY">AMAZON_EKS_SERVICE_POLICY</a></code> | *No description.* |
@@ -4103,16 +4101,6 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSFMMEMBER_READ_ONLY_ACCESS` <a name="AWSFMMEMBER_READ_ONLY_ACCESS" id="cdk-common.AWSManagedPolicies.AWSFMMEMBER_READ_ONLY_ACCESS"></a>
-
----
-
-
-##### `AWSIO_T1_CLICK_READ_ONLY_ACCESS` <a name="AWSIO_T1_CLICK_READ_ONLY_ACCESS" id="cdk-common.AWSManagedPolicies.AWSIO_T1_CLICK_READ_ONLY_ACCESS"></a>
-
----
-
-
-##### `AWSIO_T1_CLICK_FULL_ACCESS` <a name="AWSIO_T1_CLICK_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.AWSIO_T1_CLICK_FULL_ACCESS"></a>
 
 ---
 
