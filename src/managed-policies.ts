@@ -340,8 +340,6 @@ export enum AWSManagedPolicies {
   AWSFMADMIN_FULL_ACCESS = 'AWSFMAdminFullAccess',
   AWSFMADMIN_READ_ONLY_ACCESS = 'AWSFMAdminReadOnlyAccess',
   AWSFMMEMBER_READ_ONLY_ACCESS = 'AWSFMMemberReadOnlyAccess',
-  AWSIO_T1_CLICK_READ_ONLY_ACCESS = 'AWSIoT1ClickReadOnlyAccess',
-  AWSIO_T1_CLICK_FULL_ACCESS = 'AWSIoT1ClickFullAccess',
   AMAZON_EKS_CLUSTER_POLICY = 'AmazonEKSClusterPolicy',
   AMAZONEKS_CNI_POLICY = 'AmazonEKS_CNI_Policy',
   AMAZON_EKS_SERVICE_POLICY = 'AmazonEKSServicePolicy',
