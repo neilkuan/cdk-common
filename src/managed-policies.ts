@@ -1388,4 +1388,5 @@ export enum AWSManagedPolicies {
   AWSTRANSFORM_APPLICATION_DEPLOYMENT_POLICY = 'service-role/AWSTransformApplicationDeploymentPolicy',
   AWSBILLING_SERVICE_ROLE_POLICY = 'aws-service-role/AWSBillingServiceRolePolicy',
   AWSOBSERVABILITY_ADMIN_LOGS_CENTRALIZATION_SERVICE_ROLE_POLICY = 'aws-service-role/AWSObservabilityAdminLogsCentralizationServiceRolePolicy',
+  BEDROCK_AGENT_CORE_NETWORK_SERVICE_ROLE_POLICY = 'aws-service-role/BedrockAgentCoreNetworkServiceRolePolicy',
 };
