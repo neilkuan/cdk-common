@@ -1389,4 +1389,6 @@ export enum AWSManagedPolicies {
   AWSBILLING_SERVICE_ROLE_POLICY = 'aws-service-role/AWSBillingServiceRolePolicy',
   AWSOBSERVABILITY_ADMIN_LOGS_CENTRALIZATION_SERVICE_ROLE_POLICY = 'aws-service-role/AWSObservabilityAdminLogsCentralizationServiceRolePolicy',
   BEDROCK_AGENT_CORE_NETWORK_SERVICE_ROLE_POLICY = 'aws-service-role/BedrockAgentCoreNetworkServiceRolePolicy',
+  AMAZON_ECS_INFRASTRUCTURE_ROLE_POLICY_FOR_MANAGED_INSTANCES = 'AmazonECSInfrastructureRolePolicyForManagedInstances',
+  AMAZON_ECS_INSTANCE_ROLE_POLICY_FOR_MANAGED_INSTANCES = 'AmazonECSInstanceRolePolicyForManagedInstances',
 };
