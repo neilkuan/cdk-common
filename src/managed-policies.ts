@@ -1391,4 +1391,7 @@ export enum AWSManagedPolicies {
   BEDROCK_AGENT_CORE_NETWORK_SERVICE_ROLE_POLICY = 'aws-service-role/BedrockAgentCoreNetworkServiceRolePolicy',
   AMAZON_ECS_INFRASTRUCTURE_ROLE_POLICY_FOR_MANAGED_INSTANCES = 'AmazonECSInfrastructureRolePolicyForManagedInstances',
   AMAZON_ECS_INSTANCE_ROLE_POLICY_FOR_MANAGED_INSTANCES = 'AmazonECSInstanceRolePolicyForManagedInstances',
+  AWSTRANSFORM_APPLICATION_ECS_DEPLOYMENT_POLICY = 'service-role/AWSTransformApplicationECSDeploymentPolicy',
+  AWSCONTROL_TOWER_IDENTITY_CENTER_MANAGEMENT_POLICY = 'service-role/AWSControlTowerIdentityCenterManagementPolicy',
+  AWSEC2_CAPACITY_MANAGER_SERVICE_ROLE_POLICY = 'aws-service-role/AWSEC2CapacityManagerServiceRolePolicy',
 };
