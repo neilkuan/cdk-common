@@ -1396,4 +1396,5 @@ export enum AWSManagedPolicies {
   AWSEC2_CAPACITY_MANAGER_SERVICE_ROLE_POLICY = 'aws-service-role/AWSEC2CapacityManagerServiceRolePolicy',
   AIOPS_ASSISTANT_INCIDENT_REPORT_POLICY = 'AIOpsAssistantIncidentReportPolicy',
   BEDROCK_AGENT_CORE_RUNTIME_IDENTITY_SERVICE_ROLE_POLICY = 'aws-service-role/BedrockAgentCoreRuntimeIdentityServiceRolePolicy',
+  DYNAMO_DB_GLOBAL_TABLE_SETTINGS_MANAGEMENT_SERVICE_ROLE_POLICY = 'aws-service-role/DynamoDBGlobalTableSettingsManagementServiceRolePolicy',
 };
