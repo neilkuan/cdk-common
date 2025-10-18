@@ -2411,6 +2411,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AIOPS_ASSISTANT_INCIDENT_REPORT_POLICY">AIOPS_ASSISTANT_INCIDENT_REPORT_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.BEDROCK_AGENT_CORE_RUNTIME_IDENTITY_SERVICE_ROLE_POLICY">BEDROCK_AGENT_CORE_RUNTIME_IDENTITY_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.DYNAMO_DB_GLOBAL_TABLE_SETTINGS_MANAGEMENT_SERVICE_ROLE_POLICY">DYNAMO_DB_GLOBAL_TABLE_SETTINGS_MANAGEMENT_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.RTBFABRIC_SERVICE_ROLE_POLICY">RTBFABRIC_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -9395,6 +9396,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `DYNAMO_DB_GLOBAL_TABLE_SETTINGS_MANAGEMENT_SERVICE_ROLE_POLICY` <a name="DYNAMO_DB_GLOBAL_TABLE_SETTINGS_MANAGEMENT_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.DYNAMO_DB_GLOBAL_TABLE_SETTINGS_MANAGEMENT_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `RTBFABRIC_SERVICE_ROLE_POLICY` <a name="RTBFABRIC_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.RTBFABRIC_SERVICE_ROLE_POLICY"></a>
 
 ---
 
