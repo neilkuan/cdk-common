@@ -1398,4 +1398,5 @@ export enum AWSManagedPolicies {
   BEDROCK_AGENT_CORE_RUNTIME_IDENTITY_SERVICE_ROLE_POLICY = 'aws-service-role/BedrockAgentCoreRuntimeIdentityServiceRolePolicy',
   DYNAMO_DB_GLOBAL_TABLE_SETTINGS_MANAGEMENT_SERVICE_ROLE_POLICY = 'aws-service-role/DynamoDBGlobalTableSettingsManagementServiceRolePolicy',
   RTBFABRIC_SERVICE_ROLE_POLICY = 'aws-service-role/RTBFabricServiceRolePolicy',
+  SAGE_MAKER_STUDIO_EMR_CONTAINERS_SYSTEM_NAMESPACE_ROLE_POLICY = 'service-role/SageMakerStudioEMRContainersSystemNamespaceRolePolicy',
 };
