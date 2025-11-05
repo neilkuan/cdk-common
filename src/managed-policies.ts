@@ -1399,4 +1399,5 @@ export enum AWSManagedPolicies {
   DYNAMO_DB_GLOBAL_TABLE_SETTINGS_MANAGEMENT_SERVICE_ROLE_POLICY = 'aws-service-role/DynamoDBGlobalTableSettingsManagementServiceRolePolicy',
   RTBFABRIC_SERVICE_ROLE_POLICY = 'aws-service-role/RTBFabricServiceRolePolicy',
   SAGE_MAKER_STUDIO_EMR_CONTAINERS_SYSTEM_NAMESPACE_ROLE_POLICY = 'service-role/SageMakerStudioEMRContainersSystemNamespaceRolePolicy',
+  AMAZON_APPLICATION_RECOVERY_CONTROLLER_REGION_SWITCH_PLAN_EXECUTION_POLICY = 'AmazonApplicationRecoveryControllerRegionSwitchPlanExecutionPolicy',
 };
