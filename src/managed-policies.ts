@@ -1400,4 +1400,7 @@ export enum AWSManagedPolicies {
   RTBFABRIC_SERVICE_ROLE_POLICY = 'aws-service-role/RTBFabricServiceRolePolicy',
   SAGE_MAKER_STUDIO_EMR_CONTAINERS_SYSTEM_NAMESPACE_ROLE_POLICY = 'service-role/SageMakerStudioEMRContainersSystemNamespaceRolePolicy',
   AMAZON_APPLICATION_RECOVERY_CONTROLLER_REGION_SWITCH_PLAN_EXECUTION_POLICY = 'AmazonApplicationRecoveryControllerRegionSwitchPlanExecutionPolicy',
+  AWSAPPLICATION_MIGRATION_NETWORK_MIGRATION_CUSTOM_RESOURCE = 'AWSApplicationMigrationNetworkMigrationCustomResource',
+  AWSSECRETS_MANAGER_CLIENT_READ_ONLY_ACCESS = 'AWSSecretsManagerClientReadOnlyAccess',
+  AWSCONTROL_TOWER_CLOUD_TRAIL_ROLE_POLICY = 'service-role/AWSControlTowerCloudTrailRolePolicy',
 };
