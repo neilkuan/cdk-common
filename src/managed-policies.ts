@@ -1403,4 +1403,5 @@ export enum AWSManagedPolicies {
   AWSAPPLICATION_MIGRATION_NETWORK_MIGRATION_CUSTOM_RESOURCE = 'AWSApplicationMigrationNetworkMigrationCustomResource',
   AWSSECRETS_MANAGER_CLIENT_READ_ONLY_ACCESS = 'AWSSecretsManagerClientReadOnlyAccess',
   AWSCONTROL_TOWER_CLOUD_TRAIL_ROLE_POLICY = 'service-role/AWSControlTowerCloudTrailRolePolicy',
+  AWSAPPLICATION_MIGRATION_NETWORK_MIGRATION_MULTI_ACCOUNT = 'AWSApplicationMigrationNetworkMigrationMultiAccount',
 };
