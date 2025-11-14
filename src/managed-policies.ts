@@ -1404,4 +1404,5 @@ export enum AWSManagedPolicies {
   AWSSECRETS_MANAGER_CLIENT_READ_ONLY_ACCESS = 'AWSSecretsManagerClientReadOnlyAccess',
   AWSCONTROL_TOWER_CLOUD_TRAIL_ROLE_POLICY = 'service-role/AWSControlTowerCloudTrailRolePolicy',
   AWSAPPLICATION_MIGRATION_NETWORK_MIGRATION_MULTI_ACCOUNT = 'AWSApplicationMigrationNetworkMigrationMultiAccount',
+  AMAZON_ECS_INFRASTRUCTURE_ROLEFOR_EXPRESS_GATEWAY_SERVICES = 'service-role/AmazonECSInfrastructureRoleforExpressGatewayServices',
 };
