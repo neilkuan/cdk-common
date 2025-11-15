@@ -2433,6 +2433,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSCONTROL_TOWER_CLOUD_TRAIL_ROLE_POLICY">AWSCONTROL_TOWER_CLOUD_TRAIL_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSAPPLICATION_MIGRATION_NETWORK_MIGRATION_MULTI_ACCOUNT">AWSAPPLICATION_MIGRATION_NETWORK_MIGRATION_MULTI_ACCOUNT</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_ECS_INFRASTRUCTURE_ROLEFOR_EXPRESS_GATEWAY_SERVICES">AMAZON_ECS_INFRASTRUCTURE_ROLEFOR_EXPRESS_GATEWAY_SERVICES</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSEC2_SQL_HA_SERVICE_ROLE_POLICY">AWSEC2_SQL_HA_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSEC2_SQL_HA_INSTANCE_POLICY">AWSEC2_SQL_HA_INSTANCE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -9457,6 +9459,16 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AMAZON_ECS_INFRASTRUCTURE_ROLEFOR_EXPRESS_GATEWAY_SERVICES` <a name="AMAZON_ECS_INFRASTRUCTURE_ROLEFOR_EXPRESS_GATEWAY_SERVICES" id="cdk-common.AWSManagedPolicies.AMAZON_ECS_INFRASTRUCTURE_ROLEFOR_EXPRESS_GATEWAY_SERVICES"></a>
+
+---
+
+
+##### `AWSEC2_SQL_HA_SERVICE_ROLE_POLICY` <a name="AWSEC2_SQL_HA_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSEC2_SQL_HA_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `AWSEC2_SQL_HA_INSTANCE_POLICY` <a name="AWSEC2_SQL_HA_INSTANCE_POLICY" id="cdk-common.AWSManagedPolicies.AWSEC2_SQL_HA_INSTANCE_POLICY"></a>
 
 ---
 
