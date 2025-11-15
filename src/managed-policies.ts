@@ -1405,4 +1405,6 @@ export enum AWSManagedPolicies {
   AWSCONTROL_TOWER_CLOUD_TRAIL_ROLE_POLICY = 'service-role/AWSControlTowerCloudTrailRolePolicy',
   AWSAPPLICATION_MIGRATION_NETWORK_MIGRATION_MULTI_ACCOUNT = 'AWSApplicationMigrationNetworkMigrationMultiAccount',
   AMAZON_ECS_INFRASTRUCTURE_ROLEFOR_EXPRESS_GATEWAY_SERVICES = 'service-role/AmazonECSInfrastructureRoleforExpressGatewayServices',
+  AWSEC2_SQL_HA_SERVICE_ROLE_POLICY = 'aws-service-role/AWSEC2SqlHaServiceRolePolicy',
+  AWSEC2_SQL_HA_INSTANCE_POLICY = 'AWSEC2SqlHaInstancePolicy',
 };
