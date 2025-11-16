@@ -2435,6 +2435,9 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_ECS_INFRASTRUCTURE_ROLEFOR_EXPRESS_GATEWAY_SERVICES">AMAZON_ECS_INFRASTRUCTURE_ROLEFOR_EXPRESS_GATEWAY_SERVICES</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSEC2_SQL_HA_SERVICE_ROLE_POLICY">AWSEC2_SQL_HA_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSEC2_SQL_HA_INSTANCE_POLICY">AWSEC2_SQL_HA_INSTANCE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSNATGATEWAY_SERVICE_ROLE_POLICY">AWSNATGATEWAY_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_ATHENA_SERVICE_ROLE_POLICY">AMAZON_ATHENA_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.COMPUTE_OPTIMIZER_AUTOMATION_SERVICE_ROLE_POLICY">COMPUTE_OPTIMIZER_AUTOMATION_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -9469,6 +9472,21 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSEC2_SQL_HA_INSTANCE_POLICY` <a name="AWSEC2_SQL_HA_INSTANCE_POLICY" id="cdk-common.AWSManagedPolicies.AWSEC2_SQL_HA_INSTANCE_POLICY"></a>
+
+---
+
+
+##### `AWSNATGATEWAY_SERVICE_ROLE_POLICY` <a name="AWSNATGATEWAY_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSNATGATEWAY_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `AMAZON_ATHENA_SERVICE_ROLE_POLICY` <a name="AMAZON_ATHENA_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_ATHENA_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `COMPUTE_OPTIMIZER_AUTOMATION_SERVICE_ROLE_POLICY` <a name="COMPUTE_OPTIMIZER_AUTOMATION_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.COMPUTE_OPTIMIZER_AUTOMATION_SERVICE_ROLE_POLICY"></a>
 
 ---
 

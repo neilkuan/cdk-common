@@ -1407,4 +1407,7 @@ export enum AWSManagedPolicies {
   AMAZON_ECS_INFRASTRUCTURE_ROLEFOR_EXPRESS_GATEWAY_SERVICES = 'service-role/AmazonECSInfrastructureRoleforExpressGatewayServices',
   AWSEC2_SQL_HA_SERVICE_ROLE_POLICY = 'aws-service-role/AWSEC2SqlHaServiceRolePolicy',
   AWSEC2_SQL_HA_INSTANCE_POLICY = 'AWSEC2SqlHaInstancePolicy',
+  AWSNATGATEWAY_SERVICE_ROLE_POLICY = 'aws-service-role/AWSNATGatewayServiceRolePolicy',
+  AMAZON_ATHENA_SERVICE_ROLE_POLICY = 'aws-service-role/AmazonAthenaServiceRolePolicy',
+  COMPUTE_OPTIMIZER_AUTOMATION_SERVICE_ROLE_POLICY = 'aws-service-role/ComputeOptimizerAutomationServiceRolePolicy',
 };
