@@ -1410,4 +1410,5 @@ export enum AWSManagedPolicies {
   AWSNATGATEWAY_SERVICE_ROLE_POLICY = 'aws-service-role/AWSNATGatewayServiceRolePolicy',
   AMAZON_ATHENA_SERVICE_ROLE_POLICY = 'aws-service-role/AmazonAthenaServiceRolePolicy',
   COMPUTE_OPTIMIZER_AUTOMATION_SERVICE_ROLE_POLICY = 'aws-service-role/ComputeOptimizerAutomationServiceRolePolicy',
+  AMAZON_MWAA_SERVERLESS_SERVICE_ROLE_POLICY = 'aws-service-role/AmazonMWAAServerlessServiceRolePolicy',
 };

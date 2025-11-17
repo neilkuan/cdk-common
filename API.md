@@ -2438,6 +2438,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSNATGATEWAY_SERVICE_ROLE_POLICY">AWSNATGATEWAY_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_ATHENA_SERVICE_ROLE_POLICY">AMAZON_ATHENA_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.COMPUTE_OPTIMIZER_AUTOMATION_SERVICE_ROLE_POLICY">COMPUTE_OPTIMIZER_AUTOMATION_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_MWAA_SERVERLESS_SERVICE_ROLE_POLICY">AMAZON_MWAA_SERVERLESS_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -9487,6 +9488,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `COMPUTE_OPTIMIZER_AUTOMATION_SERVICE_ROLE_POLICY` <a name="COMPUTE_OPTIMIZER_AUTOMATION_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.COMPUTE_OPTIMIZER_AUTOMATION_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `AMAZON_MWAA_SERVERLESS_SERVICE_ROLE_POLICY` <a name="AMAZON_MWAA_SERVERLESS_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_MWAA_SERVERLESS_SERVICE_ROLE_POLICY"></a>
 
 ---
 
