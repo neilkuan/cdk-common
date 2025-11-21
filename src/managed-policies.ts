@@ -1411,4 +1411,9 @@ export enum AWSManagedPolicies {
   AMAZON_ATHENA_SERVICE_ROLE_POLICY = 'aws-service-role/AmazonAthenaServiceRolePolicy',
   COMPUTE_OPTIMIZER_AUTOMATION_SERVICE_ROLE_POLICY = 'aws-service-role/ComputeOptimizerAutomationServiceRolePolicy',
   AMAZON_MWAA_SERVERLESS_SERVICE_ROLE_POLICY = 'aws-service-role/AmazonMWAAServerlessServiceRolePolicy',
+  AMAZON_SAGE_MAKER_SPACES_ROUTER_POLICY = 'AmazonSageMakerSpacesRouterPolicy',
+  AMAZON_SAGE_MAKER_SPACES_CONTROLLER_POLICY = 'AmazonSageMakerSpacesControllerPolicy',
+  AWSPARTNER_CENTRAL_CHANNEL_HANDSHAKE_APPROVAL_MANAGEMENT = 'AWSPartnerCentralChannelHandshakeApprovalManagement',
+  AWSPARTNER_CENTRAL_CHANNEL_MANAGEMENT = 'AWSPartnerCentralChannelManagement',
+  SIGN_IN_LOCAL_DEVELOPMENT_ACCESS = 'SignInLocalDevelopmentAccess',
 };
