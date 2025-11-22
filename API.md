@@ -2444,6 +2444,9 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSPARTNER_CENTRAL_CHANNEL_HANDSHAKE_APPROVAL_MANAGEMENT">AWSPARTNER_CENTRAL_CHANNEL_HANDSHAKE_APPROVAL_MANAGEMENT</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSPARTNER_CENTRAL_CHANNEL_MANAGEMENT">AWSPARTNER_CENTRAL_CHANNEL_MANAGEMENT</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.SIGN_IN_LOCAL_DEVELOPMENT_ACCESS">SIGN_IN_LOCAL_DEVELOPMENT_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSBACKUP_SERVICE_ROLE_POLICY_FOR_SCANS">AWSBACKUP_SERVICE_ROLE_POLICY_FOR_SCANS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSBACKUP_GUARD_DUTY_ROLE_POLICY_FOR_SCANS">AWSBACKUP_GUARD_DUTY_ROLE_POLICY_FOR_SCANS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EKSMCP_READ_ONLY_ACCESS">AMAZON_EKSMCP_READ_ONLY_ACCESS</a></code> | *No description.* |
 
 ---
 
@@ -9523,6 +9526,21 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `SIGN_IN_LOCAL_DEVELOPMENT_ACCESS` <a name="SIGN_IN_LOCAL_DEVELOPMENT_ACCESS" id="cdk-common.AWSManagedPolicies.SIGN_IN_LOCAL_DEVELOPMENT_ACCESS"></a>
+
+---
+
+
+##### `AWSBACKUP_SERVICE_ROLE_POLICY_FOR_SCANS` <a name="AWSBACKUP_SERVICE_ROLE_POLICY_FOR_SCANS" id="cdk-common.AWSManagedPolicies.AWSBACKUP_SERVICE_ROLE_POLICY_FOR_SCANS"></a>
+
+---
+
+
+##### `AWSBACKUP_GUARD_DUTY_ROLE_POLICY_FOR_SCANS` <a name="AWSBACKUP_GUARD_DUTY_ROLE_POLICY_FOR_SCANS" id="cdk-common.AWSManagedPolicies.AWSBACKUP_GUARD_DUTY_ROLE_POLICY_FOR_SCANS"></a>
+
+---
+
+
+##### `AMAZON_EKSMCP_READ_ONLY_ACCESS` <a name="AMAZON_EKSMCP_READ_ONLY_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_EKSMCP_READ_ONLY_ACCESS"></a>
 
 ---
 

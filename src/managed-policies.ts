@@ -1416,4 +1416,7 @@ export enum AWSManagedPolicies {
   AWSPARTNER_CENTRAL_CHANNEL_HANDSHAKE_APPROVAL_MANAGEMENT = 'AWSPartnerCentralChannelHandshakeApprovalManagement',
   AWSPARTNER_CENTRAL_CHANNEL_MANAGEMENT = 'AWSPartnerCentralChannelManagement',
   SIGN_IN_LOCAL_DEVELOPMENT_ACCESS = 'SignInLocalDevelopmentAccess',
+  AWSBACKUP_SERVICE_ROLE_POLICY_FOR_SCANS = 'AWSBackupServiceRolePolicyForScans',
+  AWSBACKUP_GUARD_DUTY_ROLE_POLICY_FOR_SCANS = 'AWSBackupGuardDutyRolePolicyForScans',
+  AMAZON_EKSMCP_READ_ONLY_ACCESS = 'AmazonEKSMCPReadOnlyAccess',
 };
