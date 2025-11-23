@@ -2447,6 +2447,9 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSBACKUP_SERVICE_ROLE_POLICY_FOR_SCANS">AWSBACKUP_SERVICE_ROLE_POLICY_FOR_SCANS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSBACKUP_GUARD_DUTY_ROLE_POLICY_FOR_SCANS">AWSBACKUP_GUARD_DUTY_ROLE_POLICY_FOR_SCANS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EKSMCP_READ_ONLY_ACCESS">AMAZON_EKSMCP_READ_ONLY_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSMCP_SERVICE_ACTIONS_FULL_ACCESS">AWSMCP_SERVICE_ACTIONS_FULL_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_REDSHIFT_FEDERATED_AUTHORIZATION">AMAZON_REDSHIFT_FEDERATED_AUTHORIZATION</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSIDENTITY_CENTER_EXTERNAL_MANAGEMENT_POLICY">AWSIDENTITY_CENTER_EXTERNAL_MANAGEMENT_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -9541,6 +9544,21 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AMAZON_EKSMCP_READ_ONLY_ACCESS` <a name="AMAZON_EKSMCP_READ_ONLY_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_EKSMCP_READ_ONLY_ACCESS"></a>
+
+---
+
+
+##### `AWSMCP_SERVICE_ACTIONS_FULL_ACCESS` <a name="AWSMCP_SERVICE_ACTIONS_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.AWSMCP_SERVICE_ACTIONS_FULL_ACCESS"></a>
+
+---
+
+
+##### `AMAZON_REDSHIFT_FEDERATED_AUTHORIZATION` <a name="AMAZON_REDSHIFT_FEDERATED_AUTHORIZATION" id="cdk-common.AWSManagedPolicies.AMAZON_REDSHIFT_FEDERATED_AUTHORIZATION"></a>
+
+---
+
+
+##### `AWSIDENTITY_CENTER_EXTERNAL_MANAGEMENT_POLICY` <a name="AWSIDENTITY_CENTER_EXTERNAL_MANAGEMENT_POLICY" id="cdk-common.AWSManagedPolicies.AWSIDENTITY_CENTER_EXTERNAL_MANAGEMENT_POLICY"></a>
 
 ---
 
