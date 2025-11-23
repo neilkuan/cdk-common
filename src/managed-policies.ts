@@ -1419,4 +1419,7 @@ export enum AWSManagedPolicies {
   AWSBACKUP_SERVICE_ROLE_POLICY_FOR_SCANS = 'AWSBackupServiceRolePolicyForScans',
   AWSBACKUP_GUARD_DUTY_ROLE_POLICY_FOR_SCANS = 'AWSBackupGuardDutyRolePolicyForScans',
   AMAZON_EKSMCP_READ_ONLY_ACCESS = 'AmazonEKSMCPReadOnlyAccess',
+  AWSMCP_SERVICE_ACTIONS_FULL_ACCESS = 'AWSMcpServiceActionsFullAccess',
+  AMAZON_REDSHIFT_FEDERATED_AUTHORIZATION = 'AmazonRedshiftFederatedAuthorization',
+  AWSIDENTITY_CENTER_EXTERNAL_MANAGEMENT_POLICY = 'service-role/AWSIdentityCenterExternalManagementPolicy',
 };
