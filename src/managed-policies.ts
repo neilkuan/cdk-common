@@ -1422,4 +1422,5 @@ export enum AWSManagedPolicies {
   AWSMCP_SERVICE_ACTIONS_FULL_ACCESS = 'AWSMcpServiceActionsFullAccess',
   AMAZON_REDSHIFT_FEDERATED_AUTHORIZATION = 'AmazonRedshiftFederatedAuthorization',
   AWSIDENTITY_CENTER_EXTERNAL_MANAGEMENT_POLICY = 'service-role/AWSIdentityCenterExternalManagementPolicy',
+  NOVA_ACT_SERVICE_ROLE_POLICY = 'aws-service-role/NovaActServiceRolePolicy',
 };
