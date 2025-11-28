@@ -2450,6 +2450,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSMCP_SERVICE_ACTIONS_FULL_ACCESS">AWSMCP_SERVICE_ACTIONS_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_REDSHIFT_FEDERATED_AUTHORIZATION">AMAZON_REDSHIFT_FEDERATED_AUTHORIZATION</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSIDENTITY_CENTER_EXTERNAL_MANAGEMENT_POLICY">AWSIDENTITY_CENTER_EXTERNAL_MANAGEMENT_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.NOVA_ACT_SERVICE_ROLE_POLICY">NOVA_ACT_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -9559,6 +9560,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSIDENTITY_CENTER_EXTERNAL_MANAGEMENT_POLICY` <a name="AWSIDENTITY_CENTER_EXTERNAL_MANAGEMENT_POLICY" id="cdk-common.AWSManagedPolicies.AWSIDENTITY_CENTER_EXTERNAL_MANAGEMENT_POLICY"></a>
+
+---
+
+
+##### `NOVA_ACT_SERVICE_ROLE_POLICY` <a name="NOVA_ACT_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.NOVA_ACT_SERVICE_ROLE_POLICY"></a>
 
 ---
 
