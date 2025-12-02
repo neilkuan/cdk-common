@@ -2451,6 +2451,9 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_REDSHIFT_FEDERATED_AUTHORIZATION">AMAZON_REDSHIFT_FEDERATED_AUTHORIZATION</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSIDENTITY_CENTER_EXTERNAL_MANAGEMENT_POLICY">AWSIDENTITY_CENTER_EXTERNAL_MANAGEMENT_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.NOVA_ACT_SERVICE_ROLE_POLICY">NOVA_ACT_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSLAMBDA_SERVICE_ROLE_POLICY">AWSLAMBDA_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSLAMBDA_MANAGED_E_C2_RESOURCE_OPERATOR">AWSLAMBDA_MANAGED_E_C2_RESOURCE_OPERATOR</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSPARTNER_CENTRAL_MARKETING_MANAGEMENT">AWSPARTNER_CENTRAL_MARKETING_MANAGEMENT</a></code> | *No description.* |
 
 ---
 
@@ -9565,6 +9568,21 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `NOVA_ACT_SERVICE_ROLE_POLICY` <a name="NOVA_ACT_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.NOVA_ACT_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `AWSLAMBDA_SERVICE_ROLE_POLICY` <a name="AWSLAMBDA_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSLAMBDA_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `AWSLAMBDA_MANAGED_E_C2_RESOURCE_OPERATOR` <a name="AWSLAMBDA_MANAGED_E_C2_RESOURCE_OPERATOR" id="cdk-common.AWSManagedPolicies.AWSLAMBDA_MANAGED_E_C2_RESOURCE_OPERATOR"></a>
+
+---
+
+
+##### `AWSPARTNER_CENTRAL_MARKETING_MANAGEMENT` <a name="AWSPARTNER_CENTRAL_MARKETING_MANAGEMENT" id="cdk-common.AWSManagedPolicies.AWSPARTNER_CENTRAL_MARKETING_MANAGEMENT"></a>
 
 ---
 
