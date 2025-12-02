@@ -1423,4 +1423,7 @@ export enum AWSManagedPolicies {
   AMAZON_REDSHIFT_FEDERATED_AUTHORIZATION = 'AmazonRedshiftFederatedAuthorization',
   AWSIDENTITY_CENTER_EXTERNAL_MANAGEMENT_POLICY = 'service-role/AWSIdentityCenterExternalManagementPolicy',
   NOVA_ACT_SERVICE_ROLE_POLICY = 'aws-service-role/NovaActServiceRolePolicy',
+  AWSLAMBDA_SERVICE_ROLE_POLICY = 'aws-service-role/AWSLambdaServiceRolePolicy',
+  AWSLAMBDA_MANAGED_E_C2_RESOURCE_OPERATOR = 'AWSLambdaManagedEC2ResourceOperator',
+  AWSPARTNER_CENTRAL_MARKETING_MANAGEMENT = 'AWSPartnerCentralMarketingManagement',
 };
