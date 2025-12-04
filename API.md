@@ -2454,6 +2454,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSLAMBDA_SERVICE_ROLE_POLICY">AWSLAMBDA_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSLAMBDA_MANAGED_E_C2_RESOURCE_OPERATOR">AWSLAMBDA_MANAGED_E_C2_RESOURCE_OPERATOR</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSPARTNER_CENTRAL_MARKETING_MANAGEMENT">AWSPARTNER_CENTRAL_MARKETING_MANAGEMENT</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.SECURITY_AGENT_WEB_APP_API_POLICY">SECURITY_AGENT_WEB_APP_API_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSLAMBDA_BASIC_DURABLE_EXECUTION_ROLE_POLICY">AWSLAMBDA_BASIC_DURABLE_EXECUTION_ROLE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -9583,6 +9585,16 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSPARTNER_CENTRAL_MARKETING_MANAGEMENT` <a name="AWSPARTNER_CENTRAL_MARKETING_MANAGEMENT" id="cdk-common.AWSManagedPolicies.AWSPARTNER_CENTRAL_MARKETING_MANAGEMENT"></a>
+
+---
+
+
+##### `SECURITY_AGENT_WEB_APP_API_POLICY` <a name="SECURITY_AGENT_WEB_APP_API_POLICY" id="cdk-common.AWSManagedPolicies.SECURITY_AGENT_WEB_APP_API_POLICY"></a>
+
+---
+
+
+##### `AWSLAMBDA_BASIC_DURABLE_EXECUTION_ROLE_POLICY` <a name="AWSLAMBDA_BASIC_DURABLE_EXECUTION_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSLAMBDA_BASIC_DURABLE_EXECUTION_ROLE_POLICY"></a>
 
 ---
 
