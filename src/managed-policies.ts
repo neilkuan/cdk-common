@@ -1426,4 +1426,6 @@ export enum AWSManagedPolicies {
   AWSLAMBDA_SERVICE_ROLE_POLICY = 'aws-service-role/AWSLambdaServiceRolePolicy',
   AWSLAMBDA_MANAGED_E_C2_RESOURCE_OPERATOR = 'AWSLambdaManagedEC2ResourceOperator',
   AWSPARTNER_CENTRAL_MARKETING_MANAGEMENT = 'AWSPartnerCentralMarketingManagement',
+  SECURITY_AGENT_WEB_APP_API_POLICY = 'service-role/SecurityAgentWebAppAPIPolicy',
+  AWSLAMBDA_BASIC_DURABLE_EXECUTION_ROLE_POLICY = 'service-role/AWSLambdaBasicDurableExecutionRolePolicy',
 };
