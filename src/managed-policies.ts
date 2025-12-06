@@ -1428,4 +1428,7 @@ export enum AWSManagedPolicies {
   AWSPARTNER_CENTRAL_MARKETING_MANAGEMENT = 'AWSPartnerCentralMarketingManagement',
   SECURITY_AGENT_WEB_APP_API_POLICY = 'service-role/SecurityAgentWebAppAPIPolicy',
   AWSLAMBDA_BASIC_DURABLE_EXECUTION_ROLE_POLICY = 'service-role/AWSLambdaBasicDurableExecutionRolePolicy',
+  AMAZON_BEDROCK_MANTLE_INFERENCE_ACCESS = 'AmazonBedrockMantleInferenceAccess',
+  AMAZON_BEDROCK_MANTLE_FULL_ACCESS = 'AmazonBedrockMantleFullAccess',
+  AMAZON_BEDROCK_MANTLE_READ_ONLY = 'AmazonBedrockMantleReadOnly',
 };
