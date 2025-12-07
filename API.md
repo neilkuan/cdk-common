@@ -2459,6 +2459,9 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_BEDROCK_MANTLE_INFERENCE_ACCESS">AMAZON_BEDROCK_MANTLE_INFERENCE_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_BEDROCK_MANTLE_FULL_ACCESS">AMAZON_BEDROCK_MANTLE_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_BEDROCK_MANTLE_READ_ONLY">AMAZON_BEDROCK_MANTLE_READ_ONLY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSTRANSFORM_CUSTOM_FULL_ACCESS">AWSTRANSFORM_CUSTOM_FULL_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSTRANSFORM_CUSTOM_EXECUTE_TRANSFORMATIONS">AWSTRANSFORM_CUSTOM_EXECUTE_TRANSFORMATIONS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSTRANSFORM_CUSTOM_MANAGE_TRANSFORMATIONS">AWSTRANSFORM_CUSTOM_MANAGE_TRANSFORMATIONS</a></code> | *No description.* |
 
 ---
 
@@ -9613,6 +9616,21 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AMAZON_BEDROCK_MANTLE_READ_ONLY` <a name="AMAZON_BEDROCK_MANTLE_READ_ONLY" id="cdk-common.AWSManagedPolicies.AMAZON_BEDROCK_MANTLE_READ_ONLY"></a>
+
+---
+
+
+##### `AWSTRANSFORM_CUSTOM_FULL_ACCESS` <a name="AWSTRANSFORM_CUSTOM_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.AWSTRANSFORM_CUSTOM_FULL_ACCESS"></a>
+
+---
+
+
+##### `AWSTRANSFORM_CUSTOM_EXECUTE_TRANSFORMATIONS` <a name="AWSTRANSFORM_CUSTOM_EXECUTE_TRANSFORMATIONS" id="cdk-common.AWSManagedPolicies.AWSTRANSFORM_CUSTOM_EXECUTE_TRANSFORMATIONS"></a>
+
+---
+
+
+##### `AWSTRANSFORM_CUSTOM_MANAGE_TRANSFORMATIONS` <a name="AWSTRANSFORM_CUSTOM_MANAGE_TRANSFORMATIONS" id="cdk-common.AWSManagedPolicies.AWSTRANSFORM_CUSTOM_MANAGE_TRANSFORMATIONS"></a>
 
 ---
 
