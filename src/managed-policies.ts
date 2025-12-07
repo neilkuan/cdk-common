@@ -1431,4 +1431,7 @@ export enum AWSManagedPolicies {
   AMAZON_BEDROCK_MANTLE_INFERENCE_ACCESS = 'AmazonBedrockMantleInferenceAccess',
   AMAZON_BEDROCK_MANTLE_FULL_ACCESS = 'AmazonBedrockMantleFullAccess',
   AMAZON_BEDROCK_MANTLE_READ_ONLY = 'AmazonBedrockMantleReadOnly',
+  AWSTRANSFORM_CUSTOM_FULL_ACCESS = 'AWSTransformCustomFullAccess',
+  AWSTRANSFORM_CUSTOM_EXECUTE_TRANSFORMATIONS = 'AWSTransformCustomExecuteTransformations',
+  AWSTRANSFORM_CUSTOM_MANAGE_TRANSFORMATIONS = 'AWSTransformCustomManageTransformations',
 };
