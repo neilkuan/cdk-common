@@ -1434,4 +1434,8 @@ export enum AWSManagedPolicies {
   AWSTRANSFORM_CUSTOM_FULL_ACCESS = 'AWSTransformCustomFullAccess',
   AWSTRANSFORM_CUSTOM_EXECUTE_TRANSFORMATIONS = 'AWSTransformCustomExecuteTransformations',
   AWSTRANSFORM_CUSTOM_MANAGE_TRANSFORMATIONS = 'AWSTransformCustomManageTransformations',
+  ACCOUNT_MANAGEMENT_FROM_VERCEL = 'AccountManagementFromVercel',
+  CONSOLE_FULL_ACCESS_FROM_VERCEL = 'ConsoleFullAccessFromVercel',
+  CONSOLE_VIEW_ONLY_ACCESS_FROM_VERCEL = 'ConsoleViewOnlyAccessFromVercel',
+  AWSACCOUNT_SETTINGS_MANAGEMENT_ROLE = 'AWSAccountSettingsManagementRole',
 };
