@@ -2462,6 +2462,10 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSTRANSFORM_CUSTOM_FULL_ACCESS">AWSTRANSFORM_CUSTOM_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSTRANSFORM_CUSTOM_EXECUTE_TRANSFORMATIONS">AWSTRANSFORM_CUSTOM_EXECUTE_TRANSFORMATIONS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSTRANSFORM_CUSTOM_MANAGE_TRANSFORMATIONS">AWSTRANSFORM_CUSTOM_MANAGE_TRANSFORMATIONS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.ACCOUNT_MANAGEMENT_FROM_VERCEL">ACCOUNT_MANAGEMENT_FROM_VERCEL</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.CONSOLE_FULL_ACCESS_FROM_VERCEL">CONSOLE_FULL_ACCESS_FROM_VERCEL</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.CONSOLE_VIEW_ONLY_ACCESS_FROM_VERCEL">CONSOLE_VIEW_ONLY_ACCESS_FROM_VERCEL</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSACCOUNT_SETTINGS_MANAGEMENT_ROLE">AWSACCOUNT_SETTINGS_MANAGEMENT_ROLE</a></code> | *No description.* |
 
 ---
 
@@ -9631,6 +9635,26 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSTRANSFORM_CUSTOM_MANAGE_TRANSFORMATIONS` <a name="AWSTRANSFORM_CUSTOM_MANAGE_TRANSFORMATIONS" id="cdk-common.AWSManagedPolicies.AWSTRANSFORM_CUSTOM_MANAGE_TRANSFORMATIONS"></a>
+
+---
+
+
+##### `ACCOUNT_MANAGEMENT_FROM_VERCEL` <a name="ACCOUNT_MANAGEMENT_FROM_VERCEL" id="cdk-common.AWSManagedPolicies.ACCOUNT_MANAGEMENT_FROM_VERCEL"></a>
+
+---
+
+
+##### `CONSOLE_FULL_ACCESS_FROM_VERCEL` <a name="CONSOLE_FULL_ACCESS_FROM_VERCEL" id="cdk-common.AWSManagedPolicies.CONSOLE_FULL_ACCESS_FROM_VERCEL"></a>
+
+---
+
+
+##### `CONSOLE_VIEW_ONLY_ACCESS_FROM_VERCEL` <a name="CONSOLE_VIEW_ONLY_ACCESS_FROM_VERCEL" id="cdk-common.AWSManagedPolicies.CONSOLE_VIEW_ONLY_ACCESS_FROM_VERCEL"></a>
+
+---
+
+
+##### `AWSACCOUNT_SETTINGS_MANAGEMENT_ROLE` <a name="AWSACCOUNT_SETTINGS_MANAGEMENT_ROLE" id="cdk-common.AWSManagedPolicies.AWSACCOUNT_SETTINGS_MANAGEMENT_ROLE"></a>
 
 ---
 
