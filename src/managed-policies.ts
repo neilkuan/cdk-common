@@ -1438,4 +1438,6 @@ export enum AWSManagedPolicies {
   CONSOLE_FULL_ACCESS_FROM_VERCEL = 'ConsoleFullAccessFromVercel',
   CONSOLE_VIEW_ONLY_ACCESS_FROM_VERCEL = 'ConsoleViewOnlyAccessFromVercel',
   AWSACCOUNT_SETTINGS_MANAGEMENT_ROLE = 'AWSAccountSettingsManagementRole',
+  AWSUSER_ATTRIBUTE_COST_ALLOCATION_POLICY = 'aws-service-role/AWSUserAttributeCostAllocationPolicy',
+  AWSCLEAN_ROOMS_SERVICE_ROLE_POLICY = 'aws-service-role/AWSCleanRoomsServiceRolePolicy',
 };
