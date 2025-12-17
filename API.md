@@ -2466,6 +2466,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.CONSOLE_FULL_ACCESS_FROM_VERCEL">CONSOLE_FULL_ACCESS_FROM_VERCEL</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.CONSOLE_VIEW_ONLY_ACCESS_FROM_VERCEL">CONSOLE_VIEW_ONLY_ACCESS_FROM_VERCEL</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSACCOUNT_SETTINGS_MANAGEMENT_ROLE">AWSACCOUNT_SETTINGS_MANAGEMENT_ROLE</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSUSER_ATTRIBUTE_COST_ALLOCATION_POLICY">AWSUSER_ATTRIBUTE_COST_ALLOCATION_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSCLEAN_ROOMS_SERVICE_ROLE_POLICY">AWSCLEAN_ROOMS_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -9655,6 +9657,16 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSACCOUNT_SETTINGS_MANAGEMENT_ROLE` <a name="AWSACCOUNT_SETTINGS_MANAGEMENT_ROLE" id="cdk-common.AWSManagedPolicies.AWSACCOUNT_SETTINGS_MANAGEMENT_ROLE"></a>
+
+---
+
+
+##### `AWSUSER_ATTRIBUTE_COST_ALLOCATION_POLICY` <a name="AWSUSER_ATTRIBUTE_COST_ALLOCATION_POLICY" id="cdk-common.AWSManagedPolicies.AWSUSER_ATTRIBUTE_COST_ALLOCATION_POLICY"></a>
+
+---
+
+
+##### `AWSCLEAN_ROOMS_SERVICE_ROLE_POLICY` <a name="AWSCLEAN_ROOMS_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSCLEAN_ROOMS_SERVICE_ROLE_POLICY"></a>
 
 ---
 
