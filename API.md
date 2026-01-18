@@ -2468,6 +2468,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSACCOUNT_SETTINGS_MANAGEMENT_ROLE">AWSACCOUNT_SETTINGS_MANAGEMENT_ROLE</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSUSER_ATTRIBUTE_COST_ALLOCATION_POLICY">AWSUSER_ATTRIBUTE_COST_ALLOCATION_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSCLEAN_ROOMS_SERVICE_ROLE_POLICY">AWSCLEAN_ROOMS_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_HYPER_POD_GATED_MODEL_ACCESS">AMAZON_SAGE_MAKER_HYPER_POD_GATED_MODEL_ACCESS</a></code> | *No description.* |
 
 ---
 
@@ -9667,6 +9668,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSCLEAN_ROOMS_SERVICE_ROLE_POLICY` <a name="AWSCLEAN_ROOMS_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSCLEAN_ROOMS_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `AMAZON_SAGE_MAKER_HYPER_POD_GATED_MODEL_ACCESS` <a name="AMAZON_SAGE_MAKER_HYPER_POD_GATED_MODEL_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_HYPER_POD_GATED_MODEL_ACCESS"></a>
 
 ---
 
