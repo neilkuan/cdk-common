@@ -1441,4 +1441,5 @@ export enum AWSManagedPolicies {
   AWSUSER_ATTRIBUTE_COST_ALLOCATION_POLICY = 'aws-service-role/AWSUserAttributeCostAllocationPolicy',
   AWSCLEAN_ROOMS_SERVICE_ROLE_POLICY = 'aws-service-role/AWSCleanRoomsServiceRolePolicy',
   AMAZON_SAGE_MAKER_HYPER_POD_GATED_MODEL_ACCESS = 'AmazonSageMakerHyperPodGatedModelAccess',
+  AMAZON_SAGE_MAKER_HYPER_POD_INFERENCE_ACCESS = 'AmazonSageMakerHyperPodInferenceAccess',
 };
