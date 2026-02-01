@@ -1442,4 +1442,5 @@ export enum AWSManagedPolicies {
   AWSCLEAN_ROOMS_SERVICE_ROLE_POLICY = 'aws-service-role/AWSCleanRoomsServiceRolePolicy',
   AMAZON_SAGE_MAKER_HYPER_POD_GATED_MODEL_ACCESS = 'AmazonSageMakerHyperPodGatedModelAccess',
   AMAZON_SAGE_MAKER_HYPER_POD_INFERENCE_ACCESS = 'AmazonSageMakerHyperPodInferenceAccess',
+  AWSHEALTH_IMAGING_SERVICE_ROLE_POLICY = 'aws-service-role/AWSHealthImagingServiceRolePolicy',
 };
