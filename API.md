@@ -2471,6 +2471,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_HYPER_POD_GATED_MODEL_ACCESS">AMAZON_SAGE_MAKER_HYPER_POD_GATED_MODEL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_HYPER_POD_INFERENCE_ACCESS">AMAZON_SAGE_MAKER_HYPER_POD_INFERENCE_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSHEALTH_IMAGING_SERVICE_ROLE_POLICY">AWSHEALTH_IMAGING_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.SECURITY_AGENT_WEB_APP_POLICY">SECURITY_AGENT_WEB_APP_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSSECURITY_AGENT_WEB_APP_POLICY">AWSSECURITY_AGENT_WEB_APP_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -9685,6 +9687,16 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSHEALTH_IMAGING_SERVICE_ROLE_POLICY` <a name="AWSHEALTH_IMAGING_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSHEALTH_IMAGING_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `SECURITY_AGENT_WEB_APP_POLICY` <a name="SECURITY_AGENT_WEB_APP_POLICY" id="cdk-common.AWSManagedPolicies.SECURITY_AGENT_WEB_APP_POLICY"></a>
+
+---
+
+
+##### `AWSSECURITY_AGENT_WEB_APP_POLICY` <a name="AWSSECURITY_AGENT_WEB_APP_POLICY" id="cdk-common.AWSManagedPolicies.AWSSECURITY_AGENT_WEB_APP_POLICY"></a>
 
 ---
 

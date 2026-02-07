@@ -1443,4 +1443,6 @@ export enum AWSManagedPolicies {
   AMAZON_SAGE_MAKER_HYPER_POD_GATED_MODEL_ACCESS = 'AmazonSageMakerHyperPodGatedModelAccess',
   AMAZON_SAGE_MAKER_HYPER_POD_INFERENCE_ACCESS = 'AmazonSageMakerHyperPodInferenceAccess',
   AWSHEALTH_IMAGING_SERVICE_ROLE_POLICY = 'aws-service-role/AWSHealthImagingServiceRolePolicy',
+  SECURITY_AGENT_WEB_APP_POLICY = 'SecurityAgentWebAppPolicy',
+  AWSSECURITY_AGENT_WEB_APP_POLICY = 'service-role/AWSSecurityAgentWebAppPolicy',
 };
