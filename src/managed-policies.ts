@@ -1445,4 +1445,5 @@ export enum AWSManagedPolicies {
   AWSHEALTH_IMAGING_SERVICE_ROLE_POLICY = 'aws-service-role/AWSHealthImagingServiceRolePolicy',
   SECURITY_AGENT_WEB_APP_POLICY = 'SecurityAgentWebAppPolicy',
   AWSSECURITY_AGENT_WEB_APP_POLICY = 'service-role/AWSSecurityAgentWebAppPolicy',
+  PARTNER_CENTRAL_INCENTIVE_BENEFIT_MANAGEMENT = 'PartnerCentralIncentiveBenefitManagement',
 };
