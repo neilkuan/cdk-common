@@ -1446,4 +1446,5 @@ export enum AWSManagedPolicies {
   SECURITY_AGENT_WEB_APP_POLICY = 'SecurityAgentWebAppPolicy',
   AWSSECURITY_AGENT_WEB_APP_POLICY = 'service-role/AWSSecurityAgentWebAppPolicy',
   PARTNER_CENTRAL_INCENTIVE_BENEFIT_MANAGEMENT = 'PartnerCentralIncentiveBenefitManagement',
+  AMAZON_INSPECTOR2_MANAGED_TELEMETRY_POLICY = 'AmazonInspector2ManagedTelemetryPolicy',
 };
