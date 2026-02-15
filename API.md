@@ -2474,6 +2474,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.SECURITY_AGENT_WEB_APP_POLICY">SECURITY_AGENT_WEB_APP_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSSECURITY_AGENT_WEB_APP_POLICY">AWSSECURITY_AGENT_WEB_APP_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.PARTNER_CENTRAL_INCENTIVE_BENEFIT_MANAGEMENT">PARTNER_CENTRAL_INCENTIVE_BENEFIT_MANAGEMENT</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_INSPECTOR2_MANAGED_TELEMETRY_POLICY">AMAZON_INSPECTOR2_MANAGED_TELEMETRY_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -9703,6 +9704,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `PARTNER_CENTRAL_INCENTIVE_BENEFIT_MANAGEMENT` <a name="PARTNER_CENTRAL_INCENTIVE_BENEFIT_MANAGEMENT" id="cdk-common.AWSManagedPolicies.PARTNER_CENTRAL_INCENTIVE_BENEFIT_MANAGEMENT"></a>
+
+---
+
+
+##### `AMAZON_INSPECTOR2_MANAGED_TELEMETRY_POLICY` <a name="AMAZON_INSPECTOR2_MANAGED_TELEMETRY_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_INSPECTOR2_MANAGED_TELEMETRY_POLICY"></a>
 
 ---
 
