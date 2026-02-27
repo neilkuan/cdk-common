@@ -1447,4 +1447,6 @@ export enum AWSManagedPolicies {
   AWSSECURITY_AGENT_WEB_APP_POLICY = 'service-role/AWSSecurityAgentWebAppPolicy',
   PARTNER_CENTRAL_INCENTIVE_BENEFIT_MANAGEMENT = 'PartnerCentralIncentiveBenefitManagement',
   AMAZON_INSPECTOR2_MANAGED_TELEMETRY_POLICY = 'AmazonInspector2ManagedTelemetryPolicy',
+  AWSSERVICE_ROLE_FOR_AI_DEV_OPS_POLICY = 'aws-service-role/AWSServiceRoleForAIDevOpsPolicy',
+  CLOUD_WATCH_LOGS_API_KEY_ACCESS = 'CloudWatchLogsAPIKeyAccess',
 };

@@ -43,6 +43,7 @@ new LambdaArmFunction(scope: Construct, id: string, props: LambdaArmFunctionProp
 | **Name** | **Description** |
 | --- | --- |
 | <code><a href="#cdk-common.LambdaArmFunction.toString">toString</a></code> | Returns a string representation of this construct. |
+| <code><a href="#cdk-common.LambdaArmFunction.with">with</a></code> | Applies one or more mixins to this construct. |
 
 ---
 
@@ -53,6 +54,27 @@ public toString(): string
 ```
 
 Returns a string representation of this construct.
+
+##### `with` <a name="with" id="cdk-common.LambdaArmFunction.with"></a>
+
+```typescript
+public with(mixins: ...IMixin[]): IConstruct
+```
+
+Applies one or more mixins to this construct.
+
+Mixins are applied in order. The list of constructs is captured at the
+start of the call, so constructs added by a mixin will not be visited.
+Use multiple `with()` calls if subsequent mixins should apply to added
+constructs.
+
+###### `mixins`<sup>Required</sup> <a name="mixins" id="cdk-common.LambdaArmFunction.with.parameter.mixins"></a>
+
+- *Type:* ...constructs.IMixin[]
+
+The mixins to apply.
+
+---
 
 #### Static Functions <a name="Static Functions" id="Static Functions"></a>
 
@@ -2475,6 +2497,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSSECURITY_AGENT_WEB_APP_POLICY">AWSSECURITY_AGENT_WEB_APP_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.PARTNER_CENTRAL_INCENTIVE_BENEFIT_MANAGEMENT">PARTNER_CENTRAL_INCENTIVE_BENEFIT_MANAGEMENT</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_INSPECTOR2_MANAGED_TELEMETRY_POLICY">AMAZON_INSPECTOR2_MANAGED_TELEMETRY_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSSERVICE_ROLE_FOR_AI_DEV_OPS_POLICY">AWSSERVICE_ROLE_FOR_AI_DEV_OPS_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.CLOUD_WATCH_LOGS_API_KEY_ACCESS">CLOUD_WATCH_LOGS_API_KEY_ACCESS</a></code> | *No description.* |
 
 ---
 
@@ -9709,6 +9733,16 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AMAZON_INSPECTOR2_MANAGED_TELEMETRY_POLICY` <a name="AMAZON_INSPECTOR2_MANAGED_TELEMETRY_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_INSPECTOR2_MANAGED_TELEMETRY_POLICY"></a>
+
+---
+
+
+##### `AWSSERVICE_ROLE_FOR_AI_DEV_OPS_POLICY` <a name="AWSSERVICE_ROLE_FOR_AI_DEV_OPS_POLICY" id="cdk-common.AWSManagedPolicies.AWSSERVICE_ROLE_FOR_AI_DEV_OPS_POLICY"></a>
+
+---
+
+
+##### `CLOUD_WATCH_LOGS_API_KEY_ACCESS` <a name="CLOUD_WATCH_LOGS_API_KEY_ACCESS" id="cdk-common.AWSManagedPolicies.CLOUD_WATCH_LOGS_API_KEY_ACCESS"></a>
 
 ---
 
