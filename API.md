@@ -2499,6 +2499,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_INSPECTOR2_MANAGED_TELEMETRY_POLICY">AMAZON_INSPECTOR2_MANAGED_TELEMETRY_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSSERVICE_ROLE_FOR_AI_DEV_OPS_POLICY">AWSSERVICE_ROLE_FOR_AI_DEV_OPS_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.CLOUD_WATCH_LOGS_API_KEY_ACCESS">CLOUD_WATCH_LOGS_API_KEY_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSTRANSFORM_SECRETS_MANAGER_CONNECTOR_POLICY">AWSTRANSFORM_SECRETS_MANAGER_CONNECTOR_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSHEALTH_OMICS_SERVICE_LINKED_ROLE_POLICY">AWSHEALTH_OMICS_SERVICE_LINKED_ROLE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -9743,6 +9745,16 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `CLOUD_WATCH_LOGS_API_KEY_ACCESS` <a name="CLOUD_WATCH_LOGS_API_KEY_ACCESS" id="cdk-common.AWSManagedPolicies.CLOUD_WATCH_LOGS_API_KEY_ACCESS"></a>
+
+---
+
+
+##### `AWSTRANSFORM_SECRETS_MANAGER_CONNECTOR_POLICY` <a name="AWSTRANSFORM_SECRETS_MANAGER_CONNECTOR_POLICY" id="cdk-common.AWSManagedPolicies.AWSTRANSFORM_SECRETS_MANAGER_CONNECTOR_POLICY"></a>
+
+---
+
+
+##### `AWSHEALTH_OMICS_SERVICE_LINKED_ROLE_POLICY` <a name="AWSHEALTH_OMICS_SERVICE_LINKED_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSHEALTH_OMICS_SERVICE_LINKED_ROLE_POLICY"></a>
 
 ---
 
