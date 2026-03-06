@@ -1449,4 +1449,6 @@ export enum AWSManagedPolicies {
   AMAZON_INSPECTOR2_MANAGED_TELEMETRY_POLICY = 'AmazonInspector2ManagedTelemetryPolicy',
   AWSSERVICE_ROLE_FOR_AI_DEV_OPS_POLICY = 'aws-service-role/AWSServiceRoleForAIDevOpsPolicy',
   CLOUD_WATCH_LOGS_API_KEY_ACCESS = 'CloudWatchLogsAPIKeyAccess',
+  AWSTRANSFORM_SECRETS_MANAGER_CONNECTOR_POLICY = 'AWSTransformSecretsManagerConnectorPolicy',
+  AWSHEALTH_OMICS_SERVICE_LINKED_ROLE_POLICY = 'aws-service-role/AWSHealthOmicsServiceLinkedRolePolicy',
 };
