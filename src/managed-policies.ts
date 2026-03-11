@@ -1451,4 +1451,6 @@ export enum AWSManagedPolicies {
   CLOUD_WATCH_LOGS_API_KEY_ACCESS = 'CloudWatchLogsAPIKeyAccess',
   AWSTRANSFORM_SECRETS_MANAGER_CONNECTOR_POLICY = 'AWSTransformSecretsManagerConnectorPolicy',
   AWSHEALTH_OMICS_SERVICE_LINKED_ROLE_POLICY = 'aws-service-role/AWSHealthOmicsServiceLinkedRolePolicy',
+  AMAZON_ROUTE53_GLOBAL_RESOLVER_FULL_ACCESS = 'AmazonRoute53GlobalResolverFullAccess',
+  AMAZON_ROUTE53_GLOBAL_RESOLVER_READ_ONLY_ACCESS = 'AmazonRoute53GlobalResolverReadOnlyAccess',
 };
