@@ -1329,7 +1329,6 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_MQ_READ_ONLY_ACCESS">AMAZON_MQ_READ_ONLY_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_GUARD_DUTY_SERVICE_ROLE_POLICY">AMAZON_GUARD_DUTY_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_GUARD_DUTY_READ_ONLY_ACCESS">AMAZON_GUARD_DUTY_READ_ONLY_ACCESS</a></code> | *No description.* |
-| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_GUARD_DUTY_FULL_ACCESS">AMAZON_GUARD_DUTY_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_READ_ONLY">AMAZON_SAGE_MAKER_READ_ONLY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_FULL_ACCESS">AMAZON_SAGE_MAKER_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_FREE_RTOS_FULL_ACCESS">AMAZON_FREE_RTOS_FULL_ACCESS</a></code> | *No description.* |
@@ -3897,11 +3896,6 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AMAZON_GUARD_DUTY_READ_ONLY_ACCESS` <a name="AMAZON_GUARD_DUTY_READ_ONLY_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_GUARD_DUTY_READ_ONLY_ACCESS"></a>
-
----
-
-
-##### `AMAZON_GUARD_DUTY_FULL_ACCESS` <a name="AMAZON_GUARD_DUTY_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_GUARD_DUTY_FULL_ACCESS"></a>
 
 ---
 
