@@ -279,7 +279,6 @@ export enum AWSManagedPolicies {
   AMAZON_MQ_READ_ONLY_ACCESS = 'AmazonMQReadOnlyAccess',
   AMAZON_GUARD_DUTY_SERVICE_ROLE_POLICY = 'aws-service-role/AmazonGuardDutyServiceRolePolicy',
   AMAZON_GUARD_DUTY_READ_ONLY_ACCESS = 'AmazonGuardDutyReadOnlyAccess',
-  AMAZON_GUARD_DUTY_FULL_ACCESS = 'AmazonGuardDutyFullAccess',
   AMAZON_SAGE_MAKER_READ_ONLY = 'AmazonSageMakerReadOnly',
   AMAZON_SAGE_MAKER_FULL_ACCESS = 'AmazonSageMakerFullAccess',
   AMAZON_FREE_RTOS_FULL_ACCESS = 'AmazonFreeRTOSFullAccess',
