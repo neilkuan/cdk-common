@@ -1452,4 +1452,8 @@ export enum AWSManagedPolicies {
   AWSHEALTH_OMICS_SERVICE_LINKED_ROLE_POLICY = 'aws-service-role/AWSHealthOmicsServiceLinkedRolePolicy',
   AMAZON_ROUTE53_GLOBAL_RESOLVER_FULL_ACCESS = 'AmazonRoute53GlobalResolverFullAccess',
   AMAZON_ROUTE53_GLOBAL_RESOLVER_READ_ONLY_ACCESS = 'AmazonRoute53GlobalResolverReadOnlyAccess',
+  AWSELEMENTAL_MEDIA_CONNECT_CREATE_FLOW = 'AWSElementalMediaConnectCreateFlow',
+  AWSELEMENTAL_MEDIA_CONNECT_CREATE_BRIDGE = 'AWSElementalMediaConnectCreateBridge',
+  AWSELEMENTAL_MEDIA_CONNECT_DELETE_FLOW = 'AWSElementalMediaConnectDeleteFlow',
+  AWSELEMENTAL_MEDIA_CONNECT_DELETE_BRIDGE = 'AWSElementalMediaConnectDeleteBridge',
 };
