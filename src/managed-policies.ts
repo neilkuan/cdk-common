@@ -1456,4 +1456,7 @@ export enum AWSManagedPolicies {
   AWSELEMENTAL_MEDIA_CONNECT_CREATE_BRIDGE = 'AWSElementalMediaConnectCreateBridge',
   AWSELEMENTAL_MEDIA_CONNECT_DELETE_FLOW = 'AWSElementalMediaConnectDeleteFlow',
   AWSELEMENTAL_MEDIA_CONNECT_DELETE_BRIDGE = 'AWSElementalMediaConnectDeleteBridge',
+  AWSPARTNER_PRO_SERVE_TOOLS_INDIVIDUAL_CONTRIBUTOR = 'AWSPartnerProServeToolsIndividualContributor',
+  AWSPARTNER_PRO_SERVE_TOOLS_FULL_ACCESS = 'AWSPartnerProServeToolsFullAccess',
+  AWSPARTNER_PRO_SERVE_TOOLS_ORGANIZATION_READER_INDIVIDUAL_CONTRIBUTOR = 'AWSPartnerProServeToolsOrganizationReaderIndividualContributor',
 };
