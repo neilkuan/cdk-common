@@ -1459,4 +1459,8 @@ export enum AWSManagedPolicies {
   AWSPARTNER_PRO_SERVE_TOOLS_INDIVIDUAL_CONTRIBUTOR = 'AWSPartnerProServeToolsIndividualContributor',
   AWSPARTNER_PRO_SERVE_TOOLS_FULL_ACCESS = 'AWSPartnerProServeToolsFullAccess',
   AWSPARTNER_PRO_SERVE_TOOLS_ORGANIZATION_READER_INDIVIDUAL_CONTRIBUTOR = 'AWSPartnerProServeToolsOrganizationReaderIndividualContributor',
+  AWSSERVICE_ROLE_FOR_AWS_TRANSFORM_CUSTOM = 'aws-service-role/AWSServiceRoleForAWSTransformCustom',
+  DBMOD_DISCOVERY_AND_ASSESSMENT = 'DBModDiscoveryAndAssessment',
+  DBMOD_PROVISIONING_AND_MIGRATION = 'DBModProvisioningAndMigration',
+  AWSEC2_VSS_RESTORE_POLICY = 'AWSEC2VssRestorePolicy',
 };
