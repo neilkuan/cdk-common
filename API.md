@@ -2509,6 +2509,10 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSPARTNER_PRO_SERVE_TOOLS_INDIVIDUAL_CONTRIBUTOR">AWSPARTNER_PRO_SERVE_TOOLS_INDIVIDUAL_CONTRIBUTOR</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSPARTNER_PRO_SERVE_TOOLS_FULL_ACCESS">AWSPARTNER_PRO_SERVE_TOOLS_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSPARTNER_PRO_SERVE_TOOLS_ORGANIZATION_READER_INDIVIDUAL_CONTRIBUTOR">AWSPARTNER_PRO_SERVE_TOOLS_ORGANIZATION_READER_INDIVIDUAL_CONTRIBUTOR</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSSERVICE_ROLE_FOR_AWS_TRANSFORM_CUSTOM">AWSSERVICE_ROLE_FOR_AWS_TRANSFORM_CUSTOM</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.DBMOD_DISCOVERY_AND_ASSESSMENT">DBMOD_DISCOVERY_AND_ASSESSMENT</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.DBMOD_PROVISIONING_AND_MIGRATION">DBMOD_PROVISIONING_AND_MIGRATION</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSEC2_VSS_RESTORE_POLICY">AWSEC2_VSS_RESTORE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -9803,6 +9807,26 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSPARTNER_PRO_SERVE_TOOLS_ORGANIZATION_READER_INDIVIDUAL_CONTRIBUTOR` <a name="AWSPARTNER_PRO_SERVE_TOOLS_ORGANIZATION_READER_INDIVIDUAL_CONTRIBUTOR" id="cdk-common.AWSManagedPolicies.AWSPARTNER_PRO_SERVE_TOOLS_ORGANIZATION_READER_INDIVIDUAL_CONTRIBUTOR"></a>
+
+---
+
+
+##### `AWSSERVICE_ROLE_FOR_AWS_TRANSFORM_CUSTOM` <a name="AWSSERVICE_ROLE_FOR_AWS_TRANSFORM_CUSTOM" id="cdk-common.AWSManagedPolicies.AWSSERVICE_ROLE_FOR_AWS_TRANSFORM_CUSTOM"></a>
+
+---
+
+
+##### `DBMOD_DISCOVERY_AND_ASSESSMENT` <a name="DBMOD_DISCOVERY_AND_ASSESSMENT" id="cdk-common.AWSManagedPolicies.DBMOD_DISCOVERY_AND_ASSESSMENT"></a>
+
+---
+
+
+##### `DBMOD_PROVISIONING_AND_MIGRATION` <a name="DBMOD_PROVISIONING_AND_MIGRATION" id="cdk-common.AWSManagedPolicies.DBMOD_PROVISIONING_AND_MIGRATION"></a>
+
+---
+
+
+##### `AWSEC2_VSS_RESTORE_POLICY` <a name="AWSEC2_VSS_RESTORE_POLICY" id="cdk-common.AWSManagedPolicies.AWSEC2_VSS_RESTORE_POLICY"></a>
 
 ---
 
