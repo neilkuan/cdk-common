@@ -1463,4 +1463,8 @@ export enum AWSManagedPolicies {
   DBMOD_DISCOVERY_AND_ASSESSMENT = 'DBModDiscoveryAndAssessment',
   DBMOD_PROVISIONING_AND_MIGRATION = 'DBModProvisioningAndMigration',
   AWSEC2_VSS_RESTORE_POLICY = 'AWSEC2VssRestorePolicy',
+  AIDEV_OPS_AGENT_READ_ONLY_ACCESS = 'AIDevOpsAgentReadOnlyAccess',
+  AIDEV_OPS_AGENT_ACCESS_POLICY = 'AIDevOpsAgentAccessPolicy',
+  AIDEV_OPS_OPERATOR_APP_ACCESS_POLICY = 'AIDevOpsOperatorAppAccessPolicy',
+  AIDEV_OPS_AGENT_FULL_ACCESS = 'AIDevOpsAgentFullAccess',
 };
