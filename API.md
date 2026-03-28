@@ -2513,6 +2513,10 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.DBMOD_DISCOVERY_AND_ASSESSMENT">DBMOD_DISCOVERY_AND_ASSESSMENT</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.DBMOD_PROVISIONING_AND_MIGRATION">DBMOD_PROVISIONING_AND_MIGRATION</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSEC2_VSS_RESTORE_POLICY">AWSEC2_VSS_RESTORE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AIDEV_OPS_AGENT_READ_ONLY_ACCESS">AIDEV_OPS_AGENT_READ_ONLY_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AIDEV_OPS_AGENT_ACCESS_POLICY">AIDEV_OPS_AGENT_ACCESS_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AIDEV_OPS_OPERATOR_APP_ACCESS_POLICY">AIDEV_OPS_OPERATOR_APP_ACCESS_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AIDEV_OPS_AGENT_FULL_ACCESS">AIDEV_OPS_AGENT_FULL_ACCESS</a></code> | *No description.* |
 
 ---
 
@@ -9827,6 +9831,26 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSEC2_VSS_RESTORE_POLICY` <a name="AWSEC2_VSS_RESTORE_POLICY" id="cdk-common.AWSManagedPolicies.AWSEC2_VSS_RESTORE_POLICY"></a>
+
+---
+
+
+##### `AIDEV_OPS_AGENT_READ_ONLY_ACCESS` <a name="AIDEV_OPS_AGENT_READ_ONLY_ACCESS" id="cdk-common.AWSManagedPolicies.AIDEV_OPS_AGENT_READ_ONLY_ACCESS"></a>
+
+---
+
+
+##### `AIDEV_OPS_AGENT_ACCESS_POLICY` <a name="AIDEV_OPS_AGENT_ACCESS_POLICY" id="cdk-common.AWSManagedPolicies.AIDEV_OPS_AGENT_ACCESS_POLICY"></a>
+
+---
+
+
+##### `AIDEV_OPS_OPERATOR_APP_ACCESS_POLICY` <a name="AIDEV_OPS_OPERATOR_APP_ACCESS_POLICY" id="cdk-common.AWSManagedPolicies.AIDEV_OPS_OPERATOR_APP_ACCESS_POLICY"></a>
+
+---
+
+
+##### `AIDEV_OPS_AGENT_FULL_ACCESS` <a name="AIDEV_OPS_AGENT_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.AIDEV_OPS_AGENT_FULL_ACCESS"></a>
 
 ---
 
