@@ -2517,6 +2517,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AIDEV_OPS_AGENT_ACCESS_POLICY">AIDEV_OPS_AGENT_ACCESS_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AIDEV_OPS_OPERATOR_APP_ACCESS_POLICY">AIDEV_OPS_OPERATOR_APP_ACCESS_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AIDEV_OPS_AGENT_FULL_ACCESS">AIDEV_OPS_AGENT_FULL_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSBEDROCK_AGENT_CORE_GATEWAY_NETWORK_SERVICE_ROLE_POLICY">AWSBEDROCK_AGENT_CORE_GATEWAY_NETWORK_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -9851,6 +9852,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AIDEV_OPS_AGENT_FULL_ACCESS` <a name="AIDEV_OPS_AGENT_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.AIDEV_OPS_AGENT_FULL_ACCESS"></a>
+
+---
+
+
+##### `AWSBEDROCK_AGENT_CORE_GATEWAY_NETWORK_SERVICE_ROLE_POLICY` <a name="AWSBEDROCK_AGENT_CORE_GATEWAY_NETWORK_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSBEDROCK_AGENT_CORE_GATEWAY_NETWORK_SERVICE_ROLE_POLICY"></a>
 
 ---
 
