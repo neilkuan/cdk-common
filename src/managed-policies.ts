@@ -1467,4 +1467,5 @@ export enum AWSManagedPolicies {
   AIDEV_OPS_AGENT_ACCESS_POLICY = 'AIDevOpsAgentAccessPolicy',
   AIDEV_OPS_OPERATOR_APP_ACCESS_POLICY = 'AIDevOpsOperatorAppAccessPolicy',
   AIDEV_OPS_AGENT_FULL_ACCESS = 'AIDevOpsAgentFullAccess',
+  AWSBEDROCK_AGENT_CORE_GATEWAY_NETWORK_SERVICE_ROLE_POLICY = 'aws-service-role/AWSBedrockAgentCoreGatewayNetworkServiceRolePolicy',
 };
