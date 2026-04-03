@@ -2518,6 +2518,10 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AIDEV_OPS_OPERATOR_APP_ACCESS_POLICY">AIDEV_OPS_OPERATOR_APP_ACCESS_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AIDEV_OPS_AGENT_FULL_ACCESS">AIDEV_OPS_AGENT_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSBEDROCK_AGENT_CORE_GATEWAY_NETWORK_SERVICE_ROLE_POLICY">AWSBEDROCK_AGENT_CORE_GATEWAY_NETWORK_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.ANTHROPIC_READ_ONLY_ACCESS">ANTHROPIC_READ_ONLY_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.ANTHROPIC_INFERENCE_ACCESS">ANTHROPIC_INFERENCE_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.ANTHROPIC_LIMITED_ACCESS">ANTHROPIC_LIMITED_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.ANTHROPIC_FULL_ACCESS">ANTHROPIC_FULL_ACCESS</a></code> | *No description.* |
 
 ---
 
@@ -9857,6 +9861,26 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSBEDROCK_AGENT_CORE_GATEWAY_NETWORK_SERVICE_ROLE_POLICY` <a name="AWSBEDROCK_AGENT_CORE_GATEWAY_NETWORK_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSBEDROCK_AGENT_CORE_GATEWAY_NETWORK_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `ANTHROPIC_READ_ONLY_ACCESS` <a name="ANTHROPIC_READ_ONLY_ACCESS" id="cdk-common.AWSManagedPolicies.ANTHROPIC_READ_ONLY_ACCESS"></a>
+
+---
+
+
+##### `ANTHROPIC_INFERENCE_ACCESS` <a name="ANTHROPIC_INFERENCE_ACCESS" id="cdk-common.AWSManagedPolicies.ANTHROPIC_INFERENCE_ACCESS"></a>
+
+---
+
+
+##### `ANTHROPIC_LIMITED_ACCESS` <a name="ANTHROPIC_LIMITED_ACCESS" id="cdk-common.AWSManagedPolicies.ANTHROPIC_LIMITED_ACCESS"></a>
+
+---
+
+
+##### `ANTHROPIC_FULL_ACCESS` <a name="ANTHROPIC_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.ANTHROPIC_FULL_ACCESS"></a>
 
 ---
 
