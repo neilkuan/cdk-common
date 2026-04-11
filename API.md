@@ -2522,6 +2522,15 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.ANTHROPIC_INFERENCE_ACCESS">ANTHROPIC_INFERENCE_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.ANTHROPIC_LIMITED_ACCESS">ANTHROPIC_LIMITED_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.ANTHROPIC_FULL_ACCESS">ANTHROPIC_FULL_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_S3_EXPRESS_READ_ONLY_ACCESS">AMAZON_S3_EXPRESS_READ_ONLY_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_S3_EXPRESS_FULL_ACCESS">AMAZON_S3_EXPRESS_FULL_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_S3_FILES_FULL_ACCESS">AMAZON_S3_FILES_FULL_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_S3_FILES_READ_ONLY_ACCESS">AMAZON_S3_FILES_READ_ONLY_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_S3_FILES_CLIENT_READ_WRITE_ACCESS">AMAZON_S3_FILES_CLIENT_READ_WRITE_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_S3_FILES_CLIENT_FULL_ACCESS">AMAZON_S3_FILES_CLIENT_FULL_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_S3_FILES_CLIENT_READ_ONLY_ACCESS">AMAZON_S3_FILES_CLIENT_READ_ONLY_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_S3_FILES_CSI_DRIVER_POLICY">AMAZON_S3_FILES_CSI_DRIVER_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_CAPACITY_RESERVATION_SERVICE_ROLE_POLICY">AMAZON_SAGE_MAKER_CAPACITY_RESERVATION_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -9881,6 +9890,51 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `ANTHROPIC_FULL_ACCESS` <a name="ANTHROPIC_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.ANTHROPIC_FULL_ACCESS"></a>
+
+---
+
+
+##### `AMAZON_S3_EXPRESS_READ_ONLY_ACCESS` <a name="AMAZON_S3_EXPRESS_READ_ONLY_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_S3_EXPRESS_READ_ONLY_ACCESS"></a>
+
+---
+
+
+##### `AMAZON_S3_EXPRESS_FULL_ACCESS` <a name="AMAZON_S3_EXPRESS_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_S3_EXPRESS_FULL_ACCESS"></a>
+
+---
+
+
+##### `AMAZON_S3_FILES_FULL_ACCESS` <a name="AMAZON_S3_FILES_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_S3_FILES_FULL_ACCESS"></a>
+
+---
+
+
+##### `AMAZON_S3_FILES_READ_ONLY_ACCESS` <a name="AMAZON_S3_FILES_READ_ONLY_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_S3_FILES_READ_ONLY_ACCESS"></a>
+
+---
+
+
+##### `AMAZON_S3_FILES_CLIENT_READ_WRITE_ACCESS` <a name="AMAZON_S3_FILES_CLIENT_READ_WRITE_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_S3_FILES_CLIENT_READ_WRITE_ACCESS"></a>
+
+---
+
+
+##### `AMAZON_S3_FILES_CLIENT_FULL_ACCESS` <a name="AMAZON_S3_FILES_CLIENT_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_S3_FILES_CLIENT_FULL_ACCESS"></a>
+
+---
+
+
+##### `AMAZON_S3_FILES_CLIENT_READ_ONLY_ACCESS` <a name="AMAZON_S3_FILES_CLIENT_READ_ONLY_ACCESS" id="cdk-common.AWSManagedPolicies.AMAZON_S3_FILES_CLIENT_READ_ONLY_ACCESS"></a>
+
+---
+
+
+##### `AMAZON_S3_FILES_CSI_DRIVER_POLICY` <a name="AMAZON_S3_FILES_CSI_DRIVER_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_S3_FILES_CSI_DRIVER_POLICY"></a>
+
+---
+
+
+##### `AMAZON_SAGE_MAKER_CAPACITY_RESERVATION_SERVICE_ROLE_POLICY` <a name="AMAZON_SAGE_MAKER_CAPACITY_RESERVATION_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_CAPACITY_RESERVATION_SERVICE_ROLE_POLICY"></a>
 
 ---
 
