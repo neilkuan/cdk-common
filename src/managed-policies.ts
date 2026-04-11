@@ -1472,4 +1472,13 @@ export enum AWSManagedPolicies {
   ANTHROPIC_INFERENCE_ACCESS = 'AnthropicInferenceAccess',
   ANTHROPIC_LIMITED_ACCESS = 'AnthropicLimitedAccess',
   ANTHROPIC_FULL_ACCESS = 'AnthropicFullAccess',
+  AMAZON_S3_EXPRESS_READ_ONLY_ACCESS = 'AmazonS3ExpressReadOnlyAccess',
+  AMAZON_S3_EXPRESS_FULL_ACCESS = 'AmazonS3ExpressFullAccess',
+  AMAZON_S3_FILES_FULL_ACCESS = 'AmazonS3FilesFullAccess',
+  AMAZON_S3_FILES_READ_ONLY_ACCESS = 'AmazonS3FilesReadOnlyAccess',
+  AMAZON_S3_FILES_CLIENT_READ_WRITE_ACCESS = 'AmazonS3FilesClientReadWriteAccess',
+  AMAZON_S3_FILES_CLIENT_FULL_ACCESS = 'AmazonS3FilesClientFullAccess',
+  AMAZON_S3_FILES_CLIENT_READ_ONLY_ACCESS = 'AmazonS3FilesClientReadOnlyAccess',
+  AMAZON_S3_FILES_CSI_DRIVER_POLICY = 'service-role/AmazonS3FilesCSIDriverPolicy',
+  AMAZON_SAGE_MAKER_CAPACITY_RESERVATION_SERVICE_ROLE_POLICY = 'aws-service-role/AmazonSageMakerCapacityReservationServiceRolePolicy',
 };
