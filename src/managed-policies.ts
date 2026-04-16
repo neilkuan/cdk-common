@@ -1481,4 +1481,5 @@ export enum AWSManagedPolicies {
   AMAZON_S3_FILES_CLIENT_READ_ONLY_ACCESS = 'AmazonS3FilesClientReadOnlyAccess',
   AMAZON_S3_FILES_CSI_DRIVER_POLICY = 'service-role/AmazonS3FilesCSIDriverPolicy',
   AMAZON_SAGE_MAKER_CAPACITY_RESERVATION_SERVICE_ROLE_POLICY = 'aws-service-role/AmazonSageMakerCapacityReservationServiceRolePolicy',
+  AWSBEDROCK_AGENT_CORE_IDENTITY_NETWORK_SERVICE_ROLE_POLICY = 'aws-service-role/AWSBedrockAgentCoreIdentityNetworkServiceRolePolicy',
 };
