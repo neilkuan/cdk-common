@@ -1482,4 +1482,6 @@ export enum AWSManagedPolicies {
   AMAZON_S3_FILES_CSI_DRIVER_POLICY = 'service-role/AmazonS3FilesCSIDriverPolicy',
   AMAZON_SAGE_MAKER_CAPACITY_RESERVATION_SERVICE_ROLE_POLICY = 'aws-service-role/AmazonSageMakerCapacityReservationServiceRolePolicy',
   AWSBEDROCK_AGENT_CORE_IDENTITY_NETWORK_SERVICE_ROLE_POLICY = 'aws-service-role/AWSBedrockAgentCoreIdentityNetworkServiceRolePolicy',
+  AMAZON_EBSCSI_DRIVER_POLICY_V2 = 'AmazonEBSCSIDriverPolicyV2',
+  AMAZON_EBSCSI_DRIVER_EKS_CLUSTER_SCOPED_POLICY = 'AmazonEBSCSIDriverEKSClusterScopedPolicy',
 };
