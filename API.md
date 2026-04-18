@@ -2532,6 +2532,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_S3_FILES_CSI_DRIVER_POLICY">AMAZON_S3_FILES_CSI_DRIVER_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_SAGE_MAKER_CAPACITY_RESERVATION_SERVICE_ROLE_POLICY">AMAZON_SAGE_MAKER_CAPACITY_RESERVATION_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSBEDROCK_AGENT_CORE_IDENTITY_NETWORK_SERVICE_ROLE_POLICY">AWSBEDROCK_AGENT_CORE_IDENTITY_NETWORK_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EBSCSI_DRIVER_POLICY_V2">AMAZON_EBSCSI_DRIVER_POLICY_V2</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EBSCSI_DRIVER_EKS_CLUSTER_SCOPED_POLICY">AMAZON_EBSCSI_DRIVER_EKS_CLUSTER_SCOPED_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -9941,6 +9943,16 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSBEDROCK_AGENT_CORE_IDENTITY_NETWORK_SERVICE_ROLE_POLICY` <a name="AWSBEDROCK_AGENT_CORE_IDENTITY_NETWORK_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSBEDROCK_AGENT_CORE_IDENTITY_NETWORK_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `AMAZON_EBSCSI_DRIVER_POLICY_V2` <a name="AMAZON_EBSCSI_DRIVER_POLICY_V2" id="cdk-common.AWSManagedPolicies.AMAZON_EBSCSI_DRIVER_POLICY_V2"></a>
+
+---
+
+
+##### `AMAZON_EBSCSI_DRIVER_EKS_CLUSTER_SCOPED_POLICY` <a name="AMAZON_EBSCSI_DRIVER_EKS_CLUSTER_SCOPED_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_EBSCSI_DRIVER_EKS_CLUSTER_SCOPED_POLICY"></a>
 
 ---
 
