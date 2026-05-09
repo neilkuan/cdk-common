@@ -1485,4 +1485,5 @@ export enum AWSManagedPolicies {
   AMAZON_EBSCSI_DRIVER_POLICY_V2 = 'AmazonEBSCSIDriverPolicyV2',
   AMAZON_EBSCSI_DRIVER_EKS_CLUSTER_SCOPED_POLICY = 'AmazonEBSCSIDriverEKSClusterScopedPolicy',
   EC2_APPLICATION_STATUS_CHECKS_SERVICE_ROLE_POLICY = 'aws-service-role/EC2ApplicationStatusChecksServiceRolePolicy',
+  AWSMARKETPLACE_DISCOVERY_FULL_ACCESS = 'AWSMarketplaceDiscoveryFullAccess',
 };
