@@ -2535,6 +2535,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EBSCSI_DRIVER_POLICY_V2">AMAZON_EBSCSI_DRIVER_POLICY_V2</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EBSCSI_DRIVER_EKS_CLUSTER_SCOPED_POLICY">AMAZON_EBSCSI_DRIVER_EKS_CLUSTER_SCOPED_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.EC2_APPLICATION_STATUS_CHECKS_SERVICE_ROLE_POLICY">EC2_APPLICATION_STATUS_CHECKS_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSMARKETPLACE_DISCOVERY_FULL_ACCESS">AWSMARKETPLACE_DISCOVERY_FULL_ACCESS</a></code> | *No description.* |
 
 ---
 
@@ -9959,6 +9960,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `EC2_APPLICATION_STATUS_CHECKS_SERVICE_ROLE_POLICY` <a name="EC2_APPLICATION_STATUS_CHECKS_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.EC2_APPLICATION_STATUS_CHECKS_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `AWSMARKETPLACE_DISCOVERY_FULL_ACCESS` <a name="AWSMARKETPLACE_DISCOVERY_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.AWSMARKETPLACE_DISCOVERY_FULL_ACCESS"></a>
 
 ---
 
