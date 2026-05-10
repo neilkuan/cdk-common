@@ -1469,7 +1469,6 @@ export enum AWSManagedPolicies {
   AIDEV_OPS_AGENT_FULL_ACCESS = 'AIDevOpsAgentFullAccess',
   AWSBEDROCK_AGENT_CORE_GATEWAY_NETWORK_SERVICE_ROLE_POLICY = 'aws-service-role/AWSBedrockAgentCoreGatewayNetworkServiceRolePolicy',
   ANTHROPIC_READ_ONLY_ACCESS = 'AnthropicReadOnlyAccess',
-  ANTHROPIC_INFERENCE_ACCESS = 'AnthropicInferenceAccess',
   ANTHROPIC_LIMITED_ACCESS = 'AnthropicLimitedAccess',
   ANTHROPIC_FULL_ACCESS = 'AnthropicFullAccess',
   AMAZON_S3_EXPRESS_READ_ONLY_ACCESS = 'AmazonS3ExpressReadOnlyAccess',
@@ -1486,4 +1485,6 @@ export enum AWSManagedPolicies {
   AMAZON_EBSCSI_DRIVER_EKS_CLUSTER_SCOPED_POLICY = 'AmazonEBSCSIDriverEKSClusterScopedPolicy',
   EC2_APPLICATION_STATUS_CHECKS_SERVICE_ROLE_POLICY = 'aws-service-role/EC2ApplicationStatusChecksServiceRolePolicy',
   AWSMARKETPLACE_DISCOVERY_FULL_ACCESS = 'AWSMarketplaceDiscoveryFullAccess',
+  CLOUD_WATCH_API_KEY_ACCESS = 'CloudWatchAPIKeyAccess',
+  AWSAPP_CONFIG_SERVICE_ROLE_POLICY = 'aws-service-role/AWSAppConfigServiceRolePolicy',
 };

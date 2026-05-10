@@ -2519,7 +2519,6 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AIDEV_OPS_AGENT_FULL_ACCESS">AIDEV_OPS_AGENT_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSBEDROCK_AGENT_CORE_GATEWAY_NETWORK_SERVICE_ROLE_POLICY">AWSBEDROCK_AGENT_CORE_GATEWAY_NETWORK_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.ANTHROPIC_READ_ONLY_ACCESS">ANTHROPIC_READ_ONLY_ACCESS</a></code> | *No description.* |
-| <code><a href="#cdk-common.AWSManagedPolicies.ANTHROPIC_INFERENCE_ACCESS">ANTHROPIC_INFERENCE_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.ANTHROPIC_LIMITED_ACCESS">ANTHROPIC_LIMITED_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.ANTHROPIC_FULL_ACCESS">ANTHROPIC_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_S3_EXPRESS_READ_ONLY_ACCESS">AMAZON_S3_EXPRESS_READ_ONLY_ACCESS</a></code> | *No description.* |
@@ -2536,6 +2535,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EBSCSI_DRIVER_EKS_CLUSTER_SCOPED_POLICY">AMAZON_EBSCSI_DRIVER_EKS_CLUSTER_SCOPED_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.EC2_APPLICATION_STATUS_CHECKS_SERVICE_ROLE_POLICY">EC2_APPLICATION_STATUS_CHECKS_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSMARKETPLACE_DISCOVERY_FULL_ACCESS">AWSMARKETPLACE_DISCOVERY_FULL_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.CLOUD_WATCH_API_KEY_ACCESS">CLOUD_WATCH_API_KEY_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSAPP_CONFIG_SERVICE_ROLE_POLICY">AWSAPP_CONFIG_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -9884,11 +9885,6 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 ---
 
 
-##### `ANTHROPIC_INFERENCE_ACCESS` <a name="ANTHROPIC_INFERENCE_ACCESS" id="cdk-common.AWSManagedPolicies.ANTHROPIC_INFERENCE_ACCESS"></a>
-
----
-
-
 ##### `ANTHROPIC_LIMITED_ACCESS` <a name="ANTHROPIC_LIMITED_ACCESS" id="cdk-common.AWSManagedPolicies.ANTHROPIC_LIMITED_ACCESS"></a>
 
 ---
@@ -9965,6 +9961,16 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSMARKETPLACE_DISCOVERY_FULL_ACCESS` <a name="AWSMARKETPLACE_DISCOVERY_FULL_ACCESS" id="cdk-common.AWSManagedPolicies.AWSMARKETPLACE_DISCOVERY_FULL_ACCESS"></a>
+
+---
+
+
+##### `CLOUD_WATCH_API_KEY_ACCESS` <a name="CLOUD_WATCH_API_KEY_ACCESS" id="cdk-common.AWSManagedPolicies.CLOUD_WATCH_API_KEY_ACCESS"></a>
+
+---
+
+
+##### `AWSAPP_CONFIG_SERVICE_ROLE_POLICY` <a name="AWSAPP_CONFIG_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSAPP_CONFIG_SERVICE_ROLE_POLICY"></a>
 
 ---
 
