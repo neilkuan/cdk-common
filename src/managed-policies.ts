@@ -1487,4 +1487,6 @@ export enum AWSManagedPolicies {
   AWSMARKETPLACE_DISCOVERY_FULL_ACCESS = 'AWSMarketplaceDiscoveryFullAccess',
   CLOUD_WATCH_API_KEY_ACCESS = 'CloudWatchAPIKeyAccess',
   AWSAPP_CONFIG_SERVICE_ROLE_POLICY = 'aws-service-role/AWSAppConfigServiceRolePolicy',
+  AWSVPCFLOW_LOGS_SERVICE_ROLE_POLICY = 'aws-service-role/AWSVPCFlowLogsServiceRolePolicy',
+  AMAZON_EKS_BLOCK_STORAGE_POLICY_V2 = 'AmazonEKSBlockStoragePolicyV2',
 };
