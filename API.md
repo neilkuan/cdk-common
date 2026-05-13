@@ -2537,6 +2537,8 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSMARKETPLACE_DISCOVERY_FULL_ACCESS">AWSMARKETPLACE_DISCOVERY_FULL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.CLOUD_WATCH_API_KEY_ACCESS">CLOUD_WATCH_API_KEY_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSAPP_CONFIG_SERVICE_ROLE_POLICY">AWSAPP_CONFIG_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSVPCFLOW_LOGS_SERVICE_ROLE_POLICY">AWSVPCFLOW_LOGS_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EKS_BLOCK_STORAGE_POLICY_V2">AMAZON_EKS_BLOCK_STORAGE_POLICY_V2</a></code> | *No description.* |
 
 ---
 
@@ -9971,6 +9973,16 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSAPP_CONFIG_SERVICE_ROLE_POLICY` <a name="AWSAPP_CONFIG_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSAPP_CONFIG_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `AWSVPCFLOW_LOGS_SERVICE_ROLE_POLICY` <a name="AWSVPCFLOW_LOGS_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSVPCFLOW_LOGS_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `AMAZON_EKS_BLOCK_STORAGE_POLICY_V2` <a name="AMAZON_EKS_BLOCK_STORAGE_POLICY_V2" id="cdk-common.AWSManagedPolicies.AMAZON_EKS_BLOCK_STORAGE_POLICY_V2"></a>
 
 ---
 
