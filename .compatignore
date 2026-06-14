@@ -1,0 +1,8 @@
+# LambdaArmFunctionProps extends aws-cdk-lib 的 lambda.FunctionProps，
+# 以下變更皆由 aws-cdk-lib 上游透過繼承反映到本套件的公開 API，非本套件主動移除：
+#  - logRemovalPolicy / durableConfig / tenancyConfig：上游已移除這些屬性
+#  - codeSigningConfig：上游型別改為 ICodeSigningConfigRef（ref 機制）
+removed:cdk-common.LambdaArmFunctionProps.logRemovalPolicy
+removed:cdk-common.LambdaArmFunctionProps.durableConfig
+removed:cdk-common.LambdaArmFunctionProps.tenancyConfig
+strengthened:cdk-common.LambdaArmFunctionProps
