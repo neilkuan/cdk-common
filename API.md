@@ -2553,6 +2553,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.RE_INVENT_TICKET_APPROVAL_ACCESS">RE_INVENT_TICKET_APPROVAL_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSSECURITY_AGENT_SERVICE_ROLE_POLICY">AWSSECURITY_AGENT_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.ANTHROPIC_SELF_HOSTED_ENVIRONMENT_ACCESS">ANTHROPIC_SELF_HOSTED_ENVIRONMENT_ACCESS</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSRESILIENCE_HUB_V2_ASSESSMENT_EXECUTION_POLICY">AWSRESILIENCE_HUB_V2_ASSESSMENT_EXECUTION_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -10067,6 +10068,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `ANTHROPIC_SELF_HOSTED_ENVIRONMENT_ACCESS` <a name="ANTHROPIC_SELF_HOSTED_ENVIRONMENT_ACCESS" id="cdk-common.AWSManagedPolicies.ANTHROPIC_SELF_HOSTED_ENVIRONMENT_ACCESS"></a>
+
+---
+
+
+##### `AWSRESILIENCE_HUB_V2_ASSESSMENT_EXECUTION_POLICY` <a name="AWSRESILIENCE_HUB_V2_ASSESSMENT_EXECUTION_POLICY" id="cdk-common.AWSManagedPolicies.AWSRESILIENCE_HUB_V2_ASSESSMENT_EXECUTION_POLICY"></a>
 
 ---
 
