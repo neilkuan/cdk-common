@@ -1503,4 +1503,5 @@ export enum AWSManagedPolicies {
   RE_INVENT_TICKET_APPROVAL_ACCESS = 'ReInventTicketApprovalAccess',
   AWSSECURITY_AGENT_SERVICE_ROLE_POLICY = 'aws-service-role/AWSSecurityAgentServiceRolePolicy',
   ANTHROPIC_SELF_HOSTED_ENVIRONMENT_ACCESS = 'AnthropicSelfHostedEnvironmentAccess',
+  AWSRESILIENCE_HUB_V2_ASSESSMENT_EXECUTION_POLICY = 'AWSResilienceHubV2AssessmentExecutionPolicy',
 };
