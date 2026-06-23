@@ -2554,6 +2554,9 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSSECURITY_AGENT_SERVICE_ROLE_POLICY">AWSSECURITY_AGENT_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.ANTHROPIC_SELF_HOSTED_ENVIRONMENT_ACCESS">ANTHROPIC_SELF_HOSTED_ENVIRONMENT_ACCESS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSRESILIENCE_HUB_V2_ASSESSMENT_EXECUTION_POLICY">AWSRESILIENCE_HUB_V2_ASSESSMENT_EXECUTION_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSLAMBDA_NETWORK_CONNECTOR_OPERATOR_POLICY">AWSLAMBDA_NETWORK_CONNECTOR_OPERATOR_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AWSCONFIG_THIRD_PARTY_SERVICE_ROLE_POLICY">AWSCONFIG_THIRD_PARTY_SERVICE_ROLE_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EMR_SERVICE_POLICY_FOR_SESSIONS">AMAZON_EMR_SERVICE_POLICY_FOR_SESSIONS</a></code> | *No description.* |
 
 ---
 
@@ -10073,6 +10076,21 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AWSRESILIENCE_HUB_V2_ASSESSMENT_EXECUTION_POLICY` <a name="AWSRESILIENCE_HUB_V2_ASSESSMENT_EXECUTION_POLICY" id="cdk-common.AWSManagedPolicies.AWSRESILIENCE_HUB_V2_ASSESSMENT_EXECUTION_POLICY"></a>
+
+---
+
+
+##### `AWSLAMBDA_NETWORK_CONNECTOR_OPERATOR_POLICY` <a name="AWSLAMBDA_NETWORK_CONNECTOR_OPERATOR_POLICY" id="cdk-common.AWSManagedPolicies.AWSLAMBDA_NETWORK_CONNECTOR_OPERATOR_POLICY"></a>
+
+---
+
+
+##### `AWSCONFIG_THIRD_PARTY_SERVICE_ROLE_POLICY` <a name="AWSCONFIG_THIRD_PARTY_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AWSCONFIG_THIRD_PARTY_SERVICE_ROLE_POLICY"></a>
+
+---
+
+
+##### `AMAZON_EMR_SERVICE_POLICY_FOR_SESSIONS` <a name="AMAZON_EMR_SERVICE_POLICY_FOR_SESSIONS" id="cdk-common.AWSManagedPolicies.AMAZON_EMR_SERVICE_POLICY_FOR_SESSIONS"></a>
 
 ---
 
