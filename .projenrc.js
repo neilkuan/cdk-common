@@ -60,6 +60,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   jsiiVersion: '5.9.x',
 });
 
+project.eslint.allowDefaultProjectFiles('.projenrc.js');
 
 // Add registry-url to setup-node in release_npm job for OIDC Trusted Publishing
 const releaseWorkflow = project.release.publisher.project.tryFindObjectFile('.github/workflows/release.yml');
