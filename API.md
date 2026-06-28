@@ -2558,6 +2558,7 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 | <code><a href="#cdk-common.AWSManagedPolicies.AWSCONFIG_THIRD_PARTY_SERVICE_ROLE_POLICY">AWSCONFIG_THIRD_PARTY_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_EMR_SERVICE_POLICY_FOR_SESSIONS">AMAZON_EMR_SERVICE_POLICY_FOR_SESSIONS</a></code> | *No description.* |
 | <code><a href="#cdk-common.AWSManagedPolicies.AIDEV_OPS_AGENT_ACTIONS_POLICY">AIDEV_OPS_AGENT_ACTIONS_POLICY</a></code> | *No description.* |
+| <code><a href="#cdk-common.AWSManagedPolicies.AMAZON_INSPECTOR2_THIRD_PARTY_SERVICE_ROLE_POLICY">AMAZON_INSPECTOR2_THIRD_PARTY_SERVICE_ROLE_POLICY</a></code> | *No description.* |
 
 ---
 
@@ -10097,6 +10098,11 @@ Use `Runtime.FROM_IMAGE` when defining a function from a Docker image.
 
 
 ##### `AIDEV_OPS_AGENT_ACTIONS_POLICY` <a name="AIDEV_OPS_AGENT_ACTIONS_POLICY" id="cdk-common.AWSManagedPolicies.AIDEV_OPS_AGENT_ACTIONS_POLICY"></a>
+
+---
+
+
+##### `AMAZON_INSPECTOR2_THIRD_PARTY_SERVICE_ROLE_POLICY` <a name="AMAZON_INSPECTOR2_THIRD_PARTY_SERVICE_ROLE_POLICY" id="cdk-common.AWSManagedPolicies.AMAZON_INSPECTOR2_THIRD_PARTY_SERVICE_ROLE_POLICY"></a>
 
 ---
 
