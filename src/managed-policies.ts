@@ -1508,4 +1508,5 @@ export enum AWSManagedPolicies {
   AWSCONFIG_THIRD_PARTY_SERVICE_ROLE_POLICY = 'aws-service-role/AWSConfigThirdPartyServiceRolePolicy',
   AMAZON_EMR_SERVICE_POLICY_FOR_SESSIONS = 'service-role/AmazonEMRServicePolicyForSessions',
   AIDEV_OPS_AGENT_ACTIONS_POLICY = 'AIDevOpsAgentActionsPolicy',
+  AMAZON_INSPECTOR2_THIRD_PARTY_SERVICE_ROLE_POLICY = 'aws-service-role/AmazonInspector2ThirdPartyServiceRolePolicy',
 };
