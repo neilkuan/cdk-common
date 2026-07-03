@@ -1509,4 +1509,10 @@ export enum AWSManagedPolicies {
   AMAZON_EMR_SERVICE_POLICY_FOR_SESSIONS = 'service-role/AmazonEMRServicePolicyForSessions',
   AIDEV_OPS_AGENT_ACTIONS_POLICY = 'AIDevOpsAgentActionsPolicy',
   AMAZON_INSPECTOR2_THIRD_PARTY_SERVICE_ROLE_POLICY = 'aws-service-role/AmazonInspector2ThirdPartyServiceRolePolicy',
+  ACCOUNT_ACCESS_MANAGER_SERVICE_ROLE_POLICY = 'aws-service-role/AccountAccessManagerServiceRolePolicy',
+  AWSREVENUE_ATTRIBUTION_MANAGEMENT = 'AWSRevenueAttributionManagement',
+  AWSPARTNER_CENTRAL_REVENUE_ATTRIBUTION_MANAGEMENT = 'AWSPartnerCentralRevenueAttributionManagement',
+  AWSARTIFACT_COMPLIANCE_INQUIRIES_FULL_ACCESS = 'AWSArtifactComplianceInquiriesFullAccess',
+  AWSARTIFACT_COMPLIANCE_INQUIRIES_READ_ONLY_ACCESS = 'AWSArtifactComplianceInquiriesReadOnlyAccess',
+  AWSTRANSFORM_SECURITY_AGENT_EXECUTOR_ACCESS = 'AWSTransformSecurityAgentExecutorAccess',
 };
